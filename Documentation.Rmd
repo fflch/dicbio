@@ -1,0 +1,48 @@
+---
+title: "ProjectIntro"
+output: html_document
+---
+
+
+# Prefácio
+
+O **Dicionário Histórico de Termos da Biologia** é um dicionário eletrônico que visa reunir informações histórico-etimológicas sobre os termos da Biologia em língua portuguesa.
+
+Falar do córpus: decisão de pegar o século XVIII e posterior ampliação para outros períodos
+
+Falar da programação: linguagem R e bases de dados
+
+Seleção das entradas
+
+Política de disponibilização de dados ainda que incompletos
+
+Campos presentes nos verbetes - de onde são tiradas as informações
+
+Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
+
+### Textos que compõem o córpus:
+
+- [SANTUCCI, Bernardo. **Anatomia do corpo humano**. Lisboa: na Officina de Antonio Pedrozo Galram, 1739.](https://books.google.com.br/books/about/Anatomia_do_corpo_humano.html?id=D83JL7ybBeUC&redir_esc=y)
+- [VANDELLI, Domingos. **Diccionario dos termos technicos de Historia Natural**. Coimbra: na Real Officina da Universidade, 1788.](https://purl.pt/13958)
+
+### Equipe:
+- **Bruno Oliveira Maroneze** (Professor Associado, Universidade Federal da Grande Dourados) - coordenação do projeto - desde 2017
+- **Kamila da Silva Barbosa** (estudante de pós-graduação, Universidade Federal de Mato Grosso do Sul) - preparação do córpus, compilação dos verbetes - desde 2021
+- **Raíssa Silveira Buss** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2022
+- **Rafaela Lima Domingos** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2021
+- **Letícia Tranquile da Silva** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, compilação dos verbetes - desde 2020
+- **Fabiana Ferreira de Melo da Silva Sales** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020-2021
+- **Bruno Leonardo Campanholi Gilbert** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020
+- **Daniela Martim do Nascimento** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020
+- **Cinddy Daniela Lima Tragueta** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020
+- **Amarildo Braga de Oliveira** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2017-2018
+- **Florival Dourado dos Reis Neto** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2017
+
+### Agradecimentos:
+A compilação do córpus foi (e ainda é) possível graças à colaboração de estudantes de graduação da Universidade Federal da Grande Dourados, alguns dos quais receberam bolsas de Iniciação Científica da PROPP-UFGD.
+
+A redação dos primeiros verbetes e a criação da parte computacional do dicionário foram possíveis graças ao estágio de pós-doutoramento desenvolvido pelo coordenador do projeto junto à Universidade de Coimbra (Portugal), sob a supervisão da Profa. Dra. **Graça Rio-Torto**.
+
+Agradecemos a **Ligeia Lugli** (University of London) pelas valiosas orientações a respeito de como implementar um dicionário eletrônico online.
+
+Agradecemos a **Gisele Cristina da Conceição** (Universidade do Porto) pelas valiosas sugestões e opiniões.

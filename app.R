@@ -8,7 +8,7 @@ library(markdown)
 
 # Lê a base de dados do dicionário e corrige o erro da codificação UTF-8
 data <- read.csv2("./data/DadosDoDicionario.csv", encoding = "UTF-8")
-colnames(data) <- c("ID","Headword", "FirstAttestationDate", "FirstAttestationExampleMD", "VariantSpellings", "Etymology", "WClass")
+colnames(data) <- c("ID","Headword", "FirstAttestationDate", "FirstAttestationExampleMD", "VariantSpellings", "Etymology", "WClass", "Credits")
 
 # Lê o arquivo com as definições
 definitions <- read.csv2("./data/definitions.csv", encoding = "UTF-8")
@@ -59,11 +59,11 @@ ui <- fluidPage(
                                ,tags$hr(),
                                HTML("<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\"><img src=\"creativecommons.png\" height=\"31px\"></a>")
                                ,
-                               HTML("<p style=\"font-size:10px\">O <b>Dicionário Histórico de Termos da Biologia</b>
+                               HTML("<p style='font-size:10px'>O <b>Dicionário Histórico de Termos da Biologia</b>
                                está licenciado sob a <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Licença Creative Commons Attribution-NonCommercial-ShareAlike 4.0
                                International</a></p>"),
                                tags$br(),
-                               HTML("<p style=\"font-size:10px\">The <b>Historical Dictionary of Biology Terms</b>
+                               HTML("<p style='font-size:10px'>The <b>Historical Dictionary of Biology Terms</b>
                                is licenced under a <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0
                                International Licence</a></p>")
                                )  
@@ -134,8 +134,8 @@ server <- function(input, output, session) {
     for(c in 1:sum(definitions$Headword == input$headword)){
       
       Definicao <- definitions$Definition[definitions$Headword == input$headword][c]
-      Definition[c] <- paste0(c, ". ", Definicao, "<br><details><summary>Exemplos (<u>clique para expandir</u>)</summary><font size= '-1'>",
-             paste(ConsultaAosContextos(input$headword, c), collapse = ""), "</font></details><br>")
+      Definition[c] <- paste0(c, ". ", Definicao, "<br><details><summary>Exemplos (<u>clique para expandir</u>)</summary><span style='font-size:.8em;'>",
+             paste(ConsultaAosContextos(input$headword, c), collapse = ""), "</span></details><br>")
     }
     
     Definition
@@ -145,9 +145,9 @@ server <- function(input, output, session) {
   
   output$Etymo <- renderText({
     
-    Etymology <- EntryData()$Etymology
-    paste("<b>Discussão histórico-etimológica</b><br>",
-          Etymology)
+    paste("<b>Discussão histórico-etimológica</b>",
+          EntryData()$Etymology, "<p style='font-size: .7em;'><br>Autores(as) do verbete: ",
+          EntryData()$Credits, "</p>")
   }) 
   
   
