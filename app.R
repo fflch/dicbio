@@ -6,7 +6,7 @@ library(DT)
 #library(collapsibleTree)
 library(markdown)
 
-# Lê a base de dados do dicionário e corrige o erro da codificação UTF-8
+# Lê a base de dados do dicionário e corrige o erro da codificação UTF-8 
 data <- read.csv2("./data/DadosDoDicionario.csv", encoding = "UTF-8")
 colnames(data) <- c("ID","Headword", "FirstAttestationDate", "FirstAttestationExampleMD", "VariantSpellings", "Etymology", "WClass", "Credits")
 
@@ -42,6 +42,7 @@ ConsultaAosContextos <- function(InputConsulta, SenseNumber){
   return(ContextosTextoNegritados)
 }
 
+# Criar uma função que retorna as formas variantes da entrada
 
 ui <- fluidPage(
   navbarPage(id="Dict", title=HTML("Dicionário Histórico de Termos da Biologia"), # Dá para fazer
