@@ -1,52 +1,53 @@
-"";"Headword";"SenseNumber";"Definition"
-"1";"antera";"1";"Parte da flor que contém o pólen."
-"2";"bífido";"1";"Dividido em duas partes, em geral na parte superior (diz-se de folhas, cirros e outras estruturas vegetais)."
-"3";"bráctea";"1";"Folha anexa à flor da florada seguinte, que se diferencia, em certos aspectos, das demais folhas."
-"4";"bulbo";"1";"Órgão vegetal presente em certas plantas, que armazena nutrientes para a planta utilizar em época desfavorável."
-"5";"bulboso";"1";"Que tem forma de bulbo."
-"6";"cálice";"1";"Parte da flor que cerca a corola, o estame e o pistilo, formado pelas sépalas, e em geral de cor verde."
-"7";"capréolo";"1";"O mesmo que cirro."
-"8";"cartilagíneo";"1";"Semelhante a uma cartilagem (diz-se de estrutura vegetal)."
-"9";"coarctado";"1";"Apertado, restringido; cujas estruturas são muito próximas entre si."
-"10";"conivente";"1";"Cujas extremidades se aproximam ou se tocam (diz-se de folhas ou outras estruturas vegetais)."
-"11";"cotilédone";"1";"Folha que se forma no embrião de certas plantas e que serve para nutrir o desenvolvimento da planta."
-"12";"crena";"1";"Incisura perpendicular obtusa na margem de certas folhas."
-"13";"cutícula";"1";"Membrana que reveste a raiz das plantas, por cima da casca."
-"14";"deflexo";"1";"Encurvado para a parte inferior (diz-se de ramo)."
-"15";"disco";"1";"1. Estrutura em forma de disco localizada no centro do receptáculo. 2. Parte central de certas folhas."
-"16";"epiderme";"1";"Camada de revestimento da raiz ou do caule de uma planta; cutícula."
-"17";"escamoso";"1";"Coberto de escamas (diz-se de raiz)."
-"18";"estame";"1";"Estrutura correspondente ao órgão masculino das flores, formado por um filamento que sustenta a antera, onde se localiza o pólen."
-"19";"estigma";"1";"Parte superior do pistilo, rica em uma substância líquida e pegajosa que capta os grãos de pólen para a fecundação."
-"20";"estípula";"1";"Escama que nasce na base do pecíolo ou do pedúnculo."
-"21";"fibroso";"1";"Provido de fibras."
-"22";"filamento";"1";"Estrutura que sustenta a antera e a une à planta."
-"23";"flósculo";"1";"Pequena flor."
-"24";"foliáceo";"1";"Semelhante a lâmina ou folha."
-"25";"frutificação";"1";"Estrutura responsável pela reprodução vegetal, formada pelas flores e, posteriormente, pelos frutos."
-"26";"gema";"1";"Protuberância no caule ou ramos de uma planta, de onde se originam ramos, folhas ou outras estruturas; gomo."
-"27";"gomo";"1";"O mesmo que gema."
-"28";"hermafrodita";"1";"Que apresenta os órgãos reprodutores de ambos os sexos no mesmo indivíduo (diz-se de flor)."
-"29";"jardim botânico";"1";"Jardim onde se cultivam plantas para fins de estudo, em geral aberto à visitação pública."
-"30";"lacínia";"1";"Divisão semelhante a abas em uma folha, estigma ou corola."
-"31";"longitudinal";"1";"No sentido do comprimento."
-"32";"medular";"1";"Relativo à substância interna presente nos vegetais."
-"33";"membranáceo";"1";"Delgado, comprido, em formato de lâmina ou membrana."
-"34";"oblongo";"1";"Cujo diâmetro longitudinal excede o transversal (diz-se de folha ou de outras estruturas vegetais)."
-"35";"papilionáceo";"1";"Em forma de borboleta (diz-se de flor ou corola)."
-"36";"parasítico";"1";"Que está preso a outra planta, e não diretamente à terra (diz-se de planta)."
-"37";"pecíolo";"1";"Pequeno ramo que prende a folha ao ramo ou ao tronco."
-"38";"pedúnculo";"1";"Estrutura semelhante a um ramo, que sustenta a inflorescência e a frutificação."
-"39";"perene";"1";"Que produz novas gemas e nova folhagem a cada ano (diz-se de planta)."
-"40";"piloso";"1";"Coberto de estruturas semelhantes a pelos (diz-se de folha)."
-"41";"pimpolho";"1";"Broto que nasce do caule ou da raiz de uma planta."
-"42";"pistilo";"1";"Parte da flor, em geral entre as anteras, pela qual entra o pólen para a fecundação."
-"43";"receptáculo";"1";"Base da flor em que se prendem as partes da frutificação."
-"44";"repente";"1";"Que lança raízes que se estendem horizontalmente sobre a terra (diz-se de caule)."
-"45";"romboidal";"1";"Em forma de romboide, ou paralelogramo."
-"46";"sexual";"1";"Relativo à reprodução sexuada."
-"47";"síliqua";"1";"Pericarpo de duas valvas, côncavo, cujo comprimento excede a largura, com sementes presas ao longo das suturas."
-"48";"sucoso";"1";"Cheio de suco."
-"49";"túnica";"1";"Membrana que reveste certas estruturas vegetais, como raízes ou sementes."
-"50";"vilo";"1";"Excrescência do caule ou da folha semelhante a um pelo, formando uma espécie de buço."
-"51";"gema";"2";"Porção interna do ovo das aves."
+,Headword,SenseNumber,Definition
+1,antera,1,Parte da flor que contém o pólen.
+2,bífido,1,"Dividido em duas partes, em geral na parte superior (diz-se de folhas, cirros e outras estruturas vegetais)."
+3,bráctea,1,"Folha anexa à flor da florada seguinte, que se diferencia, em certos aspectos, das demais folhas."
+4,bulbo,1,"Órgão vegetal presente em certas plantas, que armazena nutrientes para a planta utilizar em época desfavorável."
+5,bulboso,1,Que tem forma de bulbo.
+6,cálice,1,"Parte da flor que cerca a corola, o estame e o pistilo, formado pelas sépalas, e em geral de cor verde."
+7,capréolo,1,O mesmo que cirro.
+8,cartilagíneo,1,Semelhante a uma cartilagem (diz-se de estrutura vegetal).
+9,coarctado,1,"Apertado, restringido; cujas estruturas são muito próximas entre si."
+10,conivente,1,Cujas extremidades se aproximam ou se tocam (diz-se de folhas ou outras estruturas vegetais).
+11,cotilédone,1,Folha que se forma no embrião de certas plantas e que serve para nutrir o desenvolvimento da planta.
+12,crena,1,Incisura perpendicular obtusa na margem de certas folhas.
+13,cutícula,1,"Membrana que reveste a raiz das plantas, por cima da casca."
+14,deflexo,1,Encurvado para a parte inferior (diz-se de ramo).
+15,disco,1,1. Estrutura em forma de disco localizada no centro do receptáculo. 2. Parte central de certas folhas.
+16,epiderme,1,Camada de revestimento da raiz ou do caule de uma planta; cutícula.
+17,escamoso,1,Coberto de escamas (diz-se de raiz).
+18,estame,1,"Estrutura correspondente ao órgão masculino das flores, formado por um filamento que sustenta a antera, onde se localiza o pólen."
+19,estigma,1,"Parte superior do pistilo, rica em uma substância líquida e pegajosa que capta os grãos de pólen para a fecundação."
+20,estípula,1,Escama que nasce na base do pecíolo ou do pedúnculo.
+21,fibroso,1,Provido de fibras.
+22,filamento,1,Estrutura que sustenta a antera e a une à planta.
+23,flósculo,1,Pequena flor.
+24,foliáceo,1,Semelhante a lâmina ou folha.
+25,frutificação,1,"Estrutura responsável pela reprodução vegetal, formada pelas flores e, posteriormente, pelos frutos."
+26,gema,1,"Protuberância no caule ou ramos de uma planta, de onde se originam ramos, folhas ou outras estruturas; gomo."
+27,gomo,1,O mesmo que gema.
+28,hermafrodita,1,Que apresenta os órgãos reprodutores de ambos os sexos no mesmo indivíduo (diz-se de flor).
+29,jardim botânico,1,"Jardim onde se cultivam plantas para fins de estudo, em geral aberto à visitação pública."
+30,lacínia,1,"Divisão semelhante a abas em uma folha, estigma ou corola."
+31,longitudinal,1,No sentido do comprimento.
+32,medular,1,Relativo à substância interna presente nos vegetais.
+33,membranáceo,1,"Delgado, comprido, em formato de lâmina ou membrana."
+34,oblongo,1,Cujo diâmetro longitudinal excede o transversal (diz-se de folha ou de outras estruturas vegetais).
+35,papilionáceo,1,Em forma de borboleta (diz-se de flor ou corola).
+36,parasítico,1,"Que está preso a outra planta, e não diretamente à terra (diz-se de planta)."
+37,pecíolo,1,Pequeno ramo que prende a folha ao ramo ou ao tronco.
+38,pedúnculo,1,"Estrutura semelhante a um ramo, que sustenta a inflorescência e a frutificação."
+39,perene,1,Que produz novas gemas e nova folhagem a cada ano (diz-se de planta).
+40,piloso,1,Coberto de estruturas semelhantes a pelos (diz-se de folha).
+41,pimpolho,1,Broto que nasce do caule ou da raiz de uma planta.
+42,pistilo,1,"Parte da flor, em geral entre as anteras, pela qual entra o pólen para a fecundação."
+43,receptáculo,1,Base da flor em que se prendem as partes da frutificação.
+44,repente,1,Que lança raízes que se estendem horizontalmente sobre a terra (diz-se de caule).
+45,romboidal,1,"Em forma de romboide, ou paralelogramo."
+46,sexual,1,Relativo à reprodução sexuada.
+47,síliqua,1,"Pericarpo de duas valvas, côncavo, cujo comprimento excede a largura, com sementes presas ao longo das suturas."
+48,sucoso,1,Cheio de suco.
+49,túnica,1,"Membrana que reveste certas estruturas vegetais, como raízes ou sementes."
+50,vilo,1,"Excrescência do caule ou da folha semelhante a um pelo, formando uma espécie de buço."
+51,gema,2,Porção interna do ovo das aves.
+52,verrucoso,1,Semelhante a uma verruga.

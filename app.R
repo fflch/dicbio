@@ -7,11 +7,11 @@ library(DT)
 library(markdown)
 
 # Lê a base de dados do dicionário e corrige o erro da codificação UTF-8 
-data <- read.csv2("./data/DadosDoDicionario.csv", encoding = "UTF-8")
-colnames(data) <- c("ID","Headword", "FirstAttestationDate", "FirstAttestationExampleMD", "VariantSpellings", "Etymology", "WClass", "Credits")
+data <- read.csv("./data/DadosDoDicionario.csv", encoding = "UTF-8")
+#colnames(data) <- c("ID","Headword", "FirstAttestationDate", "FirstAttestationExampleMD", "VariantSpellings", "Etymology", "WClass", "Credits")
 
 # Lê o arquivo com as definições
-definitions <- read.csv2("./data/definitions.csv", encoding = "UTF-8")
+definitions <- read.csv("./data/definitions.csv", encoding = "UTF-8")
 
 # Lê o córpus etiquetado
 TokTextDF <- read.csv2("./data/DataframePrincipal.csv", encoding = "UTF-8")

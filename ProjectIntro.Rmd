@@ -13,6 +13,10 @@ O córpus anotado será disponibilizado em breve.
 
 Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
 
+### Atualizações
+
+- 13 maio 2022 - Inclusão do verbete "verrucoso"
+
 ### Textos que compõem o córpus:
 
 - [SANTUCCI, Bernardo. **Anatomia do corpo humano**. Lisboa: na Officina de Antonio Pedrozo Galram, 1739.](https://books.google.com.br/books/about/Anatomia_do_corpo_humano.html?id=D83JL7ybBeUC&redir_esc=y)
@@ -54,6 +58,9 @@ The annotated corpus will soon be available for download.
 
 For comments, feedback and questions, contact [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
 
+### Updates
+
+- 13 may 2022 - Inclusion of entry "verrucoso"
 
 ### List of texts in the corpus:
 

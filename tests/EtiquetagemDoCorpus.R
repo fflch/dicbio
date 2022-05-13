@@ -290,18 +290,11 @@ for(n in 1:length(DataframeTotal$orth)){
     
   if(str_detect(lema, "r\\b")
      & tolower(DataframeTotal$orth[n]) == str_c(lema, "es")) # Este lematiza subst e adj em -r 
-      
   {
-      
     DataframeTotal$lemma[n] <- tolower(lema)
-      
   }
-    
-  
 }
-  
   return(DataframeTotal)
-  
 }
 # Lematiza a partir da ortografia
 
@@ -355,7 +348,7 @@ DataframeTotal <- lematizar("síliqua", "subst")
 DataframeTotal <- lematizar("sucoso", "adj")
 DataframeTotal <- lematizar("túnica", "subst")
 DataframeTotal <- lematizar("vilo", "subst")
-
+DataframeTotal <- lematizar("verrucoso", "adj")
 
 # A lematização de "hermafrodita" exige um cuidado diferente
 
@@ -382,10 +375,13 @@ for(n in 1:length(DataframeTotal$doc_id)){
 }
 
 # Elimina tudo o que não for relevante para o dicionário
-DadosdoDicionario <- read.csv2("../data/DadosDoDicionario.csv", encoding = "UTF-8") 
-colnames(DadosdoDicionario) <- c("ID", "Headword", "FirstAttestationDate",
-                                 "FirstAttestationExampleMD", "VariantSpellings", "Etymology",
-                                 "WClass", "Credits")
+
+#DadosdoDicionario <- read.csv2("../data/DadosDoDicionario.csv", encoding = "UTF-8")
+#colnames(DadosdoDicionario) <- c("ID", "Headword", "FirstAttestationDate",
+#                                 "FirstAttestationExampleMD", "VariantSpellings", "Etymology",
+#                                 "WClass", "Credits")
+
+DadosdoDicionario <- read.csv("../data/DadosDoDicionario.csv", encoding = "UTF-8")
 
 DataframeTotal <- subset(DataframeTotal, lemma %in% DadosdoDicionario$Headword)
 
