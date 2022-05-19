@@ -28,12 +28,18 @@ ConsultaAosContextos <- function(InputConsulta, SenseNumber){
 
   ContextosTextoNegritados <- NULL
   for(a in 1:length(ContextosTexto)){ # inclui negrito nas palavras buscadas
-    ContextosTextoNegritados[a] <- sub(TokTextDF$token[TokTextDF$lemma == InputConsulta & TokTextDF$sensenumber==SenseNumber][a],
+    ContextosTextoNegritados[a] <- sub(TokTextDF$token[TokTextDF$lemma == InputConsulta
+                                                       & TokTextDF$sensenumber==SenseNumber][a],
                                        paste0("<b>",
-                                       TokTextDF$token[TokTextDF$lemma == InputConsulta & TokTextDF$sensenumber==SenseNumber][a], 
+                                       TokTextDF$token[TokTextDF$lemma == InputConsulta
+                                                       & TokTextDF$sensenumber==SenseNumber][a], 
                                        "</b>"), ContextosTexto[a])
-    Autor <- CorpusMetadata$Author[CorpusMetadata$Filename == TokTextDF$doc_id[TokTextDF$lemma == InputConsulta][a]]
-    Ano <- CorpusMetadata$DateOfPublication[CorpusMetadata$Filename == TokTextDF$doc_id[TokTextDF$lemma == InputConsulta][a]]
+    Autor <- CorpusMetadata$Author[CorpusMetadata$Filename == 
+                                     TokTextDF$doc_id[TokTextDF$lemma == InputConsulta
+                                                      & TokTextDF$sensenumber == SenseNumber][a]]
+    Ano <- CorpusMetadata$DateOfPublication[CorpusMetadata$Filename == 
+                                              TokTextDF$doc_id[TokTextDF$lemma == InputConsulta
+                                                      &TokTextDF$sensenumber == SenseNumber][a]]
     ContextosTextoNegritados[a] <- paste0(a, " - ", ContextosTextoNegritados[a],
                                           " (", Autor, ", ", Ano,")<br>")
     

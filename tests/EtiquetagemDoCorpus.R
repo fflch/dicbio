@@ -390,5 +390,8 @@ DataframeTotal$sensenumber <- "1"
 DataframeTotal$sensenumber[DataframeTotal$sentence_id=="851"] <- "2"
 # Se mudar o número de sentenças, o número desta também mudará...
 
+#Desambiguação de "bulbo"
+DataframeTotal$sensenumber[DataframeTotal$token=="bulbo"
+                           & DataframeTotal$doc_id=="AnatomiadeSantucci.txt"] <- "2"
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")
