@@ -394,4 +394,27 @@ DataframeTotal$sensenumber[DataframeTotal$sentence_id=="851"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$token=="bulbo"
                            & DataframeTotal$doc_id=="AnatomiadeSantucci.txt"] <- "2"
 
+#Desambiguação de "disco"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="3553"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="3606"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="3879"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="3947"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4071"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4076"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4079"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4121"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4125"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4128"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4158"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4161"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4168"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4171"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4174"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4177"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4208"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4215"] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4241"] <- "2"
+# Se mudar o número de sentenças, o número desta também mudará...
+
+
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")
