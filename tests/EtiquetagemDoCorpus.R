@@ -222,7 +222,18 @@ DataframeTotal$orth[DataframeTotal$token == "tunica"] <- "túnica"
 DataframeTotal$orth[DataframeTotal$token == "Tunica"] <- "Túnica"
 DataframeTotal$orth[DataframeTotal$token == "tunicas"] <- "túnicas"
 DataframeTotal$orth[DataframeTotal$token == "Tunicas"] <- "Túnicas"
-
+DataframeTotal$orth[DataframeTotal$token == "rezina"] <- "resina"
+DataframeTotal$orth[DataframeTotal$token == "Rezina"] <- "Resina"
+DataframeTotal$orth[DataframeTotal$token == "rezinas"] <- "resinas"
+DataframeTotal$orth[DataframeTotal$token == "Rezinas"] <- "Resinas"
+DataframeTotal$orth[DataframeTotal$token == "rezinoso"] <- "resinoso"
+DataframeTotal$orth[DataframeTotal$token == "Rezinoso"] <- "Resinoso"
+DataframeTotal$orth[DataframeTotal$token == "rezinosos"] <- "resinosos"
+DataframeTotal$orth[DataframeTotal$token == "Rezinosos"] <- "Resinosos"
+DataframeTotal$orth[DataframeTotal$token == "rezinosa"] <- "resinosa"
+DataframeTotal$orth[DataframeTotal$token == "Rezinosa"] <- "Resinosa"
+DataframeTotal$orth[DataframeTotal$token == "rezinosas"] <- "resinosas"
+DataframeTotal$orth[DataframeTotal$token == "Rezinosas"] <- "Resinosas"
 
 # Função para lematizar
 lematizar <- function(lema, wclass){
@@ -349,6 +360,8 @@ DataframeTotal <- lematizar("sucoso", "adj")
 DataframeTotal <- lematizar("túnica", "subst")
 DataframeTotal <- lematizar("vilo", "subst")
 DataframeTotal <- lematizar("verrucoso", "adj")
+DataframeTotal <- lematizar("resina", "subst")
+DataframeTotal <- lematizar("resinoso", "adj")
 
 # A lematização de "hermafrodita" exige um cuidado diferente
 
@@ -385,36 +398,55 @@ DadosdoDicionario <- read.csv("../data/DadosDoDicionario.csv", encoding = "UTF-8
 
 DataframeTotal <- subset(DataframeTotal, lemma %in% DadosdoDicionario$Headword)
 
-#Desambiguação de "gema"
+# Desambiguações
 DataframeTotal$sensenumber <- "1"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="851"] <- "2"
-# Se mudar o número de sentenças, o número desta também mudará...
 
-#Desambiguação de "bulbo"
+# "gema"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="gema" & 
+                             DataframeTotal$sentence=="d. branco. b. gema."] <- "2"
+
+# "bulbo"
 DataframeTotal$sensenumber[DataframeTotal$token=="bulbo"
                            & DataframeTotal$doc_id=="AnatomiadeSantucci.txt"] <- "2"
 
-#Desambiguação de "disco"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="3553"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="3606"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="3879"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="3947"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4071"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4076"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4079"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4121"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4125"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4128"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4158"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4161"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4168"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4171"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4174"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4177"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4208"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4215"] <- "2"
-DataframeTotal$sensenumber[DataframeTotal$sentence_id=="4241"] <- "2"
-# Se mudar o número de sentenças, o número desta também mudará...
-
+# "disco"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Quando o meio, ou disco da folha se approxima, ou se une ao mesmo caule."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Quando as mesmas folhas lançaõ no disco inferior raizes como em algumas Algas."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Por margem da folha entendem-se todos os lados exteriores, naõ fallando do disco."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Sendo a margem cartilaginea, differente da substancia do disco, ou da superficie, Sedum."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="As veias da folha se contrahem de tal sorte, que comprimindo o disco, este sobresahe; isto he, eleva-se mais, que os mesmos lados da folha."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Sobresahindo de entre as rugas para parte do disco, ou da superficies da folha, de figura conica pela parte superior, e concava pela inferior."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="A folha, que tem varias excavaçoens, ou o disco entre as veias está abaixado."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Folha revestida e tuberculos algum tanto duros, espalhados pelo seu disco ou superficie."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Havendo sedas de disco, ou na superficie da folha, que sejaõ algum tanto duras, rijas, asperas, e quebradiças."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Estando o disco cheio de espinhos rijos, e picantes."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="A margem ou lado mais restricto obriga o disco da folha a ser concavo."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Sendo o disco superior da folha mais elevado, ou convexo."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="O disco da folha sobe, e desce para a margem formando assim varios angulos, e muitas pregas."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Subindo, e descendo o disco da folha convexamente até a margem."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="O disco da folha forma varias dobras obtusas, e alternadas."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Folha monstruosa, pois he quando a margem da folha sahe maior do que o disco admitte, de maneira que a margem he as ondas."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="A folha he mais funda no disco, que nos lados."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="A superficie interior ou disco da folha elevada longitudinalmente á mesma maneira de quilha."] <- "2"
+DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
+             DataframeTotal$sentence=="Tendo dous angulos longitudinaes, prominentes, oppostos, e o disco mais convexo."] <- "2"
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")

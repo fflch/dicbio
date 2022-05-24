@@ -8,14 +8,15 @@ output: html_document
 
 O Dicionário Histórico de Termos da Biologia, em elaboração, traz definições e informações histórico-etimológicas para termos da Biologia extraídos de textos científicos do século XVIII.
 
-Atualmente, o dicionário contém 50 verbetes, com definições e informações histórico-etimológicas; também contém exemplos extraídos do córpus, formado por obras do século XVIII disponíveis online (cf. lista de textos abaixo).
-O córpus anotado será disponibilizado em breve.
+Atualmente, o dicionário contém 53 verbetes, com definições e informações histórico-etimológicas; também contém exemplos extraídos do córpus, formado por obras do século XVIII disponíveis online (cf. lista de textos abaixo).
+O córpus anotado e o código-fonte estão disponíveis no [repositório GitHub](https://github.com/brunomaroneze/dicio_biologia).
 
 Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
 
 ### Atualizações
 
 - 13 maio 2022 - Inclusão do verbete "verrucoso"
+- 24 maio 2022 - Inclusão dos verbetes "resina" e "resinoso"
 
 ### Textos que compõem o córpus:
 
@@ -53,14 +54,16 @@ O *template* deste dicionário baseia-se em LUGLI, L. et al. 2019-2022. [A Visua
 
 The Historical Dictionary of Biology Terms, under elaboration, brings definitions and historical-etymological information for Biology terms extracted from 18th-century scientific texts.
 
-Currently, the dictionary contains 50 entries, with definitions and historical-etymological information; it also contains examples extracted from the corpus, which includes 18th-century works available online (see list below).
-The annotated corpus will soon be available for download.
+Currently, the dictionary contains 53 entries, with definitions and historical-etymological information; it also contains examples extracted from the corpus, which includes 18th-century works available online (see list below).
+The annotated corpus and the source code are available at [this GitHub repository](https://github.com/brunomaroneze/dicio_biologia).
+
 
 For comments, feedback and questions, contact [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
 
 ### Updates
 
-- 13 may 2022 - Inclusion of entry "verrucoso"
+- 13 May 2022 - Inclusion of entry "verrucoso"
+- 24 May 2022 - Inclusion of entries "resina" and "resinoso"
 
 ### List of texts in the corpus:
 
