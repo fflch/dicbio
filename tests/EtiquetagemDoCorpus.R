@@ -50,6 +50,40 @@ for(x in 2:length(text_anndfSantucci$sentence_id)){
 text_anndfVandelli$doc_id <- "DiccionariodeVandelli.txt"
 text_anndfSantucci$doc_id <- "AnatomiadeSantucci.txt"
 
+# Elimina os tokens contraídos (criar função para repetir isso com outros)
+for(i in 1:length(text_anndfVandelli$token_id)){
+  if(str_detect(text_anndfVandelli$token_id[i], "-")){
+    text_anndfVandelli$token_id[i+1] <- 0
+    text_anndfVandelli$token_id[i+2] <- 0
+  }
+}
+for(i in 1:length(text_anndfSantucci$token_id)){
+  if(str_detect(text_anndfSantucci$token_id[i], "-")){
+    text_anndfSantucci$token_id[i+1] <- 0
+    text_anndfSantucci$token_id[i+2] <- 0
+  }
+}
+
+text_anndfSantucci <- subset(text_anndfSantucci, token_id!=0)
+text_anndfVandelli <- subset(text_anndfVandelli, token_id!=0)
+
+# Reenumera as palavras em cada sentença
+for(k in 1:length(text_anndfVandelli$sentence_id)){
+
+  for(j in 1:length(text_anndfVandelli$token_id[text_anndfVandelli$sentence_id == k])){
+  
+    text_anndfVandelli$token_id[text_anndfVandelli$sentence_id == k][j] <- j
+  }
+}
+
+for(k in 1:length(text_anndfSantucci$sentence_id)){
+  
+  for(j in 1:length(text_anndfSantucci$token_id[text_anndfSantucci$sentence_id == k])){
+    
+    text_anndfSantucci$token_id[text_anndfSantucci$sentence_id == k][j] <- j
+  }
+}
+
 # Junta os dois e elimina as colunas desnecessárias
 
 DataframeTotal <- rbind(text_anndfVandelli, text_anndfSantucci)

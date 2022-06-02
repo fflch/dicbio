@@ -21,19 +21,26 @@ CorpusMetadata <- read.csv2("./data/CorpusTextsMetadata.csv", encoding = "UTF-8"
 colnames(CorpusMetadata) <- c("Filename", "Author", "Title", "DateOfPublication")
 
 # Cria uma função que retorna os contextos de uma palavra consultada, com a palavra negritada,
-#e formata para mostrar; os parâmetros são a palavra-entrada e o número da acepção
+# e formata para mostrar; os parâmetros são a palavra-entrada e o número da acepção
 ConsultaAosContextos <- function(InputConsulta, SenseNumber){
   ContextosTexto <- as.list(TokTextDF$sentence[TokTextDF$lemma == InputConsulta & TokTextDF$sensenumber==SenseNumber])
-  # Retorna uma lista de contextos
+  # Retorna uma lista de contextos; se colocar unique(), retorna a lista sem repetições
 
-  ContextosTextoNegritados <- NULL
-  for(a in 1:length(ContextosTexto)){ # inclui negrito nas palavras buscadas
+  
+  # Usar a função word() para achar cada palavra na posição do token_id; talvez com lapply
+  # seja possível; preciso substituir a palavra achada com word() pela mesma palavra com <b></b>
+  # Em vez de ContextosTexto ser lista, precisa ser um DataFrame com a sentença e a posição
+  ## NÃO FUNCIONA porque o token_id conta pontuação junto
+  
+  ContextosTextoNegritados <- NULL # inclui negrito nas palavras buscadas
+  for(a in 1:length(ContextosTexto)){ 
     ContextosTextoNegritados[a] <- sub(TokTextDF$token[TokTextDF$lemma == InputConsulta
                                                        & TokTextDF$sensenumber==SenseNumber][a],
                                        paste0("<b>",
                                        TokTextDF$token[TokTextDF$lemma == InputConsulta
                                                        & TokTextDF$sensenumber==SenseNumber][a], 
                                        "</b>"), ContextosTexto[a])
+
     Autor <- CorpusMetadata$Author[CorpusMetadata$Filename == 
                                      TokTextDF$doc_id[TokTextDF$lemma == InputConsulta
                                                       & TokTextDF$sensenumber == SenseNumber][a]]
@@ -152,7 +159,7 @@ server <- function(input, output, session) {
   
   output$Etymo <- renderText({
     
-    paste("<b>Discussão histórico-etimológica</b>",
+    paste("<b>Discussão histórico-etimológica:</b>",
           EntryData()$Etymology, "<p style='font-size: .7em;'><br>Autores(as) do verbete: ",
           EntryData()$Credits, "</p>")
   }) 

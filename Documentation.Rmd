@@ -1,5 +1,5 @@
 ---
-title: "ProjectIntro"
+title: "Documentation"
 output: html_document
 ---
 
@@ -7,23 +7,48 @@ output: html_document
 # Prefácio
 
 O **Dicionário Histórico de Termos da Biologia** é um dicionário eletrônico que visa reunir informações histórico-etimológicas sobre os termos da Biologia em língua portuguesa.
+O projeto é coordenado por Bruno Maroneze e conta com a participação de estudantes de graduação e pós-graduação da Universidade Federal da Grande Dourados (UFGD) e da Universidade Federal de Mato Grosso do Sul (UFMS).
+O desenvolvimento inicial deste dicionário foi possível graças ao estágio de pós-doutoramento desenvolvido pelo coordenador do projeto junto à Universidade de Coimbra (Portugal), sob a supervisão da Profa. Dra. Graça Rio-Torto.
 
+## Objetivos
+O objetivo geral deste projeto é compilar uma obra de referência, para consulta *online*, que descreva o léxico científico da língua portuguesa, na área das ciências biológicas, através da história.
+Seus objetivos específicos são:
+- Compilar um córpus histórico-diacrônico com textos sobre as ciências biológicas (cf. "Córpus");
+- Identificar as ocorrências dos termos em épocas anteriores;
+- Descrever as estruturas morfológicas (sufixos, prefixos, radicais eruditos etc.) empregadas em cada época na formação de termos;
+- Descrever a etimologia dos termos e as mudanças de forma e significado pelas quais passaram ao longo do tempo.
+
+## Córpus
 Falar do córpus: decisão de pegar o século XVIII e posterior ampliação para outros períodos
-
-Falar da programação: linguagem R e bases de dados
-
-Seleção das entradas
-
-Política de disponibilização de dados ainda que incompletos
-
-Campos presentes nos verbetes - de onde são tiradas as informações
-
-Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
 
 ### Textos que compõem o córpus:
 
 - [SANTUCCI, Bernardo. **Anatomia do corpo humano**. Lisboa: na Officina de Antonio Pedrozo Galram, 1739.](https://books.google.com.br/books/about/Anatomia_do_corpo_humano.html?id=D83JL7ybBeUC&redir_esc=y)
 - [VANDELLI, Domingos. **Diccionario dos termos technicos de Historia Natural**. Coimbra: na Real Officina da Universidade, 1788.](https://purl.pt/13958)
+
+## Critérios lexicográficos
+
+### Nomenclatura
+
+Seleção das entradas
+
+Política de disponibilização de dados ainda que incompletos
+### Informações presentes nos verbetes
+Campos presentes nos verbetes - de onde são tiradas as informações
+
+## Estrutura computacional
+Falar da programação: linguagem R e bases de dados
+
+## Disponibilização dos dados
+Política de disponibilização e link do GitHub
+
+## Publicações
+
+
+Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
+
+
+
 
 ### Equipe:
 - **Bruno Oliveira Maroneze** (Professor Associado, Universidade Federal da Grande Dourados) - coordenação do projeto - desde 2017
