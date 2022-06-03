@@ -20,41 +20,6 @@ TokTextDF <- read.csv2("./data/DataframePrincipal.csv", encoding = "UTF-8")
 CorpusMetadata <- read.csv2("./data/CorpusTextsMetadata.csv", encoding = "UTF-8")
 colnames(CorpusMetadata) <- c("Filename", "Author", "Title", "DateOfPublication")
 
-# Cria uma função que retorna os contextos de uma palavra consultada, com a palavra negritada,
-# e formata para mostrar; os parâmetros são a palavra-entrada e o número da acepção
-ConsultaAosContextos <- function(InputConsulta, SenseNumber){
-  ContextosTexto <- as.list(TokTextDF$sentence[TokTextDF$lemma == InputConsulta & TokTextDF$sensenumber==SenseNumber])
-  # Retorna uma lista de contextos; se colocar unique(), retorna a lista sem repetições
-
-  
-  # Usar a função word() para achar cada palavra na posição do token_id; talvez com lapply
-  # seja possível; preciso substituir a palavra achada com word() pela mesma palavra com <b></b>
-  # Em vez de ContextosTexto ser lista, precisa ser um DataFrame com a sentença e a posição
-  ## NÃO FUNCIONA porque o token_id conta pontuação junto
-  
-  ContextosTextoNegritados <- NULL # inclui negrito nas palavras buscadas
-  for(a in 1:length(ContextosTexto)){ 
-    ContextosTextoNegritados[a] <- sub(TokTextDF$token[TokTextDF$lemma == InputConsulta
-                                                       & TokTextDF$sensenumber==SenseNumber][a],
-                                       paste0("<b>",
-                                       TokTextDF$token[TokTextDF$lemma == InputConsulta
-                                                       & TokTextDF$sensenumber==SenseNumber][a], 
-                                       "</b>"), ContextosTexto[a])
-
-    Autor <- CorpusMetadata$Author[CorpusMetadata$Filename == 
-                                     TokTextDF$doc_id[TokTextDF$lemma == InputConsulta
-                                                      & TokTextDF$sensenumber == SenseNumber][a]]
-    Ano <- CorpusMetadata$DateOfPublication[CorpusMetadata$Filename == 
-                                              TokTextDF$doc_id[TokTextDF$lemma == InputConsulta
-                                                      &TokTextDF$sensenumber == SenseNumber][a]]
-    ContextosTextoNegritados[a] <- paste0(a, " - ", ContextosTextoNegritados[a],
-                                          " (", Autor, ", ", Ano,")<br>")
-    
-  }
-
-  return(ContextosTextoNegritados)
-}
-
 # Criar uma função que retorna as formas variantes da entrada
 
 ui <- fluidPage(
@@ -144,12 +109,27 @@ server <- function(input, output, session) {
     
   output$Definition <- renderText({
 
+    # Cria uma função que retorna os contextos de uma palavra consultada, com a palavra negritada,
+    # e formata para mostrar; os parâmetros são a palavra-entrada e o número da acepção
+    Contextos <- function(InputConsulta, SenseNumber){
+      ContextosTexto <- as.list(TokTextDF$sentence[TokTextDF$lemma == InputConsulta & TokTextDF$sensenumber==SenseNumber])
+      
+      for(a in 1:length(ContextosTexto)){
+        
+        ContextosTextoFormatados[a] <- paste0(a, " - ", ContextosTexto[a], "<br>")
+        
+      }
+      ContextosTextoFormatados <- as.list(ContextosTextoFormatados)
+      return(ContextosTextoFormatados)
+    }
+    
     Definition <- NULL
     for(c in 1:sum(definitions$Headword == input$headword)){
       
       Definicao <- definitions$Definition[definitions$Headword == input$headword][c]
-      Definition[c] <- paste0(c, ". ", Definicao, "<br><details><summary>Exemplos (<u>clique para expandir</u>)</summary><span style='font-size:.8em;'>",
-             paste(ConsultaAosContextos(input$headword, c), collapse = ""), "</span></details><br>")
+      Definition[c] <- paste0(c, ". ", Definicao,
+                              "<br><details><summary>Exemplos (<u>clique para expandir</u>)</summary><span style='font-size:.8em;'>",
+             paste(Contextos(input$headword, c), collapse = ""), "</span></details><br>")
     }
     
     Definition

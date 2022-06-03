@@ -7,11 +7,6 @@ library(stringr)
 
 # TokTextDF$token[TokTextDF$lttr==0] <- "" # Elimina o caractere BOM
 
-# Lê os metadados do córpus
-CorpusMetadata <- read.csv2("../data/CorpusTextsMetadata.csv", encoding = "UTF-8") 
-colnames(CorpusMetadata) <- c("Filename", "Author", "Title", "DateOfPublication")
-
-
 ## Scripts para anotação de POS usando o UDPipe
 library(udpipe)
 
@@ -50,43 +45,10 @@ for(x in 2:length(text_anndfSantucci$sentence_id)){
 text_anndfVandelli$doc_id <- "DiccionariodeVandelli.txt"
 text_anndfSantucci$doc_id <- "AnatomiadeSantucci.txt"
 
-# Elimina os tokens contraídos (criar função para repetir isso com outros)
-for(i in 1:length(text_anndfVandelli$token_id)){
-  if(str_detect(text_anndfVandelli$token_id[i], "-")){
-    text_anndfVandelli$token_id[i+1] <- 0
-    text_anndfVandelli$token_id[i+2] <- 0
-  }
-}
-for(i in 1:length(text_anndfSantucci$token_id)){
-  if(str_detect(text_anndfSantucci$token_id[i], "-")){
-    text_anndfSantucci$token_id[i+1] <- 0
-    text_anndfSantucci$token_id[i+2] <- 0
-  }
-}
-
-text_anndfSantucci <- subset(text_anndfSantucci, token_id!=0)
-text_anndfVandelli <- subset(text_anndfVandelli, token_id!=0)
-
-# Reenumera as palavras em cada sentença
-for(k in 1:length(text_anndfVandelli$sentence_id)){
-
-  for(j in 1:length(text_anndfVandelli$token_id[text_anndfVandelli$sentence_id == k])){
-  
-    text_anndfVandelli$token_id[text_anndfVandelli$sentence_id == k][j] <- j
-  }
-}
-
-for(k in 1:length(text_anndfSantucci$sentence_id)){
-  
-  for(j in 1:length(text_anndfSantucci$token_id[text_anndfSantucci$sentence_id == k])){
-    
-    text_anndfSantucci$token_id[text_anndfSantucci$sentence_id == k][j] <- j
-  }
-}
-
 # Junta os dois e elimina as colunas desnecessárias
 
 DataframeTotal <- rbind(text_anndfVandelli, text_anndfSantucci)
+DataframeTotal <- subset(DataframeTotal, upos!="PUNCT")
 DataframeTotal$paragraph_id <- NULL
 DataframeTotal$head_token_id <- NULL
 DataframeTotal$dep_rel <- NULL
@@ -99,20 +61,6 @@ rm(text_anndfSantucci, text_anndfVandelli) # Limpa a memória
 
 # O arquivo de dados só precisa conter as palavras presentes no dicionário
 # Assim, lematizamos o necessário e eliminamos o resto
-
-DataframeTotal <- subset(DataframeTotal, lemma != "-") # Elimina as pontuações
-DataframeTotal <- subset(DataframeTotal, lemma != "—")
-DataframeTotal <- subset(DataframeTotal, lemma != "&")
-DataframeTotal <- subset(DataframeTotal, lemma != "(")
-DataframeTotal <- subset(DataframeTotal, lemma != ")")
-DataframeTotal <- subset(DataframeTotal, lemma != ",")
-DataframeTotal <- subset(DataframeTotal, lemma != ".")
-DataframeTotal <- subset(DataframeTotal, lemma != "/")
-DataframeTotal <- subset(DataframeTotal, lemma != ":")
-DataframeTotal <- subset(DataframeTotal, lemma != ";")
-DataframeTotal <- subset(DataframeTotal, lemma != "[")
-DataframeTotal <- subset(DataframeTotal, lemma != "]")
-DataframeTotal <- subset(DataframeTotal, lemma != "?")
 
 # Lematização e correção ortográfica:
 DataframeTotal$orth <- DataframeTotal$token # Copia tudo da coluna token para a coluna orth
@@ -431,6 +379,30 @@ for(n in 1:length(DataframeTotal$doc_id)){
 DadosdoDicionario <- read.csv("../data/DadosDoDicionario.csv", encoding = "UTF-8")
 
 DataframeTotal <- subset(DataframeTotal, lemma %in% DadosdoDicionario$Headword)
+
+# Lê os metadados do córpus
+CorpusMetadata <- read.csv2("../data/CorpusTextsMetadata.csv", encoding = "UTF-8") 
+colnames(CorpusMetadata) <- c("Filename", "Author", "Title", "DateOfPublication")
+
+# Insere os metadados nas sentenças
+for(i in 1:length(DataframeTotal$sentence)){
+DataframeTotal$sentence[i] <- paste0(DataframeTotal$sentence[i], " (",
+                                  CorpusMetadata$Author[CorpusMetadata$Filename == DataframeTotal$doc_id[i]],
+                                  ", ", 
+                                  CorpusMetadata$DateOfPublication[CorpusMetadata$Filename == DataframeTotal$doc_id[i]],
+                                  ")")
+}
+
+# Script para incluir negrito nas sentenças
+
+for(i in 1:length(DataframeTotal$sentence)){
+  
+  DataframeTotal$sentence[i]<- sub(DataframeTotal$token[i],
+                                  paste0("<b>",
+                                      DataframeTotal$token[i], 
+                                      "</b>"),
+                                  DataframeTotal$sentence[i])
+}
 
 # Desambiguações
 DataframeTotal$sensenumber <- "1"
