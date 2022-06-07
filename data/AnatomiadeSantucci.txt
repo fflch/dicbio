@@ -15,11 +15,11 @@ ANATOMIA DO CORPO HUMANO
 LIVRO PRIMEIRO, Das Entranhas.
 PROEMIO.
 
-I. O corpo humano he huma maquina composta de partes solidas, e fluidas, as quaes pela ordem, e connexaõ, que entre si tem fazem diversos, e maravilhosos movimentos. Destes, huns saõ naturaes, e outros voluntarios, dependentes da Alma immortal, que informa o mesmo corpo.
+1 O corpo humano he huma maquina composta de partes solidas, e fluidas, as quaes pela ordem, e connexaõ, que entre si tem fazem diversos, e maravilhosos movimentos. Destes, huns saõ naturaes, e outros voluntarios, dependentes da Alma immortal, que informa o mesmo corpo.
 
 [página 2]
-2. Os instrumentos principaes daquelles movimentos saõ os espiritos: e assim de tres  cousas se compoem proximamente o corpo humano, convem a saber: das partes solidas, e fluidas, e dos espiritos, e ainda que todas estas cousas se podem chamar partes, com tudo o nome de parte se costuma dar só ás partes solidas. As fluidas se chamaõ humores, e os espiritos commummente conservaõ este mesmo nome: porem como o officio da Anatomia seja tratar mais das partes solidas, do que das fluidas, que são os humores, trataremos só daquellas, as quaes tambem servem para as partes fluidas. 
-3. Primeiramente se ha de notar, que pelos nossos sentidos se conhece huma grande diversidade de partes solidas, em quanto aos accidentes sensiveis de cor, dureza, &c. mas se as virmos com os olhos do entendimento mais interiormente, conhecerseha, que todas as partes do corpo, e pelo conseguinte, que todo o nosso corpo se compoem de innumeraveis fibras, e muy tenues, como fios muy delgados. Isto se vê manisfestamente nos nervos, os quaes nenhuma outra cousa parecem, senaõ huma multidaõ de fi-
+2 Os instrumentos principaes daquelles movimentos saõ os espiritos: e assim de tres  cousas se compoem proximamente o corpo humano, convem a saber: das partes solidas, e fluidas, e dos espiritos, e ainda que todas estas cousas se podem chamar partes, com tudo o nome de parte se costuma dar só ás partes solidas. As fluidas se chamaõ humores, e os espiritos commummente conservaõ este mesmo nome: porem como o officio da Anatomia seja tratar mais das partes solidas, do que das fluidas, que são os humores, trataremos só daquellas, as quaes tambem servem para as partes fluidas. 
+3 Primeiramente se ha de notar, que pelos nossos sentidos se conhece huma grande diversidade de partes solidas, em quanto aos accidentes sensiveis de cor, dureza, &c. mas se as virmos com os olhos do entendimento mais interiormente, conhecerseha, que todas as partes do corpo, e pelo conseguinte, que todo o nosso corpo se compoem de innumeraveis fibras, e muy tenues, como fios muy delgados. Isto se vê manifestamente nos nervos, os quaes nenhuma outra cousa parecem, senaõ huma multidaõ de fi-
 
 [página 3]
 bras subtilissimas, que procedem do cerebro, e da espinhal medulla. 
@@ -85,7 +85,14 @@ CAPITULO II.
 Das partes, que servem de cubertura commua a todo o corpo.
 1 Tres saõ as partes, que servem de cubrir todo o corpo, a cuticula, a cute,
 
-[faltam as páginas de 12 a 242]
+[página 12]
+cute, ou pelle, e a membrana, que chamaõ Adiposa.
+2 A cuticula, a que os Gregos chamaõ Epidermis, he huma membrana muy tenue, e transparente, mas muito densa, que naõ tem sensaçaõ, e cobre exteriormente toda a pelle, ou cute, a qual està taõ pegada, que difficultosamente della se pode separar. He composta de fibras diversamente unidas entre si, e como tecidas. Alguns modernos dizem, que he composta de vasos resecados, e saõ derivados daquelles da pelle, que estaõ por baixo; outros querem deduzir a sua origem da congelaçaõ do humor salino, e roscido, feita pelo ambiente externo.
+3 A cuticula tem muitos buraquinhos, que correspondem aos poros da cute, ou pelle. Tirada a cuticula, logo se vê huma parte da pelle, que foy descuberta pella industria do Doutor Marcello Malpighio, e se chama corpo reticular. He huma extensaõ de fibras, a qual he molle, glutinosa, e moderadamente crassa, com muitos buraquinhos a modo de rede, que està fempre cheya, e humedecida por causa de hum humor mucoso, que tem, do qual entende Malpighio já
+
+
+
+[faltam as páginas de 13 a 242]
 
 [página 243]
 LIVRO SEGUNDO
@@ -161,7 +168,7 @@ A Diarthrosis se divide em Enarthrosis Arthrodia, Ginglymo, Enarthrosis.
 Synarthrose, ou Concrecçaõ divide-se em mediata, e immediata.]
 
 [Pagina 250]
-mediata he aquella uniaõ de ossos,que se faz mediante alguma cousa, como carne, membranas, ou ligamentos, e flnalmente por meyo de alguma cartilagem. Também se divide em tres especies Synnevrosis, Synchondrosis, e Syssarcosis.
+mediata he aquella uniaõ de ossos,que se faz mediante alguma cousa, como carne, membranas, ou ligamentos, e finalmente por meyo de alguma cartilagem. Também se divide em tres especies Synnevrosis, Synchondrosis, e Syssarcosis.
 19	Synnevrosis chama-se aquella uniaõ de ossos, que se faz por meyo de partes tendinosas, e ligamentosas, ou mernbranosas; e isto se vê em muitas partes, e melhor na molleira das crianças, que os seus ossos estaõ unidos por meyo de membrana.
 20	Synchondrosis he aquella uniaõ de ossos que se faz por meyos cartilaginosos, como se vê na uniaõ das costellas com os ossos do sternon, e em outras partes.
 21	Syssarcosis he o mesmo, que uniaõ de ossos por meyo de carne; como se vê na uniaõ da espadoa com as costellas, que se unem por meyos carnosos.
@@ -489,7 +496,7 @@ DOS MUSCULOS DAS ORELHAS.
 
 [página 339]
 
-2 O primeiro nasce do musculo Frontal e termina na orelha. serve para puxar a dita orelha para cima; os outros posteriores nascem do preocesso mammillar, e acabaõ na parte posterior da orelha: muitos Authores negaõ estes musculos, e dizem, que estes naõ saõ musculos, mas fómente duas dilataçoens membranosas, que nescem da face externa, e superior do processo mastoydeo, e que acabaõ na parte superior, e posterior da concha da orelha
+2 O primeiro nasce do musculo Frontal e termina na orelha, serve para puxar a dita orelha para cima; os outros posteriores nascem do preocesso mammillar, e acabaõ na parte posterior da orelha: muitos Authores negaõ estes musculos, e dizem, que estes naõ saõ musculos, mas sómente duas dilataçoens membranosas, que nescem da face externa, e superior do processo mastoydeo, e que acabaõ na parte superior, e posterior da concha da orelha
 
 CAPITULO VI.
 DOS MUSCULOS DO NARIZ.
@@ -510,21 +517,21 @@ DOS MUSCULOS DOS BEIÇOS.
 
 [página 341]
 
-2 O segundo dos communs he Buccinator, chama-se assim, porque com seu movimento serve para dar voltas, e pôr entre os dentes o comer, que se vay triturando na boca, nasce das gingivas do queixo superior, e com as suas fibras circulares termîna nas gingivas do queixo inferior: este musculos está debaixo do musculo Quadrado, ou Platisma Myodes.
-[Texto a margem esquerda:Buccinotor..]
-[Texto a margem esquerda:Eft.17. fig.46.]
-3 O terceiro he chama Orbicullar, porque com suas fibras vay ao redor dos beiços a modo de hum annel, ou Spbincter: constitue os beiços, e serve para fecharllos.
+2 O segundo dos communs he Buccinator, chama-se assim, porque com seu movimento serve para dar voltas, e pôr entre os dentes o comer, que se vay triturando na boca, nasce das gingivas do queixo superior, e com as suas fibras circulares termîna nas gingivas do queixo inferior: este musculos está debaixo do musculo Quadrado, ou Platisma myodes.
+[Texto a margem esquerda:Buccinotor.]
+[Texto a margem esquerda:Est.17. fig.46.]
+3 O terceiro he chama Orbicullar, porque com suas fibras vay ao redor dos beiços a modo de hum annel, ou Sphincter: constitùe os beiços, e serve para fechallos.
 [Texto a margem esquerda:Orbicular.]
 4 Dos musculos proprios as beiços huns saõ proprios ao beiço superior, outros ao inferior.
 5 Do beiço superior os primeiros saõ chamados Elevatores, porque puxaõ acima, ou levantaõ o beiço; chamaõ-se tambem Incisivos por causa da sua origem, nascem do queixo superior, na regiaõ com hum tendaõ muy iapertado, e pequeno no baiço superior.
-[Texto a margem direita:Elevatores, cu Incisivos.]
+[Texto a margem direita:Elevatores, ou Incisivos.]
 6 Antagonistas dos Incisivos saõ os Triangulares, que nascem na base larga, ou inferior, e externa margem da sobredita maxilla, ou queixo inferior, e acaba no beiço superior; servem estes musculos para abaixar o beiço superior.
 [Texto a margem esquerda:Os Triangulares.]
 7 Os proprios do beiço inferior saõ tres. O primeiro he o Quadrado, ou montano, nasce na margem da ponta da barba, e acaba no limpo do beiço inferior, ou no musculo constrictorio, e serve de abaixar o dito beiço.
 [Texto a margem esquerda:O Quadrado ou montano.]
 8 Os outros dous, que saõ contrarios pelo seu movimento ao primeiro, saõ chamados Caninos, porque nascem no queixo superior na regiaõ dos dentes Caninos, e acabaõ no beiço inferior, e servem para levantallo.
 [Texto a margem esquerda:Caninos.]
-9 Dos musculos da Larinx, e Pbarinx, e do osso Hyoydes não tórno a fallar por ter bastantemente tratado delles mais acma. Agora continuaremos do queixo inferior.
+9 Dos musculos da Larinx, e Pharinx, e do osso Hyoydes não tórno a fallar por ter bastantemente tratado delles mais acima. Agora continuaremos do queixo inferior.
 
 CAPITULO VIII.
  DOS MUSCULOS DO QUEIXO INFERIOR.
@@ -572,7 +579,7 @@ Dos musculos da cabeça.
 [Texto a margem direita: página: 347: Complexos.]
 6 Os rectos mayores nascem da Apophili Espinhosa da segunda vertebra do pescoço, e acabaõ na parte inferior do toutiço.
 [Texto a margem direita: página: 347: Rectos mayores.]
-7 Os rectos menores principiaõ do Tuberculo da primeira vertebra, no mesmo lugar onde as outras tem o processo Espinhoso, e acabaõ no meyo do toutiço juritamente
+7 Os rectos menores principiaõ do Tuberculo da primeira vertebra, no mesmo lugar onde as outras tem o processo Espinhoso, e acabaõ no meyo do toutiço juntamente
 [Texto a margem direita: página: 347: Rectos menores.]
 
 [Página 348]
@@ -684,7 +691,7 @@ Dos musculos do antebraço.
 
 [Página 358]
 
-Ter dous principios; nasce com hum destes da Apophili Caracoide de espadoa, com o outro principio nasce da cavidade Glenoide da dita espadoa, passa este principio por huma certa sinousidade, que está acima da parte anterior, e superior do osso do braço, e pouco a pauco inindo-se com o outro principio, constitue hum só ventre, o qual desce pela parte anterior do mesmo braço, e com hum só tendaõ termina na parte anterior do Cubito, e Radio.
+ter dous principios; nasce com hum destes da Apophili Caracoide de espadoa, com o outro principio nasce da cavidade Glenoide da dita espadoa, passa este principio por huma certa sinuosidade, que está acima da parte anterior, e superior do osso do braço, e pouco a pauco inindo-se com o outro principio, constitue hum só ventre, o qual desce pela parte anterior do mesmo braço, e com hum só tendaõ termina na parte anterior do Cubito, e Radio.
 4 Nota-se, que este musculo Bicipite nos homens muy fortes, temos observando com outros terceiro principio, que sahe do meyo do osso do braço, e unindo-se com os dous, acaba em hum só tendaõ.
 [Texto a margem esquerda: página: 358: Nos homens muy fortes este musculo tem tres principios.]
 5 Nota-se tambem, que o tendaõ do sobredito musculo daz huma Aponevrose, com a qual cobre anteriormente em partes o dito articulo, e os musculos, que estaõ dabeixo; com que no sagrar he necessario fugir de naõ ossender o dito tendaõ, porque naõ succesaõ os syntomas, que costumaõ vir.
@@ -724,9 +731,9 @@ Redondo, e Quadrado. Para o segundo movimento servem o longo, e o breve.
 [Texto a margem direita: página: 361: Est. I7. fig.]
 4 O segundo he o Quadrado, que tem este nome pela sua figura quadrada; nasce da parte inferior externa do Cubito, perto ao Carpo, por baixo dos outros: o seu tendaõ, ou fim, he da mesma largura, que o principio, e acaba na parte inferior, e interna do Radio.
 [Texto a margem direita: página: 361: O Quadrado.]
-5 Dos Supinadores, o primeiro he o Longo: nasce tres, ou quatro dedos acima da Apophisi exterior do braço; desce rectarmente, e acaba na face externa da cabeça inferior do osso do Radio.
+5 Dos Supinadores, o primeiro he o Longo: nasce tres, ou quatro dedos acima da Apophisi exterior do braço; desce rectamente, e acaba na face externa da cabeça inferior do osso do Radio.
 [Texto a margem direita: página: 361: Longo Supinadores.]
-6 o Supinator breve, nasce da parte inferior do externo, e inferior Condilo, ou processo do osso do braço, e cercando ao redor posteriomente a dita parte, acaba superior, e anteriormente no Radio, e estes saõ os musculos, que obrando viraõ a maõ para o ceo.
+6 o Supinator breve, nasce da parte inferior do externo, e inferior Condilo, ou processo do osso do braço, e cercando ao redor posteriormente a dita parte, acaba superior, e anteriormente no Radio, e estes saõ os musculos, que obrando viraõ a maõ para o Ceo.
 [Texto a margem direita: página: 361: Supinator breve.]
 
 [Página 362]
@@ -933,7 +940,7 @@ Dos musculos do Abdomen.
 [Página 382]
 
  linba alva, ou branca.
-3 A linha branca he hum lugar membranoso branco, que principîa da espinhela, e indo pectamente pelo meyo do abdomen termina na commissura dos osso da Pubes, e he composta do concurso dos tendoens dos musculos do abdomen.
+3 A linha branca he hum lugar membranoso branco, que principîa da espinhela, e indo rectamente pelo meyo do abdomen termina na commissura dos osso da Pubes, e he composta do concurso dos tendoens dos musculos do abdomen.
 [Texto a margem Esquerda: página: 382: Linha branca. Est. 17. fig.1.n.n.n.]
 4 O segundo par dos musculos saõ os Obliquos ascendentes, que estaõ debaixo, e saõ menores, que os obliquos descendentes: nascem da parte superior dos ossos Pubes, e da costa dos ossos Coxendicos, ou Innominados, das Apophisis transversas das vertebras dos lombos, e de todas as extremidades das costellas Espurias atè a cartilagem mucronada, e terminaõ na linha alva com a sua larga Aponevrosi, a qual perto da dita linha se dobra, e faz huma bainha, por entre qual passaõ, ou estaõ metidos os Rectos.
 [Texto a margem Esquerda: página: 382: Obliquos Ascendentes.]
@@ -987,7 +994,7 @@ Dos musculos da coxa, ou Femur.
 [Página 388] 
 
 Barriga, ou sura, as prominencias chamaõ-se tornozellos internos, e externos.
-4 O Pé princia da união da perna, ou Tibia, e acaba em todos os dedos, he dividido em tarso, metatarso, e dedos. Do tarso a parte posterior he calcanhar, a anterior he o peito do pé: todas estas partes torno a repetillas para melhor intelligencia dos seus musculos.
+4 O Pé principîa da união da perna, ou Tibia, e acaba em todos os dedos, he dividido em tarso, metatarso, e dedos. Do tarso a parte posterior he calcanhar, a anterior he o peito do pé: todas estas partes torno a repetillas para melhor intelligencia dos seus musculos.
 5 Com que a Coxa faz seus movimentos, que saõ conco por meyo de quinze musculos. Dobra-se com tres Psoas, lliaco, e Pectem; estende-se com outros tres, que saõ os tres Gluteos. Quando se chefa huma Coxa à outra he movimento de adducçaõ, e se faz por tres Tricipites. Afasta-se a Coxa da outra por meyo de quatro musculos: Pyramidal, Quadrado, e dous Gemellos.
 6 O Psoas, ou musculo lombar está entre a cavidade do Abdomen aos lados dos corpor das vertebras dos lombos: nasce das Apophysis transversas de duas vertebras inferiores das costas, e das superiores dos lombos, e passando por cima do osso Pubes com o seu forte tendaõ, vay acabar no Trochanter
 [Texto a margem Esquerda: página: 388: Ploas.]

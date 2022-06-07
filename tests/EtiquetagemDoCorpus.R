@@ -59,6 +59,7 @@ DataframeTotal$feats <- NULL
 
 rm(text_anndfSantucci, text_anndfVandelli) # Limpa a memória
 
+
 # O arquivo de dados só precisa conter as palavras presentes no dicionário
 # Assim, lematizamos o necessário e eliminamos o resto
 
@@ -351,32 +352,47 @@ DataframeTotal <- lematizar("hermafrodito", "adj")
 DataframeTotal$lemma[DataframeTotal$lemma == "hermafrodito"] <- "hermafrodita"
 DataframeTotal$lemma[DataframeTotal$lemma == "hermophrodito"] <- "hermafrodita" # Erro no córpus
 
+# Junta a expressão "jardim botânico"
+# Funcionou com o txt_recode_ngram(), desde que eu preveja todas as formas variantes
+# das três colunas token, orth, lemma
+# O algoritmo embaixo funciona também, mas baseado só no lema
+
+DataframeTotal$token <- txt_recode_ngram(DataframeTotal$token,
+                                         c("jardim botânico", "jardim botanico", "jardins botanicos",
+                                           "JARDINS BOTANICOS", "JARDIM BOTANICO",
+                                           "Jardim Botanico", "Jardins Botanicos"), 2, sep = " ")
+DataframeTotal$orth <- txt_recode_ngram(DataframeTotal$orth,
+                                         c("jardim botânico", "jardins botânicos",
+                                           "JARDINS BOTÂNICOS", "JARDIM BOTÂNICO",
+                                           "Jardim Botânico", "Jardins Botânicos"), 2, sep = " ")
+DataframeTotal$lemma <- txt_recode_ngram(DataframeTotal$lemma,
+                                              "jardim botânico", 2, sep = " ")
+
 # Junta a expressão "jardim botânico". Dá para adaptar esse código para uma função
 # que junta quaisquer duas palavras
 
-DataframeTotal <- subset(DataframeTotal, lemma != "") # Elimina tudo o que não tiver lema
+#DataframeTotal <- subset(DataframeTotal, lemma != "") # Elimina tudo o que não tiver lema
                                                       # Por alguma razão, a nova versão do R
                                                       # exige que primeiro se faça isso antes de rodar
                                                       # o loop for embaixo
+#for(n in 1:length(DataframeTotal$doc_id)){
+#  if(DataframeTotal$lemma[n] == "jardim" &&
+#     DataframeTotal$lemma[n+1] == "botânico"){
+#    DataframeTotal$lemma[n] <- paste(DataframeTotal$lemma[n], DataframeTotal$lemma[n+1], sep = " ")
+#    DataframeTotal$token[n] <- paste(DataframeTotal$token[n], DataframeTotal$token[n+1], sep = " ")
+#    DataframeTotal$orth[n] <- paste(DataframeTotal$orth[n], DataframeTotal$orth[n+1], sep = " ")
+#    DataframeTotal$lemma[n+1] <- ""
+#  }
+#}
 
-for(n in 1:length(DataframeTotal$doc_id)){
-  if(DataframeTotal$lemma[n] == "jardim" &&
-     DataframeTotal$lemma[n+1] == "botânico"){
-    DataframeTotal$lemma[n] <- paste(DataframeTotal$lemma[n], DataframeTotal$lemma[n+1], sep = " ")
-    DataframeTotal$token[n] <- paste(DataframeTotal$token[n], DataframeTotal$token[n+1], sep = " ")
-    DataframeTotal$orth[n] <- paste(DataframeTotal$orth[n], DataframeTotal$orth[n+1], sep = " ")
-    DataframeTotal$lemma[n+1] <- ""
-  }
-}
+
 
 # Elimina tudo o que não for relevante para o dicionário
 
-#DadosdoDicionario <- read.csv2("../data/DadosDoDicionario.csv", encoding = "UTF-8")
+DadosdoDicionario <- read.csv("../data/DadosDoDicionario.csv", encoding = "UTF-8")
 #colnames(DadosdoDicionario) <- c("ID", "Headword", "FirstAttestationDate",
 #                                 "FirstAttestationExampleMD", "VariantSpellings", "Etymology",
 #                                 "WClass", "Credits")
-
-DadosdoDicionario <- read.csv("../data/DadosDoDicionario.csv", encoding = "UTF-8")
 
 DataframeTotal <- subset(DataframeTotal, lemma %in% DadosdoDicionario$Headword)
 
@@ -454,5 +470,9 @@ DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" &
              DataframeTotal$sentence=="A superficie interior ou disco da folha elevada longitudinalmente á mesma maneira de quilha."] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
              DataframeTotal$sentence=="Tendo dous angulos longitudinaes, prominentes, oppostos, e o disco mais convexo."] <- "2"
+
+# Correção do negrito
+DataframeTotal$sentence[DataframeTotal$sentence_id==6695 & DataframeTotal$token_id==22] <-
+  "d. He a parte, que sustenta, une a anthera (131), ou he o pè da <b>anthera</b>, pelo qual esta se une á planta; ás vezes faltaõ totalmente os filamentos, ou saõ taõ pequenos, que apenas apparecem, e entaõ contaõ-se as antheras. (VANDELLI, Domingos, 1788)"
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")

@@ -5,6 +5,7 @@ library(DT)
 #library(data.table)
 #library(collapsibleTree)
 library(markdown)
+library(stringr)
 
 # Lê a base de dados do dicionário e corrige o erro da codificação UTF-8 
 data <- read.csv("./data/DadosDoDicionario.csv", encoding = "UTF-8")
@@ -19,6 +20,20 @@ TokTextDF <- read.csv2("./data/DataframePrincipal.csv", encoding = "UTF-8")
 # Lê os metadados do córpus
 CorpusMetadata <- read.csv2("./data/CorpusTextsMetadata.csv", encoding = "UTF-8")
 colnames(CorpusMetadata) <- c("Filename", "Author", "Title", "DateOfPublication")
+
+# Cria uma função que retorna os contextos de uma palavra consultada, com a palavra negritada,
+# e formata para mostrar; os parâmetros são a palavra-entrada e o número da acepção
+Contextos <- function(InputConsulta, SenseNumber){
+  ContextosTexto <- as.list(TokTextDF$sentence[TokTextDF$lemma == InputConsulta & TokTextDF$sensenumber==SenseNumber])
+  ContextosTextoFormatados <- NULL
+  for(a in 1:length(ContextosTexto)){
+    
+    ContextosTextoFormatados[a] <- paste0(a, " - ", ContextosTexto[a], "<br>")
+    
+  }
+  ContextosTextoFormatados <- as.list(ContextosTextoFormatados)
+  return(ContextosTextoFormatados)
+}
 
 # Criar uma função que retorna as formas variantes da entrada
 
@@ -68,6 +83,8 @@ ui <- fluidPage(
                                                         htmlOutput("Etymo"),
                                                         tags$hr(),
                                                         htmlOutput("FirstAttestation"),
+                                                        tags$hr(),
+                                                        htmlOutput("HowToCite"),
                                                         tags$br()
                                                         
                                               )    
@@ -109,20 +126,6 @@ server <- function(input, output, session) {
     
   output$Definition <- renderText({
 
-    # Cria uma função que retorna os contextos de uma palavra consultada, com a palavra negritada,
-    # e formata para mostrar; os parâmetros são a palavra-entrada e o número da acepção
-    Contextos <- function(InputConsulta, SenseNumber){
-      ContextosTexto <- as.list(TokTextDF$sentence[TokTextDF$lemma == InputConsulta & TokTextDF$sensenumber==SenseNumber])
-      
-      for(a in 1:length(ContextosTexto)){
-        
-        ContextosTextoFormatados[a] <- paste0(a, " - ", ContextosTexto[a], "<br>")
-        
-      }
-      ContextosTextoFormatados <- as.list(ContextosTextoFormatados)
-      return(ContextosTextoFormatados)
-    }
-    
     Definition <- NULL
     for(c in 1:sum(definitions$Headword == input$headword)){
       
@@ -158,6 +161,16 @@ server <- function(input, output, session) {
     }
   }) 
 
+  output$HowToCite <- renderText({
+    
+    EntryAuthor <- EntryData()$Credits
+    paste0("<p style='font-size: .7em;'><b>Como citar este verbete:</b><br>", EntryAuthor, ". ",
+           str_to_title(input$headword), ". In: MARONEZE, Bruno (coord.) 
+           <b>Dicionário Histórico de Termos da Biologia</b>. 2022. Disponível em: 
+           https://dicionariodebiologia.shinyapps.io/Dicio_Biologia. 
+           Acesso em: ",format(Sys.Date(), "%d %b. %Y"), ".</p>")
+
+  }) 
 #  output$NumDeContextos <- renderText({
 
     #  Criar trecho para incluir variantes gráficas
