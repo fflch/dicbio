@@ -1741,8 +1741,7 @@ Pela proporçaõ
 — Elongata. Compridas. Gryllus, Blatta. fig. 31.
 Pela figura.
 — Linearia. Da mesma largura em todo o comprimento. Cicindela. fig. 25.
-— Attenuata. Que se vaõ attenuando, ou estreitando posteriormente a pouco, e pouco. Leptura,
-Necidalis.
+— Attenuata. Que se vaõ attenuando, ou estreitando posteriormente a pouco, e pouco. Leptura, Necidalis.
 — Plana. Da mesma altura em toda a parte. Blatta.
 — Deflexa. A margem interior mais alta. Gryllus.
 — Cruciata. Dobrados no meio, de maneira, que apparece a superficie interior. Cimex, Nepa.
@@ -1761,10 +1760,225 @@ Pela superficie
 — Squamata. Com pequenas laminas alguma cousa levantadas. Curculio.
 — Punctata. Com pontos. Carabu.
 — Striata. Imprimidos com linhas longitudinaes. Carabus.
-— Punctato-striata. Os pontos dispostos em linhas lon-
+— Punctato-striata. Os pontos dispostos em linhas longitudinaes. Cysomela.
+— Sulcata. Com linhas longitudinaes excavadas. Carabus.
+— Porcata. Saõ sulcados com excavações, e pontos levantados compridos prominentes. Carabus porcatus.
+— Rugosa. Com varias linhas prominentes reticuladas, ou dispostas em modo de rede. Silpha rugosa.
+— Lineata. Com linhas levantadas longitudinaes. Silpha atrata.
+— Crenata. Com linhas prominentes longitudinaes crenadas, ou ondadas. Curculio.
+— Spinosa. Com aculeos fortes, e rijos, agudos. Curculio, Hispa.
+— Glabra. Oppostos aos antecedentes.
+Pela sutura.
+— Longitudinalis. A margem interior dos elytros saõ conniventes.
+— Transversalis. Os dous elytros estaõ pegados por esta sutura ao thorax.
+Pela margem.
+— Marginata. Com a margem prominente, ou sahida para fóra. Silpha, Cassida. fig. 12.
+— Serrata. Cortados á maneira de serra. Buprestis.
+— Dentata. Com incisões á maneira de dentes.
+— Sinuata. Com huma excavaçaõ. Silpha sinuata.
+— Inermia. Contraria ás antecedentes.
+Pelo apice.
+— Rotundata. Que acabaõ em segmento de circulo. Gryllus.
 
+[página 92]
+— Acuminata. Que acabaõ em huma ponta forte, e rija. Tenebrio.
+— Truncata. Obtusos, ou como cortados posteriormente. Staphilinus. fig. 20.
+— Fastigiata. Excavados, ou emarginados no apice. Leptura, Stenocorus..
+— Mucronata. Excavados no apice, e no meio da emarginatura, ou a excavaçaõ, tem huma ponta. Buprestis.
+— Decollata. O mesmo que truncata.
+ENTEMOLOGIA. Sciencia, que trata dos Insectos.
+ENTOMOLOGUS. Author da mesma sciencia.
+EPIGASTRIUM. A regiaõ epigastrica nos insectos he o espaço que fica na parte superior do ventre. Cantharis rufa.
+EXCRETIO. Copia do humor, que o insecto lança quando se corta, ou tambem pela transpiraçaõ
+F.
+FEMUR. Coixa, he o nó superior, que pega o pé. Tab. VI. fig. II. y.y.y.
+Pela figura.
+— Angulatum. Com suturas agudas prominentes. Gryllus.
+— Incrassatum. Mais grossa, que a tibia. Chrysomela, Curculio.
+— Incurvum. Arqueada descrevendo hum segmento de circulo. Musca diophtalma.
+— Fulcratum. Com huma lamina consistente, e rija na sua base. Mordella. fig. 19.
+— Canaliculatum. Excavada longitudinalmente. Nepa cinerea.
+— Dilatatum. Com as margens membranaceas estendidas. Gryllus.
 
-[faltam as páginas 90 a 99]
+[página 93]
+— Cornutum. Com ponta. Lamia pedicornis.
+— Patella femorum. Hum ossiculo entre o femur, e a tibia. Ichneumon delusor.
+Pela margem.
+— Dentatum. Com huma, ou muitas prominencias agudas distantes. Curculio, Vespa.
+— Serratum. Cortado á maneira de serra. Cancer. Gryllus.
+—Inerme. Sem dentes &c. Cerambix.
+Pelo apice
+— Lobatum. Que acaba em huma membrana sahida para fóra. Mantis.
+— Spinosum. Que acaba em espinha aguda, e rija. Mantis.
+— Clavatum. Com o apice mais grosso. Cimex.
+— Inerme. Opposto aos precedentes.
+FRONS. Frente, a parte superior da cabeça entre os olhos.
+Pela substancia
+— Cornea. He cornea na maior parte dos insectos.
+— Vesicularis. De substancia vesicular. Myopa.
+Pela figura.
+— Acuminata. Que acaba em ponta entre as antennas. Gryllus.
+— Rostrata. Com huma ponta comprida. Astacus.
+— Scutata. Cuberta com a substancia cornea do thorax applainada, ou estendida. Cassida, Lampyris.
+— Turrita. Elevada; cylindrica, sahida para fóra, ou prominente. Latervaria, Truxalis.
+Pela superficie.
+— Laevis. Lisa, sem risco algum.
+— Glabra. Sem pellos, ou lanugem.
+— Punctata. Com muitos pontos dispostos sem ordem.
+
+[página 94]
+— Sulcata. Com excavações lineares.
+— Scabra. Com pontos levantados.
+— Unicornis. Com huma ponta aguda levantada. Scarabæeus.
+— Bicornis. Com duas pontas. Scarabæus. Hispa. Apis.
+— Tuberculata. Com huma pequena prominencia obtuza. Scarabæus.
+— Carinata. A modo de quilha; ou com huma linha longitudinal aguda levantada. Curculio.
+— Canaliculata. Com huma linha longitudinal excavada. Curculio.
+— Pubescens. Com lanugem. Melolontha.
+— Pilosa com pellos compridos, mais rijos. Phalaena.
+— Hirta. Com pellos juntos e compridos. Apis.
+G.
+GALEA. Especie de elmo, ou capacete cylindrico, ou obtuzo quasi visicular, que cobre o dorso das maxillas.
+— Brevior maxilla. Mais breve que o queixo.
+— Longior. Mais comprido. Blatta.
+— Æqualis. Igual. Gryllus Acheta.
+— Truncata. Como cortada. Blatta.
+— Obtusa. Obtuza. Gryllus.
+— Fornicata. Arqueada. Truxalis.
+Pela proporçaõ.
+— Brevior palpis. He mais breve, que os palpos; na maior parte dos insectos.
+— Longior. Mais comprida.
+— Elongata. Comprida até a aba, ou lacinia externa da lingua. Apis.
+
+[página 95]
+GULA. Parte inferior da cabeça entre a bocca, e o thorax.
+H.
+HAUSTELLUM. He huma especie de rostro sahido para fóra, corneo, sem articulações. Tem huma bainha muitas vezes bivalve; contem sedas. Differe da proboscide por esta ser bilabiada, e o Haustellum nunca.
+Obs. Estando a proboscide acha se, ordinariamente o Haustellum com bainha univalve, ou sem ella estando as sedas escondidas em huma excavaçaõ, ou canal, que está posto no dorso da proboscide.
+Pelas sedas
+— Unica. Huma só seda. Tipula. Stratiomys, Conops. fig. 69.
+— Duæ. Duas. Stomonys.
+— Tres. Tres. Bibio. Rhagio, Bombylius. fig. 71.
+— Quatuor. Quatro. Syrphus.
+— Quinque. Cinco. Tabunus, Culex. fig. 67.
+— Setaceæ. Setaceas. Tipula. fig. 64.
+— Acuta. Aguda. Rhagio.
+— Cylindrica. De figura de Cylindro. Stratiomys.
+— Æquales. Iguaes. Tabanus.
+— Inæquales. Desiguaes. Syrphus. Culex.
+Pela figura
+— Fornicatum. Arqueado— Rhingia.
+— Cultratum. A maneira de faca. Rhingia.
+— Canaliculatum. Canaliculado. Bibio.
+— Inflexum. Encurvado. Empis. fig. 68.
+— Geniculatum. Com nós. Conops.
+— Gibbum. Corcovado.
+— Rectum. Recto. Asilus. fig. 70.
+— Setaceum. De figura de seda. Bombylius.
+— Cylindricum. Cylindrico. Hippobosca. Rhagio.
+
+[página 96]
+— Flexile. Flexivel. Culex.
+Pela bainha.
+— Nulla. Sem bainha. Tipula.
+— Univalvis. Com huma valva. Bibio.
+— Bivalvis Com duas. Myopa.
+— Valvulis æqualibus. Com valvas iguaes. Hippobosca.
+— Valvulis inæqualibus. Com valvas desiguaes. Myopa, Asilus.
+— Canaliculata. Canaliculada.
+— Acuminata. Aguda. Tabanus.
+— Abbreviata. Breve.
+— Fissa. Dividida, ou como rachada. Asilus. fig. 70.
+HEMILITRUM. He quando as asas superiores saõ algum tanto duras, mas flexiveis. Gryllus.
+I.
+IMMARGINATUM corpus. Sem excavações na margem, e sem margem sahida para fóra. Crysomela.
+L.
+LABIUM. O beiço he horizontal, e he a parte inferior da cabeça que está estendida, e que fecha a parte inferior da bocca, para que naõ saia o que o animal tomou.
+Pelo numero.
+— Nullum. Sem beiço, nos Lepidopteros.
+— Unicum. Hum só.
+— Plura. Muitos. Cancer. Pagurus.
+Pela figura.
+— Cylindricum. Cylindrico. Scarabaeus, Cetonia.
+— Cordatum. A extremidade, ou apice dilatada arredondada, obtuza. Melolontha, Nicrophorus.
+
+[página 97]
+— Quadratum. Quadrado. Elophorus.
+— Orbiculatum. Orbicular. Opatrum.
+— Gibbum. Corcovado, elevado no meio. Lagria.
+— Obconicum. Que se vai dilatando mais para a ponta a pouco e pouco. Prionus. Mutilla.
+— Fornicatum. Concavo na parte inferior. Aeshna.
+— Lineare. Delgado, e da mesma grossura em toda a parte. Chrysis.
+— Convolutum. Com as margens reviradas para a parte superior. Trombidium.
+— Carinatum. Com linha intermedia levantada, ou prominente. Vespa.
+— Linguæforme. A maneira de lingua. Apis.
+Pela margem.
+— Integrum. Inteiro. Cryptocephalus.
+— Emarginatum. Com excavaçaõ formando hum pequeno segmento de circulo. Scarabaeus.
+— Fissum. Com racha pequena. Cetonia. Truxalis.
+— Ciliatum. Cercado com pellos parallelos. Sphaeridium.
+— Crenatum. Com cortaduras arredondadas superficiaes. Nicrophorus.
+— Dentatum. Com protuberancias agudas, rijas. Scolopendra. fig. 85.
+— Incrassatum. A margem mais grossa. Gryllus.
+Pelo apice.
+— Obtusum. Obtuso. Dermestes. Cassida. fig. 12.
+— Truncatum.
+Como cortado.
+— Acuminatum. O apice com huma ponta. Buprestis, Bruchus. fig. 11.
+Hastatum.
+O apice triangular com os angulos sahidos para fora. Tentredo. fig. 54.
+— Rotundatum. Arredondado. Dytiscus. fig. 27.
+Pelas abas, ou lacinias.
+
+[página 98]
+— Integrum. Inteiro.
+— Bifidum. Dividido em dous Blata.
+— Trifidum. Em tres. Forficula.
+— Ouadrifidum. Em quatro. Cancer, Pagurus.
+— Quinquefidum. Em cinco. Apis gulosa.
+— Setarium. Com huma seda forte em ambos os lados.
+Pela substancia.
+— Corneum. De substancia cornea. Cicindela. fig. 25.
+— Membranaceum. Membranoso. Cerocoma.
+— Vesiculosum. Vesicular. Gryllus. Phalangium.
+— Basi corneum, apice membranaceum. Corneo na base, e membranoso no apice. Apis.
+Pela proporção.
+— Palpis posticis brevius. Mais breve, que os palpos posteriores: Ichneumon, Clerus.
+— — Æquale. Igual aos ditos palpos. Citonia.
+— — Longius. Chrysis. fig. 58.
+— Elongatum. Comprido. Apis.
+LARVA. O primeiro estado dos insectos logo que sahem do Ovo, a que podemos clamar estado da infancia no insecto, de cujo estado passa o insecto ao de pupa.
+LINGUA Spiralis. Lingua espiral posta entre os palpos, que tem varias involuções, propria dos Lepidopteros, ou Glossatos.
+O seu principal uso he tirar o nectar das flores.
+Pela substancia.
+— Cornea, dura, nitida, polita. De substancia cornea, rija, luzidia, polida, Sphinx. fig. 44.
+— Membranacea, molis, albida, tenuis. De substancia membranosa, mole, esbranquiçada, delgada. Bombix.
+Pelo apice.
+— Acuta. Aguda. Zigaena.
+— Obtusa. Obtusa. Sphinx.
+
+[página 99]
+Pela proporçaõ.
+— Longissima. Muito comprida. Sphinx.
+— Abbreviata. Breve. Phalæna.
+— Linguæ rudimentum. O principio da lingua. Hepialus.
+LOBUS, bilobus &c. Lobo, ou aba corresponde á figura da parte inferior da auricula; he huma prominencia semicircular, ou que forma hum segmento de circulo; tendo huma diz-se unilobus; tendo duas diz-se bilobus. Scarabaeus bilobus.
+M:
+MARGINATUS thorax. Thorax com a margem extendida, ou sahida para fóra.
+MAXILLÆ. Outra especie de queixos taõbem transversaes produzidos da substancia interior da cabeça, muitas vezes de substancia membranacea, que fechaõ os lados da bocca interiormente.
+Pelo numero.
+— Nulla. Nenhuma. Cancer.
+— Duæ. Duas. Na maior parte dos insectos.
+Pela connexaõ, ou uninaõ.
+— Connata. Unida com o beiço alem do meio. Synistata.
+— Adnata. Pegada toda ao beiço. Phryganea.
+— Adhaerens. Com a base unida entre si. Phalangium.
+Pela figura.
+— Cylindrica. De figura cylindrica. Aranea. fig. 80.
+— Compressa. Comprimida nos lados. Apis.
+— Arcuata. Arqueda. Gyrinus. Carabus. Aeshna.
+— Linguæformis. A maneira de lingua. Apis.
+Pelo apice
 
 [página 100]
 
@@ -1787,10 +2001,149 @@ Pela superficie
 — Unidentata. com hum dente forte no pegamento do palpo Elater. Scarabeus.
 — Bifida. Dividida até a base. Tenebrio. fig. 17.
 Obs. Quando estaõ quatro palpos pegados á maxilla entaõ sempre a maxila he inteira.
+MAXILLOSUM os. Bocca com maxillas. Gryllus &c.
+MULTI maxillosum. Com muitas. Libella. fig. 46.
+MANDIBULÆ. Os queixos saõ dous, transversaes, de substancia cornea, que fechaõ os lados da bocca superiormente, nascem da substancia cornea da cabeça.
+Pelo numero.
+— Nulla. Nenhuma. Lepidoptera. Glossata.
+— Duæ. Duas. Em muitos insectos.
+
+[página 101]
+Pela situaçaõ.
+— Exserta. Que sobresahe alem do escudo, ou clypeo. Cicindela.
+— Abscondita. Que está escondida debaixo do clypeo. Dermestes. fig. 3.
+— Sepulta. Totalmente cuberta dos palpos, e beiços. Cancer. Astacus.
+Pela figura.
+— Recta. Direita. Crabro. Trombidium.
+— Arcuata. Arqueada. Scolopendra.
+— Concava. Por baixo excavada. Bombyx.
+— Fornicata. Arqueada, e excavada por baixo. Cancer. Astacus.
+— Excavata. Vasia, com a unha, ou bico furado. Aranea.
+— Articulata. Com nôs. Phalangium.
+— Cylindrica. Cilindrica. Scorpio.
+— Forcipata. Com apices, que se sobrepoem. Lucanus. Cicindela.
+— Difformis, brevis. Crassa, dentibus inaequalibus instructa. Breve, grossa, com dentes desiguaes. Julus. fig. 80.
+Pelos dentes.
+— Inermis. Sem dentes. Chrysomela. fig. 14.
+— Unidentata. Com hum só dente.
+— Multidentata. Com muitos dentes. Cicindela.
+Pelo apice 
+— Obtusa. Obtusa. Cancer. Jullus.
+— Acuminata. Aguda. Cerocoma.
+— Fissa. Com huma fenda no apice. Sepidium.
+— Bifida. Dividida no apice alem do meio da mandibula.
+— Bidentata. A pequena fenda no apice com duas lacinias, ou pontas agudas. Gyrinus. fig. 6.
+
+[página 102]
+— Bifurcata. A breve fenda do apice com pontas obtusas, e reviradas. Lucanus.
+— Truncata. Como cortada. Vespa.
+— Denticulata. O apice cortado obtusamente tem dentes, e huma pequena unha muito aguda. Libellula.
+— Unguiculata. Com unha arqueada aguda. Aranea.
+— Biunguiculata. Com duas unhas. Scorpio.
+— Chelifera. O apice mais grosso, fendido com huma lacinia, ou aba movel. Phalangium. fig. 79.
+Pela proporçaõ.
+— Clypeo brevior. Mais breve, que o escudo. Bruchus.
+— Longior clypeo. Mais comprida. Cicindela.
+— Longissima. Muito mais comprida. Lucanus Mas.
+METAMORPHOSIS. He a mudança dos insectos a qual he de quatro estados desde o ovo até o Insecto perfeito, ou Imagem. Comprehende O Ovo, Larva, Pupa, e Imagem.
+N.
+NEUTRA. Chamaõ-se aquelles Insectos, que por falta de genitaes, saõ estereis; estes só se achaõ na republica das abêlhas, e formigas, servem para construirem, e encherem os favos, defenderem os maridos, e guardarem as Pupas. Fabricio.
+O.
+OCULI. Olhos.
+Pelo numero.
+— Bini. São dous na maior parte dos Insectos.
+
+[página 103]
+— Sex.
+— Octo. Seis, ou oito nas Aranhas.
+Pela situaçaõ.
+— Aproximati. Visinhos. Monoculus. fig. 83.
+— Distantes. O contrario. Scarabæus.
+— Frontales. Na frente. Phalangium, Aranea.
+— Laterales. Nos lados. Phalaena, Aranea.
+Pela Connexaõ.
+— Testæ innati. Pegados á casca. Monoculus.
+— Prominuli. Prominentes. Cicindela.
+— Pedunculati. Com pedunculos, que os sustentaõ. Cancer.
+Pela composiçaõ.
+— Simplices. Hum olho simples para cada lado. Scarabaeus, Cancer.
+— Compositi. Muitos olhos, ou recticulados com muitas lentes. Bombyx, Musca.
+Pela figura.
+— Sphaerici. Globosos. Aranea.
+— Oblongi. Oblongos. Buprestis.
+— Rotundati. Redondos. Agrion.
+OCELLUS. He huma macula redonda de varias côres posta nas azas de alguns Lepidopteros. Tab. VI. fig. I. s.
+OS. A bocca para tomar o alimento he cousa, que todos tem, e naquelles Insectos, em que parece faltar, supprem alguns poros; ella consta de clypeo, beiços, mandibulas, maxillas, galea, palpos, lingua espiral, proboscide, rostro, houstello.
+— Forcipatum. Á maneira de tenaz. Hister. fig. 4.
+P. 
+PALPI. Saõ os filamentos juntos á bocca, articulados moveis, que servem de sensorio. Tab. VI. fig. II. III. b. b.
+Pelo numero.
+— Nulli. Nenhum. Notonecta.
+— Duo. Dous. Aranea, Scolopendra.
+— Quatuor. Quatro. Scarabaeus, Ichneumon.
+— Sex. Seis. Cicindela. Cancer.
+Pela situaçaõ.
+— Inserti maxillae dorso. Pegados ao dorso da maxilla. Scarabæus.
+— — maxillæ medio interiori. No meio interno da maxilla. Apis.
+— Inter maxillas. Entre as maxillas. Scolopendra.
+— Labii apici. Na extremidade do beiço. Hister. Apis.
+— Labii medio externo. No meio do beiço na parte exterior. Ichneumon.
+— Labii medio interno. Na parte interna do beiço. Cetonia.
+— Labii basi. Na base do beiço. Nicrophorus. Stenocorus.
+— Labii lateribus. Nos lados do beiço. Cancer.
+— Penicillis duobus sub labio absconditis. Dous pinceis escondidos debaixo do beiço. Lucanus.
+— Mandibulae dorso. No dorso do queixo Astacus.
+— Ad latera linguæ Spiralis. Nos lados da lingua espiral. Lepidoptera, Glossata.
+— Proboscidi. Pegados a proboscide. Musca.
+— Haustelli vagina. Á bainha do haustello.
+— Haustelli setis. As sedas do haustello. Syrphus.
+Pela figura.
+— Filiformes. Da mesma grossura em toda a parte. Cerocoma.
+— Moniliformes. Com todos os nóz globosos.
+— Clavati. O ultimo nó mais grosso, e grande. Trox.
+
+[página 105]
+— Cylindrici. Com os nós de figura cylindrica, iguaes. Ichneumon. fig. 56.
+— Securifornes. O ultimo nó mais largo, e agudo em hum lado. Elater, Coccinella. fig. 10.
+— Incurvi. Curvados sobre a bocca. Tipula.
+— Cheliferi. O ultimo nó bifido, ou dividido, com huma lacinia, ou parte movel. Scorpio.
+— Bifidi. Divididos até a base. Cancer.
+— Linguæformes. Muito compridos, compressos dos lados, membranaceos á maneira de lingua. Nomada.
+— Vesiculosi. Com nós molles, e inchados. Gryllus.
+— Stuposi. Cubertos de huma lanugem molle. Lepidoptera, aut Glossata.
+Pelos nós.
+— Aequales. Com todos os nós da mesma figura, e comprimento. Donacia.
+— Inæquales. Com alguns nós maiores, e mais grossos. Crabro. fig. 28.
+— Rhomboides. Os nós chatos com angulos agudos, e levantados obliquamente. Crabro.
+— Pilosi. Com muitos pellos riios. Cicindela.
+— Cuneiformes. Com os nós redondos, ou roliços, e que pouco, a pouco vaõ sendo mais grossos para a ponta. Carabus. fig. 28.
+— Triangulares. Os nós com tres angulos agudos prominentes. Astacus.
+O numero dos nós he differente, quasi sempre saõ quatro, ou sinco, ás vezes dous, ou tres, raras vezes saõ mais.
+Pelo apice.
+— Subulati. Com o ultimo nó, ou articulo agudo, ou em forma de ponta.
+— Turgidi. Com o ultimo nó inchado á maneira de cabeça. Araneæ maribus.
+— Truncati. O ultimo nó como cortado. Prionus.
+— Unguiculati. O ultimo nó de substancia cornea, arqueado, agudo. Trombidium.
+— Fissi. O ultimo nó bifido, ou dividido. Alucita.
+Pela proporçaõ.
+Ichneumon.
+— Elongati. Compridos. Scorpio, Ichneumon.
+— Abbreviati. Breves. Libellula.
+Pela igualdade.
+— Antici longiores. Os anteriores mais compridos. Scyllarus.
+— Omnes æquales. Todos iguaes. Nicrophorus.
+— Intermedii longiores. Os do meio mais compridos Carabus.
+— Postici longiores. Os posteriores mais compridos. Clerus.
+— PECTEN. Saõ duas partes em figura de pente, que se observaõ entre o abdomen, e o peito de alguns insectos. Scorpio. Pelo numero dos dentes destes pentes he, que se distinguem as especies deste genero.
+O uso delles ainda se ignora.
+PECTUS. O peito he a parte inferior do tronco, que corresponde abaixo do thorax. Poucas differenças tem nos nomes.
+Ao peito ordinariamente estão pegados os quatro pés anteriores nos insectos hexapodos, ou de seis pés.
+PEDATIO. Diz se da estructura, e situaçaõ dos pés. Vid. Fabricio.
+PEDES. Os pés servem para o movimento veloz. Constaõ, de femur, Tab. VI. fig. II. r.r. g.g. tibia, fig. III. y. r. st. t., e verso. fig. II. III. w. w. Os pés anteriores nos machos quasi sempre saõ mais cumpridos pela copula. Cancer. Chryptocephalus.
+Pelo
 
 
-
-[Faltam as páginas de 100 até 187]
+[Faltam as páginas de 107 até 187]
 
 
 [página 188]
@@ -3557,3 +3910,4 @@ a cultura da flor de Crystal, ou soda (a), que serve para fazer o vidro, e o sab
 As plantas, que nos lugares seccos, e onde ha greda se daõ bem saõ muitas (c) , algumas das quaes serviriaõ para pastos (d). As plantas proprias para lugares humidos (e) aquosos, e de alagoas (f) tambem dariaõ alguma utilidade. 
 	E por hora basta; porque para se tratar a fundo qualquer destes objectos seria necessario mais tempo. 
 	Se corresponder a aceitaçaõ do Publico aos meus sinceros dezejos occupar-me-hei em fazer experiencias sobre as plantas que se cultivaõ, e se cultivaraõ neste Real Jardim Botanico a fim de conhecer as mais adequadas para este feliz clima, e aquellas que multiplicadas poderaõ dar maior utilidade: farei mais exactas observações sobre os lugares incultos: indicarei os meios proporcionados conforme as situaçoens, e producçoens, tratando fundamentalmente de todos estes objectos.
+

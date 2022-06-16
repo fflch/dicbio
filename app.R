@@ -85,12 +85,32 @@ ui <- fluidPage(
                                                         htmlOutput("FirstAttestation"),
                                                         tags$hr(),
                                                         htmlOutput("HowToCite"),
+#                                                        tags$hr(),
+#                                                        htmlOutput("Dates"),
                                                         tags$br()
                                                         
                                               )    
                                                   )
                                                   
                                       )
+#             ,tabPanel(id="Documentation","Documentação", fluid = TRUE,       
+#                      fluidRow(
+#                        column(width=4,offset=1, htmlOutput("ProjectIntro")),
+#                        column(width=6,offset=1, img(src = "VandelliTabXV.png", height = "500px"),
+#                               HTML("Tabela XV - Vandelli - <i>Diccionario de Termos Technicos de Historia Natural</i> (1788)")
+#                               ,tags$hr(),
+#                               HTML("<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\"><img src=\"creativecommons.png\" height=\"31px\"></a>")
+#                               ,
+#                               HTML("<p style='font-size:10px'>O <b>Dicionário Histórico de Termos da Biologia</b>
+#                               está licenciado sob a <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Licença Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+#                               International</a></p>"),
+#                               tags$br(),
+#                               HTML("<p style='font-size:10px'>The <b>Historical Dictionary of Biology Terms</b>
+#                               is licenced under a <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+#                               International Licence</a></p>")
+#                        )  
+#                      )
+#             )
                                     )
                       
                                     )
@@ -171,7 +191,14 @@ server <- function(input, output, session) {
            Acesso em: ",format(Sys.Date(), "%d %b. %Y"), ".</p>")
 
   }) 
-#  output$NumDeContextos <- renderText({
+
+#  output$Dates <- renderText({
+    
+#    paste0("Data")
+    
+#  })  
+  
+  #  output$NumDeContextos <- renderText({
 
     #  Criar trecho para incluir variantes gráficas
     

@@ -47,7 +47,7 @@ text_anndfSantucci$doc_id <- "AnatomiadeSantucci.txt"
 
 # Junta os dois e elimina as colunas desnecessárias
 
-DataframeTotal <- rbind(text_anndfVandelli, text_anndfSantucci)
+DataframeTotal <- rbind(text_anndfSantucci, text_anndfVandelli)
 DataframeTotal <- subset(DataframeTotal, upos!="PUNCT")
 DataframeTotal$paragraph_id <- NULL
 DataframeTotal$head_token_id <- NULL
@@ -82,7 +82,6 @@ DataframeTotal$orth <- str_replace(DataframeTotal$orth, "FF", "F")
 DataframeTotal$orth <- str_replace(DataframeTotal$orth, "th", "t")
 DataframeTotal$orth <- str_replace(DataframeTotal$orth, "ph", "f")
 DataframeTotal$orth <- str_replace(DataframeTotal$orth, "cco", "co")
-
 
 DataframeTotal$orth[DataframeTotal$token == "bifido"] <- "bífido"
 DataframeTotal$orth[DataframeTotal$token == "Bifido"] <- "Bífido"
@@ -409,23 +408,13 @@ DataframeTotal$sentence[i] <- paste0(DataframeTotal$sentence[i], " (",
                                   ")")
 }
 
-# Script para incluir negrito nas sentenças
-
-for(i in 1:length(DataframeTotal$sentence)){
-  
-  DataframeTotal$sentence[i]<- sub(DataframeTotal$token[i],
-                                  paste0("<b>",
-                                      DataframeTotal$token[i], 
-                                      "</b>"),
-                                  DataframeTotal$sentence[i])
-}
 
 # Desambiguações
 DataframeTotal$sensenumber <- "1"
 
 # "gema"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="gema" & 
-                             DataframeTotal$sentence=="d. branco. b. gema."] <- "2"
+                             DataframeTotal$sentence=="d. branco. b. gema. (VANDELLI, Domingos, 1788)"] <- "2"
 
 # "bulbo"
 DataframeTotal$sensenumber[DataframeTotal$token=="bulbo"
@@ -433,46 +422,57 @@ DataframeTotal$sensenumber[DataframeTotal$token=="bulbo"
 
 # "disco"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Quando o meio, ou disco da folha se approxima, ou se une ao mesmo caule."] <- "2"
+             DataframeTotal$sentence=="Quando o meio, ou disco da folha se approxima, ou se une ao mesmo caule. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Quando as mesmas folhas lançaõ no disco inferior raizes como em algumas Algas."] <- "2"
+             DataframeTotal$sentence=="Quando as mesmas folhas lançaõ no disco inferior raizes como em algumas Algas. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Por margem da folha entendem-se todos os lados exteriores, naõ fallando do disco."] <- "2"
+             DataframeTotal$sentence=="Por margem da folha entendem-se todos os lados exteriores, naõ fallando do disco. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Sendo a margem cartilaginea, differente da substancia do disco, ou da superficie, Sedum."] <- "2"
+             DataframeTotal$sentence=="Sendo a margem cartilaginea, differente da substancia do disco, ou da superficie, Sedum. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="As veias da folha se contrahem de tal sorte, que comprimindo o disco, este sobresahe; isto he, eleva-se mais, que os mesmos lados da folha."] <- "2"
+             DataframeTotal$sentence=="As veias da folha se contrahem de tal sorte, que comprimindo o disco, este sobresahe; isto he, eleva-se mais, que os mesmos lados da folha. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Sobresahindo de entre as rugas para parte do disco, ou da superficies da folha, de figura conica pela parte superior, e concava pela inferior."] <- "2"
+             DataframeTotal$sentence=="Sobresahindo de entre as rugas para parte do disco, ou da superficies da folha, de figura conica pela parte superior, e concava pela inferior. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="A folha, que tem varias excavaçoens, ou o disco entre as veias está abaixado."] <- "2"
+             DataframeTotal$sentence=="A folha, que tem varias excavaçoens, ou o disco entre as veias está abaixado. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Folha revestida e tuberculos algum tanto duros, espalhados pelo seu disco ou superficie."] <- "2"
+             DataframeTotal$sentence=="Folha revestida e tuberculos algum tanto duros, espalhados pelo seu disco ou superficie. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Havendo sedas de disco, ou na superficie da folha, que sejaõ algum tanto duras, rijas, asperas, e quebradiças."] <- "2"
+             DataframeTotal$sentence=="Havendo sedas de disco, ou na superficie da folha, que sejaõ algum tanto duras, rijas, asperas, e quebradiças. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Estando o disco cheio de espinhos rijos, e picantes."] <- "2"
+             DataframeTotal$sentence=="Estando o disco cheio de espinhos rijos, e picantes. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="A margem ou lado mais restricto obriga o disco da folha a ser concavo."] <- "2"
+             DataframeTotal$sentence=="A margem ou lado mais restricto obriga o disco da folha a ser concavo. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Sendo o disco superior da folha mais elevado, ou convexo."] <- "2"
+             DataframeTotal$sentence=="Sendo o disco superior da folha mais elevado, ou convexo. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="O disco da folha sobe, e desce para a margem formando assim varios angulos, e muitas pregas."] <- "2"
+             DataframeTotal$sentence=="O disco da folha sobe, e desce para a margem formando assim varios angulos, e muitas pregas. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Subindo, e descendo o disco da folha convexamente até a margem."] <- "2"
+             DataframeTotal$sentence=="Subindo, e descendo o disco da folha convexamente até a margem. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="O disco da folha forma varias dobras obtusas, e alternadas."] <- "2"
+             DataframeTotal$sentence=="O disco da folha forma varias dobras obtusas, e alternadas. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Folha monstruosa, pois he quando a margem da folha sahe maior do que o disco admitte, de maneira que a margem he as ondas."] <- "2"
+             DataframeTotal$sentence=="Folha monstruosa, pois he quando a margem da folha sahe maior do que o disco admitte, de maneira que a margem he as ondas. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="A folha he mais funda no disco, que nos lados."] <- "2"
+             DataframeTotal$sentence=="A folha he mais funda no disco, que nos lados. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="A superficie interior ou disco da folha elevada longitudinalmente á mesma maneira de quilha."] <- "2"
+             DataframeTotal$sentence=="A superficie interior ou disco da folha elevada longitudinalmente á mesma maneira de quilha. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Tendo dous angulos longitudinaes, prominentes, oppostos, e o disco mais convexo."] <- "2"
+             DataframeTotal$sentence=="Tendo dous angulos longitudinaes, prominentes, oppostos, e o disco mais convexo. (VANDELLI, Domingos, 1788)"] <- "2"
+
+# Script para incluir negrito nas sentenças
+
+for(i in 1:length(DataframeTotal$sentence)){
+  
+  DataframeTotal$sentence[i]<- sub(DataframeTotal$token[i],
+                                   paste0("<b>",
+                                          DataframeTotal$token[i], 
+                                          "</b>"),
+                                   DataframeTotal$sentence[i])
+}
 
 # Correção do negrito
-DataframeTotal$sentence[DataframeTotal$sentence_id==6695 & DataframeTotal$token_id==22] <-
+DataframeTotal$sentence[DataframeTotal$sentence_id==7551 & DataframeTotal$token_id==22] <-
   "d. He a parte, que sustenta, une a anthera (131), ou he o pè da <b>anthera</b>, pelo qual esta se une á planta; ás vezes faltaõ totalmente os filamentos, ou saõ taõ pequenos, que apenas apparecem, e entaõ contaõ-se as antheras. (VANDELLI, Domingos, 1788)"
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")

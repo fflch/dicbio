@@ -7,11 +7,14 @@ output: html_document
 # Prefácio
 
 O **Dicionário Histórico de Termos da Biologia** é um dicionário eletrônico que visa reunir informações histórico-etimológicas sobre os termos da Biologia em língua portuguesa.
+
 O projeto é coordenado por Bruno Maroneze e conta com a participação de estudantes de graduação e pós-graduação da Universidade Federal da Grande Dourados (UFGD) e da Universidade Federal de Mato Grosso do Sul (UFMS).
+
 O desenvolvimento inicial deste dicionário foi possível graças ao estágio de pós-doutoramento desenvolvido pelo coordenador do projeto junto à Universidade de Coimbra (Portugal), sob a supervisão da Profa. Dra. Graça Rio-Torto.
 
 ## Objetivos
 O objetivo geral deste projeto é compilar uma obra de referência, para consulta *online*, que descreva o léxico científico da língua portuguesa, na área das ciências biológicas, através da história.
+
 Seus objetivos específicos são:
 - Compilar um córpus histórico-diacrônico com textos sobre as ciências biológicas (cf. "Córpus");
 - Identificar as ocorrências dos termos em épocas anteriores;
@@ -20,41 +23,61 @@ Seus objetivos específicos são:
 
 ## Córpus
 O **Dicionário Histórico de Termos da Biologia** é inteiramente baseado num córpus formado por textos científicos publicados em língua portuguesa. Esse córpus (assim como o próprio dicionário) está em contínua atualização (cf. "Política de disponibilização dos dados") e disponível integralmente (no repositório *GitHub*), por ser constituído apenas por textos em domínio público.
+
 Optou-se por, inicialmente, incluir no córpus apenas textos do século XVIII (por ser este um momento histórico altamente significativo no desenvolvimento da Ciência, especialmente em língua portuguesa); posteriormente, pretende-se incluir outros períodos históricos (tanto anteriores quanto posteriores).
+
 O córpus está disponibilizado em formato .txt (cf. "Política de disponibilização dos dados") e é etiquetado por meio de um algoritmo computacional (cf. "Estrutura computacional") também disponível no repositório *GitHub*.
 
 ### Textos que compõem o córpus:
 Os textos que integram o córpus podem ser encontrados nos *links* abaixo. O córpus transcrito em formato .txt está disponível no repositório *GitHub* (cf. "Política de disponibilização dos dados").
 
 - SANTUCCI, Bernardo. [**Anatomia do corpo humano**](https://books.google.com.br/books/about/Anatomia_do_corpo_humano.html?id=D83JL7ybBeUC&redir_esc=y). Lisboa: na Officina de Antonio Pedrozo Galram, 1739.
+
 - VANDELLI, Domingos. [**Diccionario dos termos technicos de Historia Natural**](https://purl.pt/13958). Coimbra: na Real Officina da Universidade, 1788.
 
 ## Critérios lexicográficos
+Descrevem-se aqui os critérios adotados na seleção das entradas e na elaboração dos verbetes.
 
 ### Nomenclatura
+Prevê-se que o **Dicionário** conterá a totalidade dos termos presentes no córpus analisado, ou seja, todos os substantivos, adjetivos e verbos (inclusive os formados por mais de uma palavra) que designam conceitos científicos relacionados às ciências biológicas e que ocorram nos textos que compõem o córpus. Por ser uma obra de natureza histórica, considera-se como referência a ciência da época dos textos analisados; ou seja, uma unidade lexical é considerada um termo se ela designava um conceito científico no período de circulação da obra, independentemente de esse conceito ser aceito ou não pela ciência do século XXI.
 
-Seleção das entradas
-
-Política de disponibilização de dados ainda que incompletos
+Como a totalidade dos termos é um objetivo ideal, a ser atingido no longo prazo, optou-se por disponibilizar os verbetes à medida que são incluídos (cf. "Política de disponibilização dos dados").
 ### Informações presentes nos verbetes
-Campos presentes nos verbetes - de onde são tiradas as informações
+Cada entrada do dicionário contém:
+
+a) Classe gramatical;
+b) Definições;
+c) Contextos de ocorrência;
+d) Formas variantes gráficas;
+e) Informações histórico-etimológicas.
+
+No caso dos termos polissêmicos, as definições estão numeradas e os contextos de ocorrência estão agrupados juntamente com a definição correspondente.
+
+O campo das variantes gráficas inclui as formas variantes do termo encontradas no córpus.
+
+O campo das informações histórico-etimológicas traz uma discussão a respeito da etimologia do termo, com hipóteses a respeito de sua origem, as primeiras atestações na língua portuguesa, eventuais mudanças de significado pelas quais o termo passou ao longo da história e outras informações que os autores julguem relevantes para uma maior compreensão do termo.
 
 ## Estrutura computacional
-Falar da programação: linguagem R e bases de dados
+O **Dicionário** apresenta uma interface computacional escrita em linguagem R e que funciona por meio da biblioteca *R Shiny*, que permite a criação de código HTML a partir da interação com o usuário. Dessa forma, a com a seleção de uma entrada da lista à esquerda por parte do usuário, apresentam-se os dados referentes à entrada na parte direita da tela.
+
+Os dados que "alimentam" essa interface, bem como o código-fonte em linguagem R, estão disponíveis para *download* no repositório *GitHub* (cf. "Política de disponibilização dos dados").
 
 ## Política de disponibilização dos dados
-Política de disponibilização e link do GitHub
+O **Dicionário** encontra-se em permanente atualização. Para dar mais agilidade à divulgação, optou-se por disponibilizar os verbetes à medida que vão sendo elaborados.
+
+Em cada verbete, registram-se a data da inserção e a data da última atualização. Para facilitar aos pesquisadores que desejam referir-se aos dados, inclui-se também uma proposta de como citar o verbete.
+
+Os dados e o código-fonte encontram-se disponíveis para *download* no repositório *GitHub* [neste *link*](https://github.com/brunomaroneze/dicio_biologia).
 
 ## Publicações
+Incluem-se aqui as publicações dos membros da equipe relacionadas ao **Dicionário Histórico de Termos da Biologia**.
+- MARONEZE, Bruno. [A história da pétala: etimologia de um termo científico](https://www.revistas.usp.br/linhadagua/article/view/159835). **Linha D'Água**, v. 32, n. 3, 2019, pp. 159-176.
 
+- MARONEZE, Bruno. [Termos neológicos em sincronias pretéritas: um estudo do *Diccionario dos Termos Technicos de Historia Natural* de Vandelli](http://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/389/341/1394). In: GIL, Beatriz Daruj *et al*. **Saberes lexicais**. São Paulo: FFLCH-USP, 2019, pp. 96-109.
 
-Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
-
-
-
-
-### Equipe:
+## Equipe
 - **Bruno Oliveira Maroneze** (Professor Associado, Universidade Federal da Grande Dourados) - coordenação do projeto - desde 2017
+- **Fabiani de Amorim Gonçalves** (estudante de pós-graduação, Universidade Federal da Grande Dourados) - preparação do córpus, compilação dos verbetes - desde 2022
 - **Kamila da Silva Barbosa** (estudante de pós-graduação, Universidade Federal de Mato Grosso do Sul) - preparação do córpus, compilação dos verbetes - desde 2021
 - **Raíssa Silveira Buss** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2022
 - **Rafaela Lima Domingos** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2021
@@ -66,7 +89,7 @@ Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](b
 - **Amarildo Braga de Oliveira** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2017-2018
 - **Florival Dourado dos Reis Neto** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2017
 
-### Agradecimentos:
+## Agradecimentos
 A compilação do córpus foi (e ainda é) possível graças à colaboração de estudantes de graduação da Universidade Federal da Grande Dourados, alguns dos quais receberam bolsas de Iniciação Científica da PROPP-UFGD.
 
 A redação dos primeiros verbetes e a criação da parte computacional do dicionário foram possíveis graças ao estágio de pós-doutoramento desenvolvido pelo coordenador do projeto junto à Universidade de Coimbra (Portugal), sob a supervisão da Profa. Dra. **Graça Rio-Torto**.
@@ -74,3 +97,7 @@ A redação dos primeiros verbetes e a criação da parte computacional do dicio
 Agradecemos a **Ligeia Lugli** (University of London) pelas valiosas orientações a respeito de como implementar um dicionário eletrônico online.
 
 Agradecemos a **Gisele Cristina da Conceição** (Universidade do Porto) pelas valiosas sugestões e opiniões.
+
+## Contato
+Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
+
