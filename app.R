@@ -85,32 +85,20 @@ ui <- fluidPage(
                                                         htmlOutput("FirstAttestation"),
                                                         tags$hr(),
                                                         htmlOutput("HowToCite"),
-#                                                        tags$hr(),
-#                                                        htmlOutput("Dates"),
+                                                        tags$hr(),
+                                                        htmlOutput("Dates"),
                                                         tags$br()
                                                         
                                               )    
                                                   )
                                                   
                                       )
-#             ,tabPanel(id="Documentation","Documentação", fluid = TRUE,       
-#                      fluidRow(
-#                        column(width=4,offset=1, htmlOutput("ProjectIntro")),
-#                        column(width=6,offset=1, img(src = "VandelliTabXV.png", height = "500px"),
-#                               HTML("Tabela XV - Vandelli - <i>Diccionario de Termos Technicos de Historia Natural</i> (1788)")
-#                               ,tags$hr(),
-#                               HTML("<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\"><img src=\"creativecommons.png\" height=\"31px\"></a>")
-#                               ,
-#                               HTML("<p style='font-size:10px'>O <b>Dicionário Histórico de Termos da Biologia</b>
-#                               está licenciado sob a <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Licença Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-#                               International</a></p>"),
-#                               tags$br(),
-#                               HTML("<p style='font-size:10px'>The <b>Historical Dictionary of Biology Terms</b>
-#                               is licenced under a <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">Creative Commons Attribution-NonCommercial-ShareAlike 4.0
-#                               International Licence</a></p>")
-#                        )  
-#                      )
-#             )
+             ,tabPanel(id="Documentation","Documentação", fluid = TRUE,       
+                      fluidRow(
+                        column(width=8,offset=1, htmlOutput("ProjectDocumentation"))
+                          
+                      )
+             )
                                     )
                       
                                     )
@@ -133,12 +121,17 @@ server <- function(input, output, session) {
   output$ProjectIntro <-renderText({
     includeMarkdown("ProjectIntro.Rmd")
   })
+
+  output$ProjectDocumentation <-renderText({
+    includeMarkdown("Documentation.Rmd")
+  })  
   
+    
   output$Entry <- renderText({
     
 
     paste0("<font size='+2'><b>", input$headword, "</font></b><br>"
-           , data$WClass[data$Headword==input$headword]
+            , EntryData()$WClass
            )
     
     
@@ -183,8 +176,11 @@ server <- function(input, output, session) {
 
   output$HowToCite <- renderText({
     
-    EntryAuthor <- EntryData()$Credits
-    paste0("<p style='font-size: .7em;'><b>Como citar este verbete:</b><br>", EntryAuthor, ". ",
+    EntryAuthors <- EntryData()$Credits
+    AuthorLastName <- toupper(word(EntryAuthors, -1))
+    AuthorFirstName <- word(EntryAuthors, 1, -2)
+    paste0("<p style='font-size: .7em;'><b>Como citar este verbete:</b><br>", AuthorLastName,
+           ", ", AuthorFirstName, ". ",
            str_to_title(input$headword), ". In: MARONEZE, Bruno (coord.) 
            <b>Dicionário Histórico de Termos da Biologia</b>. 2022. Disponível em: 
            https://dicionariodebiologia.shinyapps.io/Dicio_Biologia. 
@@ -192,11 +188,20 @@ server <- function(input, output, session) {
 
   }) 
 
-#  output$Dates <- renderText({
+  output$Dates <- renderText({
     
-#    paste0("Data")
+    DateOfCreation <- EntryData()$DateOfCreation
+    DateOfUpdate <- EntryData()$DateOfUpdate
     
-#  })  
+    if(DateOfCreation == DateOfUpdate){
+      paste0("Este verbete foi incluído em ", DateOfCreation)
+    } else {
+      
+      paste0("Este verbete foi incluído em ", DateOfCreation, " e atualizado em ",
+             DateOfUpdate)
+      }
+    
+  })  
   
   #  output$NumDeContextos <- renderText({
 
