@@ -216,6 +216,11 @@ DataframeTotal$orth[DataframeTotal$token == "rezinosa"] <- "resinosa"
 DataframeTotal$orth[DataframeTotal$token == "Rezinosa"] <- "Resinosa"
 DataframeTotal$orth[DataframeTotal$token == "rezinosas"] <- "resinosas"
 DataframeTotal$orth[DataframeTotal$token == "Rezinosas"] <- "Resinosas"
+DataframeTotal$orth[DataframeTotal$token == "hypogastrio"] <- "hipogástrio"
+DataframeTotal$orth[DataframeTotal$token == "Hypogastrio"] <- "Hipogástrio"
+DataframeTotal$orth[DataframeTotal$token == "hypogastrios"] <- "hipogástrios"
+DataframeTotal$orth[DataframeTotal$token == "Hypogastrios"] <- "Hipogástrios"
+
 
 # Função para lematizar
 lematizar <- function(lema, wclass){
@@ -344,6 +349,7 @@ DataframeTotal <- lematizar("vilo", "subst")
 DataframeTotal <- lematizar("verrucoso", "adj")
 DataframeTotal <- lematizar("resina", "subst")
 DataframeTotal <- lematizar("resinoso", "adj")
+DataframeTotal <- lematizar("hipogástrio", "subst")
 
 # A lematização de "hermafrodita" exige um cuidado diferente
 
@@ -476,3 +482,5 @@ DataframeTotal$sentence[DataframeTotal$sentence_id==7551 & DataframeTotal$token_
   "d. He a parte, que sustenta, une a anthera (131), ou he o pè da <b>anthera</b>, pelo qual esta se une á planta; ás vezes faltaõ totalmente os filamentos, ou saõ taõ pequenos, que apenas apparecem, e entaõ contaõ-se as antheras. (VANDELLI, Domingos, 1788)"
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")
+
+rm(i, textSantucci, textVandelli, x, lematizar, CorpusMetadata, DadosdoDicionario, DataframeTotal)

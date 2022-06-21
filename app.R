@@ -64,7 +64,7 @@ ui <- fluidPage(
                       )
              ),
              
-             tabPanel(id="Portuguese Search","Consulta", fluid = TRUE,  
+             tabPanel(id="Portuguese Search", "Consulta", fluid = TRUE,  
                       
                       sidebarLayout(sidebarPanel(width = 3,
                                                  selectInput(inputId = "headword",
@@ -76,6 +76,8 @@ ui <- fluidPage(
                                                              selectize = FALSE)
                                                  ),
                                     mainPanel(width = 9,
+                                              fluidRow(
+                                              column(8, 
                                                         htmlOutput("Entry"),
                                                         tags$hr(),
                                                         htmlOutput("Definition"),
@@ -83,16 +85,15 @@ ui <- fluidPage(
                                                         htmlOutput("Etymo"),
                                                         tags$hr(),
                                                         htmlOutput("FirstAttestation"),
-                                                        tags$hr(),
-                                                        htmlOutput("HowToCite"),
-                                                        tags$hr(),
-                                                        htmlOutput("Dates"),
                                                         tags$br()
-                                                        
+                                              ),
+                                              column(4,
+                                                     htmlOutput("HowToCite"),
+                                                     )
                                               )    
                                                   )
                                                   
-                                      )
+                                      ))
              ,tabPanel(id="Documentation","Documentação", fluid = TRUE,       
                       fluidRow(
                         column(width=8,offset=1, htmlOutput("ProjectDocumentation"))
@@ -156,8 +157,7 @@ server <- function(input, output, session) {
   output$Etymo <- renderText({
     
     paste("<b>Discussão histórico-etimológica:</b>",
-          EntryData()$Etymology, "<p style='font-size: .7em;'><br>Autores(as) do verbete: ",
-          EntryData()$Credits, "</p>")
+          EntryData()$Etymology)
   }) 
   
   
@@ -177,32 +177,52 @@ server <- function(input, output, session) {
   output$HowToCite <- renderText({
     
     EntryAuthors <- EntryData()$Credits
-    AuthorLastName <- toupper(word(EntryAuthors, -1))
-    AuthorFirstName <- word(EntryAuthors, 1, -2)
-    paste0("<p style='font-size: .7em;'><b>Como citar este verbete:</b><br>", AuthorLastName,
-           ", ", AuthorFirstName, ". ",
-           str_to_title(input$headword), ". In: MARONEZE, Bruno (coord.) 
-           <b>Dicionário Histórico de Termos da Biologia</b>. 2022. Disponível em: 
-           https://dicionariodebiologia.shinyapps.io/Dicio_Biologia. 
-           Acesso em: ",format(Sys.Date(), "%d %b. %Y"), ".</p>")
-
-  }) 
-
-  output$Dates <- renderText({
+    
+    if(str_detect(EntryAuthors, ";")){
+      EntryAuthorsSplit <- strsplit(EntryAuthors, "; ")
+      EntryAuthor1 <- EntryAuthorsSplit[[1]][1]
+      EntryAuthor2 <- EntryAuthorsSplit[[1]][2]
+      Author1LastName <- toupper(word(EntryAuthor1, -1))
+      Author1FirstName <- word(EntryAuthor1, 1, -2)
+      Author2LastName <- toupper(word(EntryAuthor2, -1))
+      Author2FirstName <- word(EntryAuthor2, 1, -2)
+      AuthorInReference <- paste0(Author1LastName, ", ", Author1FirstName, "; ",
+                                  Author2LastName, ", ", Author2FirstName)
+      
+    } else {
+      AuthorLastName <- toupper(word(EntryAuthors, -1))
+      AuthorFirstName <- word(EntryAuthors, 1, -2)
+      AuthorInReference <- paste0(AuthorLastName, ", ", AuthorFirstName)
+  }
     
     DateOfCreation <- EntryData()$DateOfCreation
     DateOfUpdate <- EntryData()$DateOfUpdate
     
     if(DateOfCreation == DateOfUpdate){
-      paste0("Este verbete foi incluído em ", DateOfCreation)
+      paste0("<p style='font-size: .7em;'><br>Autores(as) do verbete: ",
+             EntryAuthors, "</p><hr><p style='font-size: .7em;'>Este verbete foi incluído em ",
+             DateOfCreation, "</p><hr><p style='font-size: .7em;'><b>Como citar este verbete:</b><br>",
+             AuthorInReference, ". ",
+             str_to_title(input$headword), ". In: MARONEZE, Bruno (coord.) 
+           <b>Dicionário Histórico de Termos da Biologia</b>. 2022. Disponível em: 
+           https://dicionariodebiologia.shinyapps.io/Dicio_Biologia. 
+           Acesso em: ", format(Sys.Date(), "%d %b. %Y"), ".</p><hr>")
+
     } else {
       
-      paste0("Este verbete foi incluído em ", DateOfCreation, " e atualizado em ",
-             DateOfUpdate)
-      }
-    
-  })  
-  
+      paste0("<p style='font-size: .7em;'><br>Autores(as) do verbete: ",
+             EntryAuthors, "</p><hr><p style='font-size: .7em;'>Este verbete foi incluído em ",
+             DateOfCreation, " e atualizado em ", DateOfUpdate, "</p><hr>",
+             "<p style='font-size: .7em;'><b>Como citar este verbete:</b><br>",
+             AuthorLastName, ", ", AuthorFirstName, ". ",
+             str_to_title(input$headword), ". In: MARONEZE, Bruno (coord.) 
+           <b>Dicionário Histórico de Termos da Biologia</b>. 2022. Disponível em: 
+           https://dicionariodebiologia.shinyapps.io/Dicio_Biologia. 
+           Acesso em: ", format(Sys.Date(), "%d %b. %Y"), ".</p><hr>")
+    }
+  }) 
+
+
   #  output$NumDeContextos <- renderText({
 
     #  Criar trecho para incluir variantes gráficas

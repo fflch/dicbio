@@ -8,8 +8,9 @@ output: html_document
 
 O Dicionário Histórico de Termos da Biologia, em elaboração, traz definições e informações histórico-etimológicas para termos da Biologia extraídos de textos científicos do século XVIII.
 
-Atualmente, o dicionário contém 53 verbetes, com definições e informações histórico-etimológicas; também contém exemplos extraídos do córpus, formado por obras do século XVIII disponíveis online (cf. lista de textos abaixo).
-O córpus anotado e o código-fonte estão disponíveis no [repositório GitHub](https://github.com/brunomaroneze/dicio_biologia).
+Atualmente, o dicionário contém 54 verbetes, com definições e informações histórico-etimológicas; também contém exemplos extraídos do córpus, formado por obras do século XVIII disponíveis online.
+
+A descrição do córpus, a equipe e outras informações relevantes encontram-se em "Documentação".
 
 Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
 
@@ -17,77 +18,6 @@ Para comentários, perguntas e sugestões, contate [brunomaroneze@ufgd.edu.br](b
 
 - 13 maio 2022 - Inclusão do verbete "verrucoso"
 - 24 maio 2022 - Inclusão dos verbetes "resina" e "resinoso"
-
-### Textos que compõem o córpus:
-
-- [SANTUCCI, Bernardo. **Anatomia do corpo humano**. Lisboa: na Officina de Antonio Pedrozo Galram, 1739.](https://books.google.com.br/books/about/Anatomia_do_corpo_humano.html?id=D83JL7ybBeUC&redir_esc=y)
-- [VANDELLI, Domingos. **Diccionario dos termos technicos de Historia Natural**. Coimbra: na Real Officina da Universidade, 1788.](https://purl.pt/13958)
-
-### Equipe:
-- **Bruno Oliveira Maroneze** (Professor Associado, Universidade Federal da Grande Dourados) - coordenação do projeto - desde 2017
-- **Kamila da Silva Barbosa** (estudante de pós-graduação, Universidade Federal de Mato Grosso do Sul) - preparação do córpus, compilação dos verbetes - desde 2021
-- **Raíssa Silveira Buss** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2022
-- **Rafaela Lima Domingos** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2021
-- **Letícia Tranquile da Silva** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, compilação dos verbetes - desde 2020
-- **Fabiana Ferreira de Melo da Silva Sales** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020-2021
-- **Bruno Leonardo Campanholi Gilbert** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020
-- **Daniela Martim do Nascimento** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020
-- **Cinddy Daniela Lima Tragueta** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020
-- **Amarildo Braga de Oliveira** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2017-2018
-- **Florival Dourado dos Reis Neto** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2017
-
-### Agradecimentos:
-A compilação do córpus foi (e ainda é) possível graças à colaboração de estudantes de graduação da Universidade Federal da Grande Dourados, alguns dos quais receberam bolsas de Iniciação Científica da PROPP-UFGD.
-
-A redação dos primeiros verbetes e a criação da parte computacional do dicionário foram possíveis graças ao estágio de pós-doutoramento desenvolvido pelo coordenador do projeto junto à Universidade de Coimbra (Portugal), sob a supervisão da Profa. Dra. **Graça Rio-Torto**.
-
-Agradecemos a **Ligeia Lugli** (University of London) pelas valiosas orientações a respeito de como implementar um dicionário eletrônico online.
-
-Agradecemos a **Gisele Cristina da Conceição** (Universidade do Porto) pelas valiosas sugestões e opiniões.
-
+- 20 junho 2022 - Inclusão do verbete "hipogástrio"
 
 O *template* deste dicionário baseia-se em LUGLI, L. et al. 2019-2022. [A Visual Dictionary and Thesaurus of Buddhist Sanskrit](bit.ly/VisualDictionary-BuddhistSanskrit). Quaisquer dicionários que reutilizarem esse *template Shiny* devem citar L. et al. 2019-2022 como parte do código-fonte, e estarem cientes de que este dicionário e seu código são licenciados sob uma licença internacional <code>Creative Commons Share Alike 4</code>.
-
-
-
-# About this dictionary
-
-The Historical Dictionary of Biology Terms, under elaboration, brings definitions and historical-etymological information for Biology terms extracted from 18th-century scientific texts.
-
-Currently, the dictionary contains 53 entries, with definitions and historical-etymological information; it also contains examples extracted from the corpus, which includes 18th-century works available online (see list below).
-The annotated corpus and the source code are available at [this GitHub repository](https://github.com/brunomaroneze/dicio_biologia).
-
-
-For comments, feedback and questions, contact [brunomaroneze@ufgd.edu.br](brunomaroneze@ufgd.edu.br)
-
-### Updates
-
-- 13 May 2022 - Inclusion of entry "verrucoso"
-- 24 May 2022 - Inclusion of entries "resina" and "resinoso"
-
-### List of texts in the corpus:
-
-VANDELLI, Domingos. **Diccionario dos termos technicos de Historia Natural**. Coimbra: na Real Officina da Universidade, 1788.
-
-### Team:
-- **Bruno Oliveira Maroneze** (Professor, Universidade Federal da Grande Dourados) - project coordination - since 2017
-- **Kamila da Silva Barbosa** (Master student, Universidade Federal de Mato Grosso do Sul) - corpus annotation, lexicographic curation - since 2021
-- **Raíssa Silveira Buss** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation - since 2022
-- **Rafaela Lima Domingos** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation - since 2021
-- **Letícia Tranquile da Silva** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation, lexicographic curation - since 2020
-- **Fabiana Ferreira de Melo da Silva Sales** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation - 2020-2021
-- **Bruno Leonardo Campanholi Gilbert** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation - 2020
-- **Daniela Martim do Nascimento** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation - 2020
-- **Cinddy Daniela Lima Tragueta** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation - 2020
-- **Amarildo Braga de Oliveira** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation - 2017-2018
-- **Florival Dourado dos Reis Neto** (undergraduate student, Universidade Federal da Grande Dourados) - corpus annotation - 2017
-
-### Acknowledgements:
-The compilation and annotation of the corpus was (and still is) possible thanks to the collaboration of undergraduate students from the Universidade Federal da Grande Dourados; some of them were granted studentships by PROPP-UFGD.
-
-The development of the computation algorithms and the preparation of the first entries were possible thanks to a visiting research appointment by the project coordinator at the Universidade de Coimbra (Portugal), under the supervision of Professor **Graça Rio-Torto**.
-
-We would like to thank **Ligeia Lugli** for the valuable orientations on how to implement an online electronic dictionary.
-
-
-This prototype is modelled after Lugli, L. et al. 2019-2022. [A Visual Dictionary and Thesaurus of Buddhist Sanskrit](bit.ly/VisualDictionary-BuddhistSanskrit). Any any dictiories that re-use this Shiny app template should cite L. et al. 2019-2022 as part of their code source, and be aware that this resource and its code are licensed under a <code>Creative Commons Share Alike 4</code> international lincence.
