@@ -220,8 +220,22 @@ DataframeTotal$orth[DataframeTotal$token == "hypogastrio"] <- "hipogástrio"
 DataframeTotal$orth[DataframeTotal$token == "Hypogastrio"] <- "Hipogástrio"
 DataframeTotal$orth[DataframeTotal$token == "hypogastrios"] <- "hipogástrios"
 DataframeTotal$orth[DataframeTotal$token == "Hypogastrios"] <- "Hipogástrios"
-
-
+DataframeTotal$orth[DataframeTotal$token == "epigastrio"] <- "epigástrio"
+DataframeTotal$orth[DataframeTotal$token == "Epigastrio"] <- "Epigástrio"
+DataframeTotal$orth[DataframeTotal$token == "epigastrios"] <- "epigástrios"
+DataframeTotal$orth[DataframeTotal$token == "Epigastrios"] <- "Epigástrios"
+DataframeTotal$orth[DataframeTotal$token == "glandula"] <- "glândula"
+DataframeTotal$orth[DataframeTotal$token == "Glandula"] <- "Glândula"
+DataframeTotal$orth[DataframeTotal$token == "glandulas"] <- "glândulas"
+DataframeTotal$orth[DataframeTotal$token == "Glandulas"] <- "Glândulas"
+DataframeTotal$orth[DataframeTotal$token == "isofago"] <- "esôfago"
+DataframeTotal$orth[DataframeTotal$token == "Isofago"] <- "Esôfago"
+DataframeTotal$orth[DataframeTotal$token == "isofagos"] <- "esôfagos"
+DataframeTotal$orth[DataframeTotal$token == "Isofagos"] <- "Esôfagos"
+DataframeTotal$orth[DataframeTotal$token == "esofago"] <- "esôfago"
+DataframeTotal$orth[DataframeTotal$token == "Esofago"] <- "Esôfago"
+DataframeTotal$orth[DataframeTotal$token == "esofagos"] <- "esôfagos"
+DataframeTotal$orth[DataframeTotal$token == "Esofagos"] <- "Esôfagos"
 # Função para lematizar
 lematizar <- function(lema, wclass){
   
@@ -350,6 +364,10 @@ DataframeTotal <- lematizar("verrucoso", "adj")
 DataframeTotal <- lematizar("resina", "subst")
 DataframeTotal <- lematizar("resinoso", "adj")
 DataframeTotal <- lematizar("hipogástrio", "subst")
+DataframeTotal <- lematizar("epigástrio", "subst")
+DataframeTotal <- lematizar("diafragma", "subst")
+DataframeTotal <- lematizar("glândula", "subst")
+DataframeTotal <- lematizar("esôfago", "subst")
 
 # A lematização de "hermafrodita" exige um cuidado diferente
 
@@ -478,8 +496,14 @@ for(i in 1:length(DataframeTotal$sentence)){
 }
 
 # Correção do negrito
-DataframeTotal$sentence[DataframeTotal$sentence_id==7551 & DataframeTotal$token_id==22] <-
+DataframeTotal$sentence[DataframeTotal$sentence_id==11229 & DataframeTotal$token_id==22] <-
   "d. He a parte, que sustenta, une a anthera (131), ou he o pè da <b>anthera</b>, pelo qual esta se une á planta; ás vezes faltaõ totalmente os filamentos, ou saõ taõ pequenos, que apenas apparecem, e entaõ contaõ-se as antheras. (VANDELLI, Domingos, 1788)"
+
+DataframeTotal$sentence[DataframeTotal$sentence_id==11346 & DataframeTotal$token_id==11] <-
+  "Duas <b>antheras</b> em hum só filamento; Mercurialis; tres antheras em hum só filamento, Fumaria; cinco em tres filamentos (VANDELLI, Domingos, 1788)"
+
+DataframeTotal$sentence[DataframeTotal$sentence_id==11358 & DataframeTotal$token_id==31] <-
+"Abertura da <b>anthera</b> pela qual sahe, ou se lança o pollen da sua cavidade, ou loculo, a qual está em hum lado da anthera no Leucojum; em muitas plantas tem as antheras esta abertura no apice Solanum; outras desde a (VANDELLI, Domingos, 1788)"
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")
 

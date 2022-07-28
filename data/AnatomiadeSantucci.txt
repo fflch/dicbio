@@ -5,7 +5,7 @@ Com todas as licenças necessarias, e Privilegio Real.
 
 [página não numerada 1]
 
-<i>Hoc disecta libro, longum servare per Evum Integra in humano corpore membra docent.<i>
+<latim>Hoc disecta libro, longum servare per Evum Integra in humano corpore membra docent.</latim>
 
 [Faltam as páginas não numeradas de “SENHOR” (p. 9 do PDF) até “Musculo Hypothenar” (p. 115 do PDF)]
 
@@ -142,12 +142,11 @@ ir disto, como todo o sangue do redenho torna a ir pelas veas ao figado, podemos
 
 CAPITULO V.
 
-Do ventriculo, e intestinos, e da concocçaõ, e do que succede ao chylo.nos intestinos.
+Do ventriculo, e intestinos, e da concocçaõ, e do que succede ao chylo nos intestinos.
 
 
-1 Das fauces começa um canal, que vay seguido até o cesso. Este canal, ainda que seja hum só, e continuado, com tudo, pela diversidade da figura, da grandeza, e do uso, que tem em diversas partes, tem tambem diversos nomes.
-
-2 Tres saõ as principaes partes deste canal. O ifophago, o ventriculo, e os intestinos. Todas estas partes, e pelo conseguinte todo o cano he da mesma substancia, e consta de três tunicas. Destas, a exterior he commua a todas as entranhas, que estaõ na cavidade do abdomen, a media he carnosa, a interior he nervosa. Fig. 3. est. 2. 
+1 Das fauces começa hum canal, que vay seguido até o cesso. Este canal, ainda que seja hum só, e continuado, com tudo, pela diversidade da figura, da grandeza, e do uso, que tem em diversas partes, tem tambem diversos nomes.
+2 Tres saõ as principaes partes deste canal. O isophago, o ventriculo, e os intestinos. Todas estas partes, e pelo conseguinte todo o cano he da mesma substancia, e consta de três tunicas. Destas, a exterior he commua a todas as entranhas, que estaõ na cavidade do abdomen, a media he carnosa, a interior he nervosa. Fig. 3. est. 2. 
 
 3 O isophago principia na pharinge, donde nasce, e descendo pelas vertebras, passa o diaphragma, onde alargando-se, fórma mayor cavidade, a qual se chama ventriculo.
 
@@ -195,7 +194,7 @@ rede, que està junto do orificio esquerdo, e por esta causa o tal orificio tem 
 
 24 A grossura do intestino colon he grande, naõ he liso, porque tem como huns casulos, e rugas, e estes casulos saõ formados de tres ligamentos, que vem a ser tantos molhos de fibras carnosas, que fahem do intestino recto, e vaõ pelo comprimento do intestino colon, e se terminaõ no canosinho chamado appendicula vermiformis.
 
-25 O intestino recto, que he o ultimo de todos, està direitamente sobre o osso sacro, e coccyx. Pela parte posterior està pegado a estes ossos por meyo do Peritneo, e pela parte anterior nos homens ao collo da bexiga ourinaria; nas mulheres à bainha do utero, e para este fim tem hum tecido de fibras, que a modo de hum anel cérca o mesmo intestino, e o une à bainha. No fim do intestino recto està hum musculo orbicular, o qual chamaō sphincter, e serve, como diremos, para impedir a involuntaria sahida das fezes: neste acabaõ outros musculos, que
+25 O intestino recto, que he o ultimo de todos, està direitamente sobre o osso sacro, e coccyx. Pela parte posterior està pegado a estes ossos por meyo do Peritôneo, e pela parte anterior nos homens ao collo da bexiga ourinaria; nas mulheres à bainha do utero, e para este fim tem hum tecido de fibras, que a modo de hum anel cérca o mesmo intestino, e o une à bainha. No fim do intestino recto està hum musculo orbicular, o qual chamaõ sphincter, e serve, como diremos, para impedir a involuntaria sahida das fezes: neste acabaõ outros musculos, que
 
 
 
@@ -626,15 +625,15 @@ DOS MUSCULOS DOS BEIÇOS.
 [página 341]
 
 2 O segundo dos communs he Buccinator, chama-se assim, porque com seu movimento serve para dar voltas, e pôr entre os dentes o comer, que se vay triturando na boca, nasce das gingivas do queixo superior, e com as suas fibras circulares termîna nas gingivas do queixo inferior: este musculos está debaixo do musculo Quadrado, ou Platisma myodes.
-[Texto a margem esquerda:Buccinotor.]
-[Texto a margem esquerda:Est.17. fig.46.]
-3 O terceiro he chama Orbicullar, porque com suas fibras vay ao redor dos beiços a modo de hum annel, ou Sphincter: constitùe os beiços, e serve para fechallos.
+[Texto a margem esquerda: Buccinotor.]
+[Texto a margem esquerda: Est.17. fig.46.]
+3 O terceiro he chamado Orbicular, porque com suas fibras vay ao redor dos beiços a modo de hum annel, ou Sphincter: constitùe os beiços, e serve para fechallos.
 [Texto a margem esquerda:Orbicular.]
 4 Dos musculos proprios as beiços huns saõ proprios ao beiço superior, outros ao inferior.
-5 Do beiço superior os primeiros saõ chamados Elevatores, porque puxaõ acima, ou levantaõ o beiço; chamaõ-se tambem Incisivos por causa da sua origem, nascem do queixo superior, na regiaõ com hum tendaõ muy iapertado, e pequeno no baiço superior.
-[Texto a margem direita:Elevatores, ou Incisivos.]
+5 Do beiço superior os primeiros saõ chamados Elevatores, porque puxaõ acima, ou levantaõ o beiço; chamaõ-se tambem Incisivos por causa da sua origem, nascem do queixo superior, na regiaõ com hum tendaõ muy apertado, e pequeno no beiço superior.
+[Texto a margem direita: Elevatores, ou Incisivos.]
 6 Antagonistas dos Incisivos saõ os Triangulares, que nascem na base larga, ou inferior, e externa margem da sobredita maxilla, ou queixo inferior, e acaba no beiço superior; servem estes musculos para abaixar o beiço superior.
-[Texto a margem esquerda:Os Triangulares.]
+[Texto a margem esquerda: Os Triangulares.]
 7 Os proprios do beiço inferior saõ tres. O primeiro he o Quadrado, ou montano, nasce na margem da ponta da barba, e acaba no limpo do beiço inferior, ou no musculo constrictorio, e serve de abaixar o dito beiço.
 [Texto a margem esquerda:O Quadrado ou montano.]
 8 Os outros dous, que saõ contrarios pelo seu movimento ao primeiro, saõ chamados Caninos, porque nascem no queixo superior na regiaõ dos dentes Caninos, e acabaõ no beiço inferior, e servem para levantallo.
@@ -976,7 +975,7 @@ Dos musculos do peito.
 
 1 A Respiraçaõ (como temos acima dita) huma he sensivel, ou Coacta, ou Impellida; outra Insensivel, ou livre. Querem os Authores, que esta ultima respiraçaõ, chamada livre, se faça só com o movimento do Diapbrogma, a segunda com a ajuda de cincoenta e quatro musculos, dos quaes fallaremos antes que tratemos do Diaphragma.
 [Texto a margem direita: página: 374: A respiraça huma helivre, outra coacta.]
-2 em cada respitaçaõ o peito dilata, e se aperta; dilata-se, ou levantando-se as costellas, ou abaicando-se o Diapbragma; constringe-se abaixando-se as costellas, ou levantando-se o Diapbrogma.
+2 em cada respitaçaõ o peito dilata, e se aperta; dilata-se, ou levantando-se as costellas, ou abaicando-se o Diaphragma; constringe-se abaixando-se as costellas, ou levantando-se o Diaphragma.
 
 [Página 375]
 
@@ -1008,35 +1007,27 @@ Este musculo externamente he nervoso, internamente he carnoso, e saindo termina 
 
 [Página 378]
 
-Coasta, abaixando as costellas, e levantando-as. Agora diremos do musculo Diapbragma, que he aquelle, que serve só para a respiraçaõ Insensivel, ou Livre; este musculo abaixando-se, ou deprimindo-se, dilata a cavidade do peito, e entaõ da lugar, que entre o ar nos bofes; e quando se levanta, e se contrahe, faz a cavidade do peito mais pequena, e assim obriga a sair o dito ar dos bofes.
+Coasta, abaixando as costellas, e levantando-as. Agora diremos do musculo Diaphragma, que he aquelle, que serve só para a respiraçaõ Insensivel, ou Livre; este musculo abaixando-se, ou deprimindo-se, dilata a cavidade do peito, e entaõ da lugar, que entre o ar nos bofes; e quando se levanta, e se contrahe, faz a cavidade do peito mais pequena, e assim obriga a sair o dito ar dos bofes.
 [Texto a margem esquerda: página: 378: Para a respiraçaõ livre serve o Diapbhagma. Est.3. fig.5. Est.6 fig.1 Est.7 Fig.1.]
-14 O Diaphragma, que em Latim chamaõ Septo-Transverso, porque serve de dividir a cavidade do Abdomen da cavidade do peito he aquella parte musculosa distincta de todos os outros musculos do corpo, pelo seu sitio, figura, e acçaõ.
 [Texto a margem esquerda: página: 378: Diaphragma, ou Septo-Transverso.]
-15 O Diabragma he de figura qualiredonda e semelhante ao peixe, que se chama Arraya, a cauda da qual representa os seus processos, ou appendices. O Diapbragma pela parte que olha para a cavidade do peito he convexo, e está cuberto com a pleura,  e pela parte do Abdomen hr concavo, e está cuberto com o Peritoneo.
-16 Está o Diapbragma entre a cavidade
-
-[Página 379]
-
-Do peito, e do Abdomen, obliquamente debaixo da Espinhela, à qual está unido: tambem está pegado pelos lados às cartilagens da costellas Espurias, e por detraz às vertebras do lombos, de modo que está mais baixo por detraz, que por diante, e por isto, querendo tirar agua, ou sangue, ou alguma materia, fazem os Cirurgioens abertura pela parte posterior e inferior entre as costellas Espurias, buscando o lugar mais facil, que he o mais baixo para tirar as ditas materias. He finalmente o Diapbragma, como huma abobada, que se move entre os dous ventres.
-[Texto a margem direita: página: 379: Qaundo feha ce abrir o peito, faz se a abertura entre as costelas Espurias, em lugar mais abaixo posteriormente..]
-17 He composto de dous musculos superior, e inferior. O superior he o mais largo, e comprehende toda aquella parte, que está pegada a todas as costellas onde principîa, e acaba na parte nervosa, que he a Aponeurose larga do Diapbragma.
+14 O Diaphragma, que em Latim chamaõ Septo-Transverso, porque serve de dividir a cavidade do Abdomen da cavidade do peito he aquella parte musculosa distincta de todos os outros musculos do corpo, pelo seu sitio, figura, e acçaõ.
+15 O Diabragma he de figura quasi redonda, e semelhante ao peixe, que se chama Arraya, a cauda da qual representa os seus processos, ou appendices. O Diaphragma pela parte que olha para a cavidade do peito he convexo, e está cuberto com a pleura, e pela parte do Abdomen he concavo, e está cuberto com o Peritoneo.
+16 Está o Diaphragma entre a cavidade do peito, e do Abdomen, obliquamente debaixo da Espinhela, à qual está unido: tambem está pegado pelos lados às cartilagens da costellas Espurias, e por detraz às vertebras do lombos, de modo que está mais baixo por detraz, que por diante, e por isso, querendo tirar agua, ou sangue, ou alguma materia, fazem os Cirurgioens abertura pela parte posterior, e inferior entre as costellas Espurias, buscando o lugar mais facil, que he o mais baixo para tirar as ditas materias. He finalmente o Diaphragma, como huma abobada, que se move entre os dous ventres.
+[Texto a margem direita: página: 379: Quando se ha de abrir o peito, faz se a abertura entre as costelas Espurias, em lugar mais abaixo posteriormente.]
+17 He composto de dous musculos superior, e inferior. O superior he o mais largo, e comprehende toda aquella parte, que está pegada a todas as costellas onde principîa, e acaba na parte nervosa, que he a Aponeurose larga do Diaphragma.
 18 O inferior he mais carnoso, e principîa das tres vertebras superiores dos lombos com duas producçoens, huma da parte direita, que he mais comprida, e outra, que he mais breve, e da parte esquerda: 
-[Texto a margem direita: página: 379: Baracos do Diaphragma. Eft 3 fig.5.] 
+[Texto a margem direita: página: 379: Buracos do Diaphragma. Est 3 fig.5.] 
 
 [Página 380]
 
 Nasce das duas vertebras das costas, e acaba na Aponevrosi do musculo superior. Entre as caudas, ou processos do dito musculo passaõ a Arteria magna, e o ducto Tboracico.
-19 Pela parte direita tem o Diapbragma hum buraco por  onde passa a vea Cava, e pela esquerda tem outro por onde passa o Isophago: em tal buraco o Diapbragma tem as suas fibras, que estaõ dispostas a modo de arco, e assim fazem como hum Spbincter, que serve de constringir o orificio superior do ventriculo.
-20 Recebe o Diapbragma os seus vasos da arteria, e vea Subclavia, e dos vasos lombares: os nervor sahem dos cervicaes, e alguns ramos dos intercostaes, e de alguns do par vago. Alguns Authores observaraõ no dito Diapbragma vasos lymphaticos.
+19 Pela parte direita tem o Diaphragma hum buraco por onde passa a vea Cava, e pela esquerda tem outro por onde passa o Isophago: em tal buraco o Diaphragma tem as suas fibras, que estaõ dispostas a modo de arco, e assim fazem como hum Spbincter, que serve de constringir o orificio superior do ventriculo.
+20 Recebe o Diaphragma os seus vasos da arteria, e vea Subclavia, e dos vasos lombares: os nervor sahem dos cervicaes, e alguns ramos dos intercostaes, e de alguns do par vago. Alguns Authores observaraõ no dito Diaphragma vasos lymphaticos.
  [Texto a margem esquerda: página: 380: Veas, e arterias, e nervos do Diaphragma.] 
-21 nota-se, que os vasos do Diapbragma alguns chamaõ vasos Pbremicos, por causa do grande confentimento, que tem os ditos vasos com a cabeça; e a observaçaõ declara, que inflammado o Diapbragma,logo os doentes cahem em suriosos,
 [Texto a margem esquerda: página: 380: Quando o Diaphragma está inflamado, os doentes cahem em delirios.] 
 [Texto a margem esquerda: página: 380: Uso do Diaphragma.] 
-
-[Página 381]
-
-E continuos delirios.
-22 Este musculo serve tambem, além do que temos atequi explicado, de ajudar com a sua compressaõ para aperfeiçoar a concocçaõ dos outros humores, e tambem para expellir fora as fezes.
+21 Note-se, que os vasos do Diaphragma alguns chamaõ vasos Phrenicos, por causa do grande consentimento, que tem os ditos vasos com a cabeça; e a observaçaõ declara, que inflammado o Diaphragma, logo os doentes cahem em furiosos, e continuos delirios.
+22 Este musculo serve tambem, além do que temos atèqui explicado, de ajudar com a sua compressaõ para aperfeiçoar a concocçaõ, e a passagem do Chilo, e para a circulaçaõ dos outros humores, e tambem para expellir fóra as fezes.
 
 CAPITULO XXI
 Dos musculos do Abdomen.
@@ -1217,5 +1208,49 @@ E osso navicular, e com outro no osso do metatarso, que sustenta o dedo Polegar.
 E com hum tendaõ commum acabaõ na parte posterior, e superior do osso do calcanhar com os musculos seguintes.
 6 O terceiro he chamado Soleo por ser semelhante na figura ao peixe linguado; está este debaixo dos Gemellos: nasce da parte posterior, assim do osso da Tibia, como do Peroneo, e unindo o seu tendaõ com os Gemellos, acaba no dito osso do calcanhar. 
 [Texto a margem Direita: página: 399: O Soleo.]
-7 O quadrado chamado Plantar, por se estender com algumas fibras do seu tendaõ pela plata do pé; este musculo he mais pequeno de todos os precedentes, esta entre os Gemellos, e soleo; nasce do externo Condylo do osso da coxa, e com o seu tendaõ muy delgado se une, 
+7 O quadrado chamado Plantar, por se estender com algumas fibras do seu tendaõ pela plata do pé; este musculo he mais pequeno de todos os precedentes, esta entre os Gemellos, e soleo; nasce do externo Condylo do osso da coxa, e com o seu tendaõ muy delgado se une, e se confunde com os tendoens dos precedentes, e acaba no osso do calcanhar.
+8 Nota-se, que estes tendoens dos ditos musculos formaõ huma corda, chamada Tendaõ de Achilles, porque o que for ferido nesta parte, facilmente morrera, como succedeo ao dito Achilles. E certamente as feridas de tal parte saõ muy perigosas, e causaõ gravissimos syntomas.
+[Texto a margem Direita: página: 399: Tendaõ ou corda de Achilles.]
+
+[Página 400]
+
+9 O quinto he o Tibial posterior; nasce da parte posterior do osso da Tibia, passa pela fixura, que esta no lado malleolo interno, e acaba na parte interna do osso navicular.
+[Texto a margem Esquerda: página: 400: O Tibial posterior.]
+10 O texto, e setimo saõ os dous peroneos posteriores, estes saõ tambem chamados hum Longo, e outro Breve. O primeiro nasce da parte superior, e posterior, e quasi anterior do osso Peroneo, e acaba na parte superior, e externa do osso do metatarso, que sustenta o dedo Polegar.
+[Texto a margem Esquerda: página: 400: Os peroneos posteriores, o primeiro longo.]
+11 O segundo, a que chamaõ Breve: nasce da parte inferior do Peroneo, e termina no osso do metatarso, que sustenta o dedo pequeno.
+[Texto a margem Esquerda: página: 400: O Breve.]
+12 Nota-se, que quando todos os sete musculos se move, fazem que o pése estenda movendo-se para traz/; nota-se tambem que o pé faz os movimentos de deducçaõ, e de adducçaõ com os mesmos musculos, de forte, que quando se mover hum flexor, e hum extensor de huma parte o pé se moverá para a mesma parte.
+
+[Página 401]
+
+CAPITULO XXVI
+Dos musculos, que servem para mover os dedos.
+
+1 Os musculos, que servem para mover os dedos, huns saõ proprios, outros communs. Os communs saõ desaseis, e os proprios seis. Destes, quatro saõ do dedo Polegar, hum so Indice, outro do dedo pequeno.
+2 O primeiro dos communs he chamado Longo, e extensor commum: nasce da parte superior, e anterior do osso da Tibia, onde o dito osso s ajunta com o osso Peroneo, desce pelo comprimento do dito osso Peroneo, e se divide em quatro tendoens, e passa por baixo do ligamento Annular, e termina nas articulaçoens do quatro dedos, os quaes estende.
+[Texto a margem Direita: página: 401: Longo extensor commum dos dedos..]
+3 O segungo he o Breve extensor comum, chamado tambem Pedium: nasce da inferior parte do osso Peroneo, e do ligamento Annular: divide-se em quatro
+[Texto a margem Direita: página: 401: O Breve estensor.]
+
+[Página 402]
+
+tendoens, os quaes terminaõ na parte interior da primeira articulaçaõ dos quatro dedos, e estes dous musculos servem para estender os quatro dedos.
+4 O terceiro musculo dos communs he chamado flexor menor, sublime, ou Persurado; nasce da parte inferior, e interna do osso do calcanhar, e se divide em quatro tendoens, os quaes saõ furados, e terminaõ na parte superior dos ossos da primeira ordem, ou Phalange dos dedos; este musculo esta collocado debaixo da planta do pé.
+[Texto a margem Esquerda: página: 402: O terceiro he flexor menor, ou sublime Perfurado Est. t8. fig.3..]
+5 O quarto he o commum Flexor mayor, Perfurante, e Profundo: nasce da parte superior, e posterior da Tibia, e Peroneo, passa pelo lado do tornozelo interno, e pela finuosidade do osso do calcanhar, e se divide em quatro tendoens, os quaes passaõ os buracos dos tendoens do Sublime, e depois terminaõ no ossos da ultima ordem dos dedos. Estes dous musculos servem ambos para encurvar os dedos.
+[Texto a margem Esquerda: página: 402: Flexo mayor, Perfurante, Profundo.]
+6 O quinto, secto, setimo, e oitavo saõ os quatro Lombricaes: nascem dos
+[Texto a margem Esquerda: página: 402: O quatro Lombricaes.]
+
+[Página 403]
+
+tendoens do Profundo, e daquella massa de carne, que está na planta do pé, e unindo-se aos tendoens dos musculos interosseos internos acabaõ nos lado dos ossos dos quatro dedos.
+7 O nono, decimo, undecimo, e duodecimo saõ os quatro musculos interosseos internos. estes saõ aquelles, que enchem os espaços internamente dos cincos ossos do metatarso: nascem dos ossos do tarso, e dos intervallos do metatarso, e terminaõ na parte superior, e inferior dos ossos da primeira articulaçaõ dos quatro dedos, e servem com os Lombricaes para mover os dedos para o Polegar, que he o movimento de adducçaõ.
+[Texto a margem Direita: página: 403: Os Interosseos internos.]
+8 O decimoterceiro, quarto, quinto, e decimosexto saõ os musculos Interosseos externos: nascem da parte superior dos intervallos dos ossos do metatarso, e acabaõ nos lados externos dos primeiros osos dos dedos, os quaes afastaõ do dedo Polegar.
+[Texto a margem Direita: página: 403: Os interosseos externos.]
+9 Os musculos proprios do dedo Polegar saõ quatro; o primeiro he chamado
+
+[Página 404]
 

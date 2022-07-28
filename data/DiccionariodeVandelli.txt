@@ -504,7 +504,7 @@ PALEARE.    V. Mammaes. Ardea pavonina.
 PALEARIA Curunculata. Numida.
 PALPEBRA. Capella dos olhos móvel, e ciliata, ou com pestanas.
 PECTUS. He a parte inferior do tronco, está cuberto com Iterno.
-PEDES equilibres.Que servem para ter o corpo em quilibrio, á differença dos compedes, que naõ sustentaõ o corpo equilibrado. Diomedea exulans.
+PEDES equilibres. Que servem para ter o corpo em equilibrio, á differença dos compedes, que naõ sustentaõ o corpo equilibrado. Diomedea exulans.
 PEDICILLUM. He huma uniaõ de pellos, que cerca a glandula, ou poro oleifero, que está posto na parte superior do uropigio em as Aves. m.
 PENNA. Consta de huma base cylindrica, concava, que se extende pelo Rachis. ( V. Rachis) arqueada para a parte inferior, liza superiormente, quasi canaliculada na parte inferior, pinnata, com raios parallelos, cada hum dos quaes he quasi pinnato, e estaõ encostados, ou unidos entre si formando huma
  
@@ -853,35 +853,34 @@ prezenta a figura de huma cunha.
 CUSPIDATUS. Toda a parte do peixe , que acaba em figura de lança.
 D.
 DECIDUUS. Diz-se das escamas , que tem pouca adherencia ao corpo do peixe , por isso cahem facilmente. Gadus.
-DENTES. Os dentes pela situação, proporção , numero, movimento, e figura são differentes entre si.
-Pela Situação.
-- In utraque maxilla. Em ambos os queixos , como na maior parte dos peixes.
-- In maxillis , & lingua. Nos queixos , e na Lingua. Amia. -
-— Im maxillis, lingua palato , & faucibus. Nas mandibulas , na lingoa , no ceo da bocca , e nas fauces. Salmo. Efox.
-— Im maxillis, faucibus. Nas maxillas , e guêlas
+DENTES. Os dentes pela situaçaõ, proporçaõ, numero, movimento, e figura saõ differentes entre si.
+Pela Situaçaõ.
+— In utraque maxilla. Em ambos os queixos , como na maior parte dos peixes.
+— In maxillis , & lingua. Nos queixos , e na Lingua. Amia.
+— In maxillis, lingua palato, & faucibus. Nas mandibulas , na lingoa , no ceo da bocca , e nas fauces. Salmo. Efox.
+— In maxillis, faucibus. Nas maxillas , e guêlas
 Pleuronrctes. Rhombu. Solea.
-— Im maxillis palato, & faucibus. Perca, Gadus, Cot-
-tus
+— In maxillis palato, & faucibus. Perca, Gadus, Cottus
 Pela figura
 — Granulosi. Quando são redondos , pequenos, e sobrepostos como pequenos gráos nos Nantes, Squali, Raie.
- - Acuti. _ Quando acabaõ em ponta aguda. Uramos copus. Muraenae. 
+ — Acuti. Quando acabaõ em ponta aguda. Uramos copus. Muraenae. 
  — Obtusi. A sua extremidade he obtusa ; e entaõ elles differem dos granulosos por serem compridos , e agudos sem serem picantes. Cyprini. 
-— Conici. Quando tem a figura conica, isto he , larga na base , e que acaba em ponta. 
+— Conici. Quando tem a figura conica, isto he, larga na base, e que acaba em ponta. 
                                    F                         Pla-
 
 [pág. 42]
 — Plani. Chatos. Gadus, Efox. Os dentes mollares Sparus. 
-- Semisagittati. Quando em hum lado tem hum gancho revirado para baixo; Trichiurus. 
+— Semisagittati. Quando em hum lado tem hum gancho revirado para baixo; Trichiurus. 
 Subulati. A maneira de sovela, muitas especies de Esox. 
-- Acerosi, lineares, tenues, acutissimi. Quando saõ pequenos, miudos, e muito pungentes. Ammodytes
-- Serrati. Quando os dous lados marginaes, saõ cortados á maneira de serra, e entaõ saõ quasi sempre triangulares: nos Nantes alguns Squali.
+— Acerosi, lineares, tenues, acutissimi. Quando saõ pequenos, miudos, e muito pungentes. Ammodytes
+— Serrati. Quando os dous lados marginaes, saõ cortados á maneira de serra, e entaõ saõ quasi sempre triangulares: nos Nantes alguns Squali.
 — Recti. Quando naõ estaõ virados nem para a parte anterior, nem posterior. Sphyræina , Esox , Argentina.
 — Retroflexi. Virados para a parte da gûela. Efox em algumas especies.
 — Semiconici. Quando hum lado he chato, e outro convexo. Nos Nantes Balistes, Squali.
-- Emarginati. Fendidos , ou abertos alguma cousa na ponta com excavaçaõ de segmento de circulo. 
+— Emarginati. Fendidos , ou abertos alguma cousa na ponta com excavaçaõ de segmento de circulo. 
 Pela proporçaõ.
 — Inaequales inter se. De differente comprimento. Cottus.
-- Equales inter se. Iguaes. Perca &c. 
+— AEquales inter se. Iguaes. Perca &c. 
 — Minimi, minuti, exillissimi. Respectivamente ao volume da cabeça. Diodon, Tetrodon.
 — Mediocres, seu proportionales. Proporcionaes á 
 cabeça. Cyprinus, Esox &c. 
@@ -896,11 +895,11 @@ tanto os incizores, como os molares.
 — Similes. Do mesmo tamanho, e da mesma figura, todos agudos, ou obtusos. 
                           Pelo numero. 
 — Nulli. E entaõ os queixos se chamaõ edentuli. 
-- Ordinati. Quando ha huma só , ou muitas carreiras , ou ordens de dentes.
+— Ordinati. Quando ha huma só , ou muitas carreiras , ou ordens de dentes.
 — Confufi, conferti, Sparsi. Sem alguma ordem. Cottus. muitos Esox , Sphyraema. 
                                Pelo movimento  
-- Immobiles. Sem movimento, no maior, numero dos peixes. Sparus, Labru &c. 
-- Mobiles. Moveis, isto raras vezes succede, excepto no Esox &c. 
+— Immobiles. Sem movimento, no maior, numero dos peixes. Sparus, Labru &c. 
+— Mobiles. Moveis, isto raras vezes succede, excepto no Esox &c. 
 ADIACANTHUM. Peixe com duas espinhas, ou aculeos.
 TRIACANTHUM. Com tres. Cottus. 
 POLYACANTHUM. Com quatro, cinco, ou mais. 
@@ -1315,7 +1314,7 @@ Pela figura.
 — Ovales. Quando huma extremidade he redonda, e mais larga, que a outra. Gadus.
 — Orbiculatæ, rotundæ. Redondas. Clupea.
 Pela connexaõ, ou uniaõ ao corpo.
-— Deciduæ, Laxæ. Caducas, que estaõ pouco ad-  herentes ao corpo, e cahem facilmente. Mullus.
+— Deciduæ, Laxæ. Caducas, que estaõ pouco adherentes ao corpo, e cahem facilmente. Mullus.
  — Tenaces. Que tem mais uniaõ ao corpo, como no maior numero dos peixes.
 Pela superficie.
 — Molles, flexiles. Molles, flexiveis. Clupea.
@@ -2353,8 +2352,1331 @@ Pela figura.
 — Fornicata. Chata, com o lado interior concavo. Truxalis.
 — Angulata. Com angulos agudos prominentes. Gryllus.
 
+[página 117]
+— Falcata, compressa, arcuata, acuta. A maneira de fouce, comprimida, arqueada, aguda. Mantis.
+— Pollicata. Com huma prominencia como accrescentada no meio. Nepa. fig. 37.
+Pela superficie.
+— Pilosa. Com pellos. Phalæna. Sphinx.
+— Manicata. Comprimidas dos lados, e cuberta com pellos muito juntos, e sem ordem. Apis. fig. 60.
+— Tuberculata. Com varias prominencias irregulares.
+— Canaliculata. Canaliculada. Carabus. Tipula.
+— Glabra. Lisa.
+Pela margem.
+— Dentata. Com dentes. Scarabaeus. Truxalis.
+— Serrata. Com incisoens á maneira de sersa. Gryllus.
+— Ciliata. Com pellos visinhos parallelos. Dytiscus.
+— Inermis. Sem pellos, ou espinhos. Crysomela.
+Pelo apice.
+— Spinosa. Que acaba em huma ponta aguda, rija. Carabus.
+— Mutica. Contraria das antecedentes. Papilio.
+TRUNCUS. He a parte, que fica entre a cabeça, e o abdomen. Consta de thorax, escutello, peito, e sterno.
+— Distinctus. Separado por meio de hum pedunculo, ou especie de pescoço, na maior parte dos insectos.
+— Coalitus. Enido immediatamente com a cabeça. Aranea. Phalangium.
+U.
+VERRUCOSUS, sive biverrucosus. Com verrugas, ou com duas verrugas. Curculio verrucosus.
+VITTA Jongitudivalis lutea. A maneira de linha, ou fita comprida de cor amarella. Cicada ciliaris.
 
-[Faltam as páginas de 117 até 187]
+[página 118]
+CLASSE VI.
+VERMES.
+A.
+ABRUPTA columella. Buccinum spiratum. V. columella.
+ACETABULUM. Cavidade, que se acha nas conchas. Tab. XII. fig. 4. a.
+Tambem nos servimos deste termo para os tuberculos, ou protuberancias excavadas, que estaõ ao comprido dos braços da Sepia Loligo &c. por meio dos quaes absorbe o ar, e a agua, e a lança fòra, ou tambem serrem para chupar os humores dos animaes, a que se pegaõ.
+ACUS. Saõ humas pontas finas mais ou menos compridas, que se observaõ em alguns Molluscos. M. D. Argenville.
+ALÆ. Azas, ou membranas á maneira de aza nos Molluscos.
+- Oppositæ. Oppostas huma de hum lado, e outra de outro na mesma direcçaõ. Clio.
+- Subrotundae. Arredondadas. Sepia Sepiola.
+AMBULACRUM. Espaços, que medeaõ entre as prominencias da superficie do corpo do Echinus, á semelhança de hum jardim dividido em areas, e ruas. &c.
+AMPULLACEA. No Buccino; concha inchada redonda, delgada, quasi transparente, fragil.
+ANDROGYNUS,
+sive Hermaphroditus. Molluscos, que tem ambos os sexos.
+
+[página 119]
+ANFRACTUS. Nas conchas univalves saõ aquellas voltas que as mesmas conchas fazem sobre si, ou ao redor da culumela, ou eixo, formando huma espira. Tab. XII. fig. 1. a. 7. a. b. c. 27. 28.
+— Anceps. Nos lados da concha formando hum angulo agudo.
+— Annullatus. Com segmentos á maneira de anneis. Turbo nauticus.
+— Bifidus. Fendido, ou dividido quasi em duas partes, ou com huma excavaçaõ á maneira de sutura dividida. Buccinum arenulatum.
+— Bipartitus. Fendido mais profundamente. Buccinum duplicatum.
+— Canaliculatus. Com huma, ou mais excavações profundas, ou canaes. Conus marmoreus.
+— Cancellatus. Com costas longitudinaes arqueadas.
+— Carinato-striatus. Com angulo agudo, e com
+excavações muito superficiaes.
+— Cylindricus. De figura cylindrica. Nautilus Spirula.
+— Compressus. Comprimido nos lados. Nautilus. rugosus.
+— Contiguus. Contiguo ou visinho; estando as circumvoluções do anfracto visinhas entre si. Nautilus Pompilius. Turbo Clathrus.
+— Contrarius. Estando a circumvoluçaõ ao contrario, do que se acha ordinariamente nas outras conchas.
+Trochus perversus.
+— Coronatus. Circomdado sómente verso o apice de huma simplez ordem de prominencias.
+— Cristatus dorso. com o dorso do anfracto levantado á maneira de crista. Turbo, Nautilus.
+— Curvato-multangulus. Curvado com muitos angulos prominentes. Buccitum undatum.
+— Disjunctus. Estando os anfractos desunidos outre si. Nautilus spirula.
+
+[página 120]
+— Distinctus canali. Estando cada circumvoluçaõ separada por huma excavaçaõ profunda.
+— Distans. Estando os anfractos, ou circumvoluções distantes. Turbo scalaris. fig. 7.
+— Divisus sutura elevata. Estando o anfracto dividido por huma junctura, ou costura levantada. Strombus vittatus.
+— Duplex. Sendo o anfracto duplicado. Buccinum. hecticum.
+— Elevatus. Levantado, ou prominente.
+— Aequalis. Igual, sem protuberancias, ou excavações &c.
+— Frondosus. As varices estendidas em maneira de ramos. Murices frondosi.
+— Geniculis elavatis. Com nós prominentes, ou dilatados. Nautilus calcar.
+— — Crenatis. Com nós que tem incisuras. V. Crenatum na Botanica.
+— — Laevibus. Lisos.
+— — Insculptis. Com excavações longitudinaes, e superficiaes. Nautilus Beccarii. fig. 16.
+— Gibbosus. Corcovado.
+— Imbricatus deorsum. Com especie de escamas dispostas á maneira de telhas, mas viradas para baixo. Turbo imbricatus.
+— — Sursum. Viradas para sima. Turbo replicatus.
+— Incrassato-marginatus. Grosso, com a sua margem sahida para fóra, ou extendida. Nautilus rugosus.
+— Indivisus. Sem divisaõ alguma. Buccinum maculatum.
+— Inæqualis. Desigual na grossura, ou na superficie.
+— Lamellatus. Formado, ou cuberto com pequenas laminas membranaceas transversaes. Buccinum Bezoar.
+— Laevis. Com a superficie lisa.
+— Lineatus. Cheio de lineas.
+— Marginatus. Com a margem extendida para fora, ou prominente.
+— Muricatus. Com bicos, ou espinhos.
+— Nodulosus. Com prominencias redondas.
+— Obsoletus. Safado, que apenas se destingue a sutura.
+— Obtusus. Obtuso, ou convexo. Nautilus Pompilio.
+— Planiusculus. Espalmado, ou alguma cousa plano, ou chato. Conus figulinus.
+— Plicatus. Como enroscado.
+— Plicato-striatus. Enroscado, estriado. V. Striz Voluta cafra.
+— Rotundatus. Arredondado.
+— Spinoso radiatus. Circumdado com espinhos.
+— Spinosus. Espinoso.
+— Scrobiculatus. Que tem espalhadas cicatrices escavadas. Buccinum cornutum.
+— Subangulatus. Quasi angulado.
+— Striatus. Com lineas muito subtís, ou elevadas, ou excavadas.
+— Subemarginatus. Com alguma pequena excavaçaõ na sua margem.
+— Subsulcatus. Quasi sulcado, ou com excavaçoens, ou regos pouco profundos.
+— Sulcatus. Com linhas mais largas, ou excavadas, ou prominentes.
+— Suturæ anfractuum. Juncturas dos anfractus, ou circumvoluções da concha.
+— Teres. Roliço, ou redondo.
+
+[página 122]
+— Torulosus. Alguma cousa grosso.
+— Scriptus. Pintado com varios caracteres, que parecem letras.
+— Sinister. Quasi todas as conchas tem o anfracto virado para a parte direita contra o caminho do sol, como diz o vulgo, exceptuadas algumas poucas, cujo anfracto he para a parte do poente.
+ANASTOMOSANS. Tubos, que se communicaõ entre si. Tubipura fascicularis.
+ANCEPS. Concha, que he longitudinalmente angulada de hum lado, e outro. Helix.
+ANTIQUATA. Concha que parece accrescentar annualmente á sua testa alguma porçaõ de mais, e assim forma regos transversaes com estes accrescentamentos. Cardium edule.
+ANUS. He huma abertura immediata á trachea nas univalves; porem nas bivalves está junto ao canal que serve para tomar o seu alimento: alem disso he a mais pequena abertura do Echinus. Tambem se chama Anus nas conchas bivalves huma pequena excavaçaõ, que fica na parte posterior. Em alguns Molluscos está no dorso posterior das protuberancias chamadas Umbones Tab. XIII. fig. 16. g.
+— Verticalis. Na summidade do corpo. Echini regulares.
+— Subtus, uti os. Debaixo assim como tambem está a bocca. Echini irregulares.
+— Marginalis. Ao pe da borda, ou margem. Echinus placenta.
+— Subremotus. Alguma cousa distante do centro. Echinus orbicularis. Nas conchas bivalves tem o ano differentes nomes.
+— Clausus. Fechado.
+— Compressus. Comprimido nos lados.
+
+[página 123]
+— Cordatus. De figura de coraçaõ.
+— Cordiformis. O mesmo que cordatus.
+— Dentatus. Com dentes ao redor.
+— Impressus. Excavado, ou mais profundo.
+— Intrusus. Profundo, e como mettido á força.
+— Lunatus. Arqueado, ou em figura de meia lua.
+— Nullus. Nenhum.
+— Obcordatus. De figura inversa do coraçaõ.
+— Ovatus. Oval.
+— Retusus. Com a margem torcida, ou revirada.
+— Striatus. Com strias.
+APERTURA. He a bocca de concha univalve por onde o animal sahe. Tab. XII. fig. I. c. Esta he das figuras seguintes.
+— Acuta utrinque. Aguda na parte superior, e inferior.
+— Ampliata. Dilatada, ou ingrandecida. Helix auricularia. fig. 4.
+— Arcuata. Arqueada. Helix contorta.
+— Bilabiata. Com dous beiços, ou labios, hum exterior, e outro interior. Strombus urceus.
+— Bimarginata. Com duas margens. Helix arbustorum.
+— Coarctata. Apertada, ou estre ita, quando amargem circumda a abertura sem a lacuna posterior.
+— Compresso linearis. Comprimida, e da mesma largura desde assima até a baixo.
+— Cordata. De figura de coraçaõ. Nautilus Pompilius.
+— Dehiscens. Muito aberta, ou com o labio inferior mais extendido. Conus Geographicus.
+— Dentata utrinque. Com dentes em ambas as partes. Cypraea Voluta coffæa.
+— Dentata. Com dentes. Buccinum.
+— Diducta antice. Despegada, ou mais aberta anteriormente. Turbo pullus.
+— Dilatata usque in apicem. Dilatada, ou feita mais larga até a summidade. Helix haliotoidea.
+— Desinens in canalem integrum rectum, seu subadscendentem. Que acaba em hum canal (que he a columela prolongada) inteiro, dircito, ou que sobe algum tanto rectamente. Murex. fig. 15. 18. 19. b. 28.
+— Desinens in canaliculum dextrum retusum. Que acaba em hum pequeno canal da parte direita, cuja cauda, ou extremidade he revirada. Buccinum. fig. 14.
+— Ecaudata. Sem cauda, ou columella prominente. Voluta. fig. 17.
+— Edentula. Sem dentes. Conus &c.
+— Effusa. As extremidades da abertura estaõ abertas. Conus.
+— Effusa utrinque. Aberta na parte superior, e inferior. Cypræae. fig. 10.
+— Hians usque ad apicem. Aberta até á ao cume. Helix perspicua.
+— Integra. Inteira.
+— Integra basi. Com base inteira.
+— Linearis. Da mesma largura em todo o comprimento. Nautilus calcar, Cypræa, Conus, Helix contorta.
+— Longitudinalis. Estendida ao comprido. Conus, Cypræa.
+— Lunato-oblonga. Arqueada, e muito comprida. Helix pupa.
+— Marginata. Com a margem prominente, ou extendida. Helix lapidicina.
+— Oblonga. Muito comprida. Bulla. fig. 9.
+— Oblongiuscula. Alguma cousa comprida. Helix Zonaris.
+— Obovata. De figura oval inversa. Bulla achatina.
+— Orbiculata. Redonda, ou á maneira de circulo.
+— Orbicularis. O mesmo que orbiculata. Murex grinus.
+— Ovata. Oval. Buccinum.
+— Ovato-oblonga. Oval, e comprida.
+— Ovata oblique. Obliquamente oval.
+— Reflexa. Encurvada, ou retorcida para traz. Turbo corneus.
+— Repanda. Retrocida, ou revirada para traz. Murex hystrix.
+— Resupinata. A abertura está revirada para a parte superior da concha. Helix ringens.
+— Semicordata. De figura de meio coraçaõ. Helix complanata.
+— Semi-orbicularis. Meia redonda. Nerita. fig. 23.
+— Sinuosa. Chêa de muitas excavações, ou roscas. Murex anus.
+— Subcoarctata. Quasi apertada no meio. Bulla.
+— Subeffusa. Quasi aberta na parte superior. Voluta. fig. 17.
+— Suborbiculata. Quasi redonda.
+— Transversa antice. Atrevessada anteriormente. Helix ungulina. Murex femoralis.
+— Transversalis. Atravessada. Helix lapidicina.
+— Unilabiata. Com hum labio, ou beiço. Buccinum lævigatum.
+APEX. Apice, ou cume da espira da concha.
+— Cariosus. Como carunchoso, ou carcomido. Nerita littoralis.
+— Decollattus. Cortado, ou como degollado. Helix. fig. 3.
+— Exquisitus. Inteiro, ou perfeito. Nerita lacustris.
+
+[página 126]
+— Octo-dentatus. Com oito dentes. Anomia farcta.
+— Perforatus. Furado.
+— Papillosus. Opposto ao agudo, sendo o apice semigloboso. Murex granum.
+— Plicatus. Com dobras, ou pregas. Anomia lacunosa.
+— Quadridentatus. Com quatro dentes. Anomia lacunosa.
+— Recurvus. Revirado.
+— Rotundatus. Arredondado.
+— Subspirallis. Quasi spiral.
+— Subumbillicatus. Quasi com embigo, ou excavaçaõ. Bulla lignaria.
+— Umbilicatus. Com embigo. Bulla hydatidis.
+APPENDIX. Differe do apophisis em a dita eminencia ser huma excrescencia mais sahida para fora, e mais plana.
+APOPHYSIS. Termo anatomico, que na Conchiologia mostra huma eminencia pequena, e redonda, que se acha frequentemente nas univalves, situada, onde se junta o angulo do labio pelo primeiro anfracto.
+ARCUATUS. Arqueado, ou a parte curva da concha, como se observa no labio exterior das conchas univalves.
+ARTICULUS. Articulaçaõ, ou o Anfracto de alguns Nautilos entre os nós.
+— Glaber. Liso, sem espinhos, tuberculos &c.
+— Striatus. Com linhas longitudinaes, ou strias alguma cousa prominentes.
+— Torosus. Grosso.
+ASPER. Quando a superficie da concha fica desagradavel ao nosso tacto, por causa das suas prominencias.
+
+[página 127]
+AURICULA. Nas univalves he a extensaõ do labio exterior; nas bivalves saõ humas extensões planas angulares do cardo, lateraes as Nadegas. Ostrea. Tab. XIII. fig. 4. c.
+— Ciliato-spinosa intus. Internamente com espinhas parallelas á maneira de pestanas. Pectines.
+— Obliterata. Que apenas apparece, ou quasi apagada.
+AURITA. Nas bivalves he quando tem auricula. Ostrea Pectines. V. Auricula.
+B.
+BACILLIUS. Diz-se das pontas grossas, e compridas, que estaõ em alguns ouriços do mar. Echinus.
+BASIS. Nas conchas univalves conforme M. D, Argenville he a extremidade opposta á parte mais elevada da concha, e segundo Linneo he a quelIa parte do ventre visinha á abertura nas univalves; e nas Bivalves he a regiaõ junta ao cardo.
+nas univalves ou hé
+— Emarginata. Com excavaçaõ na margem.
+— Subemarginata. Com muito pequena excavaçaõ. Conus betulinus.
+— Striata. V. Striatus.
+— Transversa. Atravessada.
+— Bifidus. Extremidade da concha, que se divide em duas.
+BIVALVIS. Diz-se da concha, que consta de duas valvas.
+BRACHIUM. Da-se este nome de braço, a huma especie de cirros grossos, e compridos, com que a Sepia, ou siba abraça, ou apanha alguns animaes, e por meio dos cotyledones postos na parte interior dos mesmos cirros, chupa o humor dos animaes.
+BRACHIATA. Com braços.
+BYSSUS. He huma especie de filamentos, que sahem dos Molluscos, com que as conchas se pegaõ humas ás outras, ou aos rochedos. Pinna, Mytilus.
+C.
+CALLUM. Callo, ou callosidade em lugar de dentes.
+— Gibbum. Convexo. Chama. fig. 12.
+— Lineare. Da mesma largura em todo o seu comprimento. Anomia, fig. 13. b.
+— Sessile. Que está pegado, immediatamento á concha sem intermedio. Chama arcinella.
+CANALIS. He a columela, ou eixo da concha sahido para fora, excavado, formando hum canal; ou a continuaçaõ da abertura na cauda. Strombus. Tab. XII. fig. 15. c. fig. 17. b. fig. 26. c. d.
+— Integer. Inteiro.
+— Rectus seu subadscendens. Direito, ou que sobe algum tanto direitamente. Murex. fig. 15. 26.
+— Sinister. Virado para a parte esquerda. Strombus. fig. 29. 70.
+CANALICULUS. Saõ certos regos curvos em forma semicylindrica, que se observaõ em algumas conchas. Ostrea.
+CANCELLI. He huma rede grossa sobre a epiderme, ou periosteo de certas conchas.
+CARDO. He a parte mais grossa, onde se unem as valvas das bivalves, que ordinariamente tem vaios dentes tanto na valva superior como na inferrior, que se introduzem reciprocamente nas cavidades de huma, e outra valva. Tab. XIII. fig. 4. até. 12.
+— Arcuatus. Arqueado. Arca nucleus.
+— Bidentatus. Com dous dentes.
+— Ciliaris. Os dentes parallelos e dispostos á maneira dos pellos das pestanas. Arca pella.
+
+[página 129]
+— Costa cardinis. He huma linha levantada á maneira de costela, que se extende internamente desde o cardo até a margem superior.
+— Depressus. Com hum dente plano, que se extende verso a parte anterior do Cardo.
+— Edentulus. Sem dentes. Ostrea.
+— Excisus. Estando aberto internamente com huma Rima, ou fenda transversal.
+— Lateralis. Extendido para outro lado.
+— Longior. Mais comprido respectivamente ao tamanho da concha.
+— Longitudinalis. Que se extende quasi por toda a longitude da concha como na Arca.
+— Recurvatus. Encurvado. Pholas.
+— Reflexus. Com a margem interior retorcida. Pholas.
+— Sublateralis. Quasi em hum lado.
+— Sulcatus multoties. Com muitos regos. Ostrea Isogonum.
+— Tenuior. Mais delgado, que em outras conchas.
+— Terminalis. Na extremidade da concha.
+— Truncatus. Mutilado Anomia truncata.
+— Unidentatus. Com hum dente.
+CARINA. Chama-se assim pela compressaõ dos lados lateraes, donde sahe hum terceiro lado agudo á maneira de quilha. Arca Noe, Nautilus papyraceus.
+— Subdentata. Com pequenos dentes. Argonauta Argo. fig. 8.
+— Rugosa. Com pregas, ou rugas. Argonauta Cymbium.
+CARINATUS. Que tem prominencia aguda á maneira de quilha.
+CARTILAGO. He hum ligamento independente do animal, que só serve para unir as duas valvas no Cardo.
+
+[página 130]
+CAUDA. He a base prolongada do ventre, e da Columella, ou he hum canal prominente inferior, e posterior á abertura da concha. fig. 18. d. 15. 26. d.
+— Abbreviata. Abbreviada, ou pequena á proporçaõ do comprimento da concha; ou com o giro inferior mais breve.
+— Abrupta. Interrompida, ou naõ continuada. Buccinum spiratum.
+— Acuta. Aguda.
+— Bidentata postice. Com dous dentes na parte posterior. Turbo bidens.
+— Brevis. Pequena á proporçaõ da concha.
+— Circundata spinis. Rodeada de espinhos. Murex brandaris. fig. 15. d.
+— Clausa. Fechada, ou intimamente unida ao canal. Murices caudigeri.
+— Curva. Encurvada. Bulla rapa.
+— Elongata. Comprida, ou o inferior giro comprido.
+— Erecta. Levantada.
+— Exerta. Sahida para fora. Murex.
+— Explanata postice. Applainada posteriormente. Turbo marmoratus.
+— Falcata. Do feitio de fouce. Buccinum patulum.
+— Flexuosa. Chêa de voltas. Murex lotorium.
+— Glaberrima. Muito lisa.
+— Integra. Inteira.
+— Laevigata. Lisa.
+— Lunata intus, seu subrotunda, segmento circuli dempto. Em figura de Lua nova, ou quasi redonda, menos hum segmento de circulo.
+— Mediocris. Mediana.
+— Muricata. Com pequenos espinhos. Murex haustellum.
+
+[página 131]
+— Patula. Estendida, larga. Murex granum.
+— Perforata. Furada. Buccinum spiratum.
+— Plana. Plana, ou espalmada.
+— Planiuscula. Alguma cousa plana.
+— Prominens. Mais elevada, que o corpo da concha. Buccinum echinophorum.
+— Prominula. Alguma cousa mais elevada.
+— Obtusa. Obtuza.
+— Recta. Direita.
+— Recurva.
+— Recurvata. Revirada, retorcida.
+— Subadscendens. Quasi subindo.
+— Subulata. Á maneira de sovela.
+— Triloba. Com a margem dividida em tres abas. Strombus pugilis.
+— Truncata. Cortada quasi transversalmente.
+CELLULA. Certas concameraçoens divididas entre si. Nautilus. fig. 16.
+CICATRIX. He qualquer cicatriz, que o animal faz, quando a sua concha quebrou por accidente.
+CIRCUMFERENTIA. He o espaço da abertura da concha univalve; porém nas bivalves he todo o circulo de cada valva.
+CINGULUM. Cinto, ou banda, as vezes significa zona, ou costa, ou huma cadêa de nós.
+— Elevatum. Elevado. Bulla gibbosa.
+— Muricatum. Com pequenos espinhos.
+CIRRI. Saõ os filamentos das conchas multivalves. Lepas. Tab. XIII. fig. 2. d.
+Ou tambem nos Molluscos saõ de algum modo semelhantes aos dos peixes.
+CIRROSUS. Cirrozo, ou filamentoso.
+CLYPEUS. Escudo carnoso no dorso. Limax.
+
+[página 132]
+— Dorsalis. No dorso, ou costas.
+— Membranaceus. De substancia membranoza. Laplysia. Tab. XI. fig. 4.
+COLUMELLA. He o eixo da concha univalve, ao redor do qual vaõ subindo os giros, ou anfractos ao travez da concha por toda a sua longitude. Esta muitas vezes he aberta pelo embigo.
+Ella naõ se vê se naõ no primeiro giro, que faz a sua primeira orbita junto á sua abertura.
+— Abrupta, seu Truncata. Na base quasi transversalmente cortada.
+— Caudata. Sahida mais fóra, que o ventre.
+— Dentata. Quando o labio interior tem varias prominencias á maneira de dentes. Cipræa. Tab. XII. fig. 10. b. b.
+— Denticulata. Com pequenos dentes espalhados.
+— Exerta. Sahida para fòra. Tab. XII. fig. 15. e.
+— Laevis. Lisa. Bulla.
+— Obliqua. Obliqua, ou de travez. Bulla.
+— Obliquata. Retorcida. Trochus. fig. 20.
+— Perforata. Furada. Voluta virgo, Trochi umbillicati.
+— Plana. Com o beiço chato.
+— Plicata. Com pregas transversaes, ou dobras. Voluta.
+— Productiuscula.
+Prolongada, ou estendida alguma cousa.
+Quadriplicata. Com quatro pregas.
+Quinqueplicata.
+Quintuplicata. Com sinco pregas.
+— Recurvato-contorta. Curvada, e retorcida. Trochus dolabratus.
+
+[página 133]
+— Retusa. Com a sua summidade revirada.
+— Rugosa. Encrespada, ou chêa de rugas.
+— Septemplicata. Com sete pregas.
+— Sexplicata. Com seis pregas.
+— Spiralis. Columella caudata, torcida em espira.
+— Striata oblique. Com strias, ou proninencias lineares obliquas.
+— Subedentula. Quasi sem dentes.
+— Subplicata. Quasi plicata. Voluta solidula.
+— Subumbillicata. Que tem quasi huma cavidade, ou enbigo.
+— Subperforata. Quasi furada. Voluta reticulata.
+— Torta. Torcida. Bulla, Cypræa.
+— Tridentata. Com tres dentes. Voluta auris Judæ.
+— Triplicata. Com tres pregas. Voluta morio.
+— Truncata, abrupta. Na base transversalmente cortada. Bulla virginea.
+CONCAMERATIO. V. Thalamus.
+CONVALLIS. Plano entre algumas prominencias.
+— Longitudinalis. Ao comprido. Anomia retusa.
+COSTA. He huma especie de carina maior desde o apice até a periferia, ou hum raio muito levantado, quasi triangular.
+— Fornicata. Com escamas debaixo concavas.
+CRENATUS. Diz-se de huma coroa feita de tuberculos agudos com incisoens profundas, ou tambem a circumferencia, ou margem das conchas bivalves com pequenas excavacoens, ou incisoens.
+CRUSTA. Diz-se do tartaro maritimo, ou viscosidade, que se endurece na superficie, e testa das conchas, ou
+— Subcoriacca. O tegumento das estrellas do mar Asterias.
+— Ossea. O tegumento dos ouriços do mar. Echinus.
+CONTORTA Concha. He aquella concha, que dá sobre si mesma taõ somente huma até duas voltas espiraes.
+CONVOLUTA. Enrolada. Conus.
+CORONATUS. Conchas univalves, cujos aculeos, ou tuberculos formaõ huma coroa sobre a clavicula. V. Clavicula.
+CORPUS. He toda a parte do animal, que occupa a concha formando com ella as mesmas involuçoens, ou he Mollusco sem pés.
+— Apodum. Sem pés.
+— Anceps. Levantado no meio, e adelgaçado nos lados; formando margem aguda. Sepia.
+— Canaliculatum. Com regos profundos. Scillaea. Tab. XI. fig. II.
+— Depressum. Abaixado, ou chato. Sepia media.
+— Ecaudatum. Sem cauda. Sepia octopodia.
+— Fixum. Estando pegado a hum corpo immovel. Ascidia. Tab. XI. gfi .7.
+— Gelatinosum. De substancia como de gelêa. Medusa. fig. 10.
+— Gibbum. Convexo. Holothuria. fig. 9.
+— Liberum. Que naõ está pegado a corpo algum. Tethys. fig. 8.
+— Lunatum. Á maneira de Lua nova. Lernæa asellina.
+— Marginatum. Com a margem mais estendida. Sepia officinalis.
+— Nudum. Nú. Holothuria.
+— Oblongum. Muito comprido. Limax.
+— Obvelatum membranis reflexis. Envolvido entre membranas voltadas para traz. Laplysia. fig. 4.
+
+[página 135]
+
+— Orbiculatum. Redondo. Medusæ.
+— Ovale. Oval. Aphrodita.
+— Planum subtus. Espalmado por baixo. Doris. fig. 5.
+— Punctatum trifariam. Com tres ordens de pontos. Holothuria phantapus.
+— Repens. Que vai de rastos.
+— Se affigens. Que se pega a outro corpo. Scilaea, Lernaea.
+— Subcylindricum. Quasi de figura cylindrica. Sepia Loligo.
+— Subsquamosum. Quasi escamoso. Holothuria phantapus.
+— Subulatum. Que he delgado na extremidade á maneira de sovela. Sepia Loligo.
+COSTÆ. Eleraçoens longitudinaes, raras vezes transversaes, que se observaõ em algumas testas das conchas. Ostrea Pecten, Buccinum Harpa. Tab. XII. fig. 14. Murex.
+— Carinatæ. Á maneira de quilha.
+— Elevatae. Elevadas.
+— Concavae. Concavas.
+— Membranaceæ. Membranaceas
+— Depressæ. Abaixadas, ou abatidas.
+— Laeves. Lisas.
+— Acutæ. Agudas.
+— Striatæ. Estriadas.
+— Tuberculatæ. Com tuberculos.
+COTYLEDONES. Saõ alguns tuberculos chatos com hum buraco no meio, os quaes se achaõ na parte interior dos braços da Sepia.
+CRENULATUS. Com incisoens meudas na margem das conchas bivalves.
+CRISTA compressa. A crista comprimida nos lados. Holothuria thalia.
+
+[página 136]
+D.
+DENS. He huma eminencia aguda, que serve de unir entre si, e firmar as valvas, e conter o Animal, que está de dentro pegado ao cardo, ou charneira. Tab. XIII. fig. 5. a. a. fig. 6. a. a. fig. 8. a. a. a.
+— Vacuus. Que naõ entra em cavidade alguma da valva opposta.
+— Subulatus. Á maneira de sovela.
+— Anticus. Proximo á Rima, ou fenda.
+— Analis. Que está proximo ao Anus.
+— Planus. Chato. Tellina. fig. 8.
+— Approximatus. Muito visinho a outro dente.
+— Bifidus intermedius. O dente do meio dividido em dous. Venus rotundata.
+— Complicatus. Membranaceo, dobrado, ou retorcido, fazendo angulo agudo na dobra. Muctra. fig. 10. a. a.
+— Crassus. Grosso.
+— Divaricatus. Estendido para fóra, ou divergente.
+— Duplex, s. Duplicatus. Cortado profundamente, quasi resgado em dous. Solen.
+— Non insertus. Que naõ está inserido em cavidade da volva opposta.
+— Depressus. Abbatido internamente da parte concava.
+— Erectus. Estando a valva da concha posta sobre o seu Umbo, o Dente he levantado perpendicularmente.
+— Masticans. Quando o cardo tem muitos dentes, os quaes, fechadas as valvulas, entre si se unem. Arca.
+— Insertus. Introduzido na cavidade da valva opposta.
+— Lanceolatus. Em figura de lança.
+— Lateralis. Posto no lado.
+
+[página 137]
+— Patulus. Estendido, ou largo.
+— Penetrans. Que penetra bastantemente pela cavidade da concha opposta.
+— Primarius, s. cardinalis. Dente posto entre as nadegas.
+— Planus. Espalmado. Tellina.
+— Recurvus. Retorcido. Spondylus.
+— Remotus. Distante dos outros dentes
+— Solidus. Macisso.
+— Subulatus. Á maneira de sovela.
+DENTATAE patellæ. Que tem margem com angulos prominentes, ou elevados.
+DENTES. Dentes.
+— Incurvi. Encurvados, ou arqueados. Actinia.
+DENTICULI. Saõ humas pequenas eminencias á maneira de dentes postos nos lados da abertura das conchas.
+DETRITA columella. Com o labio da columella quasi razo, chato. Buccinum harpa. &c.
+— — Spira. Com a espira chata. Voluta tringa.
+DIAPHRAGMA. Divizaõ das concamerações, ou cellulas. Nautilus.
+DICHOTOMUS. Dividido em dous.
+DIGITATUS. Recortaduras do labio exterior da concha, as quaes se prolongaõ á maneira de dedos. Strombus.
+O labio dividido em abas, ou lacinias extendidas. Strombus.
+DIGITUS. Huma, ou mais pontas rombas postas no labio exterior. Strombus.
+— Solutus. Separado por meio de huma excavaçaõ dos anfractos.
+— Fissus. Dividido quasi no meio por huma excavaçaõ linear.
+
+[página 138]
+— Integer. Contrario do fissus.
+— Mucronatus. Que acaba sómente em huma ponta.
+— Scrobiculato-canaliculatus. Com varices, ou prominencias, as quaes tem excavaçoens.
+DISCUS. He a parte do meio das valvas, ou aquella, que está entre os umbones. e o limbo, ou margem.
+DISSEPIMENTUM. V. Diaphragma.
+DORSUM. Nas univalves he a parte da orbita opposta á abertura da concha: no Nautilus, onde está a carina, e nas bivalves a parte mais elevada: Nas Patelas, e Haliotis he a parte superior convexa.
+— Coronatum. Coroado, ou cercado com alguma cousa.
+— Gibbere compresso. Corcova comprimida nos lados.
+— Marginatum. Com a margem sahida para fora. Strombus marginatus.
+— Rugosum. Com rugas.
+— Verrucosum. Escabroso, ou com verrugas.
+E
+EPIDERMIS. He huma membrana, ou pellicula exterior da concha, que se acha em algumas especies, a qual spontaneamente, cae sem algum prejuizo da superficie da concha.
+ELONGATUS conus basi rotundata, cylindro duplo longiore quam spira. A Concha Conus comprida, com a base arredondada com o cylindro duas vezes mais comprido que a espira.
+EXESUS. Diz-se da concha cuja clavicula, espiras, canaliculaturas, linhas, pontos, e tuberculos se naõ podem observar, ou estaõ como safadas, pelas interrupções, que causa a sua antiguidade.
+F
+FALCATA columella. Columella á maneira de fouce.
+FASCIÆ. Saõ humas zonas ou linhas circulares côradas, que ornaõ a testa das conchas.
+FASCICULUS pediformis. Feixe de fibras á maneira de pè. Muitos destes fasciculos se achaõ de hum lado, e outro do corpo. Aphrodita.
+FAUX. A abertura da concha univalve, e a superficie superior della.
+— Striata. Com strias. V. Stria.
+— Levis. Lisa.
+FISSURA. Qualquer interrupçaõ das conchas, ou incisaõ profunda.
+FLUVIATILIS. Diz-se das conchas que habitaõ nos rios de agua doce.
+FORAMEN. He hum buraco, que se observa em algumas especies de lepas. Buraco, que serve para os genitaes, e ás vezes tambem para os excrementos.
+— Duo ad latus colli. Dous ao lado do pescoço. Thetys.
+— Laterale. No lado. Limax.
+— Laterale dextrum. No lado direito, que serve somente para os genitaes. Lapsysia.
+FORAMINULUM. Pequeno buraco.
+— Submembranaceum. Quasi membranoso.
+— Urceolatum. Á maneira de pequeno jarro. Cellepora.
+FOSSULA, Foveola, Sinus, Scrobiculus. Se a covinha estando chêa da cartilagem, que une as valvas, naõ recebe os dentes, entaõ esta cavidade se chama Scrobiculus, quando pois recebe os dentes Foveola.
+G.
+GINGIVA. Exprime o paladar dentado da abertura nas Neritas.
+GENICULUM. Nó produsido do aperto do anfracto, que corresponde no disepimento interior no Nautilus beccarii: Isis hippuris.
+GLABERRIMUS. Sem aspereza alguma, ou com superficie lisa.
+GLANS. Parte do mollusco á semelhança de bolota na figura.
+— Pedunculata. Com pésinho, ou pedunculo. V. na Botanica.
+— Tubulosa. Furada á maneira de canudo. Terebella.
+GLOMERATÆ cellulæ. Cellulas ennoveladas, ou amontoadas. Cellepora verrucosa.
+H
+HIANS. Quando as conchas bivalves, ou multivalves se fechaõ, deixando algum espaço aberto. Arca noae.
+HIPOCRATERIFORMIS. Á maneira de copo de caliz. Madrepora cavernosa.
+HYMEN. Junto do cardo na parte opposta ás nadegas se juntaõ as membranas da valva, ou batente, a qual membrana se dá o nome de Hymen, o qual feixa a rima, ou abertura, e está pegado entre os labios, e as Nymphas da concha.
+
+[página 141]
+I
+IMBRICES. Saõ algumas eminencias mais, ou menos altas sahidas para fóra, delgadas em forma de abobeda, que se cobrem humas debaixo das outras á maneira de telhado.
+INCISIO. Diz-se de huma incisaõ, ou corte em forma de semicirculo, que se observa no labio da bocca de algumas conchas univalves.
+INClSUS. Diz-se do labio de muitas conchas, que he excavado. profundamente.
+INCURVATUS. He a curvadura, que se acha em muitas bivalves.
+INTERSTITIA. Distancias, ou espaços, que ha entre as strias, ou excavaçõẽs canaliculares.
+INTESTINA. V. Vermes.
+INTESTINUM. Tubo membranaceo, pelo qual algumas especies de Lepas, ou Anomias se pegaõ a outros corpos.
+ISTHMUM. Isthmo, á semelhanca da lingua de terra, que se acha entre dous mares, he a divizaõ, que se observa em cada diaphragma, que divide a cavidade do Nautilus.
+L
+LABIA incumbentia. Hum beiço posto sobre outro da parte superior.
+LABIATÆ patellæ. Patellas, que tem internamente huma prominencia á maneira de beiço.
+LABIUM. Margem interior da abertura.
+— Anticum. He a parte anterior do beiço virada para a espira.
+— Posticum. Virada para a cauda.
+
+[página 142]
+— Bidentatum. Com dous dentes.
+— Coarctatum. Estreito na base da concha.
+— Concavum. Concavo.
+— Convexum. Convexo. Nerita.
+— Crenulatum. Com incisuras. Nerita.
+— Dentatum. Com dentes. Nerita.
+— Digitatum. Dividido até a sua base em lobos divergentes, e adelgaçados.
+— Explanatum. Applainado. Buccinum.
+— Fornicale. No arco, ou curvatura da columella, na parte mais interior da abertura.
+— Gibum. Convexo.
+— Laterale. Em hum lado.
+— Obsoletum. Safado.
+— Perpendiculare. Perpendicular.
+— Planum. Expalmado.
+— Planiusculum. Alguma cousa espalmado. Nerita.
+— Prominulum. Algum tanto elevado.
+— Retusum. A sua margem torcida.
+— Rugosum. Enrugado, ou encrespado.
+— Sublaterale. Quasi em hum lado.
+— Transversum. Atravessado. Nerita.
+— Truncatum. Cortado. Nerita.
+— Tuberculatum. Com inchaçosinhos, ou tuberculos. Nerita.
+LABRUM. A margem externa da abertura.
+— Æquale. Igual.
+— Angulatum. Com angulos.
+— Arcuatum. Arqueado. Bulla Spelta.
+— Attenuatum. Adelgaçado.
+— Bilobum. Com duas abas.
+— Crenatum extus. Com incisuras externamente.
+— Crenulatum. Com incisuras mais pequenas.
+— Coronatum spinis. Coroado de espinhos.
+
+[página 143]
+— Denticulatum. Com pequenos dentes.
+— Dilatatum. Dilatado ou extendido para fóra. Strombus.
+— Emarginatum. Com excavaçaõ, ou incisura curva na margem.
+— Fissum. Fendido. Murex babilonius.
+— Gibbum. Convexo.
+— Heptadactytum. De sete dedos, ou abas.
+— Hexadactylum. De seis.
+— Incrassatum. Miais espesso.
+— Levæ. Liso.
+— Marginatum. Com a margem sahida para fóra.
+— Mucronatum. Agudo, ou que acaba em ponta.
+— Muricatum postice. Posteriormente cheio de pequenos espinhos, ou pontas. Buccinum Erinaceus-
+— Muticum. Sem espinhos, ou pontas.
+— Obtusatum. Obtuso.
+— Palmatum. Á maneira de huma maõ, dividida em abas compridas, ou dedos. Strombus pes pelecani.
+— Retusum. Com a margem torcida.
+— Rotundatum. Arredondado.
+— Scabrum. Aspero.
+— Solutum antice, & postice. Despegado anterior, e posteriormente. Strombus ater.
+— Solutum postice. Despegado posteriormente. Strombus palustris.
+— Striatum interne. Com linhas prominentes, ou strias na parte interna.
+— Subdentatum. Quasi dentado.
+— Subplicatum. Quasi com pregas.
+— Tetradactylum. Com quatro dedos. Strombus pes pelecani.
+— Trilobum. Com tres abas.
+— Laciniosus. Concha retalhada profundamente.
+
+[página 144]
+— Lacuna, sive canaliculus. Cova, ou rego. Buccinum-
+LATITUDO. A largura da concha se toma da margem posterior até a anterior.
+LAXI coni ventricosi in aorso disjecti supra mensam tinitantes. Como hum pião.
+LIGAMEN, ligamentum, vinculum. Saõ sinonimos. Os ligamentos nas bivalves saõ destinados para unir as valvas de maneira que se abraõ, e fechem por meio destes ligamentos.
+LIMBUS. Circumferencia das valvas da concha, ou margem da mesma.
+LINGUA. He huma pequena caruncula branca, conica, negra na ponta, posta na parte posterior da mandibula de alguns molluscos. Limax Vid. Argenville.
+— Involuta. Envolvida.
+— Spiralis. Espiral, ou retorcida em espira. Triton.
+LINEAE. As linhas, algumas vezes, significaõ sómente a pintura, e as vezes strias prominentes, ou escavadas.
+— Longitudinales. Que se extendem da base até ao apice.
+— Transversales. Que seguem os anfractos, ou giros.
+— Striatae. Com strias transversaes.
+LITHOPHYTA. Saõ animaes, ou vermes molluscos compostos, que constaõ de coral, e dos molluscos.
+Os Lithophitos, como observou Mr. Leysonel, saõ pequenos animaes, que separaõ, ou depoem a materia coralina, e servem-se della para as suas cellulas. E os vermes das medroporas postos assima das estrelas depozitando para baixo de si continuamente a materia de pedra, levantaõse, e acrescentaõ as suas habitações.
+Os vermes, que fabricaõ estas casas, saõ Nereis ? Medusa. Hydra.
+
+[página 145]
+LOBATUS. Com abas, ou lacinias.
+LOCULARIS. Cavidade.
+— Unilocularis. Com huma cavidade.
+— Bilocularis. Com duas.
+LONGITUDINALIS. Comprimento desde os nates até á margem, ou borda.
+LONGITUDO. O comprimento da concha se toma das nadegas até a margem superior.
+M.
+MACULA tuberculata. Concha reticulada com tuberculos elevados na seçaõ das costas.
+MARGO. Margem, ou limbo.
+— Canaliculatus. Rodeado na regiaõ do anus com huma covinha quasi longitudinal.
+— Cardinalis. Junto ao cardo, ou a charneira.
+— Crenatus. Com incisuras.
+— Crenulatus. Com incisuras mais pequenas.
+— Inferior. Suponha se, que o cardo he em lugar da base da concha, e por isso se chama margem, ou lado inferior, e pelo contrario a margem, que lhe he opposta se chama margem, ou lado superior.
+— Inflexus. Dobrado. Mytilus ungulatus
+— Integer. Inteiro.
+— Integerrimus. Perfeitamente inteiro.
+— Membranaceus. Membranaceo.
+— Obsoletior. Mais que safado. Solen.
+— Plicatus. Com pregas.
+— Posterior. Posterior. Mytilus ungulatus.
+— Subfalcatus. Quasi á maneira de fouce. Haliotis asinina.
+— Unguiculatus. Asignalado de humas escamas excavadas.
+
+[página 146]
+MAXILLÆ. Termo explicado nas classes antecedentes; nos molluscos acha-se huma especie de queixos-
+— Angulatæ subtus. Anguladas na parte inferior. Terebella.
+— Binæ. Duas. Myxine.
+— Duæ calcariæ. Duas de substancia calcaria. Terebella.
+— Excisæ antice. Como cortadas na parte anterior. Terebella.
+— Hemisphericae. De figura de meia esfera. Terebella.
+— Pinnatæ. Com pinnas, ou com fios oppostos de huma, e outra parte. Myxine.
+MONOTHALAMIA. Concha univalve e que tem hum só thalamo, ou cavidade. Dentalium.
+MUCRONATÆ patellae. Com o apice, ou vertice agudo, e revirado.
+MURICATA. Com espinhos, ou pontas.
+N.
+NATES. As prominencias mais notaveis fora do cardo, se chamaõ nadegas.
+— Acuminatæ. Agudas.
+— Approximatæ. Visinhas entre si. Cardium cardissa.
+— Auriformes. Excavaçaõ curva dentro das nadegas. Chama bicornis.
+— Corniformes. Muito compridas, direitas, aguçadas.
+— Decorticatæ. Sem casca. Mytilus anatinus.
+— Dissectae, excisae. Separadas entre si por huma excavaçaõ.
+
+[página 147]
+— Distantes. Distantes entre si.
+— Gibbae. Convexas.
+— Incurvae. Encurvadas, ou arqueadas.
+— Incurvatae.
+— Inflexae, & incurvatae. Retrocidas, ou inclinadas entre si alternativamente.
+— Perforato nati. Furada. Anomia auriata.
+— Recurvae. Retorcidas.
+— Recurvatae.
+— Reflexae s: recurvatae s: retorsum incurvatae. Dobradas para a parte do ano.
+— Submucrunatae Quasi agudas, ou que acabaõ quasi em ponta. Tellina incarnata.
+— Spirales. Retorcidas em espira.
+— Subspirales obliquæ. Quasi retorcidas obliquamente á maneira de espira. Chama Lazarus.
+NEBULOSUS. Concha de cores confusas, e pouco distantes entre si
+NERITOIDEI. Primeira divisaõ do genero turbo, cujas especies tem a margem columnar da abertura chata, e sem buraco.
+NIVOSUS. Concha de cór branca.
+NYMPHÆ. Á semelhança das ninfas nas partes genitaes das mulheres, e ficaõ cubertas do Hymen.
+— Acutæ. Agudas.
+— Dentiformes. Á maneira de dentes. Donax denticulata.
+— Hiantes. Abertas, ou distantes entre si.
+— Inflexæ. Dobradas. Tellina laevigata.
+— Prominentes. Elevadas. Tellina albida.
+— Retractae. Oppostas ás prominentes.
+— Truncatae. Mais pequenas, que a Rima.
+
+[página 148]
+O.
+OCCLUS. Chama-sa olho hum ponto central na voluta, na summidade da concha no Lepas. Na ponta dos tentaculos do limax, Swammerdam chamou o centro destes tentaculos nervo optico, elle observa, que a ponta destes pelo interior he cuberta com a tunica chamada uvea; elle distinguio os tres humores, Aqueo, Vitreo, cristalino; mas naõ obstante isto suppomos os olhos nostes animaes como partes muito incognitas, aindaque os tentaculos sejaõ a sua parte mais sensivel.
+OPERCULUM. Lamina com a qual algumas conchas fechaõ a sua abertura, e esta, ou de substancia como cornea, ou de unha, ou testacea, ou membranacea, como Helix Pomatia.
+OS. Este termo relativamente á concha he a parte por onde o animal sahe, ou para respirar, ou para tomar o seo alimento, ou para o seu movimento. Linnéo deo a esta parte da concha o nome de abertura para se naõ confundir com a bocca do animal. V. Apertura.
+— Anticum. Na parte anterior. Sipunculus.
+— Attenuatum. Adelgaçado. Sipunculus.
+— Centrale. No meio do corpo Medusa, Asteria.
+— Cirrosum. Com cirros. Mixine.
+— Corneum. De substancia cornea. Sepia.
+— Cylindricum. De figura cylindrica. Sipunculus.
+— Edentulum. Sem dentes. Scyllaea.
+— Inter brachia. Posta entre os braços. Sepia.
+— Inter tentacula. Entre os tentaculos. Holothuria.
+— Quinquevalve. De cinco valvas, ou peças. Asteria, Echinus.
+— Retractile. Que se extende, e se contrahe. Aphrodita.
+
+[página 149]
+— Subtus antice. Na extremidade, na parte inferior. Doris.
+— Unguiculatum. Com huma especie de unha. Nereis.
+OVOIDEUS. Concha de figura oval. Bulla ovum.
+P.
+PALATUM. A parte interior, e superior da abertura no lado da columella, he o que nos Nerites tem o nome de paladar.
+PAPYRACEUS. Parte da concha, que naõ excede a grossura do papel.
+PAPULOSUS porus. Pequeno buraco levantado á maneira de burbulha, ou empolla. Gorgonia elongata.
+PARIES. Saõ as divisoens das cellulas, ou lados interiores da concha, a que o animal se encosta.
+PECTINATA. Concha sulcada, ou striada longitudinalmente, mas na parte anterior saõ os regos, ou strias divergentes a angulo agudo.
+PES. He hum musculo grosso, com que os molluscos se arrastaõ, ou nadaõ.
+PILEUS. Uniaõ de quatro pequenas valvulas triangulares, que formaõ a parte superior do Lepas.
+POLYTHALAMIA. Com muitos thalamos, ou cavidades. Nautilus.
+PORUS. Pequeno buraco em alguns mulluscos, ou para respirar, ou tambem para a sua geraçaõ.
+— Lateralis. No lado. Lumbricus. Sipunculus.
+— Terminalis. No apice, ou extremidade. Fasciola.
+— Ventralis. No ventre.
+PORUS. O buraco por onde sahem os molluscos habitadores da Millepora.
+
+[página 150]
+— Asper. Aspero ao tacto.
+— Eminens. Elevado.
+— Nullus. Nenhum. Millepora polymorpha.
+— Obsoletus. Quasi safado.
+— Prominulus. Alguma cousa elevado.
+— Scaber. O mesmo que asper.
+— Turbinatus. Piramidal ou agudo.
+PROTUBERANTIA. He qualquer parte prolongada, ou elevada na testa das conchas.
+PUBES. Lanugem, que cobre algumas conchas maritimas.
+— Lamellosa. Formada de laminas.
+— Rugosa. Enrugada, ou encrespada. Tellina trifasciata.
+— Rugis attenuatis. Com rugas adelgaçadas. Venus paphia.
+— Spinosa. Espinosa.
+— Striato-scabra. Aspera pelas strias, ou linhas elevadas.
+— Subtumentosa. Quasi tomentosa, ou com tomento.
+PUNCTUM. Saõ certas malhas dispostas sem ordem, ou longitudinaes, ou obliquas. Os pontos saõ elevados, ou escavados.
+— Concatenatum. Hum ponto a outro está unido a maneira de contas.
+— Pertusum. Escavado profundamente, como se fosse feito com huma sovella.
+R.
+RADIUM. Raio nas conchas bivalves he huma prominencia longitudinal, que principia do umbo, e vai divergindo até a outra extremidade.
+
+[página 151]
+— Convexum. Convexo.
+— Compressum. Comprimido nos lados.
+— Duplicatum. Duplicado. Ostrea pleuronectes.
+— Echinatum. Com espinhos imitando assim o ouriço do mar, ou Echinus.
+— Explanatum. Expalmado. Ostrea Ziczac.
+— Filiforme. Da mesma largura em todo o comprimento.
+— Glaber. Igual, sem espinhos.
+— Imbricatum squamis. Com escamas dispostas como as telhas nos telhados.
+— Laeve. Liso
+— Menbronaceo striatum transverse. De substancia como membranacea, e striada transversalmente, ou com linhas transversaes, ou atravessadas. Ostrea striatula.
+— Nodoso-vesiculare. Com nós inchados á maneira de bexigas. Ostrea nodosa.
+— Obliteratum. Apagado, que naõ apparece.
+— Osseum, 2. pro basi animalis. De substancia ossea. Dous, que servem de base onde o animal se pega.
+— Planiusculum. Alguma cousa chato.
+— Rotundatum. Arredondado.
+— Scabrum. Aspero.
+— Striatum. Com strias. Ostrea maxima.
+RADIATUS. Concha chêa de strias, regos, rugas, ou pontas, divergentes, ou concha ornada de varias côres dispostas em raios. Tellina.
+RADIUS. Estrias elevadas desde o centro a periferia divergentes. Ostrea pecten. V. Radium.
+— Echinatus. Com aculeos, ou espinhos postos na longitude dos raios da concha.
+— Vesicularis. Coberto de nós internamente concavos.
+
+[página 152]
+RAMIFICATIO. Subdivisaõ das linhas, strias, ou rugas, divididas em figura ramosa.
+RETICULATUS. Concha chêia de linhas simplices côradas entrecortadas á maneira de rede. V. Argenvill.
+RETICULUM. Dezenho natural sobre a epiderme da concha feito por linhas córadas.
+RIMA, s. Sutura. He o espaço, que fica entre as valvas tirado o Hymen.
+— Angustissima. Muito estreita.
+— Clausa. Fechada pelas Nymphas, que a cobrem.
+— Dentata. Com dentes.
+— Serrata. Com as margens cortadas á maneira de serra.
+ROSTRUM. Bico, ou esporaõ nas conchas.
+— Elongatum. Comprido. Bulla volva.
+— Laeve. Liso.
+— Cylindricum. De figura cylindrica. Actinia.
+— Radiatum. Cercado com raios, ou tentaculos. Actinia.
+S.
+SAGULUM. He aquella parte do corpo do mollusco, que he mui distincta, sobre as espaduas do Limax, que corresponde ao escutello dos Insectos.
+SCROBICULATA varix. Prominencia á maneira de veia inchada, e esta com covinha. Murex rubecula.
+SCROBICULUM. Covinha, ou pequena cavidade, que está em lugar de dente. Ostrea. Anomia.
+SEMILUNARIS. Concha, cuja abertura he de meia lua. Helix.
+SERIATUS. V. Poris multiplicatis seriatis. Poros numerosos dispostos em serie, ou ordem. Millepora lineata.
+
+[página 153]
+SERRATUS. Concha chêa de córtes, ou incizoens profundas como dentes de serra.
+SINUOSUS. Diz-se da concha chêa de linhas, com varias torturas pela sua longitude.
+SINUS. Excavaçaõ, ou cavidade.
+SIPHO tubo cylindrico. Tubo cylindrico, ou canal cylindrico, que attravessa de parte a parte os diafragmas, ou divisoẽs das conchas, q~ tem muitas cavidades.
+— Centralis. No centro. Nautilus raphanistrum.
+— Obliquus. Obliquo.
+— Sublateralis. Quasi no lado.
+SIPHUNCULUS. Tubo articulado, que passa pelas concameraçoens do Nautilus.
+SPATA. Espinhos de varios ouriços do mar, cuja figura reprezenta huma colher, ou espatula.
+SPHAEROIDEUS. Concha, que reprezenta quasi huma esfera.
+SPINA. Espinho.
+— Arguta. Muito subtil.
+— Conica. De figura conica.
+— Erectiuscula. Alguma cousa elevado.
+— Fornicata. Arqueado.
+— Fornicato-comipressa. Arqueado, e comprimido nos lados. Turbo calcar.
+— Laevis. Liso.
+— Remosa. Dividido em ramos. Turbo delphinus.
+— Recta. Direito.
+— Setacea. Á maneira de seda, ou setaceo. Murex tribulus.
+— Subacuta. Alguma cousa aguda.
+— Subulata. Á maneira de sovela.
+SPINOSUM. Com espinhos.
+— Spinis mobilibus. Com espinhos moveis. Echinus.
+SPIRA. Espira, que formaõ os anfractos superiores.
+
+[página 154]
+— Aculeata. Com aculeos, ou bicos.
+— Capitata. Acaba em huma cabeçinha redonda.
+— Cariosa. Como carunchoza, ou corcomida. Buccinum prærosum.
+— Conico-convexa. De figura conica, e convexa. Conus rusticus.
+— Coronata acuta. Coroada, ou cercada de tuberculos, ou de outra cousa aguda, Conus varius.
+— Coronata. Coroada.
+— Contigua. Visinha, de maneira, que naõ fica espaço algum nas circunvoluçoens, entre huma, e outra.
+— Contraria. Virada da parte contraria, o que ordinariamente naõ se observa nas conchas. Murex perversus.
+— Convexiuscula. Alguma cousa convexa.
+— Dentata. Dentada, ou com dentes.
+— Detrita. Gastada, ou como consumida
+— Elevata. Elevada.
+— Elongata. Comprida.
+— Exquisita s: exerta. Exacta, ou perfeita, ou muito aguda.
+— Inermis. Sem espinhos, ou dentes.
+— Laevigata. Lisa.
+— Lateralis. Posta no lado. Haliotis.
+— Longiuscula. Alguma cousa comprida.
+— Manifesta. Que apparece.
+— Absque spira manifesta. Sem espira, que appareça.
+— Mucronata. Que acaba em ponta.
+— Muricata. Com pequenas pontas, ou espinhos.
+— Mutilato-truncata. Cortada na sua base. Helix decollata.
+— Nulla. Nenhuma. Patella.
+
+[página 155]
+— Obliterata. Apagada, ou que naõ apparece.
+— Obliterata basis spiræ. Quando a base da espira naõ apparece. Voluta porphiria.
+— Obtusata. Obtuza, ou a base obtuza. Voluta mercatoria.
+— Occultata. Escondida, ou que naõ apparece sensivelmente. Haliotis
+— Papillari apice. Com a ponta redonda. Voluta Olla.
+— Plana. Chata, sendo os giros superiores iguaes na altura, de maneira que parece a espira cortada, ou truncada.
+— Plicata. Com pregas, ou dobras.
+— Prominula. Alguma cousa elevada, ou sahida para fóra.
+— Prominulus æpex spiræ. Com a ponta da espira alguma cousa sahida para fora.
+— Retusa. Com a ponta torcida para dentro.
+— Retuso-umbilicata. O apice da espira taõ metido para dentro, que mais parece huma cavidade, que a prominencia da espira.
+— Rugosa. Enrugada. Voluta auris midæ.
+— Spinosa. Com espinhos Strombus pugilis.
+— Subgranulata. Com pequenas prominencias á maneira de pequenas grãs. Voluta mendicaria.
+— Subcoronata. Quasi coroada.
+— Subnodosa. Quasi com nós.
+SPIRULA. Pequena espira.
+— Excavato-oculata. Escavada formando no apice ou centro huma excavaçaõ á maneira de olho. Nerita pulligera.
+SQUAMA, s. squamula. Escama.
+— Acuta. Aguda. Pinna muricata.
+
+[página 156]
+— Cananicullata. Excavada longitudinalmente.
+— Canaliculato-tubulosa. De figura de canal, e furada á maneira de canudo. Pinna nobilis.
+— Cochleari-hemisphaerica. De feitio de colher, e de meia esfera. Ostrea pellucens.
+— Compressa. Comprimida nos lados. Mytilus hyotis.
+— Concava. Concava. Pinna muricata.
+— Fornicata. Arqueada, inferiormente concava, e superiormente convexa. Pinna.
+— Imbricata. Disposta á maneira das telhas.
+— Obsoleta. Safada.
+— Ovata. Ovada, ou de figura de ovo. Pina muricata.
+— Patula. Estendida. Mytilus hyotis.
+STELLA. Cavidade com laminas concentricas, ou dispostas á maneira de estrella.
+— Angulosa. Com angulos.
+— Conglomerato-lamellosa. Ennovellada com pequenas laminas. Madrepora pileus.
+— Contigua. Huma ao pé de outra estrella.
+— Convexa. Convexa.
+— Eminens. Alta, ou que sahe para fóra da superficie do corpo da Medrepora. fig. 14.
+— Hemispherico-concava. De figura hemispherica, e concava.
+— Hypocrateriformis. O Limbo, ou summidade da estrella sendo plano, e collocado sobre hum tubo.
+— Immersa. Aprofundada na substancia da Madrepora.
+— Minuta. Muito pequena.
+— Orbicularis. Redonda.
+— Repando-labyrinthiformis. Revirada para traz, eretorcida á maneira de labirintho.
+
+[página 157]
+— Striata. Com strias, ou linhas elevadas.
+— Sutura obtusa. Obtusa.
+— — acuta. Aguda. Madrepora labyrinthiformis.
+— Terminalis. Que está posta na extremidade do ramo.
+— Teres. Cylindrica, ou redonda.
+— Truncata. Como cortada.
+— Turbinato-concava. Piramidal, e concava.
+— Unica. Huma estrella só, como se observa nas Madreporas simpleces.
+STIRPS. Tronco, ou planta dos Zoophytos.
+— Articulata. Com nós. Isis hippuris.
+— Bibula pilis contexta, flexilis. Como tecida de pellos, flexivel, que embebe em si. Spongia.
+— Cornea, continua, ramosa, basi adnata, cortice obducta. De substancia cornea, continuada, ramosa, pegada com a base a algum corpo, e cuberta com a casca. Gorgonia.
+— Corpus liberum, articulatum simplici catena. Corpo livre sem ser pegado, a outro com articulacoẽs, ou nós, que formaõ como huma cadêa simples. Taenia.
+— Fibroso articulata. Composta de fibras articuladas. Sertularia. fig. 16.
+— Filamentosa, calcaria. Composta de filamentos, e de substancia calcaria. Corallina.
+— Florem in verticem vibrans. Que faz tremer a flor em redemoinho. Vorticella.
+— Gelatinosa. De substancia gelatinosa. Hydra. fig. 17.
+— Lapidea, rigida. De substancia de pedra, rija. Isis.
+— Libera, subulata, apice pinnata. Que naõ está pegada a corpo algum, que he adelgaçada na parte inferior á maneira de sovela, e no apice he feita como huma penna. Pennatula. fig 8. 1.
+— Porosa, poris cellulosis. Porosa, ou chêa de pequenos buracos, e estes excavados internamente. Flustra.
+— Stuposa, tunicato-corticata. De substancia como de estopa vestida, ou cuberta de huma casca. Alcyontum.
+— Tubulosa, filiformis. Furada á maneira de canudo, e da mesma largura em todo o seu comprimento. Tubularia.
+STRIA. Diz-se de humas linhas finas, e longitudinaes elevadas entre a cavidade de huns regos, pequenos, e superficiaes.
+— Abbreviata. Que naõ se estende até a margem.
+— Bifaria. Que em duas se divide.
+— Inæquilineata. Que naõ he igual ás outras.
+— Crenata. Com incizoens.
+— Decussata. Atravessada huma assima da outra á maneira de X.
+— Denticulata. Feita em forma de dentes.
+— Duplici serie punctata. Com duas ordens de pontos.
+— Elevata. Elevada, ou mais eminente.
+— Erecta. Levantada.
+— Exoleta. Extinguida, ou quasi safada.
+— Glabra. Sem ser aspera nem com pontas, dentes. &c.
+— Imbricata. Cuberta de escamas á maneira das telhas de hum telhado.
+— Interrupta. Naõ continuada.
+— Laevis. Lisa. Conus granulatus.
+— Membranacea. De substancia membranacea.
+— Muricata. Com pontas, ou espinhos.
+
+[página 159]
+— Obliquata. Obliqua.
+— Obsoleta. Safada.
+— Parallela. Estrias parallelas entre si.
+— Remotissima. Muito distante huma da outra.
+— Subundulata. Quasi ondeada, ou feita a semelhança de ondas.
+— Sulcata. Excavada com regos. Conus granulatus.
+— Transversa. Atravessada.
+— Tuberculata. Com tuberculos, ou pequenos inchaços. Conus nussatella.
+SULCUS. Rego, ou excavaçaõ, e as vezes significa costa.
+— Moniliformis. Á maneira de contas. V.
+— Torulosus. Entre os nós mais grosso.
+— Aculeato-ciliatus. Cercado de espinhos dispostos como os pellos das pestanas dos olhos. Cardium aculeatum.
+— Acutus. Agudo.
+— Angulatus. Com angulos.
+— Convexo. Convexo.
+— Dehiscens ad cardinem. Abrindo-se mais ao pé da charneira, ou cardo. Anomia pubescens.
+— Dentatus. Com dentes.
+— Fornicatus. Com escamas arqueadas.
+— Imbricatus squamis. Cuberto de escamas dispostas como as telhas. Cardium isocardia.
+— Lacunosus. Chêo de altibaixos, ou de covas. Anomia lacunosa.
+— Lunulis notatus. Com prominencias de feitio de pequenas meias luas. Cardium fragum.
+— Membranaceus. De substancia muito delgada, e transparente como se fosse membrana.
+— Moniliformis. Com nós redondos á maneira de pequenas contas enfiadas. Trocus scuber.
+
+[página 160]
+— Muricatus. Com espinhos, ou dentes.
+— Nodosus. Com nós, ou elevaçoens redondas. Cardium tuberculatum.
+— Recurvus. Revirado.
+— Reflexus. Voltado para traz.
+— Remotus. Distante num do outro.
+— Rugosus. Enrugado.
+— Subimbricatus. Quasi imbricado. V. Imbricatus.
+— Triqueter-eievatus. Elevado com tres lados. Cardium ciliare.
+— Verrucosus. Com verrugas.
+SUMMITAS, apex, cacumen, vertex. Saõ sinonimos, e todos indicaõ a summidade, ou cume da concha.
+SUTURA. He o lugar donde se une a espira do anfracto, ou giro.
+— Duplicata. Com duas linhas elevadas.
+— Marginata. Elevada com angulo á maneira de quilha.
+T.
+TENTACULA. Saõ humas partes carnosas dos Vermes, que se pódem estender, e recolher voluntariamente, e correspondem ás antennas dos Insectos, com a differença porem, que nos insectos saõ as antennas cartilagineas, e articuladas, e naõ se podem recolher. Os tentaculos saõ dous, ou quatro.
+— Bipartita. Divididos em dous. Triton.
+— Brachiformia. Á maneira de braços. Lernaea:
+— Capillaria. Muito delgados como cabellos. Terebella.
+— Chelifera. Divididos os tentaculos posteriores na extremidade com pollegar, ou aba movel. Triton. fig. 15.
+— Dena. Dez. Holothuria priapus.
+— Duo. Dous. Doris fig. 5. Aphrodita. fig. 19.
+— Duodecim. Doze. Triton.
+
+[página 161]
+— Fasciculata. Muitos juntos formando hum feixe delles. Holothuria tremula.
+— Frondosa. Divididos em ramos, ou lacinias recortadas. Holothuria frondosa.
+— Hispida. Asperos, ou rijos. Asteria aranciaca.
+— Lateralia. Nos lados. Nereis. Tab. XI. fig. 6.
+— Lunata apice. Com excavaçaõ semicircular na extremidade. Lernæa cyprinacea.
+— Obsoleta. Que apenas apparecem. Limax hyalinus.
+— Pedunculata. Sustidos por hum pedunculo. Sepia.
+— Penicellata. Á maneira de pincel. Nereis.
+— Plumosa. Á maneira de pluma. Nereis.
+— Plura. Muitos. Holothuria. fig. 9.
+— Quatuor supra os. Quatro por sima da bocca. Limax.
+— Ramosa. Divididos em ramos.
+— Setacea. Como sedas pela sua figura. Aphrodita.
+— Subramosa. Quasi ramosa. Lernæa branchialis.
+TESTA. Casa, ou concha de alguns vermes molluscos.
+— Accessoria ad cardinem. He huma pequena valva, ou porçaõ de concha, além das duas principaes, que se acha como accessorio ao pé da charneira. Pholas.
+— Acuminata. Aguda. Helix glauca.
+— Æquivalvis. Com valvas iguaes.
+— Anceps. Concha angulada longitudinalmente de hum, e outro lado com angulo agudo, e como o fio de huma faca.
+— Antica (pars). He aquella parte, que se inclina para a espira. He necessario saber, que nas discripçoens, que se houverem de fazer da concha, aquella parte, que constitue a espira, está collocada na parte posterior, vivendo o animal; se toma pro antica, ou parte, que se inclina para a espira, e pelo contrario a outra, que forma a base, he posterior.
+— Antiquata. V. Antiquata. Com regos na sua longitude, e com humas addiçoens, ou apposiçoens transversaes, como se fosse quasi interrompida com telhas; de maneira, que parece sobrepostas cada anno as Nadegas pequenas conchas.
+— Ampliata latere. Com o lado externo da abertura, ou labro estendido para fóra. Strombus.
+— Arcuata. Arqueada.
+— Aurita. V. Aurita.
+— Auriformis patens. Estendida á maneira de orelha. Haliotis.
+— Barbata. Com huma especie de barba, ou pellos rijos, que cobrem a superficie.
+— Biloba. Com duas abas.
+— Biplicata. Com duas pregas.
+— Carinata. Os anfractos, ou giros com a margem aguda.
+— Caudata. Com o eixo, ou columella assima da abertura sahda para fóra.
+— Clavata. Mais grossa na parte superior, na base mais delgada, e comprida.
+— Coarctata. Estreitada, ou apertada. Voluta auris midæ.
+— Compressa. Huma valva espalmada, ou chata contra a outra; os Umboens pouco corcovados.
+— Compresso-plana. Comprimida nos lados, e tambem chata.
+— Compressiuscula. Alguma cousa comprimida nos lados.
+— Concamerata isthmis perforatis. Dividida em varias cavidades arqueadas por meio de alguns dissepimentos, ou especie de diafragmas furados. Nautilus.
+— Conica. De figura conica. Chama bicornis.
+— Continua. Continuada. Dentalium entalis.
+— Convexa utrinque. Convexa tanto na parte superior como na inferior. Helix caracola.
+— Convexa. Convexa.
+— Convoluta. Enrolada, onde os gyros, ou revoluçoens exteriores emvolvem as interiores á maneira de espira. Conus Bulla.
+— Cordata. De figura de coraçaõ.
+— Cornea. De substancia transparente, que parece cornea Mytilus discors.
+— Coronata papilis. Coroada de tuberculos redondos, e elevados, como papillas. Buccinum auricularia.
+— Corticata. He o mesmo, que a concha cuberta de huma epidermide.
+— Costata longitudinaliter. Com elevaçoens agudas pelo comprido á maneira de costellas. Murex senticosus.
+— Crispata lineis. Encrespada por meio de linhas. Bulla physis.
+— Crispato-striata. Encrespada, e com estrias. Pholas crispata.
+— Cylindroides. Do feitio de cylindro. Voluta ispidula.
+— Cylindrica. De figura cylindrica.
+— Cylindrico-umbilicata. Cujo embigo he de huma concavidade cylindrica.
+— Digitiformis. Á maneira de dedo. Pinna digitiformis.
+— Dilatata antice. Anteriormente dilatada, ou estendida.
+
+[página 164]
+— Divaricata. Que se estende, ou dilata mais.
+— Dorsata. Formando nas costas hum angulo obtuso, ou quilha. Chiton aculeatum.
+— Ecaudata. Sem cauda, ou sem columella sahida para fóra.
+— Edentula. Sem dentes, ou com a margem inteira.
+— Emarginata. Com excavaçaõ semicircular na sua margem.
+— Erecta. Elevada, ou direita. Pinna.
+— Exasperata suturis Membranaceis. Feita aspera pelas suturas membranaceas elevadas. Murex.
+— Exumbillicata, s. imperforata. Sem embigo concavo. Turbo clathrus.
+— Fastigiata. Que superiormente acaba quasi em linha horizontal.
+— Filiformis. Delgada, e da mesma largura em todo o comprimento. Serpula intricata.
+— Flexa ad latus. Torcida para hum lado. Tellina.
+— Flexuosa. Chêa de voltas. Serpula intricata.
+— Fornicato-squamosa. Arqueada, e escamosa, ou com escamas.
+— Fragilis. Quebradiça. Pinna.
+— Fragilissima. Muito fragil. Helix.
+— Frondoso-trifariam. Elevaçoens na concha divididas em tres partes, e cada huma dividida em lacinias. Murex.
+— Fusiformis. De figura de fuzo, ou medea entre a figura conica, e oval, ou turrita, alguma cousa ventricosa. Voluta.
+— Gibba.
+— Gibbosa. Convexa, ou corcovada.
+
+[página 165]
+— Glomerata. Ennovelada. Serpula glomerata.
+— Hemisphærica. De figura de meia esfera. Murex granum.
+— Hians. As valvas unidas somente em alguma parte das suas margens, ficando parte dellas sem ser unidas. Pholas, Solen.
+— Hiaus utroque latere. Aberta na parte superior, e na inferior. Solen.
+— Hispida. Çarruda, ou aspera com eminencias agudas.
+— Imbricata. Desigual nas rugas parallelas á margem, encostadas humas as outras alternativamente.
+— Inaequivaluis. Com valvas, ou battentes desiguaes. Lepas.
+— Inaurita. Sem orelha. V. Aurita.
+— Inflexa. No lado anterior quasi quebrada, e de novo retorcida para o mesmo lado anterior. Tellina.
+— Interrupta. Interrompida, ou naõ continuada com os sulcos, ou regos inteiros, ou continuada com novos acrescimos. Dentalium entalis.
+— Involuta. Quando o mesmo lado da abertura he enrolado, ou o labro exterior he revirado pela parte interna. Cypræa.
+— Laevis. Lisa.
+— Lentiformis. De figura de lente. Venus tigerina.
+— Libera. Que naõ está pegada a corpo algum. Serpula seminulum.
+— Linearis. Da mesma largura em todo o seu comprimento. Solen vagina.
+— Lineis crispata. Aspera, ou desigual por causa das linhas encurvadas.
+— Lanata. Cuberta como de lanugem.
+— Linguiformis. Concha comprida, igual na largura em todo o comprimento, com extremidades muito obtusas, e redondadas.
+— Marginata. Com a margem ou lados mais grossos sahida para fóra. Cypræa moneta, stercoraria, Solen vagina.
+— Membranacea. Muito delgada, e transparente como se fosse membrana. Sabella, Mytilus viridis.
+— Multi-sulcata. Com muitos regos.
+— Muricata. Com espinhos, ou pontas agudas.
+— Muricata striis decussatis. Feita aspera, e picante por causa de estrias, ou linhas atravessadas entre si. Pholas candidus.
+— Mutica. Sem pontas, ou espinhos.
+— Navicularis. De figura de hum barco.
+— Nitida. Luzidia, ou brilhante. Haliotis.
+— Nodosa. Com nós. Murex trinculus.
+— Obliqua. Obliqua, ou de esguelha, ou de travez.
+— Oblonga. Muito comprida. Solen.
+— Oblongo-turbinata. Muito comprida, e piramidal. Bulla conoidea.
+— Obovata. Ovada, porem mais estreita, naõ no cimo, ou apice, mas na base.
+— Obovato-clavata. De figura oval inversa engrossada no apice. Bulla ficus.
+— Opaca. Opaca.
+— Orbiculata. Redonda.
+— Ovalis. Oval. Solen radiatus.
+— Ovata. Solen anatinus.
+— Parallelipipeda. Da figura de hum parallelipipedo, que he hum corpo comprehendido entre seis parallelogrammos, dos quaes os oppostos saõ semilhantes, parallelos, e iguaes. Arca tortuosa.
+
+[página 167]
+— Parasitica. Pegada a outro corpo. Ostrea folium.
+— Pectinata. Por ter de algum modo externamente a figura de pente por causa dos regos, e raios, ou estrias, dispostos ao comprido, formando angulo agudo na base, ou no Umbo. Ostrea pecten.
+— Pellucida. Transparente.
+— Perfoliata. As abas, ou divisoens da sua margem, cingem transversalmente o corpo da concha, ou he cingida com huma sutura, ou uniaõ horizontal, e huma margem inclinada para baixo, como se fosse huma concha sobre outra. Patella equestris.
+— Pervia utraque extremitate. Aberta em ambas as extremidades. Dentalium.
+— Plicata. Com pregas.
+— Polythalamia. Com muitos thalamos ou cavidades, ou conchas divididas por varios diafragmas. Nautilus.
+— Punctata tuberculis. Pontoada com tuberculos, ou inchaços redondos. Cypraea nucleus.
+— Radiata. Com raios desde o cardo até a periferia longitudinalmente divergentes.
+— Radicata. Pegada a outro corpo.
+— Ramoso-sulcata. Com regos divididos em ramos. Anomia pectinata,
+— Recta. Direita. Dentalium.
+— Recto-subarcuata. Direita, e na extremidade quasi arqueada.
+— Reticulato-striata. Com strias, ou linhas dispostas de modo, que formaõ huma especie de rede. Pholas dactylus, Bulla ficus.
+— Rostrata. Com a extremidade anterior prolongada, e delgada.
+— Rostrata utrinque. Com a columella sahida para fóra em ambas as extremidades. Cypræa globulus.
+— Rudis Grosseira.
+— Rugosa. Enrugada.
+— Rugoso-plicata. Enrugada, e com pregas.
+— Saccata. Na parte interior corcovada, ou mais dilatada. Pinna saccata.
+— Scabra. Aspera.
+— Solida. Macissa.
+— Spinosa. Spinosa.
+— Spiralis. Espiral, enroscada de tal sorte, que passado hum plano imaginario por meio dos giros, ou rosca externa, todas as mais revoluções se cortariaõ em partes iguaes. Alguns Nautilos.
+— Squamosa retrosum. Com escamas viradas para traz. Venus squamosa
+— Striata. Com estrias. V. Stria.
+— Striata decussatim. Com estrias encruzilhadas.
+— Subæquilatera. Quasi com lados iguaes. Cardium.
+— Subangulata. Quasi angulada. Helix algira.
+— Subarcuata. Quasi arqueada. Solen ensis, Dentalium.
+— Subaurita. Tendo hum principio de auricula.
+— Subbirrostris. Quasi com a columella sahida de ambas as partes. Bulla ovum.
+— Subbivalvis. Quasi com duas valvas. Pinna.
+— Subcarinata. Que tem quasi hum angulo eminente á maneira de quilha.
+— Subconica. De figura quasi conica.
+— Subcordata. De figura quasi de coraçaõ.
+— Subcurvata. Alguma cousa curva, ou arqueada.
+— Subdiaphana. Quasi transparente. Helix.
+— Subfastigiata. Que acaba quasi agudamente. Pinna saccata.
+— Subrhomboidea. Quasi de figura romboidal, ou quadrada, mas com os angulos obliquos. Arca lactea.
+— Subrostrata. Quasi com a columella eminente, ou sahida para fora. Cypraea nucleus.
+— Subrugosa. Quasi enrugada.
+— Subcylindrica. De figura quasi de cylindro.
+— Subturbinata. Quando a espira está elevada em forma de ponta. Cypraea exanthema.
+— Subturrita. De figura quasi de piramide muito elevada á maneira de huma torre. Bulla virginea.
+— Subulata. Que acaba em ponta á maneira de sovela. Buccinum subulatum.
+— Trapezia. He huma figura de quatro lados direitos desiguaes.
+— Triangulo-rotundata. De figura triangular, e arredondada. Cardium virgineum.
+— Triloba lobis transversis. A margem com tres abas, ou eminencias, e estas atravessadas. Ostrea malleus.
+— Triplicata. Com tres pregas. Anomia terebratula.
+— Triquetra. Triangular. Serpula triquetra.
+— Truncata. Tendo alguma parte da circunferencia muito obtusa, e quasi cortada.
+— Tuberculata. Com tuberculos.
+— Tubulosa. Furada como hum canudo. Pinna digitiformis. Dentalium.
+— Turbinata. Com hum ventre muito inchado, com a espira menor, quasi sahida da cavidade do ventre. Conus.
+— Turrita. A espira comprida formando huma piramide, ou as revoluçoens pouco a pouco fazendo-se delgadas. A longitude excede muito a latitude.
+— Varicosa. Com as junturas arredondadas, grossas, prominencias disiguaes á maneira das veias dilatadas, ou com varices. Murices varicosi.
+— Umbilicata. Com embigo, ou excavaçaõ á maneira de embigo Trochus. Mas as Cipreas se chamaõ umbilicadas quando se acha a espira obtusa em huma cavidade.
+— Unilocularis. Com huma só concameraçaõ, ou cavidade. Voluta.
+— Univalvis. De huma só valva, ou battente.
+TESTACEUS. Verme, que tem concha.
+THALAMUS. Caza, ou cavidade separada pelos dissepimentos no interior das conchas univalves. Nautilus.
+THORAX. Thorax, ou peito.
+— Cordatum. De figura de coraçaõ. Lernaea asellina.
+— Cylindricum. Cylindrico.
+— Obcordatum. De figura de coraçaõ inversa. Lernaea Salmonea.
+TOROSUS articulus. Nó grosso. Nautilus raphanistrum.
+TRANSVERSALIS a natibus ad nates arcu margini parallelo. A linha transversal nas conchas bivalves he desde huma nadega ate a outra, ou he o arco parallelo á margem da concha.
+TRIVALVIS. Concha, que consta de tres valvulas.
+TRUNCATUS conus. A espira quasi truncada.
+TUBERCULUM. Eminencia obtusa sobre a testa das conchas á maneira de inchaçozinho.
+TUBUS. Canal, ou canudo sobre a testa de varias conchas, ou Litophitos.
+— Cylindricus. Cylindrico. Tubipora,
+— Erectus. Elevado, direito.
+
+[página 171]
+— Fasciculatus. Muitos tubos juntos em feixe.
+— Filiformis. Da mesma grossura em toda a parte.
+— Parallelus. Parallelo hum ao outro.
+TURBINATA concha. Concha, que se vai envolvendo sobre si mesma á maneira de espira ao redor de hum eixo commum.
+TURBINATUS porus. Poro piramidal. Millepora.
+TURRITA. A espira muito sahida para fóra formando huma piramide á maneira de torre. Buccinum maculatum.
+TURRITUS. Com a espira muito comprida.
+U.
+VAGINA. Nos molluscos, a bainha, ou he
+— Compressa. comprimida nos lados. Clio.
+— Caudata. Ou tem huma especie de cauda.
+— Excipiens. Que recebe, ou envolve o peito.
+— Pyramidata. De figura piramidal.
+— Triquetra. Triangular. Clio.
+VALVAE, s. Valvulae. As paredes, ou os pedaços calcareos, de que constaõ as conchas.
+— Aequilaterae. Quando o lado anterior, e posterior pelo tamanho, e figura saõ iguaes.
+— Inaequilateres. He o contrario.
+— Aequivalves. Sendo ambas as valvas perfeitamente similhantes.
+— Inaequivalves. He o contrario, como in Pectinibus.
+— Dextera valva, & sinistra. Pondo-se a concha acima das nadegas, de maneira, que a vulva seja virada para a parte de diante, e o anus para a posterior; e desunindo-se as valvas, entaõ se vê qual he a direita, e qual a esquerda. Tab. XIII. fig. 18.
+— Lacunosae. Com excavaçaõ longitudinal.
+
+[página 172]
+— Prominentes. Se diz quando huma he mais extendida em alguma parte, que a outra.
+— Succenturiatae. Saõ aquellas conchinhas menores, irregulares, que estaõ annexas ao cardo das Pholades.
+VARIX. Este termo cirurgico, pelo qual se entende huma veia inchada, aplica-se as conchas, quando tem eminencias quasi desta maneira, ou as junturas transversaes corcovadas.
+— Æqualis. Igual.
+— Angulata nodis. Angulada com nós.
+— Continuata. Que corre todos os anfractos, ou giros.
+— Decussata. Encruzada, ou atravessada huma por sima da outra á maneira de X.
+— Distincta, Separada huma da outra.
+— Laevigata. Alizada.
+— Longitudinalis. Pelo comprimento. Buccinum harpa.
+— Mucronata. Que acaba em agudo. Buccinum harpa.
+— Nodulosa. Com nós. Murex femoralis.
+— Opposita. Huma opposta diametralmente á outra.
+— Rugosa. Enrugada. Murex fæmoralis.
+— Scabra, Alpera.
+— Scrobiculata. Com pequenas covas, ou excavações na margem. Murex scrobiculator.
+— Solitaria. Que está só.
+— Subalterna. Quasi alternada, ou ora huma, ora outra, ou huma sim, e outra naõ existe.
+— Subopposita. Quasi opposta.
+— Trigona. Triangular.
+— Tuberculata. Com tuberculos.
+— Ventricosa. Concha barriguda, ou muito inchada. Voluta.
+
+[página 173]
+VENTER s. Corpus. He a ultima circumvoluçaõ da concha, esta he mais inchada, que as outras.
+VERMES. Vermes.
+— Intestina. Animaes nús, simplices sem membros. Corpo dos Vermes.
+— Aequale. Igual. Gordius.
+— Carinatum. A maneira de quilha na parte inferior. Mixine.
+— Elongatum. Muito comprido. Sipunculus
+— Filiforme. Da mesma grossura em toda a parte. Gordius, Ascaris. Terebella.
+— Planiusculum. Alguma cousa chato. Fasciola.
+— Teres. Redondo, ou roliço. Ascaris, Lumbricus, Sipunculus.
+Pela superficie.
+— Annulatum. Composto de aneis. Lumbricus. Tab. XI. fig. 2.
+— Exasperatum. Que forma longitudinalmente huma superficie aspera por causa de alguns tuberculos agudos. Lumbricus.
+— Laeve. Liso. Gordius.
+— Tuberculatum. Com tuberculos. Doris verrucosa. fig. 5.
+Pelo apice.
+— Attenuatum extremitate. Adelgaçado na extremidade, Ascaris.
+VERTEX. V. Apex.
+— Submarginalis. O cume, ou a parte mais alta posta perto da margem posterior nas conchas.
+VERRUCA. Tuberculos desiguaes formados de muitos outros tuberculos.
+VIRGATUS ramus. Ramo fraco flexivel. Gorgonia ceratophyta.
+UMBILICUS. He a base da columella, que aparece na parte inferior no Trochus. v. g. He huma excavaçaõ, que se acha no centro do primeiro anfracto, ou gyro, e se este fura a columella, entaõ chama-se pervius; e se naõ fura tambem se chama umbilicus.
+— Bifidus. Dividido em dous. Nerita carnea.
+— Clausus. Fechado. Trochi imperforati.
+— Crenulatus. Com incisoens na margem. Trochus perspectivus.
+— Denticulus umbilicalis. Na margem do embigo furado ha huma prominencia, a qual se da o nome de pequeno dente.
+— Exsertus. Sahido para fóra; de modo que pondose a concha direita cahe para hum lado. Trochi turriti.
+— Gibbus. Convexo, ou corcovado. Nerita Canrena.
+— Margo columnaris. He a margem da columella, que fórma a parede exterior da abertura.
+— Minutissimus. Muito pequeno.
+— Obliquus. De esgueilha, ou de travez. Trochus maculatus.
+— Obtectus. Encuberto.
+— Patulus. Aberto. Helix Itala, Lusitanica.
+— Pervius s. Perforatus. Patente, ou aberto desde a sua abertura, até o cume, saõ synonimos da arte.
+— Rima umbilicalis, umblicus subobtectus, subconsolidatus. He qundo o beiço está revirado sobre o embigo escavado, de maneira, que sómente a sua borda, ou margem apparece.
+— Semiclausus. Melo fechado. Nerita glaucina.
+— Subconsolidatus. Quasi reunido, ou consolidado. Trochus divaricatus.
+— Subcordatus. Quasi da figura de coração. Nerita albumen.
+
+[página 175]
+— Subobtectus. Quasi encuberto. Helix ampullacea.
+UMBO. He huma prominencia convexa em huma, e outra valva proxima as nadegas. Chama. Cardium. Venus. &c.
+— Fornicatus. Á maneira de abobeda, ou arqueado. Mytilus bilocularis.
+— Fornix umbonis. He o mesmo, que a sua excavaçaõ.
+— Laevis. Liso.
+— Striatus. Com estrias, ou linhas. V. Stria.
+— Tumidus. Como inchado. Solen virens.
+UNIVALVIS. Concha de huma só valva.
+URCEOLATUM foramen. Buraco á maneira de Jarro. Cellepora.
+VULVA. Observa-se na parte anterior dos umbos, e do ano da concha, bem como se vê em Venus Dione.
+— Clausa absque nymphis. Fechada sem nynfas. Chama.
+— Gibba. Convexa.
+— Glabra. Sem cousa alguma, que a faça aspera.
+— Lævis, impressa. Lisa, e escavada, ou como imprimida. Mactra striatula.
+— Inflexa. Com os labios ou beiços curvos.
+— Labiis augulo elevato distinctis. Com os labios separados entre si por meio de hum angulo elevado, ou prominente.
+— Litterata. Quasi pintada com caracteres de letras.
+— Ovata. De figura ovada.
+— Plana. Chata.
+— Planiuscula. Quasi chata.
+— Striata. Com estrias, ou linhas.
+— Tumida. Como inchada.
+Z.
+ZONA. Vid. Fascia.
+
+[página 176]
+ZOOPHITA. OS Zoophytos naõ saõ os authores das suas testas, troncos, ou habitações como os Litophytos; mas as testas, ou troncos, ou plantas, saõ os authores delles, ou dos animaes. Estes estipites, ou troncos saõ verdadeiras plantas, que pela sua transformaçaõ, ou metamorfoze passaõ para flores animaes, que tem os orgãos da geraçaõ, e instrumentos do movimento.
+
+[página 177]
+EXPLICAÇAÕ DA TABOA.
+XII.
+Fig. 1. Helix Lusitanica. Concha globosa com embigo furado, a embigo patente, ou extendido. b. b. b. o ventre arredondado; a. a abertura apertada, de figura de meia lua.
+Obs. a configuraçaõ da abertura constitue o cracter essencial do Helix: porem algumas especies tem a abertura quasi oval inversa, ou oboval.
+Fig. 2. Turbo bidens. A concha, ou testa alta, levantada á maneira de torre. a. a. o ventre. b. b. os anfractos ou giros contrarios: a. a espira aguda na ponta, d. d. a sutura quasi com pequenas incisuras, 6. o beiço concavo. A abertura com dentes, de figura quasi orbicular.
+Fig. 3. Helix decollata. Concha, ou testa sem ser furada, comprida, levantada a maneira de torre; a. os giros para cima imbricados, ou dispostos á maneira das telhas, redondos, a. espira cortada. A abertura de figura oval inversa.
+Fig. 4. Helix auricularia. Concha, ou testa oval, obtusa; a. o ventre enchado; b. a espira aguda, muito breve; c. o beiço estendido, arredondado, d. huma só prega no beiço, a Abertura dilatada.
+Fig. 5. Patella equestris. Concha orbicular. a. o concavo da concha. b. b. b. margem com incisuras; c. beiço perpendicular no cume da concavidade.
+Fig. 6. Patella saccharina. Concha angular. a. a. a. sette costellas á maneira de quilha, agudas b. o cume obtuso.
+
+[página 178]
+Fig. 7. Turbo scalaris. Concha de figura conica. a. a. os giros feitos em forma de cancella. b. b. as zonas, ou cingidouros membranaceos, obliquamente perpendiculares, distantes, c. espira aguda, mas arredondada na ponta, d. a abertura orbicular, a. a.
+beiço unido, revirado para traz. Obs. esta abertura detremina o caracter specifico deste genero.
+Fig. 8. Argonauta Argo. Concha espiral. a. a. comprimida nos lados com pregas dispostas á similhança das ondas, com duas quilhas, b. b. a quilha com dentes.
+Fig. 9. Bulla ampullacea. Concha oval; a. as costas, ou dorso, sem espira, b. o cume, ou a parte superior com embigo.
+Fig. 10. Cypraea Lynx. Concha enrolada de figura oval comprida, com malhas. a. a. Beiços com a margem revirada, com dentes iguaes, e postos a través; b. a abertura linear, ou da mesma largura em todo o seu comprimento, e abertura nas duas extremidades, longitudinal.
+Obs. Esta abertura he propria das Cipreas.
+Fig. II. Cypraea Moneta. Concha algum tanto chata, ou abatida; a. a. circumdada com nós, ou a margem chêa de nós. (fig. 13.) b. Costas, ou dorso corcovado, c. a parte anterior, d. a posterior. e. e. duas corcovas em lugar de espira.
+Fig. 12. Cypraea globulus. Concha redonda, com bico, ou ponta em ambas as extremidades; a. b. as extremidades com ponta, a. a anterior dividida em duas, b. a posterior mais comprida.
+Fig. 13. Cypraea caurica. Concha com margem sahida para fora, de cores confusas; a. a. a. a margem corcovada, a superior, e inferior como roida, b. a extremidade anterior alguma cousa prolongada.
+
+[página 179]
+Fig. 14. Buccinum Harpa. Concha oval, a. o ventre estendido, a margem superior adelgaçada, b. b. b. varices, ou como veias enchadas, longitudinaes, iguaes, separadas entre si, circumdadas com espinhos c. c. picantes; d. a espira muito breve, e aguda na ponta, e. e. os giros inferiores estendidos, com costellas, ou prominencias longitudinaes, a cauda apenas sahida para fóra, excavada em forma de canal, exteriormente retorcida, e virada para a parte direita.
+Obs. a direçaõ da cauda he o caracter principal do Buccino.
+Fig. 15. Murex Tribulus. Concha oval; a. a. a base do ventre, b. b. as suturas como conglutinadas, e grossas, c. c. a espira adelgaçada, aguda, os giros transversalmente espinhosos; d. d. os espinhos cumpridos, setaceos, ou muito adelgaçados para a ponta, incurvados, e espalhados em todas as partes da concha. f. f. o Labro estendido, espinhoso; g. o beico aplainado, h. h. a columella com a margemtorcida, i. sinal do embigo: abertura oval que acaba no canal da cauda.
+Obs. o caracter deste genero he a cauda direita.
+Fig. 16. Nautilus Beccarrii. Concha espiral comprimida nos lados, os giros juntos entre si, grossos, a. a. a. os nós excavados, b. b. b. as articulações grossas, c. c. c. as separaçoens, d. d. canudo lateral; A metade do orificio das concameraçoens da concha cortada pelo meio.
+Fig. 17. Voluta Musica. Concha de figura de fuso; a. o ventre pintado com faixas, linhas naõ continuadas, b. a base com huma excavaçaõ, c. c. os giros nas suturas circumdados com espinhos obtusos, a espira sahida para fóra, com incisuras, d. d. a columella com oito pregas, e. e. o labro liso, grosso, despegado, f. f. o beiço convexo, aplainado, que acaba na columella.
+Fig. 18. Murex reticularis. Concha com a superficie em forma de rede; o dorso, ou costas com malhas, as quaes tem inchaços, ou tuberculos, b. b. varices oppostas, continuadas, chêas de tuberculos, a espira pequena, aguda, c. giros cubertos com tuberculos, d. cauda sahida para fóra breve, que vai subindo, para huma parte alguma cousa dobrada, ou torcida. e. com excavaçaõ.
+Fig. 19. Murex Ricinus. Concha sem cauda. a. o ventre com muitos espinhos. b. b. b. espinhos do feitio de suvela, c. a espira chata, d. o labro com dentes, e cada dente com divisaõ, de maneira, que parecem dous dentes, e na margem encurvado, ou formando algumas abas, e. e. o beiço alguma cousa plano, f. a columella com dentes. A abertura, e a fauce, ou a embocadura aberta, e larga.
+Fig. 20. Trochus maculatus. Concha conica; a. base com pequenos inchaços, a maneira de papillas, b. b. giros cubertos com tuberculos miudos, dispostos como as telhas, o ventre inferiormente quasi agudo, ou do feitio de quilha, c. o labro inferiormente com pequenas, e quasi impercetiveis abas, d. excavaçaõ, e. a columella torcida, o embigo obliquo, f. a abertura com quatro angulos.
+Obs. O Trochus pela sua abertura se destingue bem dos outros generos.
+Fig. 21. Strombus pespelecani. Concha comprida, a. a. os giros inferiores com duas zonas, ou circulos chêos de nós, que acabaõ b. na quilha do labro; c. c. os circulos superiores saõ estriados, e circumdados com muitos nós. A espira he perfeita, d. d. o labro á maneira da palma da maõ com quatro dedos d. d. * muito extendidos, angulados, agudos, naõ muito grande o primeiro, e o ultimo pegado aos outros, o dedo d. * visinho a cauda, e mais sahido para fóra, com incisoens á maneira de serra, e virado para a parte esquerda.
+Fig. 22. Helix citrina. Concha orbicular, ou redonda, a. a. base convexa, b. labro com a margem sahida para fora, a abertura lunar, c. embigo cylindrico, quasi cuberto com lamina, que sahe do labro.
+Fig. 23. Nerita canrena. 4. Embigo corcovado, dividido em dous, profundo, arqueado para a parte posterior; b. b labro extendido, arqueado, obtuso, interior, c. c. beiço da columella atravessado, no meio torcido, cortado. Abertura larga sem dentes.
+Fig. 24. V. Gualtieri fig. 69. L. Concha oval, com costelas; a. a. as costelas agudas, estriadas em aspa; b. espira lateral, a margem com dentes.
+Fig. 25. Haliotis parva. Concha oval de figura de orelha, estriada como a letra X, ou em aspa; a. o dorso, ou costas do ventre circumdado com angulo levantado, parallelo, com buracos, que occupaõ o disco. b. b. espira quasi impercetivel, lateral.
+Fig. 26. Murex saxatilis. Concha contigua, frondosa; a. a. a. os ramos, b. o ventre encrespado com linhas, a espira contigua, c. labro com alguma excavaçaõ, a columella nas margens torcida, que continua em hum beiço voltado para traz; d. d. a cauda breve, fexada, direita, a abertura oval.
+Fig. 27. Trochus Telescopium. Concha sem buraco, ou embigo furado, levantada á maneira de torre, estriada, ou com linhas profundas, e transversaes, os giros sem divisoens; a. a base, b. a columella espiral sahida para fóra, c. o labro extendido, inferiormente com huma só prega apertado, pegado á columella; o beiço como escondido na fauce interior, a abertura de quatro angulos.
+Fig. 28. Murex vertagus. Concha levantada á maneira de torre, de figura de hum dedo; a. a. o ventre, e os giros na parte superior com pregas; b. a cauda sahida para cima, c. a columella com pregas; d. o labro extendido, posteriormente a sua margem torcida.
+Fig. 29. Strombus Scorpio. A concha comprida, piramidal; a. a. a. o dorso, ou costas circumdadas com tres cintas chêas de nós, e estrias, ou linhas á maneira de ondas, b. a espira conica, o beiço mais breve, que a espira, c. c. as suturas, ou junturas levantadas, d. d. a margem do labro revirada para traz, do qual sahem sette dedos, e. o dedo da cauda virado para a esquerda, f. f. todos os dedos lateraes anteriormente divergentes, com nós, os nós g. g. oppostos, lateraes, e postos na parte superior.
+Fig. 30 Strombus fisserula. a. Os giros cubertos á maneira de rede formada com costellas agudas, ou do feitio de quilha, b. o labro apertado, que continua em huma quilha fendida, longitudinal, que circumda a extremidade da espira.
+TAB. XIII.
+Fig. 1. Chiton aculeatus. Concha de oito valvas, ou pedaços dispostos ao comprido, e que estaõ acima das costas, b. b. as valvas lateraes arredondadas, c. c. c. orla do mesmo animal.
+Fig. 2. Lepas anatifera. Concha comprimida nos lados, com linhas, de cinco pedaços, ao valvas maiores quasi quadrangulares, que anteriormente se avesinhaõ, e na base transversalmente cortadas, b. as valvas minores quasi triangulares, que estaõ na parte superior da concha, c. valvula solitaria, ou separada das outras, arredondada, aguda, d. os braços extendidos, e. o intestino cuberto com escamas; f. parte do intestino aberta para ver-se a sua cavidade.
+Fig. 3. Pholas Dactylus. Concha de duas valvas, ou pedaços; a. a. a. tres valvas irregulares perto da charneira, ou cardo. b. b. a extremidade superior adelgaçada, a cuja superficie he chêa de pontos, e á maneira de rede, c. c. a extremidade inferior obtusa com linhas transversaes. As valvas entre si distantes.
+Obs. As seguintes conchas fig. 4. 6. 7. 8. 9. 10. 11. 12. cortadas, saõ para mostrar as partes internas da charneira, dentes &c.
+Fig. 4. Ostrea. O caracter do genero he. A charneira, ou cardo sem dentes, e excavado no meio para huma covinha de figura oval. Ostrea Pallium a. a covinha da charneira concava, oval, b. a auricula superior inteira, c. a inferior mais sahida para fóra, como cortada, d. inferiormente a base quasi com dentes.
+Fig. 8. Donax. O caracter generico.
+Os dentes anteriores a. dous, comprimidos lateralmente, o dente b. do ano comprido, só, e affastado da cova, ou excavaçaõ, que separa os dentes anteriores do dente do ano. Donax scripta. A. a valva, ou pedaço da concha esquerdo, B. o direito, C. margem com incisuras, d. nadegas agudas, viradas para traz.
+Fig. 6. Mya. O caracter generico.
+O Dente primeiro, ou anterior a. a. solido, ou macisso, grosso, extendido, vasio, ou que naõ recebe outro dente, ou que naõ entra em alguma excavaçaõ. Mya pictorum b. dente lateral, anterior, longitudinal, o primeiro com incisuras, e este he da valva esquerda, c. c. dente duplicado, d. d. nadegas, e. e. lugar da vulva, f. f. lugar do ano.
+Fig. 7. Solen. O caracter generico.
+a. Dente á maneira de sovela, revirado para traz, quasi sempre duplicado, vasio, a margem lateral muito safada. Solen Strigilatus. Hum só dente na valva esquerda, dous dentes na direita, donde sahe, b. huma margem elevada debaixo do lugar da vulva.
+Fig. 8. Tellina. O caracter generico.
+Tres dentes principaes lateraes, ou postos no lado, planos de huma, e outra valva. Tellina Remies. A. a valva esquerda, B a direita. Os dentes principaes, ou anteriores a. a. elevados, afastados, b. b. hum só dente no ano, e unido ao cardo, ou charneira; c. c. o dente mais anterior algum tanto afastado, ambos compridos, e para huma covinha separados, as nymphas obtusas, do comprimento dos beiços d. d. a fenda e. e. do ano com dentes.
+Fig. 9. Cardium. O caracter generico.
+Os dentes principaes, ou do meio a. a. dous alternados (hum corresponde a outra covinha) separados entre si para huma covinha profunda, os dentes dos lados afastados dos do meio, b. b. hum dente debaixo do ano, e hum c. c. da vulva. Cardium aculcatum.
+A. valva esquerda, B. valva direita, e. e. nadegas elevadas, encurvadas, com strias, ou linhas em aspa, ou dispostas em forma da letra X.
+Fig. 10. Mactra. O caracter generico.
+a. a. O dente do meio, ou principal retorcido, ou dobrado, tendo no meio huma covinha, b. b. os dentes dos lados afastados, e que entraõ nas excavacoens da outra valva. Mactra stultorum. A valva esquerda, B. valva direita. Os dentes sahidos para fora comprimidos lateralmente, membranaceos, c. c. vulva corcovada; d. d. nadegas voltadas para traz, e. e. lugar do ano.
+Fig. II. Venus. Caracter generico.
+Os dentes do meio a. a. na valva esquerda saõ tres, na direita dous, todos estaõ avizinhados, b. b. os lateraes saõ divergentes, que se afastaõ entre si pela extremidade externa; o ano, e vulva estaõ separados. Venus Dione A. valva esquerda, B. valva direita; As valvas, ou pedaços da concha saõ iguaes, de figura de hum meio coraçaõ, c. c. as nadegas saõ encurvadas, obtusas, d. d. o lugar do ano, e. e. Ninfas, na cavidade cuberta pelos Umbones, ou pela parte mais levantada da concha.
+Fig. 12. Chama. Caracter generico.
+Os dentes principaes, ou do meio a. a. corcovados, fortes, extendidos ao comprido, com ordem dispostos na charneira, ou cardo, os quaes obliquamente entraõ na covinha obliqua da outra valva, a vulva fexada sem nymphas. Chama gigas. A a valva direita, B a valva esquerda; b. b. regiaõ obtusa do ano, c. c. lugar da vulva, B valva com pregas, d. d. com cinco pregas fortes feitas em arco com cortaduras, elevadas fora da orla.
+Pig. 13. Anomia. Caracter generico.
+Concha com valvas desiguaes, huma dellas quasi plana, a outra na base corcovada. A primeira destas quasi sempre tem hum buraco a. na base. A charneira sem dentes. Em hum lado existe hum dente elevado, que se une a margem da valva mais plana, e que se extende alguma cousa até a charneira, ou cardo da valva concava. Anomia cepa. Concha oval, b. valva plana com buraco; para este buraco sahe hum ligamento, com o qual a concha se pega a varios corpos.
+Fig. 14. Spondylus Gaederopus. Caracter generico.
+a. a. dous dentes na charneira encurvados com buraco pelo meio. Tres covinhas, huma no meio, e as outras aos lados dos dentes, b. as nadegas, que parecem cortadas com a faca.
+Fig. 15. Arca. Caracter generico.
+a. a. Muitos dentes alternos, ou masticantes: entre dente, e dente de cada valva existe huma covinha, ou excavaçaõ, que serve para receber hum dente, de maneira que a valva direita recebe os dentes da esquerda, e esta da direita; os dentes saõ agudos, a. as nadegas saõ elevadas, encurvadas, c. c. a margem com incisuras.
+Fig. 16. Venus Dione a. a. vulva oval com linhas obliquas, Pubes, ou pellos, mas estes saõ espinhos dispostos á maneira de pestanas b. b. de figura de sovela, elevados, e incurvados para a parte anterior, os de cima saõ mais compridos: este Pube se extende do monte de venus c. c. até as nadegas, d. d. os beiços da vulva com pequenos espinhos desde as nadegas até o meio e. da fenda. A fenda na parte inferior quasi de figura de lança, algum tanto aberta, e neste lugar os beiços algum pouco elevados, f. f. nadegas voltadas para traz, avizinhadas entre si, com regos transversaes, g. o ano impresso, oval, e cheio de linhas.
+Fig. 17. a facie lateral da valva esquerda Veneris Diones; a os beiços, b. b. Pubes, c nadegas, c. d. umbo, ou a parte mais elevada da concha, d. e. o
+
+[Faltam as páginas de 187 até 187]
 
 
 [página 188]
@@ -2799,11 +4121,7 @@ _ a.) Orbiculatum. fig. 1. Tendo o diametro longitudinal igual ao transversal, f
 _ a.) Subrotundum, fig. 2. Tendo a figura quasi orbicular. Ranunculus hederaceus.
 _ Rotundum. A circuferencia da folha he privada de angulos, ou excavaçoens. Polygala amara.
 _ Obverse-ovatum. Estando a parte mais estreita da folha pegada ao peciolo.
-_ Ovatum. fig. 3. O diametro longitudi- 
-
-[página 214] 
-
-nal excede o transversal, e a sua base forma hum segmento circular, mas a folha he mais apertada na sua ponta. Scabiosa succisa.
+_ Ovatum. fig. 3. O diametro longitudinal excede o transversal, e a sua base forma hum segmento circular, mas a folha he mais apertada na sua ponta. Scabiosa succisa.
 _ Ovale, seu ellipticum. fig. 4. He quando o diametro longitudinal excede o transversal, sendo as extremidades apertadas, da mesma largura. Vicia sylvatica.
 39. _ b.) Oblongum. fig. 5. O diametro longitudinal da folha excede algumas vezes o transversal, sendo huma, e outra extremidade mais estreita, que hum segmento de circulo. Salvia pratensis. 
 _ Parabolicum. fig 110. O diametro longitudinal da folha excede o transversal; e desde a base subindo pelo apice se vai adelgaçando, e formando huma figura semi-oval. Amaryllis minor.
@@ -2932,10 +4250,7 @@ _ _ Inferiore s. prona. Que está virada para a terra.
 _ Nudum. Sendo a folha destituida de excrescencias pilosas, verrucosas &c. Daphne cneorum, Mentha vulgaris.
 _ Nitidum. A folha he taõ liza, que resplandece á nossa vista. Angelica canadensis. 
 _ Glabrum. A superficie da folha he lubrica, e sem desigualdade alguma Primula auricula. Plantago major. 
-_ Lucidum. A folha reprezenta huma sub- 
-
-[página 223] 
-stancia vitrea , isto he , quando a folha deixa passar a luz, ou por muitos poros. Hypericum perforatum.
+_ Lucidum. A folha reprezenta huma substancia vitrea , isto he , quando a folha deixa passar a luz, ou por muitos poros. Hypericum perforatum.
 — Coloratum. A folha tem outra cór , que, naõ he a verde. Amarantbus tricolor. 
 49. b. )  Nervosum. fig. 53. A folha  de constando de varios vasos simplices, como outras tantas veias continuadas desde a base até ao apice; deve pois o Botanico attender ao numero destas veias. Scorzonera bumilis. Plantago latifolia. 
 — Trinerve. Constando taõ somente de tres veias  unidas na base da folha. Stacbys annua.
@@ -3009,12 +4324,12 @@ a.) Mambranaceum. A folha he destituida entre as duas superficies de polpa, ou s
 — Carinatum. A superficie interior ou disco da folha elevada longitudinalmente á mesma maneira de quilha. Gallium aparine. 
 55. b.) compactum, crassum. Constando a folha de substancia rija, e macissa. 
 — Tubulosum, carvum. Folha excavada internamente á maneira de canudo, o que se observa cortando-a horisontalmente. Allium cepa. 
-— Pulposum, succulentum. Sendo a folha internamente chêa de huma susbstancia mole, e succu-
+— Pulposum, succulentum. Sendo a folha internamente chêa de huma substancia mole, e succu-
 
 [página 228] 
 
 lenta. Sedum , Succulentae plantae. 
-— Carnosum. Entre as duas membranas , que formaõ a superficies da folha se acha huma substancia dura, e carnosa a semelhança da substancia das maçãs. Atirrbinum glaucum. Aloe species.
+— Carnosum. Entre as duas membranas, que formaõ a superficies da folha se acha huma substancia dura, e carnosa a semelhança da substancia das maçãs. Atirrhinum glaucum. Aloe species.
 — Tenue, nervosum, venosum. Com nervos.
 56. c.) Triquetrum. fig. 59. Huma folha á maneira de sovela, cujos tres lados longitudinaes saõ planos. Cyperus elatus. Trigonum pouco diferente da este. 
 — Anceps. Tendo dous angulos longitudinaes, prominentes, oppostos, e o disco mais convexo. Cyperus slaveseens. 
@@ -3548,7 +4863,7 @@ Valvae. Saõ laminas seccas, que resistem à chuva, tem a rigeza de papel, e qua
 — b. Recta. Quando he extende perpendicularmente.
 — Tortilis. Como huma corda torcida, ou em espira.
 — Flexa. Arista, que tem no meio hum nó torcido. Avena. 
-— Geniculada, articulata. Com nós, ou articulaçoens. Stipa Plumosa.
+— Geniculata, articulata. Com nós, ou articulaçoens. Stipa Plumosa.
 — Recurvata. Arqueada para a parte exterior.
 116. Amentum. fig. 137. He hum caliz produzido do receptaculo commum, filiforme, paleaceo, gemmaceo, ou com gomos. Fuglans. 
 — Squamosum. Quando os flosculos estaõ guarnecidos de escamas. Carpinus. — Nudum. Sem escamas. 
@@ -3591,10 +4906,7 @@ Tubus perforatus. Aberto em ambas as extremidades.
 Unguis. fig. 144. a. He a parte inferior do petalo, que se pega ao receptaculo, ou á base da flor, que consta de muitos petalos.
 Limbus. fig. I42. b. He a parte superior extendida da corolla monopetala. Este ou he integer inteiro sem alguma divisaõ , ou he laciniatus dividido em varias partes, ou abas.
 — Fissus. Naõ chega a divisaõ até ao meio.
-Lacinia. Saõ partes da corolla, em que está dividido o limbo. Laciniae duae. Alfine, Circea; tres Holos-
-
-[página 257]
-Holosteum. quatuor, Lichnis. Quinque, Reseda.
+Lacinia. Saõ partes da corolla, em que está dividido o limbo. Laciniae duae. Alfine, Circea; tres Holosteum. quatuor, Lichnis. Quinque, Reseda.
 Lamina. fig. 144. b. He a parte superior, extendida da corolla polypetala, ou de muitos petalos, que forma hum angulo com o ungue. Veronica austriaca. 
 121. b. Monopetala. Corolla, que consta de hum só petalo. Anagalis. Convolvulus, Primula. 
 — Dipetala. De dous petalos. Circaea. Tripetala de tres Alisma, Sagittaria, tetrapetala, de quatro as plantas da classe da Tetradynamia. Pentapetala de cinco, as umbelliferas. Hexapetala de seis Tulipa, Lilium. Enncapetala de nove. Liriodendrum. 
