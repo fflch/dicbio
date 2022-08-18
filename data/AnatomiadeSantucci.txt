@@ -114,7 +114,7 @@ tantos follesinhos, que estaõ escondidos dentro da mesma membrana.
 3 A razaõ he, porque estes follesinhos se vem muitas vezes nos cadaveres, que nas entranhas tem abundancia de soro.
 4 O Peritôneo parece, que consta de de duas laminas, porém em algumas partes estaõ entre si taõ unidas as suas fibras, que mostraõ ser huma só; com tudo, em outras partes se divide em duas, isto he, quando deve cobrir alguma das entranhas. E assim se vê manisfestamente, que se dobra o Peritôneo nas partes posteriores para envolver os rins, os ureteres, a bexiga ourinaria, e os vasos espermaticos.
 
-5 O Peritôneo tem dous processos, que vaõ atè às virilhas, os quaes nas mulheres incluem os ligamentos do utero, que chamaõ redondos, e nos homens os vasos espermaticos, que passando pelos musculos obliquos, e transversos do abdomen, vaõ até o escroto, onde os mesmos processos estendendo-se mais, constituem hum, e outro envoltorio, ou tunica vaginal dos  testiculos. 
+5 O Peritôneo tem dous processos, que vaõ atè às virilhas, os quaes nas mulheres incluem os ligamentos do utero, que chamaõ redondos, e nos homens os vasos espermaticos, que passando pelos musculos obliquos, e transversos do abdomen, vaõ até o escroto, onde os mesmos processos estendendo-se mais, constituem hum, e outro envoltorio, ou tunica vaginal dos testiculos. 
 6 O Peritôneo na parte superior tem tres buracos, pelos quaes passaõ o isophago, a arteria magna, e a vea cava. Tem outros na parte inferior, que serve para o cesso, para o utero, e outros vasos, que vaõ aos membros inferiores. He tambem furado o Peritôneo na parte anterior, para dar passagem aos vasos umbilicaes, e tem huns nervosinhos derivados daquelles dos musculos do abdomen. Tambem tem arterias derivadas das phrenicas, e das mammarias, e das epigastricas, as suas veas tornaõ as phrenicas, e epigastricas.
 
 7 Serve o Peritôneo para conter as entranhas do abdomen, como se vê na figura primeira da estampa 2. e daqui nasce, que rompendo-se, cahem as mesmas entranhas. Serve tambem para separar o humor, que junto com a gordura do redenho faz os intestinos lubricos pela parte exterior para facilitar os seus movimentos.
@@ -276,7 +276,7 @@ Synarthrose, ou Concrecçaõ divide-se em mediata, e immediata.]
 
 [Pagina 250]
 mediata he aquella uniaõ de ossos,que se faz mediante alguma cousa, como carne, membranas, ou ligamentos, e finalmente por meyo de alguma cartilagem. Também se divide em tres especies Synnevrosis, Synchondrosis, e Syssarcosis.
-19	Synnevrosis chama-se aquella uniaõ de ossos, que se faz por meyo de partes tendinosas, e ligamentosas, ou mernbranosas; e isto se vê em muitas partes, e melhor na molleira das crianças, que os seus ossos estaõ unidos por meyo de membrana.
+19	Synnevrosis chama-se aquella uniaõ de ossos, que se faz por meyo de partes tendinosas, e ligamentosas, ou membranosas; e isto se vê em muitas partes, e melhor na molleira das crianças, que os seus ossos estaõ unidos por meyo de membrana.
 20	Synchondrosis he aquella uniaõ de ossos que se faz por meyos cartilaginosos, como se vê na uniaõ das costellas com os ossos do sternon, e em outras partes.
 21	Syssarcosis he o mesmo, que uniaõ de ossos por meyo de carne; como se vê na uniaõ da espadoa com as costellas, que se unem por meyos carnosos.
 22	Concreçaõ immediata he aquella uniaõ de ossos, que se faz sem intervençaõ de meyos, e he dividida tambem em tres especies, Harmonia, Gomphosi, e Sutura.
@@ -421,7 +421,7 @@ Seyos do osso das fontes]
 
 [Pagina 262]
 pelos quaes passaõ nervos, arterias e veas.
-21	Dous saõ ossos communs ao craneo, e ao queixo superior. O primeiro he o osso Sphenoides, que tem varios nomes, e por causa da sua figura, e do seu lugar; alguns lhe chamaõ Poliforme, ou Cuneiforme, e Transcolatorio,e finalmente osso Baxilar, porque he a base do miollo. Este osso na sua base he grosso, mas perto das cavidades das fontes he delgado, une-se com todos os ossos do craneo, e tambem com muitos ossos do queixo superior.
+21	Dous saõ ossos communs ao craneo, e ao queixo superior. O primeiro he o osso Sphenoides, que tem varios nomes, e por causa da sua figura, e do seu lugar; alguns lhe chamaõ Poliforme, ou Cuneiforme, e Transcolatorio, e finalmente osso Baxilar, porque he a base do miollo. Este osso na sua base he grosso, mas perto das cavidades das fontes he delgado, une-se com todos os ossos do craneo, e tambem com muitos ossos do queixo superior.
 22	Considera-se este osso como hum só nos adultos; porque nas crianças he composto de quatro ossos; tem este osso varios processos internos, e externos. Os externos saõ dous, chamados Pterygoideos, ou Aliformes, por ser semelhantes às azas do morcego. Os internos, que estaõ na parte onde este osso olha para o miollo, saõ tres, chamados Elinoides, porque saõ semelhantes aos pés de hum leito, e estes unidos constituem huma pequena cavidade, chamada Sella equina Turgica, acima dela
 [Texto na margem esquerda da página:
 Osso Sphenoides, ou Poliforme, ou Cuneiforme, ou Baxilar
@@ -475,7 +475,7 @@ Parag.9
 huns, saõ, dous, lateraes, communs, Paladar, hum, chamaõ-se, pòstos, 
 Parag.10
 Paladar, quaes, he, quasi, 
-( pag.269) maxillares, meyo, Baxillar, vomer, huns, guftatorios.
+( pag.269) maxillares, meyo, Baxillar, vomer, huns, gustatorios.
 Parag. 11
 Vomer, sphenoides, ethmoide, descriptos, sobreditos, fallaremos.
 Parag. 12
@@ -544,11 +544,7 @@ innumeraveis pòrosinhos de diverso diametro, e figura. Por isso se o sangue, e 
 
 o seu vigor, e contracção; daqui se conhecerá como se faz facilmente a contracçaõ de todo o musculo.
 18 Com tudo, ajudaõ o vigor dos arcos, e a contracçaõ de todo o musculo, aquellas minimas fibrasinhas, de que acima temos tratado, as quaes dividem transversalmente as fibras musculares; porque como ellas da mesma sorte, que as paredes das fibras carnosas com o mayor fluxo dos espiritos animaes, ou na contracçaõ do musculo, ou no impeto com que se contrahem, ficaõ tezas, e se corroboraõ; necessariamente tambem comprimem muito mais as fibras carnosas, que estaõ debaixo, e asim fazem mais difficil a passagem dos espiritos.
-19 Daqui se segue, que naõ podendo os mesmos espiritos passar livremente, sahem pelos lados como mayor impeto, e dilatando as cavidades, e bexigasinhas, causaõ com mayor força a contracçaõ das fibras, e de todo o musculo, ou ao menos a conservaõ. Mas ainda que o sangue obre só negativamente, e por exclusaõ na contracçaõ do musculo, que procede das fibras
-
- [página 334]
-
-carnosas (segundo a nossa hypotese;) comtudo não se segue dahi, que o mesmo sangue seja menos necessario, que os espiritos animaes para fazer a contracçaõ do dito musculo; porque se tem visto com a experiencia, que ligada a arteria, ou impedido por qualquer modo o fluxo do sangue, que vay para o musculo, se segue a falta do sentimento, e do movimento na parte destituida do beneficio, que recebe do mesmo sangue, tanto como se estivesse impedido totalmente o curso dos espiritos animaes para as mesmas partes.
+19 Daqui se segue, que naõ podendo os mesmos espiritos passar livremente, sahem pelos lados como mayor impeto, e dilatando as cavidades, e bexigasinhas, causaõ com mayor força a contracçaõ das fibras, e de todo o musculo, ou ao menos a conservaõ. Mas ainda que o sangue obre só negativamente, e por exclusaõ na contracçaõ do musculo, que procede das fibras carnosas (segundo a nossa hypotese;) comtudo não se segue dahi, que o mesmo sangue seja menos necessario, que os espiritos animaes para fazer a contracçaõ do dito musculo; porque se tem visto com a experiencia, que ligada a arteria, ou impedido por qualquer modo o fluxo do sangue, que vay para o musculo, se segue a falta do sentimento, e do movimento na parte destituida do beneficio, que recebe do mesmo sangue, tanto como se estivesse impedido totalmente o curso dos espiritos animaes para as mesmas partes.
 20 Mas esta necessidade do sangue nas fibras carnosas não he para que com elle se fação os movimentos do musculo, he sómente para que as partes se conservem naquella disposição, que se requer, para que os espiritos se possaõ distribuir, como he razaõ, pelas paredes das fibras carnosas, quando for necessario.
 21 Porque se a arteria se ligar antes, que chegue ao musculo, naõ só se impedirá a transfusaõ do sangue nas fibras carnosas; mas tambem todos os seus vasos, que se distribuem pela substancia do musculo, 
 
@@ -587,8 +583,8 @@ DOS MUSCULOS DOS OLHOS.
 [Texto a margem direita: Soberbo.]
 3 O segundo he inferior, e chama-se Humilde; serve este para abaixar o olho, olhando para a terra.
 [Texto a margem direita: Hu.nilde.]
-4 O terceiro exterior recto, chama-se Indignatorio, e serve para atravessar o lho, o qual movimento faz quando se ensada.
-[Texto a margem direita: Indignaatorio.]
+4 O terceiro exterior recto, chama-se Indignatorio, e serve para atravessar o olho, o qual movimento faz quando se enfada.
+[Texto a margem direita: Indignatorio.]
 5 O quarto interno recto, se chama Bibitorio, ou adducente; porque puxa o olho para o canto, ou angulo mayor.
 [Texto a margem esquerda:Bibitorio.]
 6 os Obliquos chamaõ-se Amatorios, e saõ dous, hum superior, e mayor, chamado Troclear, porque passa por huma Troclea; nasce do fundo da Orbita, e termina no globo do olho, entre o musculo proprio da capella.
@@ -973,7 +969,7 @@ Nota-se, que o movimento, que se experimenta de mover em circulo os dedos, he fe
 CAPITULO XX.
 Dos musculos do peito.
 
-1 A Respiraçaõ (como temos acima dita) huma he sensivel, ou Coacta, ou Impellida; outra Insensivel, ou livre. Querem os Authores, que esta ultima respiraçaõ, chamada livre, se faça só com o movimento do Diapbrogma, a segunda com a ajuda de cincoenta e quatro musculos, dos quaes fallaremos antes que tratemos do Diaphragma.
+1 A Respiraçaõ (como temos acima dita) huma he sensivel, ou Coacta, ou Impellida; outra Insensivel, ou livre. Querem os Authores, que esta ultima respiraçaõ, chamada livre, se faça só com o movimento do Diaphragma, a segunda com a ajuda de cincoenta e quatro musculos, dos quaes fallaremos antes que tratemos do Diaphragma.
 [Texto a margem direita: página: 374: A respiraça huma helivre, outra coacta.]
 2 em cada respitaçaõ o peito dilata, e se aperta; dilata-se, ou levantando-se as costellas, ou abaicando-se o Diaphragma; constringe-se abaixando-se as costellas, ou levantando-se o Diaphragma.
 
@@ -1008,7 +1004,7 @@ Este musculo externamente he nervoso, internamente he carnoso, e saindo termina 
 [Página 378]
 
 Coasta, abaixando as costellas, e levantando-as. Agora diremos do musculo Diaphragma, que he aquelle, que serve só para a respiraçaõ Insensivel, ou Livre; este musculo abaixando-se, ou deprimindo-se, dilata a cavidade do peito, e entaõ da lugar, que entre o ar nos bofes; e quando se levanta, e se contrahe, faz a cavidade do peito mais pequena, e assim obriga a sair o dito ar dos bofes.
-[Texto a margem esquerda: página: 378: Para a respiraçaõ livre serve o Diapbhagma. Est.3. fig.5. Est.6 fig.1 Est.7 Fig.1.]
+[Texto a margem esquerda: página: 378: Para a respiraçaõ livre serve o Diaphragma. Est.3. fig.5. Est.6 fig.1 Est.7 Fig.1.]
 [Texto a margem esquerda: página: 378: Diaphragma, ou Septo-Transverso.]
 14 O Diaphragma, que em Latim chamaõ Septo-Transverso, porque serve de dividir a cavidade do Abdomen da cavidade do peito he aquella parte musculosa distincta de todos os outros musculos do corpo, pelo seu sitio, figura, e acçaõ.
 15 O Diabragma he de figura quasi redonda, e semelhante ao peixe, que se chama Arraya, a cauda da qual representa os seus processos, ou appendices. O Diaphragma pela parte que olha para a cavidade do peito he convexo, e está cuberto com a pleura, e pela parte do Abdomen he concavo, e está cuberto com o Peritoneo.
@@ -1236,7 +1232,7 @@ Dos musculos, que servem para mover os dedos.
 [Página 402]
 
 tendoens, os quaes terminaõ na parte interior da primeira articulaçaõ dos quatro dedos, e estes dous musculos servem para estender os quatro dedos.
-4 O terceiro musculo dos communs he chamado flexor menor, sublime, ou Persurado; nasce da parte inferior, e interna do osso do calcanhar, e se divide em quatro tendoens, os quaes saõ furados, e terminaõ na parte superior dos ossos da primeira ordem, ou Phalange dos dedos; este musculo esta collocado debaixo da planta do pé.
+4 O terceiro musculo dos communs he chamado flexor menor, sublime, ou Perfurado; nasce da parte inferior, e interna do osso do calcanhar, e se divide em quatro tendoens, os quaes saõ furados, e terminaõ na parte superior dos ossos da primeira ordem, ou Phalange dos dedos; este musculo esta collocado debaixo da planta do pé.
 [Texto a margem Esquerda: página: 402: O terceiro he flexor menor, ou sublime Perfurado Est. t8. fig.3..]
 5 O quarto he o commum Flexor mayor, Perfurante, e Profundo: nasce da parte superior, e posterior da Tibia, e Peroneo, passa pelo lado do tornozelo interno, e pela finuosidade do osso do calcanhar, e se divide em quatro tendoens, os quaes passaõ os buracos dos tendoens do Sublime, e depois terminaõ no ossos da ultima ordem dos dedos. Estes dous musculos servem ambos para encurvar os dedos.
 [Texto a margem Esquerda: página: 402: Flexo mayor, Perfurante, Profundo.]
@@ -1248,9 +1244,10 @@ tendoens, os quaes terminaõ na parte interior da primeira articulaçaõ dos qua
 tendoens do Profundo, e daquella massa de carne, que está na planta do pé, e unindo-se aos tendoens dos musculos interosseos internos acabaõ nos lado dos ossos dos quatro dedos.
 7 O nono, decimo, undecimo, e duodecimo saõ os quatro musculos interosseos internos. estes saõ aquelles, que enchem os espaços internamente dos cincos ossos do metatarso: nascem dos ossos do tarso, e dos intervallos do metatarso, e terminaõ na parte superior, e inferior dos ossos da primeira articulaçaõ dos quatro dedos, e servem com os Lombricaes para mover os dedos para o Polegar, que he o movimento de adducçaõ.
 [Texto a margem Direita: página: 403: Os Interosseos internos.]
-8 O decimoterceiro, quarto, quinto, e decimosexto saõ os musculos Interosseos externos: nascem da parte superior dos intervallos dos ossos do metatarso, e acabaõ nos lados externos dos primeiros osos dos dedos, os quaes afastaõ do dedo Polegar.
+8 O decimoterceiro, quarto, quinto, e decimosexto saõ os musculos Interosseos externos: nascem da parte superior dos intervallos dos ossos do metatarso, e acabaõ nos lados externos dos primeiros ossos dos dedos, os quaes afastaõ do dedo Polegar.
 [Texto a margem Direita: página: 403: Os interosseos externos.]
 9 Os musculos proprios do dedo Polegar saõ quatro; o primeiro he chamado
 
 [Página 404]
+
 

@@ -48,10 +48,7 @@ Esta obra divide-se em Terminologia 1. dos Mammaes. 2. das Aves. 3. dos Peixes 4
 As obras de Fabricio, Gouvaõ, e Reuss serviraõ para os Insectos, Peixes, e pela Botanica.
 Para facilitar pois o achar-se promptamente a explicaõ de cada termo, haverá no fim dous Indices geraes, que redusiraõ toda esta obra a hum verdadeiro Diccionario; accrescendo a isto todas as figuras necessarias para mais facilitar a intelligencia dos termos,
 E por que os generos das Gramas saõ difficultosos, se accrescentou duas taboas com os riscos de todas as frutificaçõens dos ditos generos.
-E naõ tendo até agora huma Flora de 
-
-[página VI]
-Portugal (a), e do Brasil, ajuntamos a este Diccionario hum ensayo dellas, com os nomes Portuguezes, virtudes medicinaes, e uso na Tintutaria. 
+E naõ tendo até agora huma Flora de Portugal (a), e do Brasil, ajuntamos a este Diccionario hum ensayo dellas, com os nomes Portuguezes, virtudes medicinaes, e uso na Tintutaria. 
 
 [nota de rodapé]
 (a) A unica obra de Botanica, que temos de Portugal, he o Viridarium Lusitanicum do Grysley, da qual obra assim me escreveo o Cel. Linnéo “Postquam tota Europa calcata est Botanicorum pedibus, restat etiamnum sola Lusitania, quae India Europaea dicenda, & felicissima Terra. Habemus tantum Grysley Viridarium Lusitanicum, miserrimum opus, cujus Plantas Oedipus sit, qui intelligat. Alit Ista Terra quamplurimas rarissimas plantas, uti constat ex numerosis istis Tournefortii Lusitanicis in Institutionibus R. Herbariae nominatis, sed nullibi descriptis, aut delineatis, adeoque etiamnum novis, quam nemo, nisi alter Oedipus intelligat.” Lin. Epist. 10. an. 1765. [fim da nota de rodapé]
@@ -1042,10 +1039,86 @@ MAXILLÆ, Mandibulæ. Queixos, sempre saõ dous, differem pela figura, beiços, 
 — Scabræ, asperæ. Asperas. Uranoscopus.
 — Vaginatæ. Quando hum dos dous queixos cobre o outro em todo, ou em parte. Cyprinus, Zeus.
 — Fornicatæ. Na guéla de alguns peixes vê-se huma membrana, cuja parte anterior, ou a extremidade anterior esta pegada ao comprido da borda anterior, e interna dos queixos, a outra esconde arbitrariamente o peixe. Vê-se huma membrana semelhante no queixo superior do Zeus. V. Labium Fornicatum. E em ambos os queixos em outra especie de Zeus. 
-MEMBRANA Branchiostega, seu branchialis. Esta he huma verdadeira pinna, ou barbatana composta de raios curvos, desiguaes, unidos entre si  por huma membrana. Esta esconde-se debaixo dos operculos das guelras, a que esta pegada. Esta membrana, ou pinna branchiostega he dobrada, e redobrada debaixo do operculo; pode-se allongar, e estender como as outras barbatanas do corpo; na sua maior extensaõ, he muito maior que o operculo, serve para a respiraçaõ. fig. I. A. fig. 4.e. Esta membrana, e os operculos tem o seu uso comum, que he o de reter a agua, que peixe faz passar da guéla ao travez das guèlras, que entaõ se desunem humas das outras para se unirem logo, em quanto os operculos ficaõ abatidos, e fechaõ a abertura; que communica as guelras. Depois levantaõ-se os operculos, e abrem a abertura das guélras; a membrana branchiostega se estende
+MEMBRANA Branchiostega, seu branchialis. Esta he huma verdadeira pinna, ou barbatana composta de raios curvos, desiguaes, unidos entre si  por huma membrana. Esta esconde-se debaixo dos operculos das guelras, a que esta pegada. Esta membrana, ou pinna branchiostega he dobrada, e redobrada debaixo do operculo; pode-se allongar, e estender como as outras barbatanas do corpo; na sua maior extensaõ, he muito maior que o operculo, serve para a respiraçaõ. fig. I. A. fig. 4.e. Esta membrana, e os operculos tem o seu uso comum, que he o de reter a agua, que peixe faz passar da guéla ao travez das guèlras, que entaõ se desunem humas das outras para se unirem logo, em quanto os operculos ficaõ abatidos, e fechaõ a abertura; que communica as guelras. Depois levantaõ-se os operculos, e abrem a abertura das guélras; a membrana branchiostega se estende para alí, a agua, que antes estava como fechada entre a abertura, e os operculos acha-se expellida, e a abertura das guélras fechada. Em fim os operculos abaixaõ-se pouco, a pouco, e a membrana branchiostega contrahe-se, ou dobrase. Esta membrana, e o operculo pode considerar-se como huma valvula de duas laminas, que se levanta, e abaixa á vontade do animal segundo a necessidade que elle tem de lançar fora a agua, ou o ar. A membrana branchiostega sempre he huma só; mas varîa pelo numero, e forma dos raios, ou ossiculos, dos quaes he composta.
+Pelo numero.
+— Uniradiata. Com hum só raio, ou pequeno osso. Trichiurus.
+— Biradiata, triradiata &c. Com dous, tres &c. e mais raios; mas o numero delles raras vezes passa de dez.
+— Patens, apparens, expansa. Quando naõ he totalmente cuberta do operculo. Blennius, Echeneis.
+— Semipatens. Quasi o mesmo, que patens.
+— Inconspicua, occulta, retroacta. Escondida, quando está muito dentro debaixo do operculo, a qual se naõ pode ver sem se quebrar o dito operculo. Callionymus. Pleuronectes, Syngnathus.
+— Tecta. Cuberta, quando está cuberta pelos operculos, em quasi todos os peixes.
+— Crassa. Grossa, cuberta com pelle grossa. Trigla, Blennius.
+— Lata. Ampla, relativamente á grossura da cabeça. Trigla.
+— Gularis, infima. Quando está posta debaixo da guéla, ou da margem inferior dos operculos, e
+naõ no lado.
 
+[página 52]
 
-[Faltam as páginas de 51 até 55]
+— Lateralis. Lateral, ou nos lados dos operculos.
+MEMBRANA Nictitans. V. Palpebræ.
+MOBILIS. Diz-se das mandibulas dos peixes, que elles estendem, e contrahem: e fallando geralmente he toda a parte, que he movida á vontade do animal.
+MONOPTERYGIUS. Huma, ou duas pinnas do dorso unidas.
+MUTICUS. Diz-se daquelle peixe, cujas barbatanas saõ destituidas de raios osseos.
+MYSTAX. V. Nos Mamaes, e nas Aves. Clupea.
+N.
+NARES. Saõ buracos. Ainda naõ está decidido se servem ao sensorio do olfacto. Quasi sempre estaõ no rostro adiante dos olhos. Differem huns dos outros pela situaçaõ, figura, numero, e proporçaõ.
+Pela situaçaõ.
+— Marginales. Na extremidade do rostro, ou na das mandibulas, ou na summidade do bico. Trachiurus.
+— Anteriores. Na parte anterior do bico, longe dos olhos. Muraena, Conger.
+— Mediae. No meio do bico entre a sua summidade, e os olhos. Ammodytes.
+— Postremae. Posteriores á base do bico, e entaõ saõ visinhas, ou ficaõ acima dos olhos. Perca, Blenius.
+— Supremae. Na summidade da cabeça, que pegaõ quasi com os olhos. Syngnathus, Xiphias.
+— Remotae. Quando os buracos eataõ distantes entre si. Perca, Scomber.
+
+[página 53]
+
+— Vicinae. Quando os buracos estaõ proximos, ou muito visinhos, Cyprinus, Clupea.
+— In os hiantes. Abertos na bocca, ou que as suas aberturas anteriores acabaõ na bocca. Uranoscopus.
+Pela figura.
+— Rotundae. Quando apparecem somente os buracos anteriores, e saõ redondas. Gadus em algumas especies.
+— Ovales. Os buracos ovaes saõ posteriores em algumas especies de Gadus.
+— Tubulosae, fistulosae, cylindricæ. Excavadas interiormente. Muraena, Anguilla, Conger.
+Pelo numero, e proporçaõ.
+— Solitariae. Que naõ tem mais, que hum buraco em cada parte, como nos Mammaes; mas estes saõ muito raros.
+— Geminae, binæ. Dobradas, quando estaõ dous buracos em cada lado, como na maior parte dos peixes.
+— Inæquales. Observa-se quasi sempre, que o buraco anterior he mais pequeno, que o posterior, quando estaõ dous em cada lado, em todos os peixes.
+— Parvae, exiguae, minimae. Muito pequenas. Syngnathus, Sparus, Labrus.
+— Extus inconspicuae. Imperceptiveis exteriormente. Uranoscopus.
+NUCHA. Os peixes naõ tem pescoço, a que se lhe possa verdadeiramente dar tal nome. A nuca he aquella parte da, cabeça, que a termina, e está pegada immediatamente á primeira vertebra, do tronco até a regiaõ das guélras.
+
+[página 54]
+
+O.
+OCULI. Os olhos sempre saõ dous, differem pela situaçaõ, figura, proporçaõ, e pelos tegumentos.
+Pela situaçaõ.
+— verticales. Que estaõ postos acima da cabeça, de maneira, que o peixe naõ pode ver o que está de baixo delle, nem para os lados. Uranoscopus, Callionymus.
+— Supremi. Altos, elevados, postos na parte superior, mas lateral; na maior parte dos peixes.
+— Laterales, medii. Hum olho no meio de cada lado, o que se observa no maior numero dos peixes.
+— Binati. Ambos os olhos no mesmo lado. Solea, Rhombus.
+— Vicini. Quando estaõ na summidade da cabeça, ou elevados, entaõ saõ visinhos hum ao outro.
+Scorpaena.
+— Remoti. Quando estaõ no meio dos lados da cabeça, necessariamente saõ distantes entre si. Esox, Cyprinus.
+— Marginales. No apice do rostro. Trachiurus.
+— Vicini. Postos quasi entre o rostro, e a frente. Mugil.
+— Posteri. Distantes do rostro, e mais visinhos á frente. Trigla, Xiphias, Esox.
+Pela figura.
+— Plani, seu depressi. Quando o globo do olho naõ excede a superficie da cabeça, como na maior parte dos peixes.
+— Convexi: Quando ao contrario a superficie excede a da cabeça. Pleuronectes, Rhombus.
+— Protuberantes. Se excedem muito a superficie da cabeça, e que sejaõ alguma cousa mais, que convexos. Scorpæna.
+— Globosi, rotundi, orbiculati. Globosos, redondos. Cyprinus.
+— Oblongi, ovales. Quando saõ alguma cousa allongados da parte da cabeça, ou das guélras. Esox.
+Pela proporçaõ.
+— Magni. Grandes, respectivamente ao volume do corpo.
+— Proportionales, seu mediocres. Medianos. Sparus, Cyprinus.
+— Abnormes, disproportionati, minimi: Desproposcionados, ou pela grandeza, ou pela pequenez. Exocoetus.
+Pelos tegumentos.
+— Tecti. Quando a pelle, ou membrana nictante cobre todo o globo do olho. Gadus, Blennius.
+— Semitecti. Quando a dita membrana he aberta no meio, formando como hum annel, ou he cortada como meia lua. Tetrodon.
+— Nudi. Sem a dita membrana, ou cute, ou tunica.
+OPERCULA Branchiarum. Operculo das guélras he hum corpo escamoso posto na parte posterior dos queixos de cada parte da cabeça atrás dos olhos. O seu uso, he de ter fechada a abertura das guélras, e defendellas dos corpos externos, e suster a membrana branchiostega. Tab. V. fig. 4. c. fig. 5. c.
+Os operculos variaõ em differentes peixes pela sua estructura, pelo movimento, pelo numero das peças, ou laminas, de que constaõ, pela proporçaõ, e superficie.
+Pela estructura.
+— Simplicia. Quando saõ de hum só pedaço. Uranoscopus, Syngnathus.
 
 [página 56]
 
@@ -1775,7 +1848,7 @@ Pela figura.
 Pela margem.
 — Dentatum. Com huma, ou muitas prominencias agudas distantes. Curculio, Vespa.
 — Serratum. Cortado á maneira de serra. Cancer. Gryllus.
-—Inerme. Sem dentes &c. Cerambix.
+— Inerme. Sem dentes &c. Cerambix.
 Pelo apice
 — Lobatum. Que acaba em huma membrana sahida para fóra. Mantis.
 — Spinosum. Que acaba em espinha aguda, e rija. Mantis.
@@ -2229,8 +2302,7 @@ Pela figura
 — Scutatum. Que cobre todo o abdomen como hum escudo. Acrydium. Gryllus.
 Pela superficie.
 — Carinatum. A modo de quilha, ou com linha longitudinal levantada, aguda. Acrydium. Gryllus.
-— Lincatum. Com strias levantadas longitudinaes.
-Crabro fossoria.
+— Lincatum. Com strias levantadas longitudinaes. Crabro fossoria.
 — Sulcatum. Com linha longitudinal muito excavada, ou aprofundada. Scarabaeus.
 Pelo apice, ou summidade.
 — Acutum. Agudo. Cetonia. Membracis.
@@ -2702,7 +2774,7 @@ COSTA. He huma especie de carina maior desde o apice até a periferia, ou hum ra
 — Fornicata. Com escamas debaixo concavas.
 CRENATUS. Diz-se de huma coroa feita de tuberculos agudos com incisoens profundas, ou tambem a circumferencia, ou margem das conchas bivalves com pequenas excavacoens, ou incisoens.
 CRUSTA. Diz-se do tartaro maritimo, ou viscosidade, que se endurece na superficie, e testa das conchas, ou
-— Subcoriacca. O tegumento das estrellas do mar Asterias.
+— Subcoriacea. O tegumento das estrellas do mar Asterias.
 — Ossea. O tegumento dos ouriços do mar. Echinus.
 CONTORTA Concha. He aquella concha, que dá sobre si mesma taõ somente huma até duas voltas espiraes.
 CONVOLUTA. Enrolada. Conus.
@@ -3674,10 +3746,13 @@ a. a. dous dentes na charneira encurvados com buraco pelo meio. Tres covinhas, h
 Fig. 15. Arca. Caracter generico.
 a. a. Muitos dentes alternos, ou masticantes: entre dente, e dente de cada valva existe huma covinha, ou excavaçaõ, que serve para receber hum dente, de maneira que a valva direita recebe os dentes da esquerda, e esta da direita; os dentes saõ agudos, a. as nadegas saõ elevadas, encurvadas, c. c. a margem com incisuras.
 Fig. 16. Venus Dione a. a. vulva oval com linhas obliquas, Pubes, ou pellos, mas estes saõ espinhos dispostos á maneira de pestanas b. b. de figura de sovela, elevados, e incurvados para a parte anterior, os de cima saõ mais compridos: este Pube se extende do monte de venus c. c. até as nadegas, d. d. os beiços da vulva com pequenos espinhos desde as nadegas até o meio e. da fenda. A fenda na parte inferior quasi de figura de lança, algum tanto aberta, e neste lugar os beiços algum pouco elevados, f. f. nadegas voltadas para traz, avizinhadas entre si, com regos transversaes, g. o ano impresso, oval, e cheio de linhas.
-Fig. 17. a facie lateral da valva esquerda Veneris Diones; a os beiços, b. b. Pubes, c nadegas, c. d. umbo, ou a parte mais elevada da concha, d. e. o
-
-[Faltam as páginas de 187 até 187]
-
+Fig. 17. a facie lateral da valva esquerda Veneris Diones; a os beiços, b. b. Pubes, c nadegas, c. d. umbo, ou a parte mais elevada da concha, d. e. o disco f. f. f. a orla, g. h. a margem anterior, h. i. margem inferior, i. k. margem posterior, k. g. margem superior.
+Fig. 18. Cardium pectinatum. Concha de figura de meio coraçaõ, e feitio de pente. a. b. as nadegas, c. lugar do ano, d. da vulva. Toda a circunferencia com incisuras.
+Fig. 19. Cardium echinatum. a. lugar da vulva, b. do ano, c. nadegas, d. Umbones, ou a parte mais elevada da concha. A valva com regos afastados, elevados, agudos á maneira de quilha, com espinhos voltados, a margem com profundas incisuras.
+Fig. 20 Chama Gigas. Concha com pregas, entre as quaes estaõ linjas longitudinaes; a. a. pregas com escamas de figura de meia lua, arqueadas, b. b. a margem retorcida, ou revirada para traz.
+Fig. 21. Anomia crantolaris. A facie interna da valva conica com a. a. duas eminencias redondas, que formaõ na outra valva humas superficiaes excavaçoens; b. charneira, ou cardo transversalmente cortado.
+Fig. 22. Arca barbata. a. a extremidade redonda, com linhas, e barba; b. nadegas.
+Fig. 23. O Animal da concha Anomia. O corpo consta de a. huma tira, ou corrêa com excavaçaõ na margem, a qual tem pellos á maneira de pestanas; b. b. dous braços, da mesma largura em todo o comprimento, que verso a ponta se avizinhaõ, mais compridos, que o corpo, com pellos á maneira de pestanas.
 
 [página 188]
 
@@ -5160,27 +5235,236 @@ Cinco, Pyrola.
 — Truncatum. Como cortado. Lathraea.
 — Oblique depressum. Abaixado obliquamente. Actaea, Daphne.
 
-[Faltam as páginas de 271 até 274]
+[página 271]
+— Emarginatum. V. fol. Cynoglossum. Pulmonaria.
+— Orbiculatum. V. fol. Berberis. Lythrum.
+— Peltatum. V. fol. Nymphæa, Papaver.
+— Coroniforme. Disposto á maneira de coroa. Pyrola. Erica.
+— Cruciforme. De figura de cruz. Populus.
+— Uncinatum. Virado como hum gancho. Viola.
+— Canaliculatum. V. fol. Colchicum.
+— Concavum. Concavo. Viola.
+— Angulatum. Com angulos. Triangular. Lilium.
+— Trilobum. Com tres abas. Tulipa.
+— Plumosum. Com pellos como huma pluma. Rheum. Gramina.
+— Pubescens. V. folium. Cucubalus.
+— Barbatum. V. fol. Vicia. Lathyrus.
+— Striatum. V. fol. Papaver.
+— Filiforme. V. fol. Zea Mays.
+— Longitudine styli. Do comprimento do stylo. Portulaca.
+— Foliaceum. Do feitio de huma folha. Iris.
+Pela duraçaõ.
+— Persistens. Que fica ainda que o fruto seja maduro. Nymphæa, Papaver.
+— Marcescens. Que murcha ordinariamente com o stilo.
+139.
+Pericarpium. Entranha, ou utero cheio de sementes, as quaes em sendo maduras logo o dito pericarpio as deita fora.
+— Inflatum. Sendo do feitio quasi de huma bexiga, que naõ está totalinente cheio de sementes. Fumaria cirrhosa.
+— Articulatum. Com nós, ou articulaçoens. Raphanus.
+— Prismaticum. Sendo linear, ou da mesma largura em todo o seu comprimento com os lados chatos.
+— Turbinatum. Quando a base do fruto se vai fazendo mais delgada; Pyrus.
+— Contortum. Torcido á maneira de espira. Thalictrum.
+— Acinaciforme. O fruto está comprimido nos lados com hum angulo longitudinal obtuso, e outro agudo á maneira de faca. Mesymbrianthemum.
+— Nidulantibus seminibus. Tournefort. As sementes em huma baga estaõ espalhadas pela polpa.
+— Echinatum. Cuberto de espinhos como o echino, ou porco espinho.
+— Torosum. Tendo varias prominencias, de modo, que parece corcovado. Phytolacca.
+As especies de pericarpio saõ. Capsula. Siliqua. Folliculus. Drupa. Pomum. Bacca. Strobilus. Semen.
+140. a.) Capsula. fig. 159. 160. 161. Pericarpio, ou fruto concavo, que se abre com regularidade. Fritillaria imperialis.
+— Uni-bi-tri-multi-capsularis. Saõ huma, duas tres, ou muitas capsulas unidas na base, as quaes se distinguem bem pela parte externa.
+— Unicapsularis. De huma capsula. Lychnis.
+— Bicapsularis. De duas. Pæonia. Asclepias.
+— Tricapsularis. De tres. Veratrum. Delphinium.
+— Quadricapsularis. De quatro. Rhodiola.
+— Quinquecapsularis. De cinco. Alquilegia.
+— Multicapsularis. De muitas. Caltha.
+Partes da capsula.
+Valvulæ. fig. 160. a. As valvas, ou paredes do fruto, que o cobrem externamente; estas paredes unem-se por meio de suturas.
+— Uni-bi-tri-quadri-multi-valvae. Capsula de huma, de duas, de tres, &c. de muitas valvas, ou paredes.
+— Bivalvis. De duas valvas, Chelidonium.
+— Trivalvis. De tres. Viola.
+— Quadrivalvis. De quatro. Oenothera.
+— Quinquevalvis. De cinco. Hottonia.
+Loculamenta. fig. 160. d. Saõ concameraçoens, ou cavidades vazias no interior da capsula para conter as sementes.
+-Uni-bi-tri-multilocularis. Denomina-se a capsula pelo numero de taes cavidades.
+— Unilocularis. Capsula, que tem sómente huma cavidade. Primula.
+— Bilocularis. Duas cavidades. Hyosciamus.
+— Trilocularis. De tres. Lilium.
+— Quadrilocularis. De quatro. Evonymus.
+— Quinquelocularis. De cinco. Pyrola.
+— Sexlocularis. De seis. Asarum.
+— Octolocularis. De oito.
+— Decemlocularis. De dez. Linum.
+— Multilocularis. De muitas. Nymphæa.
+Dissepimenta, fig. 160. b. Especies de diafragmas, ou paredes interiores da capsula, ou fruto, as quaes o dividem internamente em varias cavidades, ou concameraçoens.
+— Parallelum. Sendo parallelo ás paredes, ou valvas externas da capsula. Lunaria.
+— Transversale. Posto á través das valvas concavas.
+— Contrarium. Quando forma hum angulo recto com as ditas valvas. Thlaspi.
+Columella. fig. 160. c. He huma pequena coluna, que une em o centro do fruto as paredes internas, e juntamente as sementes.
 
+[página 274]
+— Di-tri-cocca. He a capsula bi-tri-locular, que naõ contem em cada cavidade mais que huma semente.
+— Di-cocca. Mercurialis.
+— Tricocca. Capsula com tres nós prominentes, ou elevados, e dividida internamente em tres loculamentos, ou cavidades. Euphorbia Esula. Ricinus.
+— Didyma. Capsula, que tem externamente duas corcovas.
+As sementes na capsula estaõ pegadas, ou na parte superior, ou na inferior, ou no meio, ou Iateralmente a humas especies de traves.
 140. b.) Siliqua fig. 155. He hum pericarpio de duas valvas, concavo, cujas sementes, estaõ pegadas ao comprimento de ambas as suturas, ou unioens das duas valvas. Diz-se siliqua quando o comprimento excede muito á largura.
+Silicula. Ou pequena bainha, ou siliqua, he quando o comprimento apenas excede a largura, ou he quasi igual.
+Pela figura.
+— Orbiculata. (38) Clypeola.
+— Cordata. (42) Lepidium.
+— Obcordata. (34) Thlaspi Bursa pastoris.
+— Lobata. (43) Biscutella globosa. Crambe.
+— Lanceolata. (40) lsatis.
+— Subrotunda. (38) Bunias.
+— Triquetra. Com tres.
+— Tetragona. Com quatro angulos e com os lados chatos longitudinalmente. Erysimum.
+— Bivalvis. Abrindo-se pelo comprimento como huma porta de pares.
+— Compressa. (54) Com os lados oppostos muito visinhos entre si, Thlaspi.
 
-[Faltam as páginas de 274 até 278]
+[página 275]
+— Torulosa. Com varias eminencias em todo o comprimento, por isso fica sendo corcovada. Raphanus. Cochlearia.
+— Articulata. As eminencias cercaõ igualmente a siliqua, de maneira, que entre humas, e outras ficaõ espaços mais delgados, e iguaes; e assim parece com articulaçoens. Raphanus.
+141. Dissepimentum. O diafragma, ou parede interna da siliqua. (139)
+— Parallelum. Quando a superficie, ou disco do diafragma está opposto ao disco da valva. Lunaria. Draba.
+— Transversum, coutrarium. Se a margem está virada contra a superficie, ou disco das valvas, formando com ellas angulos rectos.
+142. Legumen. fig. 154. He hum fruto de duas valvas, mais ou menos comprido, cujas sementes estaõ pegadas somente a huma, ou a outra sutura, e somente para cima. Lupinus.
+Pela figura.
+— Ovatum. (38)
+— Rotundatum. (40) Astragalus.
+— Lineare. (40) Galega.
+— Teres. (54) Lotus.
+— Rhombeum. (41) Ononis.
+— Turgidum. Inchado como huma bexiga, concavo, e cheio de sementes. Ononis, Genista, Cicer.
+— Inflatum. Inchado como huma bexiga, concavo, mas naõ cheio de sementes. Colutea.
+— Spirale. Virado como a espira. Medicago.
+— Contortum. Entortado. Medicago sativa.
+— Articulatum. Mais delgado de espaço em espaço. Coronilla, Hedysarum.
+— 1-2-loculare. (139) De huma cavidade, a maior parte, de duas. Astragalus.
+143. Folliculus, Conceptaculum. fig. 153. He hum fruto, que representa hum pequeno vaso, muitas vezes estendido por causa do ar, concavo internamente; ou he hum pericarpio de huma só valva, que se abre ao comprido em hum lado, e que naõ tem as sementes pegadas á sutura. Vinca, Asclepias vincetoxicum.
+Folliculo estendido pela polpa. Tabernamontana, Hellebrus.
+1-2-valvis. Se se divide em huma, ou duas valvas, quando amadurece.
+Pela figura das valvas.
+— Lobatus. (43)
+— Erectus. (33)
+— Refractus. (91)
+144. Drupa. fig. 157. Fruto, ou pericarpio, que externamente he de huma substancia como de coiro, e internamente he grosso, carnoso, cheio, sem valvas, que contem huma noz. (154) Amygdalus, Prunus.
+— Succulenta. Que contem humor. Prunus, Cerasus.
+— Sicca. Sem humor. Amygdalus communis.
+145. Pomum. fig. 156. Pera, maçã, he hum fruto cheio de carne, ou polpa, que cerca a capsula, que está no meio; ou he fruto, que está cheio, sem valva, que contem huma capsula. (139)
+Pela figura.
+— Turbinatum. (139) Pyrus communis.
+— Globosum. De figura de globo. Pyrus malus.
+— Loculamentis 1-2-3-4-5-loculare. Pelas cavidades que a sua capsula tem.
 
-Rostellum. He a parte fimples do corculo descendente, ou a base da plumula, que, forma a raiz, formando a plumula o tronco, ou caule.
+[página 277]
+Umbilicus Fructus. Embigo, ou cavidade, que o fruto tem, que ficou no lugar onde existia a base, ou receptaculo da flor Supera, e quasi sempre cercada do caliz secco Pyrus.
+146. Bacca. fig. 158. Baga, fruto cheio, sem volvas, que contem sementes sem capsula. Vitis suculenta. Solanum.
+A baga denomina-se pelo numero das sementes.
+— Mono-di-tri-&c. polysperma. Baga de huma, duas, tres, ou de muitas sementes.
+— Loculamentis. Na baga, que naõ está muito madura, e molle distinguem-se as cavidades, ou loculamentos, em que estaõ as sementes.
+— Recutita. Baga semelhante na figura á bolota, e quasi cuberta com prepucio. Taxus.
+— Semina nidulantia. Quando as sementes estaõ espalhadas na baga pela polpa.
+147. Strobilus, Conus. fig. 138. He fruto formado do mesmo amento (116) com escamas rijas
+Pela figura.
+— Conoideus. De figura conica.
+— Coni. Saõ especies de Amento compostos de escamas rijas, duros, como pao.
+— Globosus. De figura globosa.
+148. Semen. Semente he a parte da planta, que cahe, e contem o principio de outra planta fecundada pelo pollen. (132)
+A parte essencial da semente he.
+Corcullum. He o mesmo principio, ou rudimento da planta na semente perto do hilo. O Corculo no principio da vegetaçaõ, extende as suas duas partes.
+Plumula. He a parte escamosa do corculo ascendente.
+
+[página 278]
+Rostellum. He a parte simples do corculo descendente, ou a base da plumula, que forma a raiz, formando a plumula o tronco, ou caule.
 O ser, ou essencia da semente. Consiste no corculo, o qual está pegado ao cotyledon, e he cuberto pelo mesmo, e depois he todo cuberto com huma membrana, ou tunica.
-Propagines muscorum. Saõ sementes sem tunicas, e cotyledones, de maneira, que o corculo está nû, e assim o rostello está pegado ao caliz,
+Propagines muscorum. Saõ sementes sem tunicas, e cotyledones de maneira, que o corculo está nû, e assim o rostello está pegado ao caliz,
 149. As partes menos essenciaes da semente, mas que existem em todas as sementes, excepto as dos musgos, saõ.
-Cotyledon s: Placenta. He hum corpo, ou folha grossa no lado da Semente, que absorve a agua, que cahe, serve para nutrir no principio a planta.
-Monocotyledon. Hum só cotyledon. As antas bulbosas. Allium. Cepa.
-Dicotyledon. Dous, quasi todas as sementes. Phaseolus, Pisum. Melo.
+Cotyledon s: Placenta. He hum corpo, ou folha grossa no lado da Semente, que absorve a agua, que cahe, serve, para nutrir no principio a planta.
+Monocotyledon. Hum só cotyledon. As antas bulbolas. Allium, Cepa.
+Dicotyledon. Dous, quasi todas as sementes, Phaseolus, Pisum. Melo.
 Polycotyledon. Com muitos cotyledones; saõ poucas plantas; des, Pinus. cinco Cupressus. quatro Linum.
+Hilum, s: Hylus. He a cicatriz da semente produzida do lugar, por onde a semente se pega no fruto; esta he bem vizivel no Cordiospermum, Staphylea, Phaseolus.
+Arillus. He a tunica, ou cuberta exterior particular da semente, que expontaneamente se separa della na vegetaçaõ, ou evoluçaõ da semente. Cucumis, Dictamnus.
+— a.) Suculentus. Este arillo tem çumo. Evonymus.
+— b.) Cartilagineus. He secco, rijo e elastico. Coffea.
 
-[Faltam as páginas de 278 até 281]
+[página 279]
+— Tectum. Chama-se assim a semente, que está incluida no fruto, porisso a planta, que assim tem as suas sementes pertence á divisaõ Angiospermia.
+— Nudum. Naõ estando incluida dentro do fruto, de modo que logo apparece á vista. Gymnospermia.
+150. Pelo numero.
+— Mono-di-tri-polyspermum. (106) Huma, duas, ou muitas.
+— Gymnodispermum. Duas sementes nûas.
+151. Pela figura.
+— Cordi-reniforme. &c. Pela figura semelhante a alguma cousa como ao coraçaõ, aos rins, &c.
+— Echinatum. Cuberta de espinhos á maneira do Ouriço. Lappula, Myosotis.
+— Dentatum. Com incisoens na margem como dentes. Bryonia.
+— Marginatum. Com a sua margem cercada, ou sahida para fóra, ou mais adelgaçada. Lunaria.
+— Ovatum. Oval.
+— Loculis. Pelas cavidades, na maior parte he unilocular.
+— Biloculare. De dous. Cornus, Xanthium.
+152. Pela superficie.
+— Scabrum. (52)
+— Laeve, glabrum. (48)
+— Rugosum. (50) &c.
+Pela consistencia, ou rijeza.
+— Osseum. Rija como o osso. Lithospermum. Nuces. Corylus.
+— Callossum, cartilagineum. De substancia callosa, ou cartilaginea. Citrus.
+153. Corona. He o caliz pegado á summidade da semente, cujo caliz he o da flor, por meio do qual o vento a faz voar. Scabiosa.
+Pappus. fig. 162. He huma coroa posta no apice da semente formada de huma especie de pluma, ou de pellos, pela qual o vento a transporta pelo ár. Taraxacum.
+Este papo pois he 1. stipitatus. fig. 162. b. Tendo hum fio, que sustenta o papo, e o une á semente.
+— 2. Sessilis. fig. 160. a. Naõ tendo fio.
+— 3. Capillaris. fig. 162. a. O papo, como cabello, simples do feitio de fio; os pellos naõ divididos. Hieracium Sonchus.
+4. Plumosus. fig. 162. b. Papo plumoso, Ou villoso, sendo cada pello composto como huma penna. Leontodon. Tragopogon. Valeriana.
+— 5. Paleaceus. Papo á maneira de palha, consta de pequenas laminas lineares. Bidens.
+— 6. Aristatus. Em forma de pragana. (115) Corcopsis.
+— 7. Nullus. Sem papo. Artemisia. Bellis. Cichorium, Tanacetum.
+154. 1. Cauda. He hum appendix filiforme, que está na semente, ou hum fio, em que a semente acaba. Pulsatilla. Populus.
+— Simplex. Simples.
+— Arista geniculata. (115) Cauda formada de huma pragana com nós. Geum.
+— Pilosa, villosa. Com pellos, ou lanugem. Clematis vitalba.
+— Plumosa. Como huma pluma. Geum nivale.
+— 2. Ala. Huma membrana pegada á semente, por meio da qual se espalhaõ as sementes. Abies. Betula. Anethum. Hesperis. Thalictrum; e se chamaõ sementes com azas.
 
-155. Receptaculum. He o leito, ou placenta, ou base, em que estaõ pegadas as partes da frutificaçaõ (104). O receptaculo cêrca internamente as paredes do caliz na classe Icosandria, e em algumas outras plantas; e assim a corolla, e os filamentos estaõ pegados ao caliz. Fragaria. Pyrus.
+[página 281]
+3. Hamus. Pequeno espinho virado, como o anzol, com o qual se pegaõ as sementes aos animaes, que passaõ junto a ellas.
+No caliz. Arctium. Urtica.
+No fruto Hedysarum. Gallium aparine.
+Nas sementes. Daucus caucalis. Verbena.
+— Triglochis. (81) Myosotis lappula.
+— Incurvus, Arista uncinata. Com a arista, ou pregana revirada como hum gancho. Geum urbanum.
+4. Caliculus. He a pequena coroa com pequenas preganas feita de hum só pedaço, que está no apice da semente. Scabiosa. Statice. Trifolium.
+5. Nux. Noz, semente cuberta com huma casca ossea. Corylus avellana.
+Nos frutos Drupa chama-se nucleus 1-2. &c. locularis, bilocularis.
+6. Propago. He a semente dos musgos sem arillo, e sem cotyledones.
+155. Receptaculum. He o leito, ou placenta, ou base, em que estaõ pegadas as partes da frutificaçaõ (104). O receptaculo cerca internamente as paredes do caliz na classe Icosandria, e em algumas outras plantas; e assim a corolla, e os filamentos estaõ pegados ao caliz. Fragaria. Pyrus.
+Placenta He o receptaculo nas flores compostas.
+— Proprium. Particular a huma só frutificaçaõ.
+— Fructificationis. Receptaculo commum á flor, e ao fruto.
+— Floris. Base, em que estaõ pegadas as partes da flor sem germe,
+— Fructus. A base do fruto distante da base, ou receptaculo da for. Hydrocharis.
 
-[Faltam as páginas de 281 até 283]
+[página 282]
+— Seminum. fig. 161. Base, em que estaõ pegadas as sementes no fruto. Hyoscimus.
+156. Commune. (140. 141. 135. 133) Quando sustenta, e une muitos flosculos, e os seus frutos de tal modo, que tirados alguns se produz irregularidade.
+Pela superficie.
+— Nudum. fig. 140. Sem pellos, sedas, villos, palhas &c. Leontodon. Taraxacum.
+— Punctatum. fig. 140. Cuberto de pontos excavados, e nû em quanto ao mais. Leontodon, Taraxacum. Chrysanthemum.
+— Alveolatum. Excavado á maneira dos favos das abelhas. Onopordon.
+— Villosum. Cuberto de villos (79). Artemisia. Absynthium. Carduus.
+— Pilosum. Com pellos (79). Carthamus.
+— Setosum. Cercado de sedas (80). Arctium. Lappa, Centaurea, Cyanus.
+— Paleaceum, fig. 141. b. Com palhas, ou lamellas postas perpendicularmente, que dividem os flosculos entre si.
+157. b. Pela figura.
+— Planum. Plano, ou espalmado na superficie. Achillæa millefolium.
+— Convexum. Com a superficie elevada, formando hum segmento de esfera. Matricaria chamomilla.
+— Conicum. fig. 141. Com a superficie elevada em figura conica. Anthemis. Bellis.
+— Concavum. Concavo.
+— Subulatum. (56)
+158. Compositus flos. Receptaculo estendido, convexo, commum a muitas pequenas flores monopetatas, com as antheras unidas em cylindro.
 
+[página 283]
+— 1. Ligulatus, aut semiflosculosus Tournefort. Todas as pequenas corollas saõ planas, e estendidas para a parte externa.
+— 2. Tubulosus, flosculosus Touruefort. Todas as pequenas corollas, saõ tubulosas, ou como canudos quasi iguaes. Eupatorium.
+— 3 Radiatus. As pequenas corollas do disco saõ tubulosas, e as da circunferencia liguladas, ou com o limbo desigual, e sahido muito para fora. Coreopsis, Achillæa, Tagetes.
 Compositus, radiatus flos. A flor composta radiada consta de disco e raio.
 Radius. O raio he formado de pequenas corollas irregulares postas na circunferencia.
 Discus. A superficie, ou centro da flor, consta de pequenas corollas quasi sempre regulares: na fior composta he a parte do meio, que acaba, ou que vem cercada com a margem do caliz.
@@ -5194,10 +5478,45 @@ Amentaceus aggregatus. O receptaculo, ou base desta fior he comprida, e delgada,
 do mesmo amento. Betula. Salix. Urtica. Pinus, Juniperus.
 
 [página 284]
-
+Glumosus aggregatus. O receptaculo delgado, comprido, de igual grossura; porém a sua base he huma gluma, ou especie de caliz commum. Festuca, Poa, Lolium, Hordeum.
+Spadiceus aggregatus. Especie de flor, cujo receptaculo está dentro da Spata, e he commum a muitas pequenas flores. Arum.
+160. Umbella. As flores dispostas em forma de umbella, o que succede, quando todos os pedunculos das flores sahem do mesmo centro fazendo assim huma circunferencia igual. Pastinaca, Cuminum.
 Umbellatus flos. fig. 135. Hum receptaculo, ou base commua dividida, e allongada, ou estendida em pedunculos á maneira de fios proporcionaes, os quaes todos sahem do mesmo centro, ou que sahindo todos do mesmo ponto formaõ huma circunferencia igual. Cada flor contém cinco estames desunidos, que cahem depois de fecundado o germe, o qual está posto debaixo da corolla: o pistillo he bifido, as sementes saõ duas, unidas entre si pela summidade. Astrantia, Sanicula.
+Spuria umbella. He huma flor aggregada, na qual os peclunculos sahem de hum ponto commum, mas depois dividem-se irregularmente em ramos.
+a.) Pela divisaõ.
+— Simplex. He simples, quando o receptaculo he dividido em pedunculos huma só vez. Sanicula. Eryngium.
+— Composita. Todos os pedunculos se subdividem no apice em outros pequenos pedunculos, ou em pequenas umbellas. Daucus, Cicuta, Euphorbia Esula.
 
-[Faltam as páginas de 284 até 286]
+[página 285]
+Universalis umbella fig. 135. a. Umbella universal, consta de pedunculos elevados (90), os quaes sustentaõ no apice outras pequenas umbellas. Scandix chaerophyllum.
+Partialis umbella. fig. 135. b. A pequena umbella, que está posta sobre o apice do pedunculo universal, ou primario.
+Prolifera. Em huma umbella simples hum ou outro pedunculo sahe sostendo outra pequena umbella.
+161. b. Pela figura.
+— Concava. O disco ou a superficie he comprimida nos lados de maneira, que fica o meio concavo.
+— Fastigiata. Sendo elevada, mas ficando a superficie muito plana, e parallela com o horizonte (23).
+— Convexa. Sendo o disco, ou a superficie elevada, formando hum segmento de esfera.
+— Plana. Cujo disco, ou superficie he plana.
+— Radiata. Sendo os petalos das flores, que estaõ postos na circunferencia da umbella, desiguaes, ou maiores.
+162. c.) Pella direcçaõ.
+— Erecta. Cuja superficie está elevada para o céo.
+— Nutans. Contraria á precedente. Solenum nigrum.
+— Cernua. He entre a erecta, e a nutans declinada alguma cousa para hum lado. Chærophyllum tremulum.
+163. Cyma, flos cymosus. He hum receptaculo, ou huma base dividida em pedunculos, dos quaes todos os primeiros sahem como na umbella da o mesmo centro; mas os segundos, ou os mais pequenos naõ sahem do mesmo centro, mas sahem sem ordem. Sambucus nigra, Sambucus ebulus, Solanum dulcamara.
+— Nuda. Sem involucro, ou bracteas. Cornus sanguineus.
+— Bracteata. Com bracteas. (87)
+— Ramosa. Dividida em ramos. Sedum album.
+— Trifida Dividida em tres até ao meio. Sedum acre.
+— Tripartita. Dividida até á base em tres. Sambucus Ebulus.
+— Quinquepartita. Em cinco partes. Sambucus nigra.
+164. Spadix. fig. 133. de o receptaculo da palmeira, que está nascido na spata (117), dividido em pequenos ramos, que sustentaõ a frutificaçaõ; contem huma colunna florifera, quando a corolla por meio de compridos pedunculos está pegada no receptaculo commum filiforme, o qual quasi sempre he dividido em ramos.
+a.) Uniflorus, biflorus, multiflorus. Pelo numero das flores, que sustenta.
+— b.) Simplex. Naõ dividido.
+— Ramosus. fig. 133. Dividido em ramos.
+Spadiceus flos. He huma flor aggregada, cujo receptaculo commum das flores está incluido em huma bainha, ou spata.
+Rachis. He o receptaculo comprido da mesma largura em todo o comprimento, o qual pelo seu comprimento sustenta as flores em forma de espiga.
+
+
+
 
 
 
