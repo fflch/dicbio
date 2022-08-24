@@ -244,76 +244,94 @@ DataframeTotal$orth[DataframeTotal$token == "esophago"] <- "esôfago"
 DataframeTotal$orth[DataframeTotal$token == "Esophago"] <- "Esôfago"
 DataframeTotal$orth[DataframeTotal$token == "esophagos"] <- "esôfagos"
 DataframeTotal$orth[DataframeTotal$token == "Esophagos"] <- "Esôfagos"
+DataframeTotal$orth[DataframeTotal$token == "myologia"] <- "miologia"
+DataframeTotal$orth[DataframeTotal$token == "Myologia"] <- "Miologia"
+DataframeTotal$orth[DataframeTotal$token == "myologias"] <- "miologias"
+DataframeTotal$orth[DataframeTotal$token == "Myologias"] <- "Miologias"
+DataframeTotal$orth[DataframeTotal$token == "MYOLOGIA"] <- "MIOLOGIA"
+DataframeTotal$orth[DataframeTotal$token == "MYOLOGIAS"] <- "MIOLOGIAS"
+DataframeTotal$orth[DataframeTotal$token == "maseter"] <- "masseter"
+DataframeTotal$orth[DataframeTotal$token == "maseteres"] <- "masseteres"
+DataframeTotal$orth[DataframeTotal$token == "orbita"] <- "órbita"
+DataframeTotal$orth[DataframeTotal$token == "Orbita"] <- "Órbita"
+DataframeTotal$orth[DataframeTotal$token == "orbitas"] <- "órbitas"
+DataframeTotal$orth[DataframeTotal$token == "Orbitas"] <- "Órbitas"
+DataframeTotal$orth[DataframeTotal$token == "occiput"] <- "ócciput"
+DataframeTotal$orth[DataframeTotal$token == "occiputs"] <- "ócciputs"
+DataframeTotal$orth[DataframeTotal$token == "Occiput"] <- "Ócciput"
+DataframeTotal$orth[DataframeTotal$token == "Occiputs"] <- "Ócciputs"
+
+
 # Função para lematizar
 lematizar <- function(lema, wclass){
   
-for(n in 1:length(DataframeTotal$orth)){
-  
-  if(tolower(DataframeTotal$orth[n]) == tolower(lema)){ # O primeiro "if" lematiza palavras idênticas
-    DataframeTotal$lemma[n] <- tolower(lema)
+  for(n in 1:length(DataframeTotal$orth)){
     
-  } else
-    
-  if(tolower(DataframeTotal$orth[n]) == str_c(tolower(lema),"s")){ # O segundo "if" lematiza plurais
-
-    DataframeTotal$lemma[n] <- tolower(lema)
-
-  } else
-    
-  if(tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -2L), "a") # Este lematiza adjetivos femininos
-    & wclass == "adj") 
-    
-  {
-    
-    DataframeTotal$lemma[n] <- tolower(lema)
-    
-  } else
-  
-  if(tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -2L), "as") # Este lematiza adjetivos femininos plurais
-       & wclass == "adj") 
+    if(tolower(DataframeTotal$orth[n]) == tolower(lema)){ # O primeiro "if" lematiza palavras idênticas
+      DataframeTotal$lemma[n] <- tolower(lema)
       
-  {
+    } else
       
-    DataframeTotal$lemma[n] <- tolower(lema)
-      
-  } else
-    
-  if(str_detect(lema, "ão\\b")
-     & tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -3L), "ões") # Este lematiza substantivos em -ão
-     & wclass == "subst") 
-      
-  {
-      
-    DataframeTotal$lemma[n] <- tolower(lema)
-      
-  } else
-    
-  if(str_detect(lema, "m\\b")
-     & tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -2L), "ns") # Este lematiza substantivos em -m
-     & wclass == "subst") 
-    
-  {
-    
-    DataframeTotal$lemma[n] <- tolower(lema)
-    
-  } else
-    
-  if(str_detect(lema, "l\\b")
-     & tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -2L), "is") # Este lematiza adjetivos em -l
-     & wclass == "adj") 
-      
-  {
-      
-    DataframeTotal$lemma[n] <- tolower(lema)
-      
-  } else
-    
-  if(str_detect(lema, "r\\b")
-     & tolower(DataframeTotal$orth[n]) == str_c(lema, "es")) # Este lematiza subst e adj em -r 
-  {
-    DataframeTotal$lemma[n] <- tolower(lema)
+      if(tolower(DataframeTotal$orth[n]) == str_c(tolower(lema),"s")){ # O segundo "if" lematiza plurais
+        
+        DataframeTotal$lemma[n] <- tolower(lema)
+        
+      } else
+        
+        if(tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -2L), "a") # Este lematiza adjetivos femininos
+           & wclass == "adj") 
+          
+        {
+          
+          DataframeTotal$lemma[n] <- tolower(lema)
+          
+        } else
+          
+          if(tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -2L), "as") # Este lematiza adjetivos femininos plurais
+             & wclass == "adj") 
+            
+          {
+            
+            DataframeTotal$lemma[n] <- tolower(lema)
+            
+          } else
+            
+            if(str_detect(lema, "ão\\b")
+               & tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -3L), "ões") # Este lematiza substantivos em -ão
+               & wclass == "subst") 
+              
+            {
+              
+              DataframeTotal$lemma[n] <- tolower(lema)
+              
+            } else
+              
+              if(str_detect(lema, "m\\b")
+                 & tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -2L), "ns") # Este lematiza substantivos em -m
+                 & wclass == "subst") 
+                
+              {
+                
+                DataframeTotal$lemma[n] <- tolower(lema)
+                
+              } else
+                
+                if(str_detect(lema, "l\\b")
+                   & tolower(DataframeTotal$orth[n]) == str_c(str_sub(lema, end = -2L), "is") # Este lematiza adjetivos em -l
+                   & wclass == "adj") 
+                  
+                {
+                  
+                  DataframeTotal$lemma[n] <- tolower(lema)
+                  
+                } else
+                  
+                  if(str_detect(lema, "r\\b")
+                     & tolower(DataframeTotal$orth[n]) == str_c(lema, "es")) # Este lematiza subst e adj em -r 
+                  {
+                    DataframeTotal$lemma[n] <- tolower(lema)
+                  }
   }
-}
   return(DataframeTotal)
 }
 # Lematiza a partir da ortografia
@@ -376,6 +394,10 @@ DataframeTotal <- lematizar("epigástrio", "subst")
 DataframeTotal <- lematizar("diafragma", "subst")
 DataframeTotal <- lematizar("glândula", "subst")
 DataframeTotal <- lematizar("esôfago", "subst")
+DataframeTotal <- lematizar("miologia", "subst")
+DataframeTotal <- lematizar("masseter", "subst")
+DataframeTotal <- lematizar("órbita", "subst")
+DataframeTotal <- lematizar("ócciput", "subst")
 
 # A lematização de "hermafrodita" exige um cuidado diferente
 
@@ -393,19 +415,19 @@ DataframeTotal$token <- txt_recode_ngram(DataframeTotal$token,
                                            "JARDINS BOTANICOS", "JARDIM BOTANICO",
                                            "Jardim Botanico", "Jardins Botanicos"), 2, sep = " ")
 DataframeTotal$orth <- txt_recode_ngram(DataframeTotal$orth,
-                                         c("jardim botânico", "jardins botânicos",
-                                           "JARDINS BOTÂNICOS", "JARDIM BOTÂNICO",
-                                           "Jardim Botânico", "Jardins Botânicos"), 2, sep = " ")
+                                        c("jardim botânico", "jardins botânicos",
+                                          "JARDINS BOTÂNICOS", "JARDIM BOTÂNICO",
+                                          "Jardim Botânico", "Jardins Botânicos"), 2, sep = " ")
 DataframeTotal$lemma <- txt_recode_ngram(DataframeTotal$lemma,
-                                              "jardim botânico", 2, sep = " ")
+                                         "jardim botânico", 2, sep = " ")
 
 # Junta a expressão "jardim botânico". Dá para adaptar esse código para uma função
 # que junta quaisquer duas palavras
 
 #DataframeTotal <- subset(DataframeTotal, lemma != "") # Elimina tudo o que não tiver lema
-                                                      # Por alguma razão, a nova versão do R
-                                                      # exige que primeiro se faça isso antes de rodar
-                                                      # o loop for embaixo
+# Por alguma razão, a nova versão do R
+# exige que primeiro se faça isso antes de rodar
+# o loop for embaixo
 #for(n in 1:length(DataframeTotal$doc_id)){
 #  if(DataframeTotal$lemma[n] == "jardim" &&
 #     DataframeTotal$lemma[n+1] == "botânico"){
@@ -433,11 +455,11 @@ colnames(CorpusMetadata) <- c("Filename", "Author", "Title", "DateOfPublication"
 
 # Insere os metadados nas sentenças
 for(i in 1:length(DataframeTotal$sentence)){
-DataframeTotal$sentence[i] <- paste0(DataframeTotal$sentence[i], " (",
-                                  CorpusMetadata$Author[CorpusMetadata$Filename == DataframeTotal$doc_id[i]],
-                                  ", ", 
-                                  CorpusMetadata$DateOfPublication[CorpusMetadata$Filename == DataframeTotal$doc_id[i]],
-                                  ")")
+  DataframeTotal$sentence[i] <- paste0(DataframeTotal$sentence[i], " (",
+                                       CorpusMetadata$Author[CorpusMetadata$Filename == DataframeTotal$doc_id[i]],
+                                       ", ", 
+                                       CorpusMetadata$DateOfPublication[CorpusMetadata$Filename == DataframeTotal$doc_id[i]],
+                                       ")")
 }
 
 
@@ -454,43 +476,43 @@ DataframeTotal$sensenumber[DataframeTotal$token=="bulbo"
 
 # "disco"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Quando o meio, ou disco da folha se approxima, ou se une ao mesmo caule. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Quando o meio, ou disco da folha se approxima, ou se une ao mesmo caule. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Quando as mesmas folhas lançaõ no disco inferior raizes como em algumas Algas. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Quando as mesmas folhas lançaõ no disco inferior raizes como em algumas Algas. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Por margem da folha entendem-se todos os lados exteriores, naõ fallando do disco. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Por margem da folha entendem-se todos os lados exteriores, naõ fallando do disco. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Sendo a margem cartilaginea, differente da substancia do disco, ou da superficie, Sedum. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Sendo a margem cartilaginea, differente da substancia do disco, ou da superficie, Sedum. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="As veias da folha se contrahem de tal sorte, que comprimindo o disco, este sobresahe; isto he, eleva-se mais, que os mesmos lados da folha. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="As veias da folha se contrahem de tal sorte, que comprimindo o disco, este sobresahe; isto he, eleva-se mais, que os mesmos lados da folha. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Sobresahindo de entre as rugas para parte do disco, ou da superficies da folha, de figura conica pela parte superior, e concava pela inferior. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Sobresahindo de entre as rugas para parte do disco, ou da superficies da folha, de figura conica pela parte superior, e concava pela inferior. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="A folha, que tem varias excavaçoens, ou o disco entre as veias está abaixado. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="A folha, que tem varias excavaçoens, ou o disco entre as veias está abaixado. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Folha revestida e tuberculos algum tanto duros, espalhados pelo seu disco ou superficie. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Folha revestida e tuberculos algum tanto duros, espalhados pelo seu disco ou superficie. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Havendo sedas de disco, ou na superficie da folha, que sejaõ algum tanto duras, rijas, asperas, e quebradiças. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Havendo sedas de disco, ou na superficie da folha, que sejaõ algum tanto duras, rijas, asperas, e quebradiças. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Estando o disco cheio de espinhos rijos, e picantes. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Estando o disco cheio de espinhos rijos, e picantes. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="A margem ou lado mais restricto obriga o disco da folha a ser concavo. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="A margem ou lado mais restricto obriga o disco da folha a ser concavo. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Sendo o disco superior da folha mais elevado, ou convexo. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Sendo o disco superior da folha mais elevado, ou convexo. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="O disco da folha sobe, e desce para a margem formando assim varios angulos, e muitas pregas. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="O disco da folha sobe, e desce para a margem formando assim varios angulos, e muitas pregas. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Subindo, e descendo o disco da folha convexamente até a margem. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Subindo, e descendo o disco da folha convexamente até a margem. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="O disco da folha forma varias dobras obtusas, e alternadas. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="O disco da folha forma varias dobras obtusas, e alternadas. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Folha monstruosa, pois he quando a margem da folha sahe maior do que o disco admitte, de maneira que a margem he as ondas. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Folha monstruosa, pois he quando a margem da folha sahe maior do que o disco admitte, de maneira que a margem he as ondas. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="A folha he mais funda no disco, que nos lados. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="A folha he mais funda no disco, que nos lados. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="A superficie interior ou disco da folha elevada longitudinalmente á mesma maneira de quilha. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="A superficie interior ou disco da folha elevada longitudinalmente á mesma maneira de quilha. (VANDELLI, Domingos, 1788)"] <- "2"
 DataframeTotal$sensenumber[DataframeTotal$lemma=="disco" & 
-             DataframeTotal$sentence=="Tendo dous angulos longitudinaes, prominentes, oppostos, e o disco mais convexo. (VANDELLI, Domingos, 1788)"] <- "2"
+                             DataframeTotal$sentence=="Tendo dous angulos longitudinaes, prominentes, oppostos, e o disco mais convexo. (VANDELLI, Domingos, 1788)"] <- "2"
 
 # Script para incluir negrito nas sentenças
 
@@ -514,7 +536,7 @@ DataframeTotal$sentence[DataframeTotal$sentence_id==11534 & DataframeTotal$token
   "Duas antheras em hum só filamento; Mercurialis; tres antheras em hum só <b>filamento</b>, Fumaria; cinco em tres filamentos (VANDELLI, Domingos, 1788)"
 
 DataframeTotal$sentence[DataframeTotal$sentence_id==11546 & DataframeTotal$token_id==31] <-
-"Abertura da anthera pela qual sahe, ou se lança o pollen da sua cavidade, ou loculo, a qual está em hum lado da <b>anthera</b> no Leucojum; em muitas plantas tem as antheras esta abertura no apice Solanum; outras desde a (VANDELLI, Domingos, 1788)"
+  "Abertura da anthera pela qual sahe, ou se lança o pollen da sua cavidade, ou loculo, a qual está em hum lado da <b>anthera</b> no Leucojum; em muitas plantas tem as antheras esta abertura no apice Solanum; outras desde a (VANDELLI, Domingos, 1788)"
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")
 
