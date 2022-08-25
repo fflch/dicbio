@@ -1531,7 +1531,7 @@ Pela figura.
 — Rotundatæ. Quasi, que descrevem hum circulo. Papilio.
 — Oblongæ. Oblongas, ou compridas. Papilio.
 — Deltoideæ. Posteriormente muito obtuzas, e quasi rombas. Pyralis.
-— Laciniatæ, fissæ, digitatae. Rachadas, digitadas, ou cortadas como dedos. Pterophorus.
+— Laciniatæ, fissæ, digitatae. Rachadas, digitadas, ou cortadas como dedos.Pterophorus .
 — Reversæ. Sendo prominente a margem exterior da aza posterior. Bombyx.
 — Exsertæ. Prominentes de trás dos elytros. Forficula.
 — Tectae. Escondidas debaixo dos elytros.
@@ -4437,11 +4437,11 @@ Folium simplex. Quando o peciolo simples, e sem ser dividido sustenta huma só f
 
 — Articulatum, fig. 100. huma folha nascendo na ponta da outra, continuando huma sobre outra por meio de varias articulaçoens. Salicornia herbacea. 
 As partes da folha das folhas compostas, saõ as pequenas folhas, e pinnas, e os peciolos maiores, ou principaes.
-— Conjugatum. fig. 73. O peciolo simples une de hum, e outro lado huma unica, e pequena folha pinnata. V. Pinnatum. Latbyri Species. 
-— Digitatum. fig. 66. O peciolo simples une no seu apice muitas pequenas folhas distintas entre si. Ranunculus Sccleratus. 
+— Conjugatum. fig. 73. O peciolo simples une de hum, e outro lado huma unica, e pequena folha pinnata. V. Pinnatum. Lathyri Species. 
+— Digitatum. fig. 66. O peciolo simples une no seu apice muitas pequenas folhas distintas entre si. Ranunculus Sceleratus. 
 — Binatum. fig. 63. He a folha digitada com duas pequenas folhas somente. 
-— Trinatum. Ternatum. FIG. 64. 65. com pequenas folhas, postas na extremidade do peciolo. Fasminum azoricum. 
-— Quinatum. Com cinco: he o mesmo, que digitado, com cinco pequenas folhas. Ranunculos aconitifolius. 
+— Trinatum. Ternatum. Fig. 64. 65. com pequenas folhas, postas na extremidade do peciolo. Jasminum azoricum. 
+— Quinatum. Com cinco: he o mesmo, que digitado, com cinco pequenas folhas. Ranunculus aconitifolius. 
 — Pedatum. fig. 6. O peciolo se divide em duas partes, e sustenta no lado interior muito pequenas folhas. Passiflore, Arum. Hellborus niger. 
 — Bijugum. Folha pinnata com duas pequenas folhas em cada lado, e diz-se tri, quadri, quinque, sex jugum conforme o numero das folhas. 
 — Pinnatum. fig. 68. ad 75. Hum peciolo simples une em cada lado muitas folhas pequenas á maneira de penna. Valeriana officinalis. Pimpinella faxifraga. 

@@ -252,6 +252,10 @@ DataframeTotal$orth[DataframeTotal$token == "MYOLOGIA"] <- "MIOLOGIA"
 DataframeTotal$orth[DataframeTotal$token == "MYOLOGIAS"] <- "MIOLOGIAS"
 DataframeTotal$orth[DataframeTotal$token == "maseter"] <- "masseter"
 DataframeTotal$orth[DataframeTotal$token == "maseteres"] <- "masseteres"
+DataframeTotal$orth[DataframeTotal$token == "maceter"] <- "masseter"
+DataframeTotal$orth[DataframeTotal$token == "maceteres"] <- "masseteres"
+DataframeTotal$orth[DataframeTotal$token == "Maceter"] <- "Masseter"
+DataframeTotal$orth[DataframeTotal$token == "Maceteres"] <- "Masseteres"
 DataframeTotal$orth[DataframeTotal$token == "orbita"] <- "órbita"
 DataframeTotal$orth[DataframeTotal$token == "Orbita"] <- "Órbita"
 DataframeTotal$orth[DataframeTotal$token == "orbitas"] <- "órbitas"
@@ -526,16 +530,20 @@ for(i in 1:length(DataframeTotal$sentence)){
 }
 
 # Correção do negrito
-DataframeTotal$sentence[DataframeTotal$sentence_id==11417 & DataframeTotal$token_id==22] <-
+DataframeTotal$sentence[DataframeTotal$sentence=="d. He a parte, que sustenta, une a anthera (131), ou he o pè da anthera, pelo qual esta se une á planta; ás vezes faltaõ totalmente os filamentos, ou saõ taõ pequenos, que apenas apparecem, e entaõ contaõ-se as <b>antheras</b>. (VANDELLI, Domingos, 1788)"
+                        & DataframeTotal$token_id==22] <-
   "d. He a parte, que sustenta, une a anthera (131), ou he o pè da <b>anthera</b>, pelo qual esta se une á planta; ás vezes faltaõ totalmente os filamentos, ou saõ taõ pequenos, que apenas apparecem, e entaõ contaõ-se as antheras. (VANDELLI, Domingos, 1788)"
 
-DataframeTotal$sentence[DataframeTotal$sentence_id==11534 & DataframeTotal$token_id==11] <-
+DataframeTotal$sentence[DataframeTotal$sentence=="Duas antheras em hum só filamento; Mercurialis; tres antheras em hum só filamento, Fumaria; cinco em tres <b>filamentos</b> (VANDELLI, Domingos, 1788)"
+                        & DataframeTotal$token_id==11] <-
   "Duas antheras em hum só filamento; Mercurialis; tres <b>antheras</b> em hum só filamento, Fumaria; cinco em tres filamentos (VANDELLI, Domingos, 1788)"
 
-DataframeTotal$sentence[DataframeTotal$sentence_id==11534 & DataframeTotal$token_id==15] <-
+DataframeTotal$sentence[DataframeTotal$sentence=="Duas antheras em hum só filamento; Mercurialis; tres antheras em hum só filamento, Fumaria; cinco em tres <b>filamentos</b> (VANDELLI, Domingos, 1788)"
+                        & DataframeTotal$token_id==15] <-
   "Duas antheras em hum só filamento; Mercurialis; tres antheras em hum só <b>filamento</b>, Fumaria; cinco em tres filamentos (VANDELLI, Domingos, 1788)"
 
-DataframeTotal$sentence[DataframeTotal$sentence_id==11546 & DataframeTotal$token_id==31] <-
+DataframeTotal$sentence[DataframeTotal$sentence=="Abertura da <b>anthera</b> pela qual sahe, ou se lança o pollen da sua cavidade, ou loculo, a qual está em hum lado da anthera no Leucojum; em muitas plantas tem as antheras esta abertura no apice Solanum; outras desde a (VANDELLI, Domingos, 1788)"
+                        & DataframeTotal$token_id==31] <-
   "Abertura da anthera pela qual sahe, ou se lança o pollen da sua cavidade, ou loculo, a qual está em hum lado da <b>anthera</b> no Leucojum; em muitas plantas tem as antheras esta abertura no apice Solanum; outras desde a (VANDELLI, Domingos, 1788)"
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")

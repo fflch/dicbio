@@ -214,7 +214,7 @@ server <- function(input, output, session) {
              EntryAuthors, "</p><hr><p style='font-size: .7em;'>Este verbete foi incluído em ",
              DateOfCreation, " e atualizado em ", DateOfUpdate, "</p><hr>",
              "<p style='font-size: .7em;'><b>Como citar este verbete:</b><br>",
-             AuthorLastName, ", ", AuthorFirstName, ". ",
+             AuthorInReference, ". ",
              str_to_title(input$headword), ". In: MARONEZE, Bruno (coord.) 
            <b>Dicionário Histórico de Termos da Biologia</b>. 2022. Disponível em: 
            https://dicionariodebiologia.shinyapps.io/Dicio_Biologia. 
