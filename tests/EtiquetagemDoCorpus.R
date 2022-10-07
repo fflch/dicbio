@@ -14,13 +14,19 @@ library(udpipe)
 
 m_port <- udpipe_load_model(file = "portuguese-bosque-ud-2.5-191206.udpipe") # carrega na memória
 
+# Trocar por um script automático que lê o arquivo CorpusTextsMetadata.csv
+
 textVandelli <- readLines("../data/DiccionariodeVandelli.txt", encoding = "UTF-8") # lê o texto
 textSantucci <- readLines("../data/AnatomiadeSantucci.txt", encoding = "UTF-8") # lê o texto
+textBrotero <- readLines("../data/Compendio1deBrotero.txt", encoding = "UTF-8") # lê o texto
 
 text_anndfVandelli <- udpipe::udpipe_annotate(m_port, x = textVandelli) %>%
   as.data.frame() # Cria um dataframe no formato CONLLU com as anotações
 
 text_anndfSantucci <- udpipe::udpipe_annotate(m_port, x = textSantucci) %>%
+  as.data.frame() # Cria um dataframe no formato CONLLU com as anotações
+
+text_anndfBrotero <- udpipe::udpipe_annotate(m_port, x = textBrotero) %>%
   as.data.frame() # Cria um dataframe no formato CONLLU com as anotações
 
 # Corrige a numeração da lista de sentenças
@@ -42,12 +48,22 @@ for(x in 2:length(text_anndfSantucci$sentence_id)){
   }
 }
 
+text_anndfBrotero$sentence_id[1] <- 1
+for(x in 2:length(text_anndfBrotero$sentence_id)){
+  if(text_anndfBrotero$sentence[x] == text_anndfBrotero$sentence[(x-1)]){
+    text_anndfBrotero$sentence_id[x] <- text_anndfBrotero$sentence_id[(x-1)]
+  } else {
+    text_anndfBrotero$sentence_id[x] <- text_anndfBrotero$sentence_id[(x-1)] + 1
+  }
+}
+
 text_anndfVandelli$doc_id <- "DiccionariodeVandelli.txt"
 text_anndfSantucci$doc_id <- "AnatomiadeSantucci.txt"
+text_anndfBrotero$doc_id <- "Compendio1deBrotero.txt"
 
-# Junta os dois e elimina as colunas desnecessárias
+# Junta os três e elimina as colunas desnecessárias
 
-DataframeTotal <- rbind(text_anndfSantucci, text_anndfVandelli)
+DataframeTotal <- rbind(text_anndfSantucci, text_anndfVandelli, text_anndfBrotero)
 DataframeTotal <- subset(DataframeTotal, upos!="PUNCT")
 DataframeTotal$paragraph_id <- NULL
 DataframeTotal$head_token_id <- NULL
@@ -57,7 +73,7 @@ DataframeTotal$upos <- NULL
 DataframeTotal$xpos <- NULL
 DataframeTotal$feats <- NULL
 
-rm(text_anndfSantucci, text_anndfVandelli) # Limpa a memória
+rm(text_anndfSantucci, text_anndfVandelli, text_anndfBrotero) # Limpa a memória
 
 
 # O arquivo de dados só precisa conter as palavras presentes no dicionário
@@ -548,4 +564,4 @@ DataframeTotal$sentence[DataframeTotal$sentence=="Abertura da <b>anthera</b> pel
 
 write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")
 
-rm(i, textSantucci, textVandelli, x, lematizar, CorpusMetadata, DadosdoDicionario, DataframeTotal)
+rm(i, textSantucci, textVandelli, textBrotero, x, lematizar, CorpusMetadata, DadosdoDicionario, DataframeTotal)

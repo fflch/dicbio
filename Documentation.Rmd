@@ -31,6 +31,8 @@ O córpus está disponibilizado em formato .txt (cf. "Política de disponibiliza
 ### Textos que compõem o córpus:
 Os textos que integram o córpus podem ser encontrados nos *links* abaixo. O córpus transcrito em formato .txt está disponível no repositório *GitHub* (cf. "Política de disponibilização dos dados").
 
+- BROTERO, Félix de Avelar. [**Compendio de Botanica**](https://digitalis-dsp.uc.pt/botanica/UCFCTBt-B-78-1-15_2/UCFCTBt-B-78-1-15_2_item1/index.html). Vol. 1. Paris: Vende-se em Lisboa, em caza de Paulo Martin, Mercador de Livros, 1788.
+
 - SANTUCCI, Bernardo. [**Anatomia do corpo humano**](https://books.google.com.br/books/about/Anatomia_do_corpo_humano.html?id=D83JL7ybBeUC&redir_esc=y). Lisboa: na Officina de Antonio Pedrozo Galram, 1739.
 
 - VANDELLI, Domingos. [**Diccionario dos termos technicos de Historia Natural**](https://purl.pt/13958). Coimbra: na Real Officina da Universidade, 1788.
@@ -88,9 +90,10 @@ Incluem-se aqui as publicações dos membros da equipe relacionadas ao **Dicion�
 - **Bruno Oliveira Maroneze** (Professor Associado, Universidade Federal da Grande Dourados) - coordenação do projeto - desde 2017
 - **Fabiani de Amorim Gonçalves** (estudante de pós-graduação, Universidade Federal da Grande Dourados) - preparação do córpus, compilação dos verbetes - desde 2022
 - **Kamila da Silva Barbosa** (estudante de pós-graduação, Universidade Federal de Mato Grosso do Sul) - preparação do córpus, compilação dos verbetes - desde 2021
+- **Adriane Maria de Oliveira Queiroz** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2022
 - **Raíssa Silveira Buss** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2022
-- **Rafaela Lima Domingos** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - desde 2021
-- **Letícia Tranquile da Silva** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, compilação dos verbetes - desde 2020
+- **Rafaela Lima Domingos** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus -  2021-2022
+- **Letícia Tranquile da Silva** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, compilação dos verbetes - 2020-2022
 - **Fabiana Ferreira de Melo da Silva Sales** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020-2021
 - **Bruno Leonardo Campanholi Gilbert** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020
 - **Daniela Martim do Nascimento** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus - 2020

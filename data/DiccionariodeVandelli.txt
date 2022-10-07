@@ -501,7 +501,7 @@ PALEARE.    V. Mammaes. Ardea pavonina.
 PALEARIA Curunculata. Numida.
 PALPEBRA. Capella dos olhos móvel, e ciliata, ou com pestanas.
 PECTUS. He a parte inferior do tronco, está cuberto com Iterno.
-PEDES equilibres. Que servem para ter o corpo em equilibrio, á differença dos compedes, que naõ sustentaõ o corpo equilibrado. Diomedea exulans.
+PEDES aequilibres. Que servem para ter o corpo em equilibrio, á differença dos compedes, que naõ sustentaõ o corpo equilibrado. Diomedea exulans.
 PEDICILLUM. He huma uniaõ de pellos, que cerca a glandula, ou poro oleifero, que está posto na parte superior do uropigio em as Aves. m.
 PENNA. Consta de huma base cylindrica, concava, que se extende pelo Rachis. ( V. Rachis) arqueada para a parte inferior, liza superiormente, quasi canaliculada na parte inferior, pinnata, com raios parallelos, cada hum dos quaes he quasi pinnato, e estaõ encostados, ou unidos entre si formando huma
  
@@ -824,7 +824,7 @@ CARINATUM. He a parte do peixe que reprezenta huma quilha como se observa na lin
 CATAPHRACTUS. Cuberto com cute dura ou óssea ou quando as escamas estaõ totalmente unidas de modo que quase formaõ huma só escama. Loricaria, Trigla, Siluri species.
 CATHETOPLATEUM ou compressum. O corpo do peixe comprimido nos lados ou quando a altura he maior que a largura.
 CILIATUS. He quando os lados do peixe estaõ cheios de pequenas prominências cutaneas e paralelas.
-CIRRHUS. Ou barba, he hum appendis setacco que está pendente da bocca ou das mandíbulas; he carnoso, movel, simples, ordinariamente mais grosso na base: pode-se considerar como huma expançaõ da pelle, ou como hum feixe de fibras do tegumento. Tem sua semelhança com as antenas dos insectos, o seu uso naõ está ainda conhecido. Accipencer, Trigla, Cyprinus.
+CIRRHUS. Ou barba, he hum appendis setaceo, que está pendente da bocca, ou das mandibulas; he carnoso, movel, simples, ordinariamente mais grosso na base: pode-se considerar como huma expançaõ da pelle, ou como hum feixe de fibras do tegumento. Tem sua semelhança com as antenas dos insectos, o seu uso naõ está ainda conhecido. Accipencer, Trigla, Cyprinus.
 Pelo numero.
 - Nulli. Na maior parte dos peixes.
 - Unicus, Solitarius. Hum só, Gadis, Phycide, Cyprino.
@@ -4431,7 +4431,7 @@ Frondescens. Sahindo as folhas no inverno.
 59. Considerada a folha em quanto á composiçaõ. Nesta parte deve-se attender a muitas folhas postas em hum só peciolo conforme a sua estructura, ou gráos. 
 A estructura indica a inserçaõ das folhas, e assim se diz.
 Folium simplex. Quando o peciolo simples, e sem ser dividido sustenta huma só folha. Ranunculus muricatus. 
-— Compositum. Folha composta de outras tantas pequenas folhas postas no peciolo commum, ou simples. Ranunculos bulbosus o repens. E verdadeiramente composto, he quando a composiçaõ he simples. Aquilegia vulgaris.  
+— Compositum. Folha composta de outras tantas pequenas folhas postas no peciolo commum, ou simples. Ranunculos bulbosus & repens. E verdadeiramente composto, he quando a composiçaõ he simples. Aquilegia vulgaris.  
 
 [página 230]
 
@@ -4744,7 +4744,7 @@ Verticillo denso com muitas flores. Verticillo raro com poucas flores.
 — Cernui. (61) Arqueadas para baixo. 
 — Nutantes. Estaõ mais viradas para a terra, que as cernuas.
 — Verticales. Viradas perpendicularmente para a terra.
-— Horifontales. Estão com o seu limbo parallelas ao horizontes. 
+— Horisontales. Estão com o seu limbo parallelas ao horizontes. 
 95. II. Especies dellas.
 Verticillus. fig. 166. He formada de muitas flores quasi sesseis, ou quasi sem pedunculos: he huma coroa, que cerca o caule á maneira de anel. 
 — a.) Sessilis. Sendo as pequenas flores sem pedunculos visiveis. (94)
@@ -4968,14 +4968,14 @@ fendida, ou rachada longitudinalmente, ou que se abre em hum lado. Arum. Narciss
 A corolla se distingue do Periancio, porque a quella, pela situaçaõ, alterna com os estames, e este está opposto aos mesmos.
 
 [página 256] 
-— Aequalis. As partes da carolla naõ saõ iguaes pela figura, tamanho, e proporçaõ.
+— Aequalis. As partes da corolla naõ saõ iguaes pela figura, tamanho, e proporçaõ.
 — Inaequalis. As partes da corolla naõ saõ iguaes no tamanho, mas com a proporcaõ dellas, formaõ huma flor regular. 
 a.) As partes da corolla.
-Petalum, e Nectar ium.
-Petalum. He um tegumento corolla da flor, ou a parte da corolla dividida em muitas partes. Usa-se deste termo commummente, quando a corolla he composta de pequenas folhas, ou laminas desunidas entre si, e que tambem estaõ desunidas da base. 
+Petalum, e Nectarium.
+Petalum. He um tegumento corallaceo da flor, ou a parte da corolla dividida em muitas partes. Usa-se deste termo commummente, quando a corolla he composta de pequenas folhas, ou laminas desunidas entre si, e que tambem estaõ desunidas da base. 
 Partes. As partes do petalo saõ.
 Tubus. fig. 142. a. He a base inferior de figura cylindrica. A parte inferior da corolla monopetala feita á maneira de canudo. Primala veris, Crocus. 
-Tubi orificium. A abertura superior do canudo, ou abertura  no meio ds corolla.
+Tubi orificium. A abertura superior do canudo, ou abertura  no meio da corolla.
 Tubus perforatus. Aberto em ambas as extremidades.
 — Caecus. Fechado em huma extremidade; e sendo comprido entaõ chama-se calcar, e pertence ao nectario. 
 Unguis. fig. 144. a. He a parte inferior do petalo, que se pega ao receptaculo, ou á base da flor, que consta de muitos petalos.
@@ -4992,10 +4992,7 @@ Lamina. fig. 144. b. He a parte superior, extendida da corolla polypetala, ou de
 — Partita. 2-Multipartita. (107)
 — Bifida. Dividida em dous com divisoens pouco profundas Utricularia. trifida, em tres, Alisma. quadrifida, em quatro Rinanthus, quinquefida em cinco Nicotiana. Sexfida Pavia Oectofidas, em oito Tormentilla. decemdida, Potentilla, Fragaria. duodecenfida, Lytbrum. 
 Corolla universalis. Nas flores agregadas como Globularia, Scabiosa, &c. que constaõ de muitos flosculos postos em hum caliz commum. Entende-se por corolla universal todo este. ajuntamento de flores.
-122. c.) Regularis aequalitate. Corolla regular na
-
-[página 258]
-igualdade, quando o limbo, ou lacinias na corolla monopetala, e as laminas na corolla polipetala saõ iguaes no tamanho, e na figura. Lychnis. Aquilegia.
+122. c.) Regularis aequalitate. Corolla regular na igualdade, quando o limbo, ou lacinias na corolla monopetala, e as laminas na corolla polipetala saõ iguaes no tamanho, e na figura. Lychnis. Aquilegia.
 — Irregularis. Irregular, quando as partes do limbo, ou da lamina taõ differentes pela figura, grandeza, e proporçaõ. Echium vulgare. Aconitum. Lamium. 
 — Inaequalis. Quando as ditas partes se correspondem naõ no tamanho, mas só na proporçaõ; demaneira, que se forma huma flor regular. Butomus. 
 — Aequalis. Sendo as ditas partes iguaes na grandeza, e proporçaõ.
@@ -5752,4 +5749,3 @@ a cultura da flor de Crystal, ou soda (a), que serve para fazer o vidro, e o sab
 As plantas, que nos lugares seccos, e onde ha greda se daõ bem saõ muitas (c) , algumas das quaes serviriaõ para pastos (d). As plantas proprias para lugares humidos (e) aquosos, e de alagoas (f) tambem dariaõ alguma utilidade. 
 	E por hora basta; porque para se tratar a fundo qualquer destes objectos seria necessario mais tempo. 
 	Se corresponder a aceitaçaõ do Publico aos meus sinceros dezejos occupar-me-hei em fazer experiencias sobre as plantas que se cultivaõ, e se cultivaraõ neste Real Jardim Botanico a fim de conhecer as mais adequadas para este feliz clima, e aquellas que multiplicadas poderaõ dar maior utilidade: farei mais exactas observações sobre os lugares incultos: indicarei os meios proporcionados conforme as situaçoens, e producçoens, tratando fundamentalmente de todos estes objectos.
-
