@@ -12,58 +12,47 @@ library(udpipe)
 
 # m_port <- udpipe::udpipe_download_model(language = "portuguese-bosque") # faz download do modelo
 
-m_port <- udpipe_load_model(file = "portuguese-bosque-ud-2.5-191206.udpipe") # carrega na memória
+m_port <- udpipe_load_model(file = "./tests/portuguese-bosque-ud-2.5-191206.udpipe") # carrega na memória
 
 # Trocar por um script automático que lê o arquivo CorpusTextsMetadata.csv
 
-textVandelli <- readLines("../data/DiccionariodeVandelli.txt", encoding = "UTF-8") # lê o texto
-textSantucci <- readLines("../data/AnatomiadeSantucci.txt", encoding = "UTF-8") # lê o texto
-textBrotero <- readLines("../data/Compendio1deBrotero.txt", encoding = "UTF-8") # lê o texto
+# Lê os metadados do córpus
+CorpusMetadata <- read.csv2("./data/CorpusTextsMetadata.csv",
+                            encoding = "UTF-8") 
+colnames(CorpusMetadata) <- c("Filename", "Author", "Title",
+                              "DateOfPublication")
 
-text_anndfVandelli <- udpipe::udpipe_annotate(m_port, x = textVandelli) %>%
-  as.data.frame() # Cria um dataframe no formato CONLLU com as anotações
+# Cria uma função que retorna o dataframe de um arquvo txt
 
-text_anndfSantucci <- udpipe::udpipe_annotate(m_port, x = textSantucci) %>%
-  as.data.frame() # Cria um dataframe no formato CONLLU com as anotações
+CriaDataframeDados <- function(NomeDoArquivo){
+  
+  CorpusText <- readLines(con = paste0("./data/", NomeDoArquivo),
+                       encoding = "UTF-8")
 
-text_anndfBrotero <- udpipe::udpipe_annotate(m_port, x = textBrotero) %>%
-  as.data.frame() # Cria um dataframe no formato CONLLU com as anotações
-
-# Corrige a numeração da lista de sentenças
-text_anndfVandelli$sentence_id[1] <- 1
-for(x in 2:length(text_anndfVandelli$sentence_id)){
-  if(text_anndfVandelli$sentence[x] == text_anndfVandelli$sentence[(x-1)]){
-    text_anndfVandelli$sentence_id[x] <- text_anndfVandelli$sentence_id[(x-1)]
-  } else {
-    text_anndfVandelli$sentence_id[x] <- text_anndfVandelli$sentence_id[(x-1)] + 1
+  text_anndfCorpusText <- udpipe::udpipe_annotate(m_port, x = CorpusText) %>%
+    as.data.frame() # Cria um dataframe no formato CONLLU com as anotações
+  
+  # Corrige a numeração da lista de sentenças
+  text_anndfCorpusText$sentence_id[1] <- 1
+  for(x in 2:length(text_anndfCorpusText$sentence_id)){
+    if(text_anndfCorpusText$sentence[x] == text_anndfCorpusText$sentence[(x-1)]){
+      text_anndfCorpusText$sentence_id[x] <- text_anndfCorpusText$sentence_id[(x-1)]
+    } else {
+      text_anndfCorpusText$sentence_id[x] <- text_anndfCorpusText$sentence_id[(x-1)] + 1
+    }
   }
+  
+  text_anndfCorpusText$doc_id <- NomeDoArquivo
+  
+  return(text_anndfCorpusText)
 }
 
-text_anndfSantucci$sentence_id[1] <- 1
-for(x in 2:length(text_anndfSantucci$sentence_id)){
-  if(text_anndfSantucci$sentence[x] == text_anndfSantucci$sentence[(x-1)]){
-    text_anndfSantucci$sentence_id[x] <- text_anndfSantucci$sentence_id[(x-1)]
-  } else {
-    text_anndfSantucci$sentence_id[x] <- text_anndfSantucci$sentence_id[(x-1)] + 1
-  }
-}
+# Junta todos num só
+DataframeTotal <- lapply(CorpusMetadata$Filename,
+                     CriaDataframeDados) %>% rbindlist()
 
-text_anndfBrotero$sentence_id[1] <- 1
-for(x in 2:length(text_anndfBrotero$sentence_id)){
-  if(text_anndfBrotero$sentence[x] == text_anndfBrotero$sentence[(x-1)]){
-    text_anndfBrotero$sentence_id[x] <- text_anndfBrotero$sentence_id[(x-1)]
-  } else {
-    text_anndfBrotero$sentence_id[x] <- text_anndfBrotero$sentence_id[(x-1)] + 1
-  }
-}
+# Elimina as colunas desnecessárias
 
-text_anndfVandelli$doc_id <- "DiccionariodeVandelli.txt"
-text_anndfSantucci$doc_id <- "AnatomiadeSantucci.txt"
-text_anndfBrotero$doc_id <- "Compendio1deBrotero.txt"
-
-# Junta os três e elimina as colunas desnecessárias
-
-DataframeTotal <- rbind(text_anndfSantucci, text_anndfVandelli, text_anndfBrotero)
 DataframeTotal <- subset(DataframeTotal, upos!="PUNCT")
 DataframeTotal$paragraph_id <- NULL
 DataframeTotal$head_token_id <- NULL
@@ -72,9 +61,6 @@ DataframeTotal$deps <- NULL
 DataframeTotal$upos <- NULL
 DataframeTotal$xpos <- NULL
 DataframeTotal$feats <- NULL
-
-rm(text_anndfSantucci, text_anndfVandelli, text_anndfBrotero) # Limpa a memória
-
 
 # O arquivo de dados só precisa conter as palavras presentes no dicionário
 # Assim, lematizamos o necessário e eliminamos o resto
@@ -462,16 +448,12 @@ DataframeTotal$lemma <- txt_recode_ngram(DataframeTotal$lemma,
 
 # Elimina tudo o que não for relevante para o dicionário
 
-DadosdoDicionario <- read.csv("../data/DadosDoDicionario.csv", encoding = "UTF-8")
+DadosdoDicionario <- read.csv("./data/DadosDoDicionario.csv", encoding = "UTF-8")
 #colnames(DadosdoDicionario) <- c("ID", "Headword", "FirstAttestationDate",
 #                                 "FirstAttestationExampleMD", "VariantSpellings", "Etymology",
 #                                 "WClass", "Credits")
 
 DataframeTotal <- subset(DataframeTotal, lemma %in% DadosdoDicionario$Headword)
-
-# Lê os metadados do córpus
-CorpusMetadata <- read.csv2("../data/CorpusTextsMetadata.csv", encoding = "UTF-8") 
-colnames(CorpusMetadata) <- c("Filename", "Author", "Title", "DateOfPublication")
 
 # Insere os metadados nas sentenças
 for(i in 1:length(DataframeTotal$sentence)){
@@ -562,6 +544,6 @@ DataframeTotal$sentence[DataframeTotal$sentence=="Abertura da <b>anthera</b> pel
                         & DataframeTotal$token_id==31] <-
   "Abertura da anthera pela qual sahe, ou se lança o pollen da sua cavidade, ou loculo, a qual está em hum lado da <b>anthera</b> no Leucojum; em muitas plantas tem as antheras esta abertura no apice Solanum; outras desde a (VANDELLI, Domingos, 1788)"
 
-write.csv2(DataframeTotal, file = "../data/DataframePrincipal.csv", fileEncoding = "UTF-8")
+write.csv2(DataframeTotal, file = "./data/DataframePrincipal.csv", fileEncoding = "UTF-8")
 
-rm(i, textSantucci, textVandelli, textBrotero, x, lematizar, CorpusMetadata, DadosdoDicionario, DataframeTotal)
+rm(i, lematizar, CriaDataframeDados, CorpusMetadata, DadosdoDicionario, DataframeTotal)
