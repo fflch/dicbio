@@ -21,14 +21,15 @@ TokTextDF <- read.csv2("./data/DataframePrincipal.csv", encoding = "UTF-8")
 CorpusMetadata <- read.csv2("./data/CorpusTextsMetadata.csv", encoding = "UTF-8")
 colnames(CorpusMetadata) <- c("Filename", "Author", "Title", "DateOfPublication")
 
-# Cria uma função que retorna os contextos de uma palavra consultada, com a palavra negritada,
-# e formata para mostrar; os parâmetros são a palavra-entrada e o número da acepção
+# Cria uma função que retorna os contextos de uma palavra consultada, com a
+# palavra negritada, # e formata para mostrar; os parâmetros são a
+# palavra-entrada e o número da acepção
 Contextos <- function(InputConsulta, SenseNumber){
   ContextosTexto <- as.list(TokTextDF$sentence[TokTextDF$lemma == InputConsulta & TokTextDF$sensenumber==SenseNumber])
   ContextosTextoFormatados <- NULL
   for(a in 1:length(ContextosTexto)){
     
-    ContextosTextoFormatados[a] <- paste0(a, " - ", ContextosTexto[a], "<br>")
+    ContextosTextoFormatados[a] <- paste0(a, " - ", ContextosTexto[a], "<hr>")
     
   }
   ContextosTextoFormatados <- as.list(ContextosTextoFormatados)
