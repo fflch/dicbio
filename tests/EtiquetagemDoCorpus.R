@@ -116,6 +116,38 @@ for(i in 1:length(DataframeTotal$token)){
 #DataframeTotal$orth <- str_replace(DataframeTotal$orth, "cco", "co")
 
 
+# Junta a expressão "jardim botânico"
+# Funcionou com o txt_recode_ngram(), desde que eu preveja todas as formas variantes
+# das três colunas token, orth, lemma
+# O algoritmo embaixo funciona também, mas baseado só no lema
+
+DataframeTotal$token <- txt_recode_ngram(DataframeTotal$token,
+                                         c("jardim botânico", "jardim botanico", "jardins botanicos",
+                                           "JARDINS BOTANICOS", "JARDIM BOTANICO",
+                                           "Jardim Botanico", "Jardins Botanicos"), 2, sep = " ")
+DataframeTotal$orth <- txt_recode_ngram(DataframeTotal$orth,
+                                        c("jardim botânico", "jardins botânicos",
+                                          "JARDINS BOTÂNICOS", "JARDIM BOTÂNICO",
+                                          "Jardim Botânico", "Jardins Botânicos"), 2, sep = " ")
+DataframeTotal$lemma <- txt_recode_ngram(DataframeTotal$lemma,
+                                         "jardim botânico", 2, sep = " ")
+
+# Junta a expressão "jardim botânico". Dá para adaptar esse código para uma função
+# que junta quaisquer duas palavras
+
+#DataframeTotal <- subset(DataframeTotal, lemma != "") # Elimina tudo o que não tiver lema
+# Por alguma razão, a nova versão do R
+# exige que primeiro se faça isso antes de rodar
+# o loop for embaixo
+#for(n in 1:length(DataframeTotal$doc_id)){
+#  if(DataframeTotal$lemma[n] == "jardim" &&
+#    DataframeTotal$lemma[n+1] == "botânico"){
+#    DataframeTotal$lemma[n] <- paste(DataframeTotal$lemma[n], DataframeTotal$lemma[n+1], sep = " ")
+#    DataframeTotal$token[n] <- paste(DataframeTotal$token[n], DataframeTotal$token[n+1], sep = " ")
+#    DataframeTotal$orth[n] <- paste(DataframeTotal$orth[n], DataframeTotal$orth[n+1], sep = " ")
+#    DataframeTotal$lemma[n+1] <- ""
+#  }
+#}
 
 # Função para lematizar
 lematizar <- function(lema, wclass){
@@ -189,39 +221,6 @@ lematizar <- function(lema, wclass){
   }
   return(DataframeTotal)
 }
-
-# Junta a expressão "jardim botânico"
-# Funcionou com o txt_recode_ngram(), desde que eu preveja todas as formas variantes
-# das três colunas token, orth, lemma
-# O algoritmo embaixo funciona também, mas baseado só no lema
-
-DataframeTotal$token <- txt_recode_ngram(DataframeTotal$token,
-                                         c("jardim botânico", "jardim botanico", "jardins botanicos",
-                                           "JARDINS BOTANICOS", "JARDIM BOTANICO",
-                                           "Jardim Botanico", "Jardins Botanicos"), 2, sep = " ")
-DataframeTotal$orth <- txt_recode_ngram(DataframeTotal$orth,
-                                        c("jardim botânico", "jardins botânicos",
-                                          "JARDINS BOTÂNICOS", "JARDIM BOTÂNICO",
-                                          "Jardim Botânico", "Jardins Botânicos"), 2, sep = " ")
-DataframeTotal$lemma <- txt_recode_ngram(DataframeTotal$lemma,
-                                         "jardim botânico", 2, sep = " ")
-
-# Junta a expressão "jardim botânico". Dá para adaptar esse código para uma função
-# que junta quaisquer duas palavras
-
-#DataframeTotal <- subset(DataframeTotal, lemma != "") # Elimina tudo o que não tiver lema
-# Por alguma razão, a nova versão do R
-# exige que primeiro se faça isso antes de rodar
-# o loop for embaixo
-#for(n in 1:length(DataframeTotal$doc_id)){
-#  if(DataframeTotal$lemma[n] == "jardim" &&
-#     DataframeTotal$lemma[n+1] == "botânico"){
-#    DataframeTotal$lemma[n] <- paste(DataframeTotal$lemma[n], DataframeTotal$lemma[n+1], sep = " ")
-#    DataframeTotal$token[n] <- paste(DataframeTotal$token[n], DataframeTotal$token[n+1], sep = " ")
-#    DataframeTotal$orth[n] <- paste(DataframeTotal$orth[n], DataframeTotal$orth[n+1], sep = " ")
-#    DataframeTotal$lemma[n+1] <- ""
-#  }
-#}
 
 
 

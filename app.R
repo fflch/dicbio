@@ -168,9 +168,29 @@ server <- function(input, output, session) {
   
   
   EntryData <- reactive({
+
+# O if é para localizar as entradas quando a palavra digitada for variante
     
+    if(input$headword %in% data$Headword){
+      
     EntryData <- as.list(data[data$Headword==input$headword,])
     EntryData
+    
+    }else if(input$headword %in% LematizacaoDataFrame$Token){
+      
+    RealHeadword <- LematizacaoDataFrame$Lemma[LematizacaoDataFrame$Token
+                                               == input$headword]
+    EntryData <- as.list(data[data$Headword==RealHeadword,])
+    EntryData
+    
+    } else if(input$headword %in% LematizacaoDataFrame$Ortografia){
+    
+    RealHeadword <- LematizacaoDataFrame$Lemma[LematizacaoDataFrame$Ortografia
+                                                 == input$headword]
+    EntryData <- as.list(data[data$Headword==RealHeadword,])
+    EntryData  
+      
+    }
   })
   
   
@@ -186,7 +206,7 @@ server <- function(input, output, session) {
   output$Entry <- renderText({
     
 
-    paste0("<font size='+2'><b>", input$headword, "</font></b><br>"
+    paste0("<font size='+2'><b>", EntryData()$Headword, "</font></b><br>"
             , EntryData()$WClass
            )
     
@@ -196,12 +216,12 @@ server <- function(input, output, session) {
   output$Definition <- renderText({
 
     Definition <- NULL
-    for(c in 1:sum(definitions$Headword == input$headword)){
+    for(c in 1:sum(definitions$Headword == EntryData()$Headword)){
       
-      Definicao <- definitions$Definition[definitions$Headword == input$headword][c]
+      Definicao <- definitions$Definition[definitions$Headword == EntryData()$Headword][c]
       Definition[c] <- paste0(c, ". ", Definicao,
                               "<br><details><summary>Exemplos (<u>clique para expandir</u>)</summary><span style='font-size:.8em;'>",
-             paste(Contextos(input$headword, c), collapse = ""), "</span></details><br>")
+             paste(Contextos(EntryData()$Headword, c), collapse = ""), "</span></details><br>")
     }
     
     Definition
@@ -223,12 +243,13 @@ server <- function(input, output, session) {
 
     VariantSpellings <- EntryData()$VariantSpellings
     if (!is.na(VariantSpellings)){
-    paste0("<font color='steelblue'>",input$headword,
+    paste0("<font color='steelblue'>",EntryData()$Headword,
            "</font>, também grafado <font color='steelblue'>",
-           VariantSpellings ,"</font>, é atestado em <b>",
+           VariantSpellings,
+           "</font> (conferir os contextos), é atestado em <b>",
            FirstAttestationDate,"</b>: ", FirstAttestationExampleMD)
     }else{
-      paste0("<font color='steelblue'>",input$headword,
+      paste0("<font color='steelblue'>",EntryData()$Headword,
              "</font> é atestado em <b>",FirstAttestationDate,
              "</b>: ", FirstAttestationExampleMD)
       
@@ -264,7 +285,7 @@ server <- function(input, output, session) {
              EntryAuthors, "</p><hr><p style='font-size: .7em;'>Este verbete foi incluído em ",
              DateOfCreation, "</p><hr><p style='font-size: .7em;'><b>Como citar este verbete:</b><br>",
              AuthorInReference, ". ",
-             str_to_title(input$headword), ". In: MARONEZE, Bruno (coord.) 
+             str_to_title(EntryData()$Headword), ". In: MARONEZE, Bruno (coord.) 
            <b>Dicionário Histórico de Termos da Biologia</b>. 2022. Disponível em: 
            https://dicionariodebiologia.shinyapps.io/Dicio_Biologia. 
            Acesso em: ", format(Sys.Date(), "%d %b. %Y"), ".</p><hr>")
@@ -276,7 +297,7 @@ server <- function(input, output, session) {
              DateOfCreation, " e atualizado em ", DateOfUpdate, "</p><hr>",
              "<p style='font-size: .7em;'><b>Como citar este verbete:</b><br>",
              AuthorInReference, ". ",
-             str_to_title(input$headword), ". In: MARONEZE, Bruno (coord.) 
+             str_to_title(EntryData()$Headword), ". In: MARONEZE, Bruno (coord.) 
            <b>Dicionário Histórico de Termos da Biologia</b>. 2022. Disponível em: 
            https://dicionariodebiologia.shinyapps.io/Dicio_Biologia. 
            Acesso em: ", format(Sys.Date(), "%d %b. %Y"), ".</p><hr>")
