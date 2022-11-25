@@ -22,7 +22,7 @@ CorpusMetadata <- read.csv2("./data/CorpusTextsMetadata.csv",
 colnames(CorpusMetadata) <- c("Filename", "Author", "Title",
                               "DateOfPublication")
 
-# Cria uma função que retorna o dataframe de um arquvo txt
+# Cria uma função que retorna o dataframe de um arquivo txt
 
 CriaDataframeDados <- function(NomeDoArquivo){
   
@@ -323,6 +323,6 @@ DataframeTotal$sentence[DataframeTotal$sentence=="Abertura da <b>anthera</b> pel
                         & DataframeTotal$token_id==31] <-
   "Abertura da anthera pela qual sahe, ou se lança o pollen da sua cavidade, ou loculo, a qual está em hum lado da <b>anthera</b> no Leucojum; em muitas plantas tem as antheras esta abertura no apice Solanum; outras desde a (VANDELLI, Domingos, 1788)"
 
-write.csv2(DataframeTotal, file = "./data/DataframePrincipal.csv", fileEncoding = "UTF-8")
+write.csv(DataframeTotal, file = "./data/DataframePrincipal.csv", fileEncoding = "UTF-8")
 
 rm(i, lematizar, CriaDataframeDados, CorpusMetadata, DadosdoDicionario, DataframeTotal, LematizacaoDataFrame)

@@ -15,7 +15,11 @@ data <- read.csv("./data/DadosDoDicionario.csv", encoding = "UTF-8")
 definitions <- read.csv("./data/definitions.csv", encoding = "UTF-8")
 
 # Lê o córpus etiquetado
-TokTextDF <- read.csv2("./data/DataframePrincipal.csv", encoding = "UTF-8")
+TokTextDF <- read.csv("./data/DataframePrincipal.csv", encoding = "UTF-8")
+
+# Abre o arquivo de lemas
+LematizacaoDataFrame <- read.csv("./data/OrtografiaLematizacao.csv",
+                                 encoding = "UTF-8")
 
 # Lê os metadados do córpus
 CorpusMetadata <- read.csv2("./data/CorpusTextsMetadata.csv", encoding = "UTF-8")
@@ -36,7 +40,50 @@ Contextos <- function(InputConsulta, SenseNumber){
   return(ContextosTextoFormatados)
 }
 
-# Criar uma função que retorna as formas variantes da entrada
+# Acrescenta variantes gráficas
+
+#lê o lema
+#se o token for diferente da ortografia, então inclui o token e a classe
+#gramatical numa coluna extra
+#Junta todos os tokens variantes do mesmo lema num só e inclui nos dados
+
+IncluirVariantes <- function(Token, Ortografia, FormaFlex){
+  if(Token != Ortografia){
+    
+    Variantes <- paste0(Token, " (", FormaFlex, ")")
+    
+  }else{ Variantes <- NA }
+  
+}
+
+for(n in 1:length(LematizacaoDataFrame$Token)){
+  
+  LematizacaoDataFrame$Variantes[n] <- 
+    IncluirVariantes(LematizacaoDataFrame$Token[n],
+                     LematizacaoDataFrame$Ortografia[n],
+                     LematizacaoDataFrame$InflForm[n])
+  
+}
+
+for(i in 1:length(data$Headword)){
+  
+  if(data$Headword[i] %in% LematizacaoDataFrame$Lemma){
+    
+    data$VariantSpellings[i] <-
+      sub(", NA$", "", 
+          paste(LematizacaoDataFrame$Variantes[LematizacaoDataFrame$Lemma
+                                               == data$Headword[i]],
+                collapse = ", "))
+  }
+}
+
+data$VariantSpellings <- sub("NA, ", "", data$VariantSpellings)
+data$VariantSpellings[data$VariantSpellings == "NA"] <- NA
+
+# Cria uma lista com todas as variantes e lemas
+listatotal <- sort(unique(c(LematizacaoDataFrame$Token,
+                             LematizacaoDataFrame$Ortografia,
+                             LematizacaoDataFrame$Lemma, data$Headword)))
 
 ui <- fluidPage(
   navbarPage(id="Dict", title=HTML("Dicionário Histórico de Termos da Biologia"), # Dá para fazer
@@ -68,14 +115,21 @@ ui <- fluidPage(
              tabPanel(id="Portuguese Search", "Consulta", fluid = TRUE,  
                       
                       sidebarLayout(sidebarPanel(width = 3,
+#                                                 selectInput(inputId = "headword",
+#                                                           label = "Digite a entrada",
+#                                                           choices = listatotal,
+#                                                           selected = NULL,
+#                                                           multiple = FALSE,
+#                                                           selectize = TRUE),
+                                                            
                                                  selectInput(inputId = "headword",
                                                              list(label = "Selecione uma entrada "),
                                                              choices = c(sort(as.character(data$Headword))), 
                                                              selected = "antera",
                                                              multiple = FALSE,
                                                              size = 10,
-                                                             selectize = FALSE)
-                                                 ),
+                                                             selectize = FALSE),
+                                                ),
                                     mainPanel(width = 9,
                                               fluidRow(
                                               column(8, 
@@ -166,11 +220,17 @@ server <- function(input, output, session) {
     
     FirstAttestationDate <- EntryData()$FirstAttestationDate
     FirstAttestationExampleMD <- EntryData()$FirstAttestationExampleMD
+
     VariantSpellings <- EntryData()$VariantSpellings
     if (!is.na(VariantSpellings)){
-    paste0("<font color='steelblue'>",input$headword ,"</font>, também grafado <font color='steelblue'>", VariantSpellings ,"</font>, é atestado em <b>",FirstAttestationDate,"</b>: ", FirstAttestationExampleMD)
+    paste0("<font color='steelblue'>",input$headword,
+           "</font>, também grafado <font color='steelblue'>",
+           VariantSpellings ,"</font>, é atestado em <b>",
+           FirstAttestationDate,"</b>: ", FirstAttestationExampleMD)
     }else{
-      paste0("<font color='steelblue'>",input$headword ,"</font> é atestado em <b>",FirstAttestationDate,"</b>: ", FirstAttestationExampleMD)
+      paste0("<font color='steelblue'>",input$headword,
+             "</font> é atestado em <b>",FirstAttestationDate,
+             "</b>: ", FirstAttestationExampleMD)
       
     }
   }) 
