@@ -2,6 +2,7 @@ Token,Ortografia,Lemma,InflForm
 anthera,antera,antera,singular
 antheras,anteras,antera,plural
 anteras,anteras,antera,plural
+anthéras,anteras,antera,plural
 bifidos,bífidos,bífido,masculino plural
 bifida,bífida,bífido,feminino singular
 bifidas,bífidas,bífido,feminino plural
@@ -148,3 +149,5 @@ insectos,insetos,inseto,plural
 jardins,jardins,jardim,plural
 botanico,botânico,botânico,masculino singular
 botanicos,botânicos,botânico,masculino plural
+pericarpos,pericarpos,pericarpo,plural
+pericarpio,pericarpo,pericarpo,singular
