@@ -11,14 +11,14 @@ import django
 # e o adiciona ao caminho de busca de módulos do Python.
 # Este script está em 'web/scripts/check_missing_verbetes.py'
 # project_root = Path(__file__).resolve().parent.parent aponta para 'web/'
-project_root = Path(__file__).resolve().parent.parent 
+project_root = Path(__file__).resolve().parent.parent
 sys.path.append(str(project_root)) # Adiciona 'web/' ao sys.path
 
 # --- Configuração do Ambiente Django ---
 # Você precisa configurar o ambiente Django para que o script possa acessar seus modelos.
-# Altere 'dicionario_web.settings' para o caminho do seu arquivo settings.py
+# Altere 'dicbio.settings' para o caminho do seu arquivo settings.py
 # Ex: 'seu_projeto.settings'
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dicionario_web.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dicbio.settings')
 django.setup()
 
 # --- Importação dos Modelos Django ---
@@ -38,7 +38,7 @@ def check_missing_verbetes():
     df = pd.read_csv(TERMOS_EXTRAIDOS_CSV_PATH)
 
     missing_verbetes = []
-    
+
     # Dicionário para armazenar os termos de verbetes existentes, para consultas rápidas
     # Carregamos todos os termos do banco de dados uma vez para evitar N consultas ao DB no loop
     existing_verbetes_terms = set(Verbete.objects.values_list('termo', flat=True))
@@ -46,7 +46,7 @@ def check_missing_verbetes():
     print(f"Verificando {len(df)} ocorrências no CSV...")
     for index, row in df.iterrows():
         headword_csv = str(row['Headword']).strip() # O termo que deveria ser um Verbete
-        
+
         # Opcional: Para depuração, se quiser ver cada termo verificado
         # print(f"Verificando linha {index+2}: Headword='{headword_csv}'") # +2 para contar header e 0-index
 

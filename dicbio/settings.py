@@ -1,5 +1,5 @@
 """
-Django settings for dicionario_web project.
+Django settings for dicbio project.
 """
 
 from pathlib import Path
@@ -62,7 +62,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'dicionario_web.urls'
+ROOT_URLCONF = 'dicbio.urls'
 
 TEMPLATES = [
     {
@@ -84,7 +84,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'dicionario_web.wsgi.application'
+WSGI_APPLICATION = 'dicbio.wsgi.application'
 
 
 # --- CONFIGURAÇÃO DO BANCO DE DADOS (DINÂMICA) ---
