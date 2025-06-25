@@ -141,8 +141,13 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS = [
     BASE_DIR / 'static',
 ]
-# Em produção, você também precisará desta configuração:
-STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+if DJANGO_ENV == 'production':
+    # Em produção, você também precisará desta configuração:
+    STATIC_ROOT = BASE_DIR / 'staticfiles'
+else:
+    # Em desenvolvimento, o Django serve os arquivos estáticos diretamente
+    STATIC_ROOT = None
 
 
 # Default primary key field type
