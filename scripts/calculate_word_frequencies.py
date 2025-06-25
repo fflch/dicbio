@@ -11,7 +11,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent 
 
 DATA_DIR = PROJECT_ROOT / 'data'
-INPUT_CSV_NAME = 'temporalidade_palavras_com_lemas.csv' # O CSV gerado pelo script anterior
+INPUT_CSV_NAME = 'temporalidade_palavras_pt_apenas.csv' # O CSV gerado pelo script anterior
 OUTPUT_CSV_NAME = 'frequencia_palavras_total.csv'
 OUTPUT_CSV_BY_DATE_NAME = 'frequencia_palavras_por_data.csv'
 

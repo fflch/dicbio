@@ -23,5 +23,5 @@ db.sqlite3
 venv/
 staticfiles/
 media/
-data/temporalidade_palavras_com_lemas.csv
+data/temporalidade_palavras_pt_apenas.csv
 nltk_data_storage/

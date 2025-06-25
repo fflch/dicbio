@@ -59,7 +59,7 @@
 				<byline>Por <docAuthor>FELIX AVELLAR BROTERO</docAuthor>. TOMO PRIMEIRO.</byline>
 				<epigraph>
 					<p>
-						<foreign xml:lang="lat">Perfectio Botanices ab individuorum singulorum inter
+						<foreign xml:lang="la">Perfectio Botanices ab individuorum singulorum inter
 							se affinium, eorumque identicorum characterum notitiâ essentialiter
 							pendet. Necker. Physiol. Muscor.</foreign>
 					</p>
@@ -256,7 +256,7 @@
 							>arvores</term>, e usando das <term lemma="folha" msd="plural"
 							>folhas</term> de hum vegetal por primeiro vestido; ella nos declara
 						expressamente que esta sorte de alimentos fora a so indicada pelo Eterno ao
-						primeiro par da especie humana <note>
+						primeiro par da especie humana <note xml:lang="la">
 							<p>Dixitque Deus: ecce dedi vobis omnem herbam afferentem semen super
 								terram &amp; universa ligna, quæ habent in semetipsis sementem
 								generis sui ut sint vobis in escam. (Genes. Cap. I.) Et comedes
@@ -267,8 +267,9 @@
 								<s>Naõ achamos no Genesis hum so lugar expresso de que os homens
 									usassem de alimentos animaes nos seculos antediluvianos; esta
 									permissaõ so lhes foy dada depois de Noé ter sahido da Arca,
-									quando Deos lhe disse: Et omne quod movetur, &amp; vivit erit
-									vobis in cibum: quasi olera virentia tradidi vobis omnia.</s>
+									quando Deos lhe disse: <foreign xml:lang="la">Et omne quod
+										movetur, &amp; vivit erit vobis in cibum: quasi olera
+										virentia tradidi vobis omnia</foreign>.</s>
 								<s>Alguns autores contudo pensaõ que tendo o homem sido formado naõ
 									menos herbivoro do que carnivoro, como se collige da suta
 									estructura maxillar, o uso simples de alimentos vegetaes naõ
