@@ -142,7 +142,7 @@ STATICFILES_DIRS = [
     BASE_DIR / 'static',
 ]
 # Em produção, você também precisará desta configuração:
-# STATIC_ROOT = BASE_DIR / 'staticfiles'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
 
 
 # Default primary key field type
