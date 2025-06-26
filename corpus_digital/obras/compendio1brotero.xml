@@ -41,6 +41,12 @@
 						<att>facs</att> com o endereço URL do arquivo da imagem correspondente à
 					página em questão.</p>
 			</editorialDecl>
+			<charDecl>
+				<char xml:id="turn">
+					<mapping type="unicode">U+1D197</mapping>
+					<desc>Símbolo musical de "volta" ("turn").</desc>
+				</char>
+			</charDecl>
 			<projectDesc>
 				<p>Este arquivo foi produzido para uso no projeto "Dicionário Histórico de Termos da
 					Biologia", acessível pelo site https://dicbio.fflch.usp.br/.</p>
@@ -3506,8 +3512,8 @@
 					<p>Reclinado (reclinatus, declinatus, inclinatus), quando levantando-se
 						primeiramente hum tanto de es guelha começa a descahir para a terra,
 						prolongando-se em arco, ou formando huma curva assaz aberta; mas a sua ponta
-						fica levantada de maneira que figura quasi hum postrado 𝆗 (convolvulus
-						tricolor, potentilla aurea).</p>
+						fica levantada de maneira que figura quasi hum postrado <g ref="#turn"/>
+						(convolvulus tricolor, potentilla aurea).</p>
 					<p>Incurvado (incurvatus, inflexus), quando se levanta direito e arquea na parte
 						superior (juncus inflexus).</p>
 					<p>Acenoso (nutans), quando tem a ponta dobrada para baxo, ou dependurada
