@@ -81,7 +81,7 @@ def substituir_tags_inadequadas(element, ns_tei_url_sem_chaves):
 
 # Função principal de conversão TEI para HTML
 def converter_tei_para_html_para_comando(tree):
-    ns_map = {'tei': 'http://www.tei-c.org/ns/1.0'}
+    ns_map = {'tei': 'http://www.tei-c.org/ns/1.0', 'xml': 'http://www.w3.org/XML/1998/namespace'} # Adicionado namespace xml
     tei_ns_url = 'http://www.tei-c.org/ns/1.0'
 
     text_element = tree.find('.//tei:text', namespaces=ns_map)
@@ -89,40 +89,85 @@ def converter_tei_para_html_para_comando(tree):
     if text_element is None:
         return "<p>(Sem conteúdo na seção TEI <text>)</p>"
 
-    # 1. Transformar tei:term em <a>
+    # 1. Transformar tei:term em <a> (e adicionar data-lemma)
     for term_el in text_element.xpath('.//tei:term', namespaces=ns_map):
         lemma = term_el.get('lemma') or (term_el.text or '').strip()
-        slug = slugify(lemma)
-        token = term_el.text or lemma
+        slug_do_lemma = slugify(lemma)
+        token_superficie = term_el.text or lemma
 
         term_el.tag = 'a'
         try:
-            url_consulta = reverse('verbetes:detalhe', args=[slug])
+            url_consulta = reverse('verbetes:detalhe', args=[slug_do_lemma])
             term_el.set('href', url_consulta)
         except Exception as e:
-            print(f"AVISO: Falha ao gerar URL para o termo '{lemma}' (slug: '{slug}'). Erro: {e}. Usando caminho relativo hardcoded.")
-            term_el.set('href', f"/consulta/{slug}/")
+            # print(f"AVISO: Falha ao gerar URL para o termo '{lemma}' (slug: '{slug_do_lemma}'). Erro: {e}.")
+            term_el.set('href', f"/verbetes/{slug_do_lemma}/")
 
-        term_el.text = token
+        term_el.text = token_superficie
+        if lemma:
+            term_el.set('data-lemma', lemma)
+
+        # Limpar atributos TEI específicos de tei:term
+        tei_term_attrs_to_remove = ['lemma', 'norm', 'msd', 'senseNumber', 'type', 'ana', 'corresp', 'ref']
         for attr_name in list(term_el.attrib.keys()):
-            if attr_name not in ['href', 'class', 'id', 'style', 'title']:
-                if attr_name in ['lemma', 'norm', 'msd', 'senseNumber', 'type', 'ana', 'corresp', 'ref']:
-                    del term_el.attrib[attr_name]
+            if attr_name in tei_term_attrs_to_remove:
+                del term_el.attrib[attr_name]
 
-
-    # 2. Chamar a função para substituir/modificar outras tags TEI
-    # Esta função agora opera em todo o <text> e processa titlePage, pb, s, note
+    # 2. Chamar a função para substituir/modificar outras tags TEI (pb, titlePage, s, note)
+    # Esta função opera em todo o <text>
     substituir_tags_inadequadas(text_element, tei_ns_url)
 
+    # --- NOVO PASSO: Adicionar classe para elementos com xml:lang="la" ---
+    # XPath para encontrar qualquer elemento (*) com o atributo xml:lang igual a "la"
+    # O namespace 'xml' é predefinido em lxml e geralmente não precisa ser declarado no ns_map para @xml:lang,
+    # mas é uma boa prática incluí-lo para clareza e robustez.
+    # No entanto, lxml pode tratar @xml:lang diretamente. Vamos testar.
+    # Se xpath com @xml:lang não funcionar, usaremos .get('{http://www.w3.org/XML/1998/namespace}lang')
+    
+    # Tentativa 1: XPath direto (mais limpo se funcionar)
+    # Nota: O namespace 'xml' é 'http://www.w3.org/XML/1998/namespace'
+    # elementos_latinos = text_element.xpath(".//*[@xml:lang='la']", namespaces=ns_map)
+    
+    # Tentativa 2: Iterar e verificar o atributo com namespace (mais robusto)
+    # O namespace para xml:lang é '{http://www.w3.org/XML/1998/namespace}lang'
+    xml_lang_attr_qname = etree.QName(ns_map['xml'], 'lang') # Forma correta de obter o nome qualificado
 
-    # 3. Limpeza final de namespaces
+    for el_latim in text_element.xpath(".//*[attribute::*[local-name()='lang' and namespace-uri()='http://www.w3.org/XML/1998/namespace'] = 'la']", namespaces=ns_map):
+    # Alternativa mais simples se a de cima for complexa de ler: iterar e checar
+    # for el_latim in text_element.iter('*'):
+    #    if el_latim.get(xml_lang_attr_qname) == 'la':
+        
+        # Adiciona a classe CSS
+        classes_existentes = el_latim.get('class')
+        if classes_existentes:
+            if 'texto-latim' not in classes_existentes.split():
+                el_latim.set('class', classes_existentes + ' texto-latim')
+        else:
+            el_latim.set('class', 'texto-latim')
+        
+        # Opcional: transferir xml:lang para lang no HTML ou remover xml:lang
+        # Para manter o atributo lang no HTML:
+        el_latim.set('lang', 'la') # Adiciona o atributo lang="la" padrão do HTML
+        if xml_lang_attr_qname in el_latim.attrib:
+             del el_latim.attrib[xml_lang_attr_qname] # Remove o xml:lang original
+    # --------------------------------------------------------------------
+
+    # 3. Limpeza final de namespaces TEI (manter namespaces de outros como HTML 'lang')
     for el in text_element.iter('*'):
-        if '}' in el.tag:
+        # Remover namespace TEI da tag
+        if el.tag.startswith(f'{{{tei_ns_url}}}'):
             el.tag = el.tag.split('}', 1)[1]
-        for attr_name_ns in list(el.attrib.keys()):
-            if '}' in attr_name_ns:
-                local_attr_name = attr_name_ns.split('}', 1)[1]
-                el.attrib[local_attr_name] = el.attrib.pop(attr_name_ns)
+        
+        # Remover atributos com namespace TEI
+        # Mas preservar atributos de outros namespaces como o 'xml' (que se torna 'lang' no HTML)
+        # ou atributos sem namespace (como 'class', 'id', 'href', 'data-lemma', 'lang' que acabamos de adicionar)
+        for attr_qname_str in list(el.attrib.keys()):
+            if attr_qname_str.startswith(f'{{{tei_ns_url}}}'): # Se for um atributo TEI
+                del el.attrib[attr_qname_str]
+            # Se for um atributo xml:*, como xml:id, e você quiser mantê-lo como id,
+            # uma lógica similar à de xml:lang pode ser necessária.
+            # Por agora, o xml:lang foi tratado acima e convertido para 'lang'.
+
 
     html_string = etree.tostring(text_element, method='html', encoding='unicode', pretty_print=True)
     return html_string
