@@ -33,3 +33,7 @@
     color: #555; /* Opcional: cor do texto para notas */
     /* Você pode adicionar um estilo de fonte diferente aqui se quiser */
 }
+
+.texto-latim {
+    font-style: italic;
+}

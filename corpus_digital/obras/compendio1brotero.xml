@@ -59,7 +59,7 @@
 				<byline>Por <docAuthor>FELIX AVELLAR BROTERO</docAuthor>. TOMO PRIMEIRO.</byline>
 				<epigraph>
 					<p>
-						<foreign xml:lang="lat">Perfectio Botanices ab individuorum singulorum inter
+						<foreign xml:lang="la">Perfectio Botanices ab individuorum singulorum inter
 							se affinium, eorumque identicorum characterum notitiâ essentialiter
 							pendet. Necker. Physiol. Muscor.</foreign>
 					</p>
@@ -256,7 +256,7 @@
 							>arvores</term>, e usando das <term lemma="folha" msd="plural"
 							>folhas</term> de hum vegetal por primeiro vestido; ella nos declara
 						expressamente que esta sorte de alimentos fora a so indicada pelo Eterno ao
-						primeiro par da especie humana <note>
+						primeiro par da especie humana <note xml:lang="la">
 							<p>Dixitque Deus: ecce dedi vobis omnem herbam afferentem semen super
 								terram &amp; universa ligna, quæ habent in semetipsis sementem
 								generis sui ut sint vobis in escam. (Genes. Cap. I.) Et comedes
@@ -267,8 +267,9 @@
 								<s>Naõ achamos no Genesis hum so lugar expresso de que os homens
 									usassem de alimentos animaes nos seculos antediluvianos; esta
 									permissaõ so lhes foy dada depois de Noé ter sahido da Arca,
-									quando Deos lhe disse: Et omne quod movetur, &amp; vivit erit
-									vobis in cibum: quasi olera virentia tradidi vobis omnia.</s>
+									quando Deos lhe disse: <foreign xml:lang="la">Et omne quod
+										movetur, &amp; vivit erit vobis in cibum: quasi olera
+										virentia tradidi vobis omnia</foreign>.</s>
 								<s>Alguns autores contudo pensaõ que tendo o homem sido formado naõ
 									menos herbivoro do que carnivoro, como se collige da suta
 									estructura maxillar, o uso simples de alimentos vegetaes naõ
@@ -1728,26 +1729,28 @@
 							caracteres dos generos do seu Methodo. Adanson nas suas familias de
 							plantas naõ estabeleceo caracter algum generico puramente na
 							fructificaçaõ, e advertio que o mesmo, que Linneo tinha dicto de
-							Tournefort "Tournefortianis nihil detraho meritis optimis, nego tamen
-							ejus characteres perfectos esse, nego ex iis destingui posse genera" se
-							lhe podia adequadamente applicar relativamente a huma grande parte dos
-							seus generos; porquanto os caracteres de muitos delles, principalmente
-							dos exoticos, eraõ muito defeituosos, de maneira que os viajantes naõ
-							podiaõ nelles confiar, e que elles algumas vezes o teriaõ conduzido na
-							sua viagem do Senegal a tomar humas plantas por outras, se naõ se
-							tivesse servido dos destinctivos das folhas, disposiçaõ das flores,
-							&amp;c. Haller taõbem admittio entre as notas genericas as do habito
-							externo, e chegou ainda mesmo a dizer, que Linneo as tinha seguido na
-							praxe, a pezar dos principios que tinha estabelecido: Id tamen
-							fundamentum jeci, cui soli Methodus naturalis potest superstrui, ut
-							vicinae sint stirpes, quae notis plurimis sibi similes sunt, etiam si
-							aliquâ quam longissime differant, eae plantae sint dissimiles, quae
-							plurimis notis diversae sunt, etiam si unâ notâ quam vicinissimae
-							fuerint. Neglectus hujus axiomatis Methodos non naturales genuit. Inter
-							notas habitum posui, quem excludit quidem ex legibus Linnaeus in praxi
-							vero ubique revocat, suisque legibus praefert, exemplo Convalartae,
-							Tussilaginis, &amp;c. (Hal. Stirp. Helv. praef. p. 14.</note>.</s>
-					Muitos desapprovaram tambem a demasiada confiança <pb n="l"
+							Tournefort "<foreign xml:lang="la">Tournefortianis nihil detraho meritis
+								optimis, nego tamen ejus characteres perfectos esse, nego ex iis
+								destingui posse genera</foreign>" se lhe podia adequadamente
+							applicar relativamente a huma grande parte dos seus generos; porquanto
+							os caracteres de muitos delles, principalmente dos exoticos, eraõ muito
+							defeituosos, de maneira que os viajantes naõ podiaõ nelles confiar, e
+							que elles algumas vezes o teriaõ conduzido na sua viagem do Senegal a
+							tomar humas plantas por outras, se naõ se tivesse servido dos
+							destinctivos das folhas, disposiçaõ das flores, &amp;c. Haller taõbem
+							admittio entre as notas genericas as do habito externo, e chegou ainda
+							mesmo a dizer, que Linneo as tinha seguido na praxe, a pezar dos
+							principios que tinha estabelecido: <foreign xml:lang="la">Id tamen
+								fundamentum jeci, cui soli Methodus naturalis potest superstrui, ut
+								vicinae sint stirpes, quae notis plurimis sibi similes sunt, etiam
+								si aliquâ quam longissime differant, eae plantae sint dissimiles,
+								quae plurimis notis diversae sunt, etiam si unâ notâ quam
+								vicinissimae fuerint. Neglectus hujus axiomatis Methodos non
+								naturales genuit. Inter notas habitum posui, quem excludit quidem ex
+								legibus Linnaeus in praxi vero ubique revocat, suisque legibus
+								praefert, exemplo Convalartae, Tussilaginis, &amp;c.</foreign> (Hal.
+							Stirp. Helv. praef. p. 14.).</note>.</s> Muitos desapprovaram tambem a
+					demasiada confiança <pb n="l"
 						facs="https://digitalis-dsp.uc.pt/botanica/UCFCTBt-B-78-1-15_2/UCFCTBt-B-78-1-15_2_item1/UCFCTBt-B-78-1-15/UCFCTBt-B-78-1-15_item1/UCFCTBt-B-78-1-15_JPG/UCFCTBt-B-78-1-15_JPG_24-C-R0120/UCFCTBt-B-78-1-15_0054_L_t24-C-R0120.jpg"
 					/> que elle poz nos caractéres dos seus generos athe chegar a dizer que todos
 					elles eram naturaes, e proprios para servirem em todos os Methodos possiveis.
@@ -1921,15 +1924,15 @@
 						subdivididas em 77 secçoens fundadas nas partes da fructificaçam, disposiçam
 						das flores e sua imperfeiçam, e em fim na substancia e disposiçam das
 						folhas.</s>
-					<s>Este Methodo nam me parece corresponder às grandes ideas <note>Hinc patet,
-							cur nullis a quocunque demum autore datis principiis adhaserim, sed
-							solis naturae legibus adstrictus.... Unde factum est, ut classes, quas
-							ante me pauci dederant, naturales servaverim, plures introduxerim, et
-							reliquas seorsim exhibuerim. Pr. Florae Leid. </note>, que o seu autor
-						delle formou, nem aos elogios que delle fizeram os dois Gmelins, que o
-						seguiram; as suas divisoens tem caracteres demasiadamente curtos e
-						improprios do Methodo natural, e alem disso nam comprehendem mais familias
-						naturaes, do que dantes se conheciam.</s>
+					<s>Este Methodo nam me parece corresponder às grandes ideas <note xml:lang="la"
+							>Hinc patet, cur nullis a quocunque demum autore datis principiis
+							adhaserim, sed solis naturae legibus adstrictus.... Unde factum est, ut
+							classes, quas ante me pauci dederant, naturales servaverim, plures
+							introduxerim, et reliquas seorsim exhibuerim. Pr. Florae Leid.</note>,
+						que o seu autor delle formou, nem aos elogios que delle fizeram os dois
+						Gmelins, que o seguiram; as suas divisoens tem caracteres demasiadamente
+						curtos e improprios do Methodo natural, e alem disso nam comprehendem mais
+						familias naturaes, do que dantes se conheciam.</s>
 				</p>
 				<p>
 					<s>Alberto Hailer, na sua Enumeraçam das plantas da Suissa impressa em 1742, e
@@ -1940,15 +1943,16 @@
 							taõbem decifrar hum maior numero; ellas sam com effeito difficeis de bem
 							se destinguirem, por se encadearem de ordinario estreitamente com as
 							subdivisoens subalternas, segundo o plano, que o seu Autor se tinha
-							proposto, e que elle seguio o mais que lhe foy possivel. Ego, qui non
-							universalem stirpium Historiam molior, non tenebar perfectam dare
-							generum distributionem. Sufficere credidi, si quamlibet familiam inter
-							duas familias disponerem, à quibus proximè distat et difficiliùs
-							distinguitur. Detegent fortè hoc meum studium gnari, in graminibus, in
-							transitionibus, quibus classes conjunguntur &amp;c... id ubique non
-							obtinui, neque fortè licet, cùm affinitates naturales mihi non simplices
-							esse videantur, sed ab uno genere ad alia muita ex diversis notis
-							perinde possit legitimè transire. (Hall. Pr. Stirp. Helvet.</note>
+							proposto, e que elle seguio o mais que lhe foy possivel. <foreign
+								xml:lang="la">Ego, qui non universalem stirpium Historiam molior,
+								non tenebar perfectam dare generum distributionem. Sufficere
+								credidi, si quamlibet familiam inter duas familias disponerem, à
+								quibus proximè distat et difficiliùs distinguitur. Detegent fortè
+								hoc meum studium gnari, in graminibus, in transitionibus, quibus
+								classes conjunguntur &amp;c... id ubique non obtinui, neque fortè
+								licet, cùm affinitates naturales mihi non simplices esse videantur,
+								sed ab uno genere ad alia muita ex diversis notis perinde possit
+								legitimè transire.</foreign> (Hall. Pr. Stirp. Helvet.</note>
 						fundadas no numero das cotyledones e partes da <pb n="lvi"
 							facs="https://digitalis-dsp.uc.pt/botanica/UCFCTBt-B-78-1-15_2/UCFCTBt-B-78-1-15_2_item1/UCFCTBt-B-78-1-15/UCFCTBt-B-78-1-15_item1/UCFCTBt-B-78-1-15_JPG/UCFCTBt-B-78-1-15_JPG_24-C-R0120/UCFCTBt-B-78-1-15_0060_LVI_t24-C-R0120.jpg"
 						/> fructificaçam, e subdivididas em 42 Ordens estabelecidas na
@@ -2291,15 +2295,16 @@
 							conhecidas entre especies e variedades, e que cohecemos mais da metade
 							das plantas do globo terrestre. Linneo dizia que o numero das plantas de
 							todo o Globo era menos do que se pensava, e que segundo o seu calculo
-							ellas montavaõ quando muito a dez mil [numerum plantarum totius Orbis
-							longé pauciorem esse, quam vulgó creditur, satis certo calculo
-							intellexi, utpote qui vix ac ne vix 10,000 attingat] [Spec. Plant. ad.
-							Præf. edit 1754]: mas o seu calculo naõ tem a certeza que elle
-							pertendia; os Hervarios de Adanson, Jussieu, e Sloane contem 8 mil
-							especies, o de Vaillant nove mil, o de Sherard dez mil, e quantas mil
-							alem destas naõ contem os sertoẽs de Africa, Asia, e America, e outros
-							paizes da Terra aonde nenhum Botanico tem ainda penetrado? </note>, e
-						generos para descobrir, mas ainda <pb n="lxviii"
+							ellas montavaõ quando muito a dez mil [<foreign xml:lang="la">numerum
+								plantarum totius Orbis longé pauciorem esse, quam vulgó creditur,
+								satis certo calculo intellexi, utpote qui vix ac ne vix 10,000
+								attingat</foreign>] [Spec. Plant. ad. Præf. edit 1754]: mas o seu
+							calculo naõ tem a certeza que elle pertendia; os Hervarios de Adanson,
+							Jussieu, e Sloane contem 8 mil especies, o de Vaillant nove mil, o de
+							Sherard dez mil, e quantas mil alem destas naõ contem os sertoẽs de
+							Africa, Asia, e America, e outros paizes da Terra aonde nenhum Botanico
+							tem ainda penetrado? </note>, e generos para descobrir, mas ainda <pb
+							n="lxviii"
 							facs="https://digitalis-dsp.uc.pt/botanica/UCFCTBt-B-78-1-15_2/UCFCTBt-B-78-1-15_2_item1/UCFCTBt-B-78-1-15/UCFCTBt-B-78-1-15_item1/UCFCTBt-B-78-1-15_JPG/UCFCTBt-B-78-1-15_JPG_24-C-R0120/UCFCTBt-B-78-1-15_0072_LXVIII_t24-C-R0120.jpg"
 						/> tambem algumas Familias <note>
 							<s>Em todos os tres reinos de natureza ha formas tao particulares a
@@ -2398,12 +2403,13 @@
 								principaes variedades: este trabalho daria a Historia Natural hum
 								precioso Archivo, e contribuiria summamente para o seu
 								progresso.</s> M. Adanson, e outtos modernos criticaraõ com justo
-							motivo a Linneo de ter dicto (Gener. Piantar. 1743) icones pro
-							determinandis generibus non commendo, sed absolute rejicio, licet fateor
-							has magis gratas esse pueris, iisque, qui plus habent capitis quam
-							cerebri... ab iconibus enim quis potest unquam aliquid argumentum fixum
-							desumere; sed ab scriptis facillime; sendo notorio que o mesmo celebre
-							Botanico Sueco se servio das Estampas de Rheede, de Tournefort, Plumier,
+							motivo a Linneo de ter dicto (Gener. Piantar. 1743) <foreign
+								xml:lang="la">icones pro determinandis generibus non commendo, sed
+								absolute rejicio, licet fateor has magis gratas esse pueris, iisque,
+								qui plus habent capitis quam cerebri... ab iconibus enim quis potest
+								unquam aliquid argumentum fixum desumere; sed ab scriptis
+								facillime</foreign>; sendo notorio que o mesmo celebre Botanico
+							Sueco se servio das Estampas de Rheede, de Tournefort, Plumier,
 							Dillenio, Micheli &amp; outros para caracterizar alguns generos e
 							especies, nao deixou de ajuntar sempre huma Estampa às descripçoes das
 							plantas novas, que descobrio. He verdade, diz M. Adanson, que ha muitas
