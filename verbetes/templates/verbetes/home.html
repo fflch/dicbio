@@ -1,7 +1,22 @@
 {% extends 'base.html' %}
 {% load static %}
 {% load verbetes_extras %}
-{% block title %}{{ verbete.termo|default:"Consulta" }}{% endblock %}
+
+{% block title %}
+    {% if verbete %}
+        Etimologia e história de "{{ verbete.termo }}" - {{ block.super }}
+    {% else %}
+        Consulta de Verbetes - {{ block.super }}
+    {% endif %}
+{% endblock %}
+
+{% block meta_description %}
+    {% if verbete %}
+        Estude a história e a etimologia do termo "{{ verbete.termo }}". Veja sua evolução, definições e exemplos de uso em textos clássicos da Biologia.
+    {% else %}
+        Busque e explore a origem histórico-etimológica de centenas de termos da Biologia em nosso acervo.
+    {% endif %}
+{% endblock %}
 
 {% block extra_head_css %}
 <link rel="stylesheet" href="{% static 'verbetes/css/verbetes.css' %}">
@@ -215,5 +230,20 @@
         // Executa a função também ao redimensionar a janela (para lidar com rotação de celular, etc.)
         window.addEventListener('resize', toggleVerbeteView);
     });
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "{{ verbete.termo|escapejs }}",
+  "description": "{{ verbete.etimologia|striptags|truncatewords:40|escapejs }}",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Dicionário Histórico de Termos da Biologia",
+    "url": "{{ request.scheme }}://{{ request.get_host }}{% url 'verbetes:consulta' %}"
+  },
+  "url": "{{ request.build_absolute_uri }}"
+}
 </script>
 {% endblock %}
