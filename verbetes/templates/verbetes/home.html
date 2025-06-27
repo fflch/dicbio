@@ -184,17 +184,17 @@
             if (isMobileView) {
                 if (isVerbeteSelected) {
                     // Se um verbete está selecionado em tela pequena, mostra o conteúdo e esconde a lista
-                    listaVerbetesCol.classList.add('d-none'); // Bootstrap class para ocultar
-                    conteudoVerbeteCol.classList.remove('d-none');
+                    listaVerbetesCol.classList.add('visually-hidden-focusable'); // Classe para ocultar definida no CSS
+                    conteudoVerbeteCol.classList.remove('visually-hidden-focusable');
                 } else {
                     // Se NENHUM verbete está selecionado, mostra a lista e esconde a coluna de conteúdo
-                    listaVerbetesCol.classList.remove('d-none');
-                    conteudoVerbeteCol.classList.add('d-none');
+                    listaVerbetesCol.classList.remove('visually-hidden-focusable');
+                    conteudoVerbeteCol.classList.add('visually-hidden-focusable');
                 }
             } else {
                 // Em telas grandes (desktop), sempre mostra ambos
-                listaVerbetesCol.classList.remove('d-none');
-                conteudoVerbeteCol.classList.remove('d-none');
+                listaVerbetesCol.classList.remove('visually-hidden-focusable');
+                conteudoVerbeteCol.classList.remove('visually-hidden-focusable');
             }
         }
 
@@ -202,8 +202,8 @@
         if (btnVoltarLista) {
             btnVoltarLista.addEventListener('click', function () {
                 // Ao clicar em voltar, esconde o conteúdo e mostra a lista
-                conteudoVerbeteCol.classList.add('d-none');
-                listaVerbetesCol.classList.remove('d-none');
+                conteudoVerbeteCol.classList.add('visually-hidden-focusable');
+                listaVerbetesCol.classList.remove('visually-hidden-focusable');
                 // Opcional: remover o hash da URL para não recarregar o mesmo verbete se o usuário atualizar
                 // window.history.pushState("", document.title, window.location.pathname);
             });
