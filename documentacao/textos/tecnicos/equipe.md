@@ -4,6 +4,8 @@ autores: Bruno Maroneze
 ---
 
 # Equipe
+
+## Atual
 - **Bruno Oliveira Maroneze** (Professor Associado, Universidade Federal da Grande Dourados) - coordenação do projeto - desde 2017
 - **Sammara Valim Luz** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
 - **Ana Cristina Gouvêa Lopes** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
@@ -11,6 +13,11 @@ autores: Bruno Maroneze
 - **Sammara Valim Luz** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
 - **Guilherme Ferreira Mendes Vieira** (estudante de graduação, Universidade Federal da Grande Dourados) - desenho do *website*, programação do código e automação de tarefas - desde 2024
 - **Ana Luísa Rodrigues Lopes** (bolsista do PIBIC-Ensino Médio) - transcrição e preparação do córpus - desde 2024
+
+## Colaboradores eventuais
+- **Geovanna Salvino de Lima** (estudante de pós-graduação, Universidade Federal da Grande Dourados) - elaboração de verbetes
+
+## Antigos colaboradores
 - **Marimeire Almeida Barros** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - 2024
 - **Rodrigo Daniel Castiglioni Aguero** (Técnico de Informática, Universidade Federal da Grande Dourados) - desenho do *website* - 2023-2024
 - **Fabio Gustavo Mercado Urquieta** (estudante de graduação, Universidade Federal da Grande Dourados) - programação do código e automação de tarefas - 2023-2024
