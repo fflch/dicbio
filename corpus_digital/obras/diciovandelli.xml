@@ -1232,7 +1232,8 @@
           </entry>
           <entry>
             <form xml:lang="la">CARTILAGO.</form>
-            <sense>He uma substancia, que medéa entre a parte ossea, e tendinosa.</sense>
+            <sense>He uma substancia, que medéa entre a parte ossea, e <term lemma="tendinoso"
+                msd="feminino singular">tendinosa</term>.</sense>
           </entry>
           <entry>
             <form xml:lang="la">CARUNCULA.</form>
