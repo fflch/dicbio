@@ -1,10 +1,13 @@
+# verbetes/views.py
+
 from django.shortcuts import render, get_object_or_404, redirect
 from .models import Verbete, Definition, OcorrenciaCorpus
+from django.db.models import Prefetch, Q # Importar Q para buscas complexas
+from django.urls import reverse
 from collections import defaultdict
 from django.utils.timezone import now
 import unicodedata
-from django.urls import reverse
-from django.db.models import Prefetch
+from django.contrib import messages
 
 def remover_acentos(texto):
     return ''.join(
@@ -12,75 +15,44 @@ def remover_acentos(texto):
         if unicodedata.category(c) != 'Mn'
     ).lower()
 
+# A função verbete_detalhe permanece a mesma, pois já recebe o slug correto.
 def verbete_detalhe(request, slug):
+    # ... (código existente da sua função verbete_detalhe) ...
     verbete = get_object_or_404(Verbete, slug=slug)
-    # Prefetch das definições para otimizar, como antes
-    definicoes = Definition.objects.filter(verbete=verbete).order_by('sensenumber').prefetch_related(
-        # Prefetch das ocorrências ligadas a cada definição (se a definição tiver um related_name para ocorrencias)
-        # Se você precisa que 'o.definicao' seja carregado para acessar 'sensenumber' de forma otimizada
-        Prefetch('ocorrencias', queryset=OcorrenciaCorpus.objects.all(), to_attr='ocorrencias_carregadas')
+    # Prefetch otimizado
+    ocorrencias_prefetch = Prefetch(
+        'ocorrencias',
+        queryset=OcorrenciaCorpus.objects.select_related('definicao').order_by('data'),
+        to_attr='ocorrencias_carregadas'
     )
+    definicoes = Definition.objects.filter(verbete=verbete).order_by('sensenumber').prefetch_related(ocorrencias_prefetch)
 
-    # NOVO: Para otimizar a busca das ocorrências, especialmente se a definição não for encontrada
-    # Prefetch todas as ocorrências de uma vez, mas filtrando pelo verbete
-    ocorrencias = OcorrenciaCorpus.objects.filter(verbete=verbete).select_related('definicao') # Usa select_related para a definicao
-
+    # Processamento de exemplos... (o seu código atual aqui)
     exemplos_tmp = defaultdict(lambda: defaultdict(lambda: defaultdict(lambda: defaultdict(list))))
-
-    # Preencher estrutura com dados do banco
+    ocorrencias = OcorrenciaCorpus.objects.filter(verbete=verbete).select_related('definicao')
     for o in ocorrencias:
-        # PROBLEMA POTENCIAL AQUI: Se a definição estiver nula para a ocorrência, ou o.definicao.sensenumber não existir.
-        # Definicao pode ser None se definicao=models.ForeignKey(..., null=True, blank=True)
-        # E se o.definicao é None, o acesso o.definicao.sensenumber vai falhar.
-        sense = o.definicao.sensenumber if o.definicao else '0' # Trata o caso de definicao ser None
-
-        # Certifique-se que 'gram' e 'autor' não são strings vazias que causem problemas de chave
-        gram = o.gram.strip() or 'N/A' # Fallback se gram for vazio
-        autor = o.autor.strip().upper() or 'N/A' # Fallback se autor for vazio
-        token_ocorrencia = o.token.strip() # Pega o token da ocorrência
-
+        sense = o.definicao.sensenumber if o.definicao else '0'
+        gram = o.gram.strip() or 'N/A'
+        autor = o.autor.strip().upper() or 'N/A'
+        token_ocorrencia = o.token.strip()
         exemplo = {
-           'token': o.token,
-            'gram': gram,
-            'frase': o.frase, # NOME DA CHAVE NO MODELO E NO CSV É 'frase', NÃO 'sentence'
-            'autor': autor,
-            'data': o.data,
-            'titulo_obra': o.titulo_obra,
-            'slug_obra': o.slug_obra,
-            'pagina_obra': o.pagina_obra,
+           'token': o.token, 'gram': gram, 'frase': o.frase, 'autor': autor,
+           'data': o.data, 'titulo_obra': o.titulo_obra, 'slug_obra': o.slug_obra,
+           'pagina_obra': o.pagina_obra,
         }
-
-        # --- MUDANÇA AQUI: Acessando o 'grupo' agora por token também ---
-        # A ordem das chaves define a hierarquia no dicionário
         grupo = exemplos_tmp[str(sense)][token_ocorrencia][gram][autor]
-        # --- FIM DA MUDANÇA ---
-
-        # Substitui o exemplo anterior se este for mais adequado (lógica existente)
-        tam = len(o.frase) # Usa 'o.frase'
+        tam = len(o.frase)
         if 100 <= tam <= 300:
             grupo.insert(0, exemplo)
         else:
             grupo.append(exemplo)
-
-
-    # Agora convertemos exemplos_tmp para dict normal (para o template)
-    # Precisa refletir a nova hierarquia: sentido -> token -> gramática -> autor
-    exemplos_por_sense = {
-        sense: {
-            token_val: { # Nova camada para o token
-                gram: dict(autores)
-                for gram, autores in gram_dict.items()
-            }
-            for token_val, gram_dict in token_dict.items() # Itera na camada de token
-        }
-        for sense, token_dict in exemplos_tmp.items() # Itera na camada de sentido
-    }
+            
+    exemplos_por_sense = { sense: { token_val: { gram: dict(autores) for gram, autores in gram_dict.items() } for token_val, gram_dict in token_dict.items() } for sense, token_dict in exemplos_tmp.items() }
 
     lista_verbetes = sorted(
         Verbete.objects.all(),
         key=lambda v: remover_acentos(v.termo)
     )
-
     context = {
         'verbete': verbete,
         'definicoes': definicoes,
@@ -91,31 +63,49 @@ def verbete_detalhe(request, slug):
     return render(request, 'verbetes/home.html', context)
 
 
+# A função 'home' é a que lida com a busca inicial
 def home(request):
     termo_busca = request.GET.get('q', '').strip()
     lista_verbetes = sorted(
         Verbete.objects.all(),
         key=lambda v: remover_acentos(v.termo)
     )
+    
+    # Contexto padrão
+    context = {
+        'lista_verbetes': lista_verbetes,
+        'verbete': None,
+        'definicoes': [],
+        'exemplos_por_sense': {},
+        'mensagem_busca': None,
+        'termo_busca': termo_busca, # Passar o termo buscado de volta para o template
+    }
 
     if termo_busca:
-        try:
-            verbete = Verbete.objects.get(termo__iexact=termo_busca)
-            return redirect('verbetes:detalhe', slug=verbete.slug)
-        except Verbete.DoesNotExist:
-            verbete = None
-            mensagem_busca = f"Nenhum verbete encontrado para '{termo_busca}'."
-            definicoes = []
-            exemplos_por_sense = {}
-    else:
-        verbete = None
-        definicoes = []
-        exemplos_por_sense = {}
+        # Passo 1: Tentar encontrar uma correspondência exata (case-insensitive) no termo do verbete.
+        verbete_encontrado = Verbete.objects.filter(termo__iexact=termo_busca).first()
 
-    return render(request, 'verbetes/home.html', {
-        'verbete': verbete,
-        'definicoes': definicoes,
-        'exemplos_por_sense': exemplos_por_sense,
-        'lista_verbetes': lista_verbetes,
-        'mensagem_busca': mensagem_busca if 'mensagem_busca' in locals() else None,
-    })
+        if verbete_encontrado:
+            # Se encontrou um verbete principal, redireciona para a página de detalhe dele.
+            return redirect('verbetes:detalhe', slug=verbete_encontrado.slug)
+        
+        # Passo 2: Se não encontrou no verbete principal, procurar por uma variante (token).
+        # Procura por uma OcorrenciaCorpus que tenha o 'token' correspondente.
+        ocorrencia_variante = OcorrenciaCorpus.objects.filter(token__iexact=termo_busca).select_related('verbete').first()
+        
+        if ocorrencia_variante:
+            # Se encontrou uma ocorrência com o token, pega o verbete associado a ela e redireciona.
+            verbete_lematizado = ocorrencia_variante.verbete
+            # Adiciona uma mensagem para informar o usuário sobre o redirecionamento
+            from django.contrib import messages
+            messages.info(request, f'A forma "{termo_busca}" foi encontrada como uma variante do verbete "{verbete_lematizado.termo}".')
+            return redirect('verbetes:detalhe', slug=verbete_lematizado.slug)
+            
+        # Passo 3: Se não encontrou nem no verbete principal nem como variante.
+        # Define a mensagem de "não encontrado" para ser exibida no template.
+        context['mensagem_busca'] = f"Nenhum verbete ou variante encontrada para '{termo_busca}'."
+
+    # Renderiza a página 'home.html' com o contexto.
+    # Se nenhuma busca foi feita, mostra a página inicial com a lista.
+    # Se uma busca foi feita e nada foi encontrado, mostra a mensagem de erro.
+    return render(request, 'verbetes/home.html', context)
