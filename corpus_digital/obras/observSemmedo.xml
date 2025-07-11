@@ -24,9 +24,8 @@
       <editorialDecl>
         <p>A ortografia original da obra foi mantida sempre que possível. Procurou-se manter as
           letras ligadas œ e æ nas transcrições dos nomes em latim.</p>
-        <p>Quando uma quebra de página ocorre no meio de uma palavra, o elemento <gi> pb</gi> foi
+        <p>Quando uma quebra de página ocorre no meio de uma palavra, o elemento <gi>pb</gi> foi
           incluído antes da palavra, de modo a não quebrá-la.</p>
-
         <p>O texto original também pode ser acessado pelo Internet Archive:
           https://archive.org/details/bub_gb_qCVH54Hs2i0C/</p>
         <p>As imagens (fac-símiles) das páginas da obra estão hospedadas no repositório digital
@@ -153,6 +152,44 @@
           dividir a obra em dous tomos distinctos; para que sem detrimento teu escolhesses a de que
           gostasses: se ainda assim tiveres que estranhar, entenderei que he incuravel a enfermidade
           do teu fastio, &amp;c. Deos te guarde.</p>
+      </div>
+      <pb n="não numerada 5"
+        facs="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/bub_gb_qCVH54Hs2i0C/bub_gb_qCVH54Hs2i0C_jp2.zip&amp;file=bub_gb_qCVH54Hs2i0C_jp2/bub_gb_qCVH54Hs2i0C_0008.jp2&amp;id=bub_gb_qCVH54Hs2i0C"/>
+      <div type="poema">
+        <head><title type="dedicatória">AO DOUTOR JOAM CURVO SEMMEDO, insigne Medico
+            Lusitano.</title>
+          <title type="gênero">Romance Encomiastico endecasyllabo.</title></head>
+        <l>LEy infrangivel dos mortaes viventes,</l>
+        <l>Penal castigo da primeira culpa,</l>
+        <l>Termo fatal dos seculos annosos,</l>
+        <l>De todo o respirar pensaõ commua.</l>
+        <l>Funesto eclipse do semblante humano,</l>
+        <l>Pallida sombra da vital pintura,</l>
+        <l>Frio tremor da organizada terra,</l>
+        <l>Rayo cruel sobre arvore caduca.</l>
+        <l>Para os respeitos sempre Adástria cega,</l>
+        <l>Para os suspiros Angerona surda,</l>
+        <l>Nivel, que iguala cetros, &amp; cajados,</l>
+        <l>Cifra do nada, que este pò regula.</l>
+        <l>Esta, he Douto Semmedo, esta he a morte,</l>
+        <l>Ultimo trance desta vida curta,</l>
+        <l>Contra cuja fraqueza, armando os males,</l>
+        <l>Move guerra, dà assalto, &amp; em fim triunfa.</l>
+        <l>Avara dos despojos da batalha,</l>
+        <l>Em breve fosso seus trofeos sepulta,</l>
+        <l>Porque não sirvaõ de escarmento à vida,</l>
+        <l>Que incautamente seus pendões adula.</l>
+        <l>Só grava em pedras, por memoria infausta,</l>
+        <l>Ou por mais lastimosas testimunhas,</l>
+        <l>Hum nome, que já foy, &amp; apenas lembra</l>
+        <l>Hum titulo, que he sombra, &amp; nada avulta.</l>
+        <l>As pompas, &amp; armonias, que celebraõ</l>
+        <l>Seu vencimento, sua fouce adunca;</l>
+        <l>Saõ lutos, arrastrados das Familias;</l>
+        <l>Saõ prantos, que derrama a vista em urnas.</l>
+        <l>He preciso o morrer: saõ seus effeitos</l>
+        <l>Inevitaveis; que a Justiça summa</l>
+        <l>Do Sempiterno Deos, no Protoplasto,</l>
       </div>
     </front>
     <body>
