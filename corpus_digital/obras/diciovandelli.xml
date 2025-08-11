@@ -1162,9 +1162,13 @@
           <entry>
             <form xml:lang="la">ARMILLA.</form>
             <sense>He hum circulo, ou annel corado, posto no fim da coxa da perna logo acima do
-              joelho. Fulica. AURICULA. As aves naõ tem <term lemma="aurícula" norm="aurículas"
-                msd="plural" senseNumber="2">auriculas</term>, em seu lugar, tem algumas penas mais
-              compridas, que cercaõ o buraco das orelhas.</sense>
+              joelho. Fulica.</sense>
+          </entry>
+          <entry>
+            <form xml:lang="la">AURICULA.</form>
+            <sense>As aves naõ tem <term lemma="aurícula" norm="aurículas" msd="plural"
+                senseNumber="2">auriculas</term>, em seu lugar, tem algumas penas mais compridas,
+              que cercaõ o buraco das orelhas.</sense>
           </entry>
           <entry>
             <form xml:lang="la">ARTUS.</form>
