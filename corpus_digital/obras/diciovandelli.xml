@@ -139,10 +139,10 @@
             Mineralogia.</s></p>
         <p>O estudo da Zoologia naõ consiste em hum simplex conhecimento dos nomes de cada animal;
           mas he necessario saber quanto for possivel a sua anatomia, seu modo de viver, e
-          multiplicar, os seus alimentos, as utilidades, que desses se pódem tirar; e saber <pb
+          multiplicar, os seus alimentos, as utilidades, que desses se pódem tirar; e <pb
             n="III"
             facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0011.jp2&amp;id=diccionariodost00vand"
-          />aumentar, e curar, e sustentar os que saõ necessarios na economia; procurar descubrir os
+          />saber aumentar, e curar, e sustentar os que saõ necessarios na economia; procurar descubrir os
           usos daquelles que ainda naõ conhecemos immediatamente, ou extinguillos se saõ nocivos, ou
           defender-se delles.</p>
         <p>
@@ -1162,9 +1162,13 @@
           <entry>
             <form xml:lang="la">ARMILLA.</form>
             <sense>He hum circulo, ou annel corado, posto no fim da coxa da perna logo acima do
-              joelho. Fulica. AURICULA. As aves naõ tem <term lemma="aurícula" norm="aurículas"
-                msd="plural" senseNumber="2">auriculas</term>, em seu lugar, tem algumas penas mais
-              compridas, que cercaõ o buraco das orelhas.</sense>
+              joelho. Fulica.</sense>
+          </entry>
+          <entry>
+            <form xml:lang="la">AURICULA.</form>
+            <sense>As aves naõ tem <term lemma="aurícula" norm="aurículas" msd="plural"
+                senseNumber="2">auriculas</term>, em seu lugar, tem algumas penas mais compridas,
+              que cercaõ o buraco das orelhas.</sense>
           </entry>
           <entry>
             <form xml:lang="la">ARTUS.</form>

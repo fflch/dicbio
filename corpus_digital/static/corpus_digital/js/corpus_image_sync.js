@@ -50,7 +50,17 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Função única que atualiza a imagem, legenda, e o estado dos botões.
     function updateActivePage(markerToActivate) {
-        if (markerToActivate && markerToActivate !== activePageMarker) {
+    if (markerToActivate && markerToActivate !== activePageMarker) {
+
+        // --- NOVA LÓGICA DE DESTAQUE DO MARCADOR ---
+        // 1. Remove o destaque do marcador antigo (se houver)
+        if (activePageMarker) {
+            activePageMarker.classList.remove('marcador-ativo');
+        }
+
+        // 2. Adiciona o destaque ao novo marcador
+        markerToActivate.classList.add('marcador-ativo');
+        // --- FIM DA NOVA LÓGICA ---
             activePageMarker = markerToActivate;
             const imageUrl = activePageMarker.dataset.facs;
             const pageNum = activePageMarker.dataset.paginaNumero;

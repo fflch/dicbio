@@ -78,7 +78,6 @@ TEMPLATES = [
             # Adicionando a biblioteca de templatetags customizadas
             'libraries': {
                 'custom_filters': 'verbetes.templatetags.verbetes_extras',
-                'doc_filters': 'documentacao.templatetags.doc_filters',
             }
         },
     },

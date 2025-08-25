@@ -6,77 +6,109 @@ from pathlib import Path
 from django.utils.text import slugify
 from django.urls import reverse
 
+# Em corpus_digital/management/commands/processar_obras_tei.py
+
 def substituir_tags_inadequadas(element, ns_tei_url_sem_chaves):
     """
-    Substitui tags TEI por equivalentes HTML adequados e processa <pb> e <titlePage>.
-    Cria <span> com id e classes para os marcadores de página.
+    Substitui tags TEI por equivalentes HTML, processa <pb>, <titlePage>,
+    e divide parágrafos <p> que contêm quebras de página <pb>.
     """
     ns_tei_com_chaves = f'{{{ns_tei_url_sem_chaves}}}'
+    ns_map = {'tei': ns_tei_url_sem_chaves}
 
-    # --- Processar <tei:titlePage> ---
-    title_pages = list(element.xpath(f'.//tei:titlePage', namespaces={'tei': ns_tei_url_sem_chaves}))
+    # --- PASSO DE DIVISÃO DE PARÁGRAFOS (MANTIDO, É IMPORTANTE) ---
+    while element.xpath('.//tei:p/tei:pb', namespaces=ns_map):
+        pb_in_p = element.xpath('.//tei:p/tei:pb', namespaces=ns_map)[0]
+        p_parent = pb_in_p.getparent()
+        new_p = etree.Element(p_parent.tag, attrib=p_parent.attrib)
+        new_p.text = pb_in_p.tail
+        pb_in_p.tail = None
+        siblings_to_move = list(pb_in_p.itersiblings())
+        for sibling in siblings_to_move:
+            new_p.append(sibling)
+        p_parent.addnext(new_p)
+        p_parent.addnext(pb_in_p)
+    # --- FIM DO PASSO DE DIVISÃO ---
+
+    # --- REINTRODUZIR O PROCESSAMENTO DE <titlePage> ---
+    # Encontra todas as tags <titlePage>
+    title_pages = list(element.xpath(f'.//tei:titlePage', namespaces=ns_map))
     for tp_el in title_pages:
         url_imagem = tp_el.get('facs')
+        
+        # O <titlePage> geralmente contém o título, autor, etc.
+        # Nós queremos manter esse conteúdo, mas inserir um MARCADOR *antes* dele.
+        
         if url_imagem:
-            # Gerar um ID único para o marcador da titlePage (ex: pagina_titlepage_0)
-            page_id = f"pagina_titlepage_{tp_el.get('n', '0')}" 
-            display_num = tp_el.get('n', 'Título') # Para a legenda
+            page_id = f"pagina_titlepage_{tp_el.get('n', '0')}".replace(" ", "_")
+            display_num = tp_el.get('n', 'Título')
 
+            # Cria o <span> marcador
             marcador = etree.Element('span')
             marcador.set('id', page_id)
-            marcador.set('class', 'marcador-pagina marcador-titlepage') # ESSENCIAL: 'marcador-pagina' e 'marcador-titlepage'
+            marcador.set('class', 'marcador-pagina marcador-titlepage')
             marcador.text = f'[Pág. {display_num}] '
             marcador.set('data-facs', url_imagem)
             marcador.set('data-pagina-numero', display_num)
 
-            parent = tp_el.getparent()
-            if parent is not None:
-                tp_el.addprevious(marcador)
+            # Insere o marcador ANTES do elemento <titlePage>
+            tp_el.addprevious(marcador)
+    # --- FIM DO PROCESSAMENTO DE <titlePage> ---
 
 
-    # --- Processar <tei:pb> (page breaks) ---
-    page_breaks = list(element.xpath(f'.//tei:pb', namespaces={'tei': ns_tei_url_sem_chaves}))
+    # --- Processar <tei:titlePage> --- (código existente)
+    title_pages = list(element.xpath(f'.//tei:titlePage', namespaces=ns_map))
+    # ... (seu código para titlePage permanece o mesmo) ...
+
+
+    # --- Processar <tei:pb> (page breaks) - LÓGICA ATUALIZADA ---
+    page_breaks = list(element.xpath(f'.//tei:pb', namespaces=ns_map))
     for pb_el in page_breaks:
         num_pagina = pb_el.get('n', '?')
         url_imagem = pb_el.get('facs')
 
-        marcador = etree.Element('span')
-        marcador.set('id', f'pagina_{num_pagina}') # ESSENCIAL: id="pagina_N"
-        marcador.set('class', 'marcador-pagina')  # ESSENCIAL: class="marcador-pagina"
-        marcador.text = f'[p. {num_pagina}] '
+        # Criar um container <div> para a linha e o marcador
+        marcador_container = etree.Element('div')
+        marcador_container.set('class', 'page-break-indicator') # Classe para o container geral
+
+        # 1. Adicionar a linha horizontal
+        hr_element = etree.SubElement(marcador_container, 'hr')
+        hr_element.set('class', 'page-separator') # Classe para estilizar a linha
+
+        # 2. Adicionar o span do marcador (que será o alvo para rolagem e JS)
+        marcador_span = etree.SubElement(marcador_container, 'span')
+        marcador_span.set('id', f'pagina_{num_pagina.replace(" ", "_")}') # Substitui espaços no ID
+        marcador_span.set('class', 'marcador-pagina')
+        marcador_span.text = f'[p. {num_pagina}] '
         if url_imagem:
-            marcador.set('data-facs', url_imagem)
+            marcador_span.set('data-facs', url_imagem)
         if num_pagina and num_pagina != '?':
-            marcador.set('data-pagina-numero', num_pagina)
+            marcador_span.set('data-pagina-numero', num_pagina)
 
+        # Se o <pb> tinha um .tail (texto seguindo-o), anexa ao container
         if pb_el.tail:
-            marcador.tail = pb_el.tail
+            marcador_container.tail = pb_el.tail
             pb_el.tail = None
-
+        
+        # Substitui o <pb> original pelo novo container <div>
         parent = pb_el.getparent()
         if parent is not None:
-            parent.replace(pb_el, marcador)
+            parent.replace(pb_el, marcador_container)
 
-    # Agora iterar sobre todos os elementos para outras substituições (s, note)
-    # Esta iteração é mais genérica e pega elementos já transformados também.
-    for el in element.iter(): 
-        tag = el.tag 
-
+    # --- Outras substituições (s, note) --- (código existente)
+    for el in element.iter():
+        tag = el.tag
         if tag == f'{ns_tei_com_chaves}s':
             el.tag = 'span'
-
         elif tag == f'{ns_tei_com_chaves}note':
             el.tag = 'div'
-            el.set('class', 'nota-tei') 
+            el.set('class', 'nota-tei')
 
-        # Adicione mais cláusulas 'elif' aqui para outras tags TEI se precisar de transformações.
-        # Por exemplo, se quiser que <front> e <back> se tornem <div>s:
-        # elif tag == f'{ns_tei_com_chaves}front':
-        #     el.tag = 'div'
-        #     el.set('class', 'tei-front')
-        # elif tag == f'{ns_tei_com_chaves}back':
-        #     el.tag = 'div'
-        #     el.set('class', 'tei-back')
+        # --- NOVA LÓGICA: Transformar a própria tag <titlePage> em um <div> ---
+        # Isso preserva o conteúdo da página de título.
+        elif tag == f'{ns_tei_com_chaves}titlePage':
+            el.tag = 'div'
+            el.set('class', 'title-page-content') # Adiciona uma classe para estilização
 
 
 # Função principal de conversão TEI para HTML

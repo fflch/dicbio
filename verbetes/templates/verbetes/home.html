@@ -161,7 +161,7 @@
                         <p><strong>Como citar este verbete:</strong></p>
                         {% with autores=verbete.autores|formatar_autores %}
                         {% with ano=verbete.atualizado_em|default:verbete.criado_em|date:"Y" %}
-                        <p>{{ autores }}. {{ verbete.termo|capfirst }}. In: MARONEZE, Bruno (coord.) <em>Dicionário
+                        <p>{{ autores }} {{ verbete.termo|capfirst }}. In: MARONEZE, Bruno (coord.) <em>Dicionário
                                 Histórico de
                                 Termos da Biologia</em>. {{ ano }}. Disponível em: {{ request.build_absolute_uri }}.
                             Acesso

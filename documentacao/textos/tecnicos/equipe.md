@@ -7,10 +7,9 @@ autores: Bruno Maroneze
 
 ## Atual
 - **Bruno Oliveira Maroneze** (Professor Associado, Universidade Federal da Grande Dourados) - coordenação do projeto - desde 2017
-- **Sammara Valim Luz** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
 - **Ana Cristina Gouvêa Lopes** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
 - **Vitória Fernandes Pereira** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
-- **Sammara Valim Luz** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
+- **Sammara Valim Luz dos Santos** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
 - **Guilherme Ferreira Mendes Vieira** (estudante de graduação, Universidade Federal da Grande Dourados) - desenho do *website*, programação do código e automação de tarefas - desde 2024
 - **Ana Luísa Rodrigues Lopes** (bolsista do PIBIC-Ensino Médio) - transcrição e preparação do córpus - desde 2024
 
