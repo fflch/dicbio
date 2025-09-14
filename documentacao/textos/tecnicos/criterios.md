@@ -24,4 +24,4 @@ No caso dos termos polissêmicos, as definições estão numeradas e os contexto
 
 O campo das variantes gráficas inclui as formas variantes do termo encontradas no córpus.
 
-O campo das informações histórico-etimológicas traz uma discussão a respeito da etimologia do termo, com hipóteses a respeito de sua origem, as primeiras atestações na língua portuguesa, eventuais mudanças de significado pelas quais o termo passou ao longo da história e outras informações que os autores julguem relevantes para uma maior compreensão do termo.
+O campo das informações histórico-etimológicas traz uma discussão a respeito da etimologia do termo, com hipóteses a respeito de sua origem, as primeiras atestações na língua portuguesa, eventuais mudanças de significado pelas quais o termo passou ao longo da história e outras informações que os autores julguem relevantes para uma maior compreensão do termo. Os critérios para a descrição da etimologia são encontrados [neste texto](/documentacao/etimologia/).
