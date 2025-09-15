@@ -41,7 +41,7 @@
     <div class="row">
         <!-- Coluna lateral com lista de verbetes -->
         <!-- ID adicionado para referência no JS -->
-        <aside id="lista-verbetes-col" class="col-md-3 border-end">
+        <aside id="lista-verbetes-col" class="col-md-3 border-end verbetes-sidebar-container">
             <h5>Verbetes</h5>
             <ul class="list-unstyled verbetes-sidebar">
                 {% for v in lista_verbetes %}
@@ -161,7 +161,7 @@
                         <p><strong>Como citar este verbete:</strong></p>
                         {% with autores=verbete.autores|formatar_autores %}
                         {% with ano=verbete.atualizado_em|default:verbete.criado_em|date:"Y" %}
-                        <p>{{ autores }} {{ verbete.termo|capfirst }}. In: MARONEZE, Bruno (coord.) <em>Dicionário
+                        <p>{{ autores }}. {{ verbete.termo|capfirst }}. In: MARONEZE, Bruno (coord.) <em>Dicionário
                                 Histórico de
                                 Termos da Biologia</em>. {{ ano }}. Disponível em: {{ request.build_absolute_uri }}.
                             Acesso
@@ -246,4 +246,7 @@
   "url": "{{ request.build_absolute_uri }}"
 }
 </script>
+
+<script src="{% static 'verbetes/js/verbetes_scroll.js' %}"></script>
+
 {% endblock %}
