@@ -10565,12 +10565,9 @@ Botanica,Botânica,Botânica,,1,"A Anatomia, Medicina, Economia, e muitas Artes 
 Jardins Botanicos,jardim botânico,Jardins Botânicos,plural,1,"Memoria sobre a utilidade dos [[b]]Jardins Botanicos[[/b]], a respeito da
                 Agricultura, e principalmente da cultivaçaõ das charnecas pelo D.D. V. Lisboa.1,
                 70.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,III
-Insectos,inseto,Insetos,plural,1,"Esta obra divide-se em Terminologia 1. dos Mammaes. 2. das Aves. 3. dos Peixes 4. dos
-            Amphibios. 5. dos [[b]]Insectos[[/b]]. 6.
-            dos Vermes. 7. da Botanica. 8.e da Mineralogia.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,V
-Botanica,Botânica,Botânica,,1,"Esta obra divide-se em Terminologia 1. dos Mammaes. 2. das Aves. 3. dos Peixes 4. dos
-            Amphibios. 5. dos Insectos. 6.
-            dos Vermes. 7. da [[b]]Botanica[[/b]]. 8.e da Mineralogia.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,V
+Mammaes,mamais,Mamais,,1,Esta obra divide-se em Terminologia 1. dos [[b]]Mammaes[[/b]]. 2. das Aves. 3. dos Peixes 4. dos Amphibios. 5. dos Insectos. 6. dos Vermes. 7. da Botanica. 8.e da Mineralogia.,VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,V
+Insectos,inseto,Insetos,plural,1,Esta obra divide-se em Terminologia 1. dos Mammaes. 2. das Aves. 3. dos Peixes 4. dos Amphibios. 5. dos [[b]]Insectos[[/b]]. 6. dos Vermes. 7. da Botanica. 8.e da Mineralogia.,VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,V
+Botanica,Botânica,Botânica,,1,Esta obra divide-se em Terminologia 1. dos Mammaes. 2. das Aves. 3. dos Peixes 4. dos Amphibios. 5. dos Insectos. 6. dos Vermes. 7. da [[b]]Botanica[[/b]]. 8.e da Mineralogia.,VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,V
 Insectos,inseto,Insetos,plural,1,"As obras de Fabricio, Gouvaõ, e Reuss serviraõ para os [[b]]Insectos[[/b]], Peixes, e pela 
               Botanica.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,V
 Botanica,Botânica,Botânica,,1,"As obras de Fabricio, Gouvaõ, e Reuss serviraõ para os Insectos, Peixes, e pela 
@@ -10587,11 +10584,16 @@ Botanica,Botânica,Botânica,,1,"A unica obra de [[b]]Botanica[[/b]], que temos
                   Institutionibus R. Herbariae nominatis, sed nullibi descriptis, aut delineatis,
                   adeoque etiamnum novis, quam nemo, nisi alter Oedipus intelligat."" Lin.
                 Epist. 10. an. 1765.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,VI
+MAMMAES,mamais,MAMAIS,,1,CLASSE I [[b]]MAMMAES[[/b]],VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,1
+mammaes,mamais,mamais,,1,"As armas nos [[b]]mammaes[[/b]] saõ as Unhas, os Dentes, as
+              Pontas, com que se defendem, e accommettem ao seu inimigo.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,1
 auriculas,aurícula,aurículas,plural,1,"Diz-se do coraçaõ, que tem duas [[b]]auriculas[[/b]].",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,2
 concameraçoens,concameração,concamerações,plural,1,"Quando ha duas [[b]]concameraçoens[[/b]], ou cavidades.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,2
 elongada,elongado,elongado,feminino singular,1,"He uma cauda [[b]]elongada[[/b]],
                 que serve muitas vezes como de terceira maõ ao animal para sua segurança.
                 Simia.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,2
+mammaes,mamais,mamais,,1,"Nos [[b]]mammaes[[/b]] he hum circulo de pelos de huma côr
+              diferente dos outros, ou mais compridos, que se acha no pescoço.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,3
 glandula,glândula,glândula,,1,"Embigo que tem huma bexiga, ou cavidade, onde se conserva hum humor particular separado de huma [[b]]glandula[[/b]]. Sus
               porcus.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,4
 cibarios,cibário,cibários,masculino plural,1,"Os dentes, saõ os instrumentos [[b]]cibarios[[/b]], osseos, postos nas mandibulas.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,4
@@ -10610,22 +10612,47 @@ tuberculos,tubérculo,tubérculos,plural,1,"Com [[b]]tuberculos[[/b]],
 carunculas,carúncula,carúnculas,plural,1,"Com tuberculos,
                 ou [[b]]carunculas[[/b]]. Sorex
                 cristatus.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,8
+Mammaes,mamais,Mamais,,1,"Dá-se este nome a parte superior da cabeça, ou ao cabelo, que livra os [[b]]Mammaes[[/b]] das injurias do tempo; isto he tomado
+              restrictamente, todo o cabelo, que cobre a cabeça do animal.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,10
+Mammaes,mamais,Mamais,,1,"Isto mostra-nos em os [[b]]Mammaes[[/b]] a uniaõ,
+              que as escamas (feitas pela uniaõ dos pelos) formaõ entre si, cobrindo desta forma
+              todo o corpo do animal, dentro de que ele se esconde, e se livra dos inimigos, e
+              injurias do tempo. Dasypus.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,11
+Mammaes,mamais,Mamais,,1,"Isto indica nos [[b]]Mammaes[[/b]] huns pequenos
+              escudos triangulares feitos pela uniaõ dos pelos, porem cada triangulo he distincto
+              sobre si. Manis.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,11
 tuberculo,tubérculo,tubérculo,,1,"Verruga, ou [[b]]tuberculo[[/b]] duro, que está na
               pelle.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,12
 vibrissas,vibrissa,vibrissa,,1,"Com [[b]]vibrissas[[/b]], ou pelos rijos, os quaes existem em
               alguns Mammaes.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,12
+Mammaes,mamais,Mamais,,1,"Com vibrissas, ou pelos rijos, os quaes existem em
+              alguns [[b]]Mammaes[[/b]].",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,12
+Mammaes,mamais,Mamais,,1,"Significa o calcanhar nos [[b]]Mammaes[[/b]], o
+              qual serve para eles se sustentarem em pé, como se vê no Homem, e no Urso.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,12
 auriculas,aurícula,aurículas,plural,2,"As aves naõ tem [[b]]auriculas[[/b]], em seu lugar, tem algumas penas mais compridas,
               que cercaõ o buraco das orelhas.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,14
+uropigio,uropígio,uropígio,,1,"Nas aves saõ as azas, os pés, e o [[b]]uropigio[[/b]].
+              m.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,14
+Mammaes,mamais,Mamais,,1,V. [[b]]Mammaes[[/b]].,VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,14
+Mammaes,mamais,Mamais,,1,V. [[b]]Mammaes[[/b]].,VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,14
 tendinosa,tendinoso,tendinoso,feminino singular,1,"He uma substancia, que medéa entre a parte ossea, e [[b]]tendinosa[[/b]].",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,15
 caruncula,carúncula,carúncula,,1,"He huma substancia carnosa, nua, molle, que cobre, ou a cabeça, ou collo de
               algumas Aves, ou as sobrancelhas no Tretrao, Meleagris, Parra, e tambem no Gallo se
               observa a mesma [[b]]caruncula[[/b]], a que o
               povo erradamente dá o nome de Crista, quando naõ he se naõ pennacea. Phasianus
               Gallus.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,15
+uropigio,uropígio,uropígio,,1,"Este termo he improprio nas Aves pela falta da continuação das vertebras, a cujo
+              defeito suprem as penas, que estaõ postas no [[b]]uropigio[[/b]],
+              as quaes lhe servem de leme, porem esta he diversa, a saber. Tab.II.fig.2.1.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,15
 carunculas,carúncula,carúnculas,plural,1,"Com [[b]]carunculas[[/b]].
                 Columba tabelaria.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,16
 papillas,papila,papilas,,3,"Com [[b]]papillas[[/b]].
                 Columba turcica.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,16
+uropigio,uropígio,uropígio,,1,"He o lado inferior do [[b]]uropigio[[/b]], ou espaço, que está
+              entre o ano, e o apice do mesmo uropygio. Tab.II.fig.2.l.u.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,16
+uropygio,uropígio,uropígio,,1,"He o lado inferior do uropigio, ou espaço, que está
+              entre o ano, e o apice do mesmo [[b]]uropygio[[/b]]. Tab.II.fig.2.l.u.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,17
+Mammaes,mamais,Mamais,,1,V. nos [[b]]Mammaes[[/b]].,VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,20
 sementes,semente,semente,plural,1,"He huma mudança que as Aves fazem de hum clima para outro a que vulgarmente se
               chama arribaçaõ. Turdus, Sturnus,Fringilla; Destas arribaçoens succede muitas vezes
               termos varios peixes exoticos, e naõ menos plantas exoticas em os nossos paizes por
@@ -10635,8 +10662,11 @@ vibrissas,vibrissa,vibrissa,,1,"He a barba ou pelos rijos ou [[b]]vibrissas[[/b]
               para a parte da face, ou genas. Tab.III.fig.4.b.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,20
 gema,gema,gema,,2,"Ovo. Fig.I. e cavidade com ar. d. branco. b. [[b]]gema[[/b]].
               a. punctum saliens, ou rudimento da Ave.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,21
+Mammaes,mamais,Mamais,,1,V. [[b]]Mammaes[[/b]]. Ardea pavonina.,VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,21
 glandula,glândula,glândula,,1,"He huma uniaõ de pellos, que cerca a [[b]]glandula[[/b]], ou
               poro oleifero, que está posto na parte superior do uropigio em as Aves. m.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,21
+uropigio,uropígio,uropígio,,1,"He huma uniaõ de pellos, que cerca a glandula, ou
+              poro oleifero, que está posto na parte superior do [[b]]uropigio[[/b]] em as Aves. m.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,21
 canaliculada,canaliculado,canaliculado,feminino singular,1,"Consta de huma base cylindrica, concava, que se extende pelo Rachis. (V. Rachis)
               arqueada para a parte inferior, liza superiormente, quasi [[b]]canaliculada[[/b]] na parte inferior, pinnata, com raios
               parallelos, cada hum dos quaes he quasi pinnato, e estaõ encostados, ou unidos entre
@@ -10644,7 +10674,11 @@ canaliculada,canaliculado,canaliculado,feminino singular,1,"Consta de huma base 
               apertado, o interior mais largo, o posterior pubescente, ou com lanugem, a parte
               anterior mais estreita.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,21
 glandula,glândula,glândula,,1,"Da-se esta nome a huma [[b]]glandula[[/b]], que termina o
-              dorso das Aves acima do uropigio, e que contem huma materia sebacea. B.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,23
+              dorso das Aves acima do uropigio, e que contem huma
+              materia sebacea. B.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,23
+uropigio,uropígio,uropígio,,1,"Da-se esta nome a huma glandula, que termina o
+              dorso das Aves acima do [[b]]uropigio[[/b]], e que contem huma
+              materia sebacea. B.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,23
 arvores,árvore,árvores,plural,1,"Ordem com que as [[b]]arvores[[/b]]
               estaõ dispostas em certas distancia de maneira que por qualquer parte, que se olhe,
               sempre se vê o caminho recto, e as arvores em linha recta; deste modo tambem estaõ dispostas as penas nas aves,
@@ -10653,10 +10687,46 @@ arvores,árvore,árvores,plural,1,"Ordem com que as [[b]]arvores[[/b]]
               estaõ dispostas em certas distancia de maneira que por qualquer parte, que se olhe,
               sempre se vê o caminho recto, e as arvores em linha recta; deste modo tambem estaõ dispostas as penas nas aves,
               como se pode ver na Tab. II. Fig 2. C.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,23
+uropygio,uropígio,uropígio,,1,"Saõ as pennas da cauda pegadas em modo de pente, ou cilias ao [[b]]uropygio[[/b]]; vulgarmente saõ doze, e contaõ-se da ultima até á
+              do meio; em muitas Gallinhas, e Patos saõ mais de doze, em muitas Pegas saõ somente
+              dez; que servem as Aves como leme, com que as mesmas Aves se propellem, e guiaõ o seu
+              corpo. D.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,24
 cirros,cirro,cirro,plural,1,"He toda parte que naõ constitue o principal, mas sim o accessorio, como saõ os
                 [[b]]cirros[[/b]] na cabeça do peixe, e nas pinnas do
               mesmo huma porçaõ de membrana siliforme.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,31
-tuberculos,tubérculo,tubérculos,plural,1,"Da mesma natureza, guarnecidas ou de sedas, ou de tubulos carnosos, ou de [[b]]tuberculos[[/b]] .",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,35
+branchias,brânquia,brânquias,plural,1,"Abertura das [[b]]branchias[[/b]], ou guelras, he huma abertura quasi sempre situada na parte
+              posterior ou lateral da cabeça que se abre entre os operculos e o tronco. Ella acaba
+              dentro da boca, contem as guelras, que saõ as partes interiores.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,32
+branchias,brânquia,brânquias,plural,1,"As [[b]]branchias[[/b]] ou
+              guelras saõ os primeiros orgaõs da respiraçaõ nos peixes. Estaõ postas entre a cabeça
+              e o tronco. Para cada huma se ver he necessario levantar o operculo branchial e ter
+              dobrada a membrana branchiostega; e na
+              abertura branchiostega que entaõ fica aberta he que se vé o que
+              propriamente se chama guelra. Desunindo-se humas das outras daõ postagem á agua que o
+              peixe engulio e que quer deitar fora da sua gûela, avizinhando-se entre si e estando
+              os operculos fechados, acha-se a agua retida, e não pode sahir sem se dilatarem as
+              guelras, e sem se levantarem os operculos.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,34
+membrana branchiostega,membrana branquióstega,membrana branquióstega,,1,"As branchias ou
+              guelras saõ os primeiros orgaõs da respiraçaõ nos peixes. Estaõ postas entre a cabeça
+              e o tronco. Para cada huma se ver he necessario levantar o operculo branchial e ter
+              dobrada a [[b]]membrana branchiostega[[/b]]; e na
+              abertura branchiostega que entaõ fica aberta he que se vé o que
+              propriamente se chama guelra. Desunindo-se humas das outras daõ postagem á agua que o
+              peixe engulio e que quer deitar fora da sua gûela, avizinhando-se entre si e estando
+              os operculos fechados, acha-se a agua retida, e não pode sahir sem se dilatarem as
+              guelras, e sem se levantarem os operculos.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,34
+branchiostega,branquióstego,branquióstega,feminino singular,2,"As branchias ou
+              guelras saõ os primeiros orgaõs da respiraçaõ nos peixes. Estaõ postas entre a cabeça
+              e o tronco. Para cada huma se ver he necessario levantar o operculo branchial e ter
+              dobrada a membrana [[b]]branchiostega[[/b]]; e na
+              abertura branchiostega que entaõ fica aberta he que se vé o que
+              propriamente se chama guelra. Desunindo-se humas das outras daõ postagem á agua que o
+              peixe engulio e que quer deitar fora da sua gûela, avizinhando-se entre si e estando
+              os operculos fechados, acha-se a agua retida, e não pode sahir sem se dilatarem as
+              guelras, e sem se levantarem os operculos.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,34
+branchiostegos,branquióstego,branquióstegos,masculino plural,1,"Lateraes, que estaõ postas em os lados nos peixes [[b]]branchiostegos[[/b]].",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,35
+tubulos,túbulo,túbulos,plural,1,"Da mesma natureza, guarnecidas ou de sedas, ou de [[b]]tubulos[[/b]] carnosos, ou de tuberculos.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,35
+tuberculos,tubérculo,tubérculos,plural,1,"Da mesma natureza, guarnecidas ou de sedas, ou de tubulos carnosos, ou de [[b]]tuberculos[[/b]].",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,35
 tuberculadas,tuberculado,tuberculado,feminino plural,1,"Dissimilhantes, quando humas tem pelos ou sedas no lado exterior e interior e
                 as outras saõ [[b]]tuberculadas[[/b]].
                 Perca, Spari.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,35
@@ -10691,6 +10761,8 @@ insectos,inseto,insetos,plural,1,"Ou barba, he hum appendis setaceo, que está p
 setaceos,setáceo,setáceos,masculino plural,1,"Saõ os appendices 
                 [[b]]setaceos[[/b]], articulados livres, que se achaõ postos entre as barbatanas, do
               peito, e as do ventre. Trigla. fig. I. B. B.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,43
+branchias,brânquia,brânquias,plural,1,"A gûela he a parte do tronco, que corresponde ás barbatanas das [[b]]branchias[[/b]], ou guelras, e que
+              está posta entre as mesmas. fig. 4. c.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,44
 tuberculos,tubérculo,tubérculos,plural,1,"Linha lateral. Esta estende-se desde a cabeça do peixe até á cauda, e está posta
               nos dous lados do peixe. Ordinariamente he formada pela falta de escamas, ou pela sua
               quilha, ou pelos seus [[b]]tuberculos[[/b]]. He varia pela figura, pelo numero, pela direcçaõ, e pelos
@@ -10701,13 +10773,61 @@ cirros,cirro,cirro,plural,1,"Com [[b]]cirros[[/b]]. Silurus, Gadus. No queixo
                 superior somente Gobius, no inferior Mullus.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,50
 cirros,cirro,cirro,plural,1,"Ambos os queixos sem [[b]]cirros[[/b]] Perca,
                 Labrus, Sparus, e a maior parte dos peixes.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,50
+"membrana, ou pinna
+                branchiostega",membrana branquióstega,membrana branquióstega,,1,"Esta he huma verdadeira pinna, ou barbatana composta de raios curvos, desiguaes,
+              unidos entre si por huma membrana. Esta esconde-se debaixo dos operculos das guelras,
+              a que esta pegada. Esta [[b]]membrana, ou pinna
+                branchiostega[[/b]] he dobrada, e redobrada debaixo do operculo; pode-se allongar,
+              e estender como as outras barbatanas do corpo; na sua maior extensaõ, he muito maior
+              que o operculo, serve para a respiraçaõ. fig. I. A. fig. 4.e.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,50
+membrana branchiostega,membrana branquióstega,membrana branquióstega,,1,"Esta membrana, e os operculos tem o seu uso comum, que he o de reter a agua, que
+              peixe faz passar da guéla ao travez das guèlras, que entaõ se desunem humas das outras
+              para se unirem logo, em quanto os operculos ficaõ abatidos, e fechaõ a abertura; que
+              communica as guelras. Depois levantaõ-se os operculos, e abrem a abertura das guélras;
+              a [[b]]membrana branchiostega[[/b]] se estende para alí, a agua, que antes estava como fechada entre a abertura, e os
+              operculos acha-se expellida, e a abertura das guélras fechada. Em fim os operculos
+              abaixaõ-se pouco, a pouco, e a membrana
+                branchiostega contrahe-se, ou dobrase. Esta membrana, e o operculo pode
+              considerar-se como huma valvula de duas laminas, que se levanta, e abaixa á vontade do
+              animal segundo a necessidade que elle tem de lançar fora a agua, ou o ar. A membrana branchiostega sempre he huma só; mas
+              varîa pelo numero, e forma dos raios, ou ossiculos, dos quaes he composta.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,50
+"membrana
+                branchiostega",membrana branquióstega,membrana branquióstega,,1,"Esta membrana, e os operculos tem o seu uso comum, que he o de reter a agua, que
+              peixe faz passar da guéla ao travez das guèlras, que entaõ se desunem humas das outras
+              para se unirem logo, em quanto os operculos ficaõ abatidos, e fechaõ a abertura; que
+              communica as guelras. Depois levantaõ-se os operculos, e abrem a abertura das guélras;
+              a membrana branchiostega se estende para alí, a agua, que antes estava como fechada entre a abertura, e os
+              operculos acha-se expellida, e a abertura das guélras fechada. Em fim os operculos
+              abaixaõ-se pouco, a pouco, e a [[b]]membrana
+                branchiostega[[/b]] contrahe-se, ou dobrase. Esta membrana, e o operculo pode
+              considerar-se como huma valvula de duas laminas, que se levanta, e abaixa á vontade do
+              animal segundo a necessidade que elle tem de lançar fora a agua, ou o ar. A membrana branchiostega sempre he huma só; mas
+              varîa pelo numero, e forma dos raios, ou ossiculos, dos quaes he composta.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,51
+membrana branchiostega,membrana branquióstega,membrana branquióstega,,1,"Esta membrana, e os operculos tem o seu uso comum, que he o de reter a agua, que
+              peixe faz passar da guéla ao travez das guèlras, que entaõ se desunem humas das outras
+              para se unirem logo, em quanto os operculos ficaõ abatidos, e fechaõ a abertura; que
+              communica as guelras. Depois levantaõ-se os operculos, e abrem a abertura das guélras;
+              a [[b]]membrana branchiostega[[/b]] se estende para alí, a agua, que antes estava como fechada entre a abertura, e os
+              operculos acha-se expellida, e a abertura das guélras fechada. Em fim os operculos
+              abaixaõ-se pouco, a pouco, e a membrana
+                branchiostega contrahe-se, ou dobrase. Esta membrana, e o operculo pode
+              considerar-se como huma valvula de duas laminas, que se levanta, e abaixa á vontade do
+              animal segundo a necessidade que elle tem de lançar fora a agua, ou o ar. A membrana branchiostega sempre he huma só; mas
+              varîa pelo numero, e forma dos raios, ou ossiculos, dos quaes he composta.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,51
+Mammaes,mamais,Mamais,,1,"Que naõ tem mais, que hum buraco em cada parte, como nos [[b]]Mammaes[[/b]]; mas estes saõ muito raros.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,53
 tunica,túnica,túnica,,1,"Sem a dita membrana, ou cute, ou [[b]]tunica[[/b]].",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,55
 escamoso,escamoso,escamoso,,1,"Operculo das guélras he hum corpo [[b]]escamoso[[/b]] posto na parte posterior
               dos queixos de cada parte da cabeça atrás dos olhos. O seu uso, he de ter fechada a
-              abertura das guélras, e defendellas dos corpos externos, e suster a membrana
-              branchiostega. Tab. V. fig. 4. c. fig. 5. c. Os operculos variaõ em differentes
-                peixes pela sua estructura, pelo movimento, pelo numero das peças, ou laminas, de
-                que constaõ, pela proporçaõ, e superficie.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,55
+              abertura das guélras, e defendellas dos corpos externos, e suster a membrana branchiostega. Tab. V. fig. 4. c.
+              fig. 5. c. Os operculos variaõ em differentes peixes pela sua estructura, pelo
+                movimento, pelo numero das peças, ou laminas, de que constaõ, pela proporçaõ, e
+                superficie.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,55
+membrana branchiostega,membrana branquióstega,membrana branquióstega,,1,"Operculo das guélras he hum corpo escamoso posto na parte posterior
+              dos queixos de cada parte da cabeça atrás dos olhos. O seu uso, he de ter fechada a
+              abertura das guélras, e defendellas dos corpos externos, e suster a [[b]]membrana branchiostega[[/b]]. Tab. V. fig. 4. c.
+              fig. 5. c. Os operculos variaõ em differentes peixes pela sua estructura, pelo
+                movimento, pelo numero das peças, ou laminas, de que constaõ, pela proporçaõ, e
+                superficie.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,55
 Ciliada,ciliado,ciliado,feminino singular,1,"[[b]]Ciliada[[/b]], quando a margem
                 posterior, ou todo o contorno he cortado como huma franja, ou ornado com appendices
                 carnosos parallelos.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,56
@@ -10726,6 +10846,8 @@ ezofago,esôfago,esôfago,,1,"O paladar he a quella parte interior da bocca, que
 papillas,papila,papilas,,3,"Com [[b]]papillas[[/b]]; Nos
                 Nantes, Squalus, Pristis.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,61
 tuberculos,tubérculo,tubérculos,plural,1,"He o corpo do peixe cheio de [[b]]tuberculos[[/b]] molles, cutaneos em lugar de escamas. Zeus.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,61
+membrana branchiostega,membrana branquióstega,membrana branquióstega,,1,"He a [[b]]membrana branchiostega[[/b]]. V.
+                Membrana branchiostega.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,62
 Longitudinal,longitudinal,longitudinal,,1,"[[b]]Longitudinal[[/b]], occupando todo o espaço entre o
                 ano, e a extremidade da cauda. Echeneis.",VANDELLI,1788,Diccionario dos Termos Technicos de Historia Natural,diciovandelli,62
 Longitudinaes,longitudinal,Longitudinais,plural,1,"[[b]]Longitudinaes[[/b]], quando se extendem desde a cabeça até a cauda, por todo o

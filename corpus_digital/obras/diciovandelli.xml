@@ -139,12 +139,11 @@
             Mineralogia.</s></p>
         <p>O estudo da Zoologia naõ consiste em hum simplex conhecimento dos nomes de cada animal;
           mas he necessario saber quanto for possivel a sua anatomia, seu modo de viver, e
-          multiplicar, os seus alimentos, as utilidades, que desses se pódem tirar; e <pb
-            n="III"
+          multiplicar, os seus alimentos, as utilidades, que desses se pódem tirar; e <pb n="III"
             facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0011.jp2&amp;id=diccionariodost00vand"
-          />saber aumentar, e curar, e sustentar os que saõ necessarios na economia; procurar descubrir os
-          usos daquelles que ainda naõ conhecemos immediatamente, ou extinguillos se saõ nocivos, ou
-          defender-se delles.</p>
+          />saber aumentar, e curar, e sustentar os que saõ necessarios na economia; procurar
+          descubrir os usos daquelles que ainda naõ conhecemos immediatamente, ou extinguillos se
+          saõ nocivos, ou defender-se delles.</p>
         <p>
           <s>O saber pois somente o nome das plantas naõ he ser Botanico, o verdadeiro Botanico deve
             saber álem disso a parte mais difficultoza, e interessante, que he conhecer as suas
@@ -179,9 +178,10 @@
           Francisco José Simões da Serra Demonstrador de Historia Natural, mas a sua morte impidio a
           acaballa.</p>
         <p>
-          <s>Esta obra divide-se em Terminologia 1. dos Mammaes. 2. das Aves. 3. dos Peixes 4. dos
-            Amphibios. 5. dos <term lemma="inseto" norm="Insetos" msd="plural">Insectos</term>. 6.
-            dos Vermes. 7. da <term lemma="Botânica">Botanica</term>. 8.e da Mineralogia.</s>
+          <s>Esta obra divide-se em Terminologia 1. dos <term lemma="mamais" norm="Mamais"
+              >Mammaes</term>. 2. das Aves. 3. dos Peixes 4. dos Amphibios. 5. dos <term
+              lemma="inseto" norm="Insetos" msd="plural">Insectos</term>. 6. dos Vermes. 7. da <term
+              lemma="Botânica">Botanica</term>. 8.e da Mineralogia.</s>
         </p>
         <p>
           <s>As obras de Fabricio, Gouvaõ, e Reuss serviraõ para os <term lemma="inseto"
@@ -218,7 +218,7 @@
       <pb n="1"
         facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0015.jp2&amp;id=diccionariodost00vand"/>
       <div type="parte">
-        <head>CLASSE I MAMMAES</head>
+        <head>CLASSE I <term lemma="mamais" norm="MAMAIS">MAMMAES</term></head>
         <div type="letra">
           <head>A.</head>
           <entry>
@@ -255,8 +255,8 @@
           </entry>
           <entry>
             <form xml:lang="la">ARMA.</form>
-            <sense>As armas nos mammaes saõ as Unhas, os Dentes, as Pontas, com que se defendem, e
-              accommettem ao seu inimigo.</sense>
+            <sense>As armas nos <term lemma="mamais">mammaes</term> saõ as Unhas, os Dentes, as
+              Pontas, com que se defendem, e accommettem ao seu inimigo.</sense>
           </entry>
           <entry>
             <form xml:lang="la">AURICULA.</form>
@@ -398,8 +398,8 @@
           </entry>
           <entry>
             <form xml:lang="la">COLLARIS.</form>
-            <sense>Nos mammaes he hum circulo de pelos de huma côr diferente dos outros, ou mais
-              compridos, que se acha no pescoço.</sense>
+            <sense>Nos <term lemma="mamais">mammaes</term> he hum circulo de pelos de huma côr
+              diferente dos outros, ou mais compridos, que se acha no pescoço.</sense>
           </entry>
           <entry>
             <form xml:lang="la">COMA.</form>
@@ -945,9 +945,9 @@
           </entry>
           <entry>
             <form xml:lang="la">PILEUM.</form>
-            <sense>Dá-se este nome a parte superior da cabeça, ou ao cabelo, que livra os Mammaes
-              das injurias do tempo; isto he tomado restrictamente, todo o cabelo, que cobre a
-              cabeça do animal.</sense>
+            <sense>Dá-se este nome a parte superior da cabeça, ou ao cabelo, que livra os <term
+                lemma="mamais" norm="Mamais">Mammaes</term> das injurias do tempo; isto he tomado
+              restrictamente, todo o cabelo, que cobre a cabeça do animal.</sense>
           </entry>
           <entry>
             <form xml:lang="la">PROBOSCIS.</form>
@@ -988,9 +988,10 @@
             facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0025.jp2&amp;id=diccionariodost00vand"/>
           <entry>
             <form xml:lang="la">SCUTUM.</form>
-            <sense>Isto mostra-nos em os Mammaes a uniaõ, que as escamas (feitas pela uniaõ dos
-              pelos) formaõ entre si, cobrindo desta forma todo o corpo do animal, dentro de que ele
-              se esconde, e se livra dos inimigos, e injurias do tempo. Dasypus.</sense>
+            <sense>Isto mostra-nos em os <term lemma="mamais" norm="Mamais">Mammaes</term> a uniaõ,
+              que as escamas (feitas pela uniaõ dos pelos) formaõ entre si, cobrindo desta forma
+              todo o corpo do animal, dentro de que ele se esconde, e se livra dos inimigos, e
+              injurias do tempo. Dasypus.</sense>
           </entry>
           <entry>
             <form xml:lang="la">SEMICAUDATUS.</form>
@@ -1012,8 +1013,9 @@
           </entry>
           <entry>
             <form xml:lang="la">SQUAMA.</form>
-            <sense>Isto indica nos Mammaes huns pequenos escudos triangulares feitos pela uniaõ dos
-              pelos, porem cada triangulo he distincto sobre si. Manis.</sense>
+            <sense>Isto indica nos <term lemma="mamais" norm="Mamais">Mammaes</term> huns pequenos
+              escudos triangulares feitos pela uniaõ dos pelos, porem cada triangulo he distincto
+              sobre si. Manis.</sense>
           </entry>
           <entry>
             <form xml:lang="la">STRIATUS.</form>
@@ -1062,7 +1064,7 @@
           <entry>
             <form xml:lang="la">VIBRISSATUS.</form>
             <sense>Com <term lemma="vibrissa">vibrissas</term>, ou pelos rijos, os quaes existem em
-              alguns Mammaes.</sense>
+              alguns <term lemma="mamais" norm="Mamais">Mammaes</term>.</sense>
           </entry>
           <entry>
             <form xml:lang="la">VILLOSUS.</form>
@@ -1103,8 +1105,8 @@
           <head>T.</head>
           <entry>
             <form xml:lang="la">TALUM.</form>
-            <sense>Significa o calcanhar nos Mammaes, o qual serve para eles se sustentarem em pé,
-              como se vê no Homem, e no Urso.</sense>
+            <sense>Significa o calcanhar nos <term lemma="mamais" norm="Mamais">Mammaes</term>, o
+              qual serve para eles se sustentarem em pé, como se vê no Homem, e no Urso.</sense>
           </entry>
           <entry>
             <form xml:lang="la">TOPHUS.</form>
@@ -1172,7 +1174,8 @@
           </entry>
           <entry>
             <form xml:lang="la">ARTUS.</form>
-            <sense>Nas aves saõ as azas, os pés, e o uropigio. m.</sense>
+            <sense>Nas aves saõ as azas, os pés, e o <term lemma="uropígio">uropigio</term>.
+              m.</sense>
           </entry>
           <entry>
             <form xml:lang="la">AXILLAE.</form>
@@ -1190,11 +1193,11 @@
             </entry>
             <entry>
               <form xml:lang="la">— Mystacces</form>
-              <sense>V. Mammaes.</sense>
+              <sense>V. <term lemma="mamais" norm="Mamais">Mammaes</term>.</sense>
             </entry>
             <entry>
               <form xml:lang="la">— Vibrissae</form>
-              <sense>V. Mammaes.</sense>
+              <sense>V. <term lemma="mamais" norm="Mamais">Mammaes</term>.</sense>
             </entry>
           </entry>
           <entry>
@@ -1274,8 +1277,8 @@
           <entry>
             <form xml:lang="la">CAUDA.</form>
             <sense>Este termo he improprio nas Aves pela falta da continuação das vertebras, a cujo
-              defeito suprem as penas, que estaõ postas no uropigio, as quaes lhe servem de leme,
-              porem esta he diversa, a saber. Tab.II.fig.2.1.</sense>
+              defeito suprem as penas, que estaõ postas no <term lemma="uropígio">uropigio</term>,
+              as quaes lhe servem de leme, porem esta he diversa, a saber. Tab.II.fig.2.1.</sense>
             <entry>
               <form xml:lang="la">— Aequalis.</form>
               <sense>O mesmo que integra.</sense>
@@ -1362,10 +1365,10 @@
           </entry>
           <entry>
             <form xml:lang="la">CRYSSUM.</form>
-            <sense>He o lado inferior do uropigio, ou espaço, que está entre o ano, e o apice do <pb
-                n="17"
+            <sense>He o lado inferior do <term lemma="uropígio">uropigio</term>, ou espaço, que está
+              entre o ano, e o apice do <pb n="17"
                 facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0031.jp2&amp;id=diccionariodost00vand"
-              />mesmo uropygio. Tab.II.fig.2.l.u.</sense>
+              />mesmo <term lemma="uropígio">uropygio</term>. Tab.II.fig.2.l.u.</sense>
           </entry>
           <entry>
             <form xml:lang="la">CRISTA.</form>
@@ -1596,7 +1599,7 @@
           </entry>
           <entry>
             <form xml:lang="la">MEMBRANA Nictitans.</form>
-            <sense>V. nos Mammaes.</sense>
+            <sense>V. nos <term lemma="mamais" norm="Mamais">Mammaes</term>.</sense>
           </entry>
           <entry>
             <form xml:lang="la">MIGRATIO.</form>
@@ -1682,7 +1685,7 @@
           <head>P.</head>
           <entry>
             <form xml:lang="la">PALEARE.</form>
-            <sense>V. Mammaes. Ardea pavonina.</sense>
+            <sense>V. <term lemma="mamais" norm="Mamais">Mammaes</term>. Ardea pavonina.</sense>
           </entry>
           <entry>
             <form xml:lang="la">PALEARIA Curunculata.</form>
@@ -1704,7 +1707,8 @@
           <entry>
             <form xml:lang="la">PEDICILLUM.</form>
             <sense>He huma uniaõ de pellos, que cerca a <term lemma="glândula">glandula</term>, ou
-              poro oleifero, que está posto na parte superior do uropigio em as Aves. m.</sense>
+              poro oleifero, que está posto na parte superior do <term lemma="uropígio"
+                >uropigio</term> em as Aves. m.</sense>
           </entry>
           <entry>
             <form xml:lang="la">PENNA.</form>
@@ -1810,7 +1814,8 @@
           <entry>
             <form xml:lang="la">PORUS Oleiferus.</form>
             <sense>Da-se esta nome a huma <term lemma="glândula">glandula</term>, que termina o
-              dorso das Aves acima do uropigio, e que contem huma materia sebacea. B.</sense>
+              dorso das Aves acima do <term lemma="uropígio">uropigio</term>, e que contem huma
+              materia sebacea. B.</sense>
           </entry>
         </div>
         <div type="letra">
@@ -1836,10 +1841,11 @@
             facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0038.jp2&amp;id=diccionariodost00vand"/>
           <entry>
             <form xml:lang="la">RECTRICES.</form>
-            <sense>Saõ as pennas da cauda pegadas em modo de pente, ou cilias ao uropygio;
-              vulgarmente saõ doze, e contaõ-se da ultima até á do meio; em muitas Gallinhas, e
-              Patos saõ mais de doze, em muitas Pegas saõ somente dez; que servem as Aves como leme,
-              com que as mesmas Aves se propellem, e guiaõ o seu corpo. D.</sense>
+            <sense>Saõ as pennas da cauda pegadas em modo de pente, ou cilias ao <term
+                lemma="uropígio">uropygio</term>; vulgarmente saõ doze, e contaõ-se da ultima até á
+              do meio; em muitas Gallinhas, e Patos saõ mais de doze, em muitas Pegas saõ somente
+              dez; que servem as Aves como leme, com que as mesmas Aves se propellem, e guiaõ o seu
+              corpo. D.</sense>
           </entry>
           <entry>
             <form xml:lang="la">REMIGES Pennae.</form>
@@ -2375,9 +2381,10 @@
           </entry>
           <entry xml:id="apertura-branchiarum">
             <form xml:lang="la">APERTURA branchiarum.</form>
-            <sense>Abertura das branchias, ou guelras, he huma abertura quasi sempre situada na
-              parte posterior ou lateral da cabeça que se abre entre os operculos e o tronco. Ella
-              acaba dentro da boca, contem as guelras, que saõ as partes interiores.</sense>
+            <sense>Abertura das <term lemma="brânquia" norm="brânquias" msd="plural"
+                >branchias</term>, ou guelras, he huma abertura quasi sempre situada na parte
+              posterior ou lateral da cabeça que se abre entre os operculos e o tronco. Ella acaba
+              dentro da boca, contem as guelras, que saõ as partes interiores.</sense>
             <pb n="33"
               facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0047.jp2&amp;id=diccionariodost00vand"/>
             <dictScrap>Pela situaçaõ.</dictScrap>
@@ -2493,14 +2500,16 @@
           </entry>
           <entry>
             <form xml:lang="la">BRANCHIA.</form>
-            <sense>As branchias ou guelras saõ os primeiros orgaõs da respiraçaõ nos peixes. Estaõ
-              postas entre a cabeça e o tronco. Para cada huma se ver he necessario levantar o
-              operculo branchial e ter dobrada a membrana branchiostega; e na abertura branchiostega
-              que entaõ fica aberta he que se vé o que propriamente se chama guelra. Desunindo-se
-              humas das outras daõ postagem á agua que o peixe engulio e que quer deitar fora da sua
-              gûela, avizinhando-se entre si e estando os operculos fechados, acha-se a agua retida,
-              e não pode sahir sem se dilatarem as guelras, e sem se levantarem os
-              operculos.</sense>
+            <sense>As <term lemma="brânquia" norm="brânquias" msd="plural">branchias</term> ou
+              guelras saõ os primeiros orgaõs da respiraçaõ nos peixes. Estaõ postas entre a cabeça
+              e o tronco. Para cada huma se ver he necessario levantar o operculo branchial e ter
+              dobrada a <term lemma="membrana branquióstega">membrana branchiostega</term>; e na
+              abertura <term lemma="branquióstego" norm="branquióstega" msd="feminino singular"
+                senseNumber="2">branchiostega</term> que entaõ fica aberta he que se vé o que
+              propriamente se chama guelra. Desunindo-se humas das outras daõ postagem á agua que o
+              peixe engulio e que quer deitar fora da sua gûela, avizinhando-se entre si e estando
+              os operculos fechados, acha-se a agua retida, e não pode sahir sem se dilatarem as
+              guelras, e sem se levantarem os operculos.</sense>
             <sense>Saõ compostas de quatro pequenos ossiculos, arqueados paralelos, desiguaes,
               postos huns contra <pb n="35"
                 facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0049.jp2&amp;id=diccionariodost00vand"
@@ -2526,7 +2535,8 @@
             </entry>
             <entry>
               <form xml:lang="la">— Laterales.</form>
-              <sense>Lateraes, que estaõ postas em os lados nos peixes branchiostegos.</sense>
+              <sense>Lateraes, que estaõ postas em os lados nos peixes <term lemma="branquióstego"
+                  norm="branquióstegos" msd="masculino plural">branchiostegos</term>.</sense>
             </entry>
             <entry>
               <form xml:lang="la">— Occipitales.</form>
@@ -2545,8 +2555,9 @@
             <dictScrap>Pela estructura.</dictScrap>
             <entry>
               <form xml:lang="la">— Simplices.</form>
-              <sense>Da mesma natureza, guarnecidas ou de sedas, ou de tubulos carnosos, ou de <term
-                  lemma="tubérculo" norm="tubérculos" msd="plural">tuberculos</term> .</sense>
+              <sense>Da mesma natureza, guarnecidas ou de sedas, ou de <term lemma="túbulo"
+                  norm="túbulos" msd="plural">tubulos</term> carnosos, ou de <term lemma="tubérculo"
+                  norm="tubérculos" msd="plural">tuberculos</term>.</sense>
             </entry>
             <entry>
               <form xml:lang="la">— Dissimiles, disformes, anomalae.</form>
@@ -3149,8 +3160,9 @@
           </entry>
           <entry>
             <form xml:lang="la">GULA.</form>
-            <sense>A gûela he a parte do tronco, que corresponde ás barbatanas das branchias, ou
-              guelras, e que está posta entre as mesmas. fig. 4. c.</sense>
+            <sense>A gûela he a parte do tronco, que corresponde ás barbatanas das <term
+                lemma="brânquia" norm="brânquias" msd="plural">branchias</term>, ou guelras, e que
+              está posta entre as mesmas. fig. 4. c.</sense>
             <entry>
               <form xml:lang="la">— Ventricosa.</form>
               <sense>Barriguda, quando excede a superficie do corpo da cabeça. Blennius,
@@ -3546,23 +3558,24 @@
             <form xml:lang="la">MEMBRANA Branchiostega, seu branchialis.</form>
             <sense>Esta he huma verdadeira pinna, ou barbatana composta de raios curvos, desiguaes,
               unidos entre si por huma membrana. Esta esconde-se debaixo dos operculos das guelras,
-              a que esta pegada. Esta membrana, ou pinna branchiostega he dobrada, e redobrada
-              debaixo do operculo; pode-se allongar, e estender como as outras barbatanas do corpo;
-              na sua maior extensaõ, he muito maior que o operculo, serve para a respiraçaõ. fig. I.
-              A. fig. 4.e.</sense>
+              a que esta pegada. Esta <term lemma="membrana branquióstega">membrana, ou pinna
+                branchiostega</term> he dobrada, e redobrada debaixo do operculo; pode-se allongar,
+              e estender como as outras barbatanas do corpo; na sua maior extensaõ, he muito maior
+              que o operculo, serve para a respiraçaõ. fig. I. A. fig. 4.e.</sense>
             <sense>Esta membrana, e os operculos tem o seu uso comum, que he o de reter a agua, que
               peixe faz passar da guéla ao travez das guèlras, que entaõ se desunem humas das outras
               para se unirem logo, em quanto os operculos ficaõ abatidos, e fechaõ a abertura; que
               communica as guelras. Depois levantaõ-se os operculos, e abrem a abertura das guélras;
-              a membrana branchiostega se <pb n="51"
+              a <term lemma="membrana branquióstega">membrana branchiostega</term> se <pb n="51"
                 facs="https://ia804603.us.archive.org/BookReader/BookReaderImages.php?zip=/23/items/diccionariodost00vand/diccionariodost00vand_jp2.zip&amp;file=diccionariodost00vand_jp2/diccionariodost00vand_0065.jp2&amp;id=diccionariodost00vand"
               />estende para alí, a agua, que antes estava como fechada entre a abertura, e os
               operculos acha-se expellida, e a abertura das guélras fechada. Em fim os operculos
-              abaixaõ-se pouco, a pouco, e a membrana branchiostega contrahe-se, ou dobrase. Esta
-              membrana, e o operculo pode considerar-se como huma valvula de duas laminas, que se
-              levanta, e abaixa á vontade do animal segundo a necessidade que elle tem de lançar
-              fora a agua, ou o ar. A membrana branchiostega sempre he huma só; mas varîa pelo
-              numero, e forma dos raios, ou ossiculos, dos quaes he composta.</sense>
+              abaixaõ-se pouco, a pouco, e a <term lemma="membrana branquióstega">membrana
+                branchiostega</term> contrahe-se, ou dobrase. Esta membrana, e o operculo pode
+              considerar-se como huma valvula de duas laminas, que se levanta, e abaixa á vontade do
+              animal segundo a necessidade que elle tem de lançar fora a agua, ou o ar. A <term
+                lemma="membrana branquióstega">membrana branchiostega</term> sempre he huma só; mas
+              varîa pelo numero, e forma dos raios, ou ossiculos, dos quaes he composta.</sense>
             <dictScrap>Pelo numero.</dictScrap>
             <entry>
               <form xml:lang="la">— Uniradiata.</form>
@@ -3694,8 +3707,8 @@
             </entry>
             <entry>
               <form xml:lang="la">— Solitariae.</form>
-              <sense> Que naõ tem mais, que hum buraco em cada parte, como nos Mammaes; mas estes
-                saõ muito raros.</sense>
+              <sense> Que naõ tem mais, que hum buraco em cada parte, como nos <term lemma="mamais"
+                  norm="Mamais">Mammaes</term>; mas estes saõ muito raros.</sense>
             </entry>
             <entry>
               <form xml:lang="la">— Geminae, binæ.</form>
@@ -3832,10 +3845,11 @@
             <form xml:lang="la">OPERCULA Branchiarum.</form>
             <sense> Operculo das guélras he hum corpo <term>escamoso</term> posto na parte posterior
               dos queixos de cada parte da cabeça atrás dos olhos. O seu uso, he de ter fechada a
-              abertura das guélras, e defendellas dos corpos externos, e suster a membrana
-              branchiostega. Tab. V. fig. 4. c. fig. 5. c. <sense>Os operculos variaõ em differentes
-                peixes pela sua estructura, pelo movimento, pelo numero das peças, ou laminas, de
-                que constaõ, pela proporçaõ, e superficie.</sense>
+              abertura das guélras, e defendellas dos corpos externos, e suster a <term
+                lemma="membrana branquióstega">membrana branchiostega</term>. Tab. V. fig. 4. c.
+              fig. 5. c. <sense>Os operculos variaõ em differentes peixes pela sua estructura, pelo
+                movimento, pelo numero das peças, ou laminas, de que constaõ, pela proporçaõ, e
+                superficie.</sense>
             </sense>
             <dictScrap>Pela estructura.</dictScrap>
             <entry>
@@ -4227,7 +4241,8 @@
             </entry>
             <entry>
               <form xml:lang="la">— Branchialis, branchiostega.</form>
-              <sense> He a membrana branchiostega. V. Membrana branchiostega.</sense>
+              <sense> He a <term lemma="membrana branquióstega">membrana branchiostega</term>. V.
+                Membrana branchiostega.</sense>
               <dictScrap>Pela estructura.</dictScrap>
             </entry>
             <entry>
