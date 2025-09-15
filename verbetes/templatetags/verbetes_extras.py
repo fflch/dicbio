@@ -43,7 +43,7 @@ def formatar_autores(autores_str):
         else:
             autores_formatados.append(autor_completo.upper())
 
-    return "; ".join(autores_formatados) + "."
+    return "; ".join(autores_formatados)
 
 #====================================================================
 # Filtro: process_sentence_display (VERSÃO ATUALIZADA E CORRETA)

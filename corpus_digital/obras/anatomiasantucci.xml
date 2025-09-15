@@ -538,7 +538,8 @@
         <p>Orificio esquerdo do Ventriculo.</p>
         <p>Fundo do Ventriculo.</p>
         <p>Orificio direito do Ventriculo.</p>
-        <p>Vasos coronarios, com a primeira tunica do Ventriculo.</p>
+        <p>Vasos <term lemma="coronário" norm="coronários" msd="masculino plural">coronarios</term>,
+          com a primeira tunica do Ventriculo.</p>
         <p>Parte do Isophago, cortado.</p>
         <p>Os nervos do Isophago, e do Ventriculo.</p>
         <p>Parte do Intestino Duodeno.</p>
@@ -842,7 +843,8 @@
         <p>Onde se vê como o diaphragma reparte as duas cavidades.</p>
         <p>Rim direito.</p>
         <p>Vea Cava ascendente.</p>
-        <p>Arteria Carotida.</p>
+        <p>Arteria <term lemma="carótida" norm="Carótida" msd="adjetivo singular"
+          >Carotida</term>.</p>
         <p>Vea Jugular.</p>
         <pb n="não numerada 52"
           facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0062.jp2&amp;id=anatomiadocorpoh01sant"/>
@@ -874,7 +876,8 @@
         <p>Parte da vea Cava superior descendente.</p>
         <p>Vea Cava inferior ascendente.</p>
         <p>Arteria magna, que sahe do coraçaõ, e pericardio.</p>
-        <p>Arterias carotidas.</p>
+        <p>Arterias <term lemma="carótida" norm="carótidas" msd="adjetivo plural"
+          >carotidas</term>.</p>
         <p>Orelha direita do coraçaõ.</p>
         <p>Orelha esquerda do coraçaõ.</p>
         <p>Nervos, que vaõ ao coraçaõ.</p>
@@ -902,12 +905,14 @@
         <p>Vea Cava descendente.</p>
         <p>Vea Cava ascendente.</p>
         <p>Arteria Aorta ascendente.</p>
-        <p>Arterias carotidas.</p>
+        <p>Arterias <term lemma="carótida" norm="carótidas" msd="adjetivo plural"
+          >carotidas</term>.</p>
         <p>Arterias subclavias.</p>
         <p>Arteria Aorta descendente.</p>
         <p>Figura terceira mostra o coraçaõ de hum aborto, com os vasos dos bofes cheyos, e
           conservados com ceras balsamicas de diversa cor.</p>
-        <p>Coraçaõ cõ suas arterias, e veas coronarias.</p>
+        <p>Coraçaõ cõ suas arterias, e veas <term lemma="coronário" norm="coronárias"
+            msd="feminino plural">coronarias</term>.</p>
         <p>Arteria Aorta cortada.</p>
         <p>Vea Cava ascendente cortada.</p>
         <p>Arteria Pulmonar, e seus ramos.</p>
@@ -930,7 +935,8 @@
         <p>Base da orelha com que se une ao coraçaõ.</p>
         <p>Circulo <term>tendinoso</term> com que se une à vea Cava.</p>
         <p>Columnas carnosas, que vaõ da base até o fundo.</p>
-        <p>Orificios das veas Coronarias.</p>
+        <p>Orificios das veas <term lemma="coronário" norm="Coronárias" msd="feminino plural"
+            >Coronarias</term>.</p>
         <p>Figura setima.</p>
         <p>Representa as tres valvulas semilunares.</p>
         <p>Parte da arteria Aorta.</p>
@@ -1031,10 +1037,13 @@
         <p>Arterias subclavias.</p>
         <p>Arterias musculas da cervice.</p>
         <p>Arterias scapulares externas.</p>
-        <p>Ramos das arterias carotidas externas.</p>
-        <p>Onde se unem as carotidas internas entre si.</p>
+        <p>Ramos das arterias <term lemma="carótida" norm="carótidas" msd="adjetivo plural"
+            >carotidas</term> externas.</p>
+        <p>Onde se unem as <term lemma="carótida" norm="carótidas" msd="substantivo plural"
+            >carotidas</term> internas entre si.</p>
         <p>Arterias tempor.</p>
-        <p>Carotidas internas.</p>
+        <p><term lemma="carótida" norm="Carótidas" msd="substantivo plural">Carotidas</term>
+          internas.</p>
         <p>Arterias do toutiço, ou occipitaes.</p>
         <p>Arterias Celiacas.</p>
         <p>Arterias splenicas, e epaticas.</p>
@@ -1043,7 +1052,8 @@
         <p>Arterias intercostaes superiores.</p>
         <p>Arterias intercostaes inferìores.</p>
         <p>Duas arterias, que vaõ aos musculos Deltoides.</p>
-        <p>Arterias coronarias do coraçaõ.</p>
+        <p>Arterias <term lemma="coronário" norm="coronárias" msd="feminino plural"
+            >coronarias</term> do coraçaõ.</p>
         <p>Ramo menor da Axillar com os seus ramos, que acabaõ na flexura do cubito.</p>
         <p>Arterias scapulares internas.</p>
         <p>Tronco, ou ramo mayor da Axillar, que vay continuando pelo braço.</p>
@@ -2016,10 +2026,28 @@
           <note>Orificio da bainha. Est 5. fig. 1. r. Regner Graaf de Hymene, pag. 188. c. v.</note>
           <note>Hymen.</note>
           <p>8 Quasi no meyo das partes pudendas està o orificio da bainha, que tem ao redor huma
-            substancia esponjosa, e hum circulo membranoso, que os Anatomicos, chamaõ Hymen. Este
-            orificio como tudo o mais</p>
-          <pb n="82"
-            facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0202.jp2&amp;id=anatomiadocorpoh01sant"/>
+            substancia esponjosa, e hum circulo membranoso, que os Anatomicos, chamaõ <term
+              lemma="hímen" norm="Hímen">Hymen</term>. Este orificio como tudo o <pb n="82"
+              facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0202.jp2&amp;id=anatomiadocorpoh01sant"
+            />mais nas virgens he apertado, nas outras mulheres se alargaõ com o parto, e com o
+            mais. Do dito orificio começa a bainha, que he hum canal, que vay por entre a bexiga, e
+            o intestino recto atè a boca do utero, e tem de comprimento seis, ou sete dedos. A sua
+            tunica interior he nervosa, e aspera por causa das rugas, e papillas, que tem, as quaes
+            depois por algumas causas naõ apparecem.</p>
+          <note>Bainha do utero. fig. 2.</note>
+          <note>Tem rugas, e papillas.</note>
+          <note>Tem a bainha huns buraquinhos. Tem humas fibras carnosas a modo de sphincter. Est.
+            5. fig. 1. rh.</note>
+          <p>9 Na cavidade da dita bainha se vem huns buraquinhos, e ductos semelhantes àquelles,
+            que estaõ perto da uretra, e tem quasi o mesmo uso. A tunica exterior da bainha tem
+            humas fibras carnosas a modo de sphincter, que servem de unir a mesma bainha ao
+            intestino recto, e estaõ ao redor de hum, e outro, e servem para os apertar. Parte deste
+            sphincter parece, que he aquelle musculo, que chamaõ constrictorio. A bainha està pegada
+            ao utero, que he aquella parte organica, que nas mulheres da mesma sorte, que nos outros
+            animaes femininos, serve para receber aquillo, que he principio do corpo vivente, e para
+            o reduzir à sua perfeita, e inteira fórma.</p>
+          <note>O utero.</note>
+          <note>Seu uso.</note>
           <pb n="83"
             facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0203.jp2&amp;id=anatomiadocorpoh01sant"/>
           <pb n="84"
@@ -2182,16 +2210,17 @@
             fechar os seus orificios. Das valvulas semilunares pertencem tres a cada arteria, e
             estaõ pegadas aos lados dos ventriculos, e totalmente afastadas do ducto das
             arterias.</p>
-          <note>Valrulas tricuspides, ou mitraes. Fig. 8. est. 7.</note>
+          <note>Valvulas tricuspides, ou mitraes. Fig. 8. est. 7.</note>
           <p>15 Tem o coraçaõ a sua membrana propria, que o cobre, a qual he muy delgada, e
             difficultosa de separarse; tem tambem o coraçaõ as suas arterias, e veas proprias, que,
-            como diremos, se chamaõ Coronarias, porque juntamente cercaõ a base do mesmo coraçaõ a
-            modo de Coroa. O coraçãõ tem nervos pequenos, que sahem do par vago, e do intercostal:
-            alguns tambem notaraõ, que ahi se achaõ vasos lymphaticos, que vaõ ao ducto
-            thoracico.</p>
+            como diremos, se chamaõ <term lemma="coronário" norm="Coronárias" msd="feminino plural"
+              >Coronarias</term>, porque juntamente cercaõ a base do mesmo coraçaõ a modo de Coroa.
+            O coraçaõ tem nervos pequenos, que sahem do par vago, e do intercostal: alguns tambem
+            notaraõ, que ahi se achaõ vasos lymphaticos, que vaõ ao ducto thoracico.</p>
           <note>Membranas do coraçaõ.</note>
           <note>Est. 7. fig. 3.</note>
-          <note>Arterias, e veas Coronarias do coraçaõ.</note>
+          <note>Arterias, e veas <term lemma="coronário" norm="Coronárias" msd="feminino plural"
+              >Coronarias</term> do coraçaõ.</note>
           <note>Seus nervos, e vasos lymphaticos.</note>
           <p>16 Exposta a estructura do coraçaõ, agora diremos dos vasos, e das suas
             ramificações.</p>
@@ -2689,8 +2718,9 @@
           <note>Ossos da molleira, ou synciput A membrana Fontainha As foveas ou regos dos ditos
             ossos</note>
           <p>9 Estes ossos interiormente tem certas cavidades chamadas Foveas, ou regos. Estes
-            servem para a commodidade dos ramos das arterias carotidas, que estaõ espalhadas pela
-            Dura-mater. Estes regos ou <pb n="258"
+            servem para a commodidade dos ramos das arterias <term lemma="carótida" norm="carótidas"
+              msd="adjetivo plural">carotidas</term>, que estaõ espalhadas pela Dura-mater. Estes
+            regos ou <pb n="258"
               facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0378.jp2&amp;id=anatomiadocorpoh01sant"
             />cavidades saõ mayores, e mais profundos, e estaõ perto dos ossos das fontes.</p>
           <p>10 <s>O osso do toutiço chamado tambem <term lemma="ócciput" norm="Ócciput"
@@ -2784,7 +2814,8 @@
             seis. <s>O primeiro he transcolatorio da <term lemma="glândula">glandula</term>
               Pituitaria, o segundo he por onde passaõ os nervos opticos.</s> O terceiro he dos
             nervos motorios, o quarto he do nervo crotasides, o quinto he do nervo, que vay para o
-            orgaõ do gosto; finalmente, o sexto buraco he por onde passaõ as arterias Carotidas.</p>
+            orgaõ do gosto; finalmente, o sexto buraco he por onde passaõ as arterias <term
+              lemma="carótida" norm="Carótidas" msd="adjetivo plural">Carotidas</term>.</p>
           <p>24 <s>Tres saõ as cavidades, ou covas, huma he interna, e he aquella, que serve de base
               à <term lemma="glândula">glandula</term> pituitaria, duas saõ externas, que estaõ no
               principio dos processos Aliformes.</s></p>
