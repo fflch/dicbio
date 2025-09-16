@@ -3,6 +3,13 @@
     overflow-y: auto;
 }
 
+.verbetes-sidebar-container {
+    height: 80vh; /* Exemplo: 80% da altura da tela */
+    overflow-y: auto;
+    position: sticky; /* Sticky é ótimo para manter a barra visível enquanto rola o conteúdo principal */
+    top: 20px; /* Um pequeno espaçamento do topo */
+}
+
 .visually-hidden-focusable {
     position: absolute;
     width: 1px;
