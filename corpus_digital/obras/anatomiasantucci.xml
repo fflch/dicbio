@@ -1051,15 +1051,50 @@
         <p>Arterias mamarias</p>
         <p>Arterias intercostaes superiores.</p>
         <p>Arterias intercostaes inferìores.</p>
-        <p>Duas arterias, que vaõ aos musculos Deltoides.</p>
+        <p>Duas arterias, que vaõ aos musculos <term lemma="deltoide" msd="plural"
+          >Deltoides</term>.</p>
         <p>Arterias <term lemma="coronário" norm="coronárias" msd="feminino plural"
             >coronarias</term> do coraçaõ.</p>
         <p>Ramo menor da Axillar com os seus ramos, que acabaõ na flexura do cubito.</p>
         <p>Arterias scapulares internas.</p>
         <p>Tronco, ou ramo mayor da Axillar, que vay continuando pelo braço.</p>
+
+        <pb n="não numerada 66"
+          facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0078.jp2&amp;id=anatomiadocorpoh01sant"/>
+        <p>Arteria Thoracica superior.</p>
+        <p>Arteria Thoracica inferior.</p>
+        <p>Arteria cubit.</p>
+        <p>Arteria radial.</p>
+        <p>Ramos das arterias, que vaõ ao dedo polegar, e index, que saõ do radial.</p>
+        <p>Primeiro arco do carpo.</p>
+        <p>Segundo arco do metacarpo.</p>
+        <p>Ramos derivados da cubital.</p>
+        <p>Arterias emulgẽtes.</p>
+        <p>Arterias adiposas, ou epiploicas.</p>
+        <p>Arterias gastricas.</p>
+        <p>Arterias meseraicas superiores, e seus arcos, que fazẽ no mesenterio.</p>
+        <p>Arterias lombar.</p>
+        <p>Arterias espermaticas.</p>
+        <p>Arterias meseraicas inferiores.</p>
+        <p>Arterias Iliacas externas.</p>
+        <p>Arterias lliacas internas.</p>
+        <p>Arteria Sacra.</p>
+        <p>Arterias epigastric.</p>
+        <p>Arterias pudendas.</p>
+        <p>Arterias cruraes.</p>
+        <p>Arteria muscula, ou crural externa.</p>
+        <p>Arteria muscula, ou crural interna.</p>
+        <p>Arteria poplitea.</p>
+        <p>Arteria Tibial externa.</p>
+        <p>Arteria sural.</p>
+        <p>Arteria Tibial interna.</p>
+        <p>Arteria do peito do pé.</p>
+        <p>Arteria do calcanhar, e sua divis.</p>
+        <p>Arteria da planta do pé, que se ajũta, e fórma o arco.</p>
+        <p>Fig. seg. he da vea Porta.</p>
+        <p>Ramos da vea Porta, que estaõ dentro da substancia do figado.</p>
+        <p>Bexiga do fel que está unida aos ramos da vea Porta.</p>
       </div>
-      <pb n="não numerada 66 - Arteria Thoracica"
-        facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0078.jp2&amp;id=anatomiadocorpoh01sant"/>
       <pb n="não numerada 67" type="em_branco"
         facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0079.jp2&amp;id=anatomiadocorpoh01sant"/>
       <pb n="não numerada 68" type="apenas_imagem"
@@ -3119,8 +3154,9 @@
               sómente de dous tendoens, chama-se simples o <term lemma="músculo">musculo</term>;
               quando saõ muitos os ventres, e cada hum tem dous tendoens, chama-se composto. Do
               primeiro genero saõ os flexores dos Artus, e dos membros.</s>
-            <s>Do segundo genero saõ os chamados <term>masseter</term>, e Deltoydes, dos quaes o
-              primeiro serve para mover o queixo inferior, o outro para levantar o hombro.</s>
+            <s>Do segundo genero saõ os chamados <term>masseter</term>, e <term lemma="deltoide"
+                >Deltoydes</term>, dos quaes o primeiro serve para mover o queixo inferior, o outro
+              para levantar o hombro.</s>
             <s>Estas saõ aquellas cousas, que nos <term lemma="músculo" norm="músculos" msd="plural"
                 >musculos</term> se vem com os olhos; agora havemos de tratar das que mais se
               conhecem com o entendimento, do que com os mesmos olhos, ainda por meyo do
@@ -3556,15 +3592,15 @@
         </div>
         <div type="capítulo" n="12">
           <head>CAPITULO XII. Dos musculos do braço, ou hombro.</head>
-          <p>1 Faz o braço cinco movimentos por meyo de nove musculos, com dous, que saõ Deltoides,
-            e o supra-Espinhado se levanta; com outros dous se move para baixo, que saõ o latissimo
-            do dorso, e o redondo mayor; move-se para diante com o Peitoral mayor; e o Coracoideo:
-            move-se para traz com o Infraspinhado, e redondo menor: chega-se finalmente o braço às
-            costellas, mediante o musculo Subscapular.</p>
-          <note>Deltoides, ou triangular do hombro.</note>
-          <p>2 O Deltoides he assim chamado, por ser semelhante à letra Delta dos Gregos, chama-se
-            tambem triangular do hombro; nasce da metade da Clavicula, do processo Acromion, e de
-            toda a Espinha da espadoa, <pb n="354"
+          <p>1 Faz o braço cinco movimentos por meyo de nove musculos, com dous, que saõ <term
+              lemma="deltoide">Deltoides</term>, e o supra-Espinhado se levanta; com outros dous se
+            move para baixo, que saõ o latissimo do dorso, e o redondo mayor; move-se para diante
+            com o Peitoral mayor; e o Coracoideo: move-se para traz com o Infraspinhado, e redondo
+            menor: chega-se finalmente o braço às costellas, mediante o musculo Subscapular.</p>
+          <note><term lemma="deltoide">Deltoides</term>, ou triangular do hombro.</note>
+          <p>2 O <term lemma="deltoide">Deltoides</term> he assim chamado, por ser semelhante à
+            letra Delta dos Gregos, chama-se tambem triangular do hombro; nasce da metade da
+            Clavicula, do processo Acromion, e de toda a Espinha da espadoa, <pb n="354"
               facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0474.jp2&amp;id=anatomiadocorpoh01sant"
             />e estreitando-se pouco a pouco, acaba com hum tendaõ muy forte, quasi no meyo do osso
             do braço, pela parte interna, e anterior, mas superiormente.</p>
@@ -3574,8 +3610,8 @@
           <p>4 O Supra-Espinhado, he assim chamado, porque occupa toda a cavidade superior, que está
             acima da Espinha da espadoa; nasce da parte externa da base da espadoa, a saber: do seu
             angulo entre a cavidade acima dita, e acaba perto do pescoço, ou còllo do osso do braço,
-            ao qual cerca com o seu tendaõ largo, e dilatado, e este musculo com o Deltoides serve
-            de levantar o braço.</p>
+            ao qual cerca com o seu tendaõ largo, e dilatado, e este musculo com o <term
+              lemma="deltoide">Deltoides</term> serve de levantar o braço.</p>
           <note>O Supra Espinhado. O Latissimo do Dorso, ou Aniscalptor.</note>
           <p>5 O Latissimo do Dorso se chama assim por ser muy largo, he chamado tambem Aniscalptor,
             porque leva a maõ para o Ano: com este musculo estaõ cubertas quasi todas as costas;

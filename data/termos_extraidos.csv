@@ -59,6 +59,7 @@ carotidas,carótida,carótidas,adjetivo plural,1,Ramos das arterias [[b]]carotid
 carotidas,carótida,carótidas,substantivo plural,1,Onde se unem as [[b]]carotidas[[/b]] internas entre si.,SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
 Carotidas,carótida,Carótidas,substantivo plural,1,"[[b]]Carotidas[[/b]]
           internas.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
+Deltoides,deltoide,deltoide,plural,1,"Duas arterias, que vaõ aos musculos [[b]]Deltoides[[/b]].",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
 coronarias,coronário,coronárias,feminino plural,1,Arterias [[b]]coronarias[[/b]] do coraçaõ.,SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
 musculos,músculo,músculos,plural,1,"Tambem os [[b]]musculos[[/b]], e as carnes se compoem das mesmas fibras nervosas, as quaes mais
               unidas entre si, e constipadas, constituem os tendoens dos musculos.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,3
@@ -610,8 +611,10 @@ musculo,músculo,músculo,,1,"Quando o ventre do [[b]]musculo[[/b]] he hum só, 
               sómente de dous tendoens, chama-se simples o musculo;
               quando saõ muitos os ventres, e cada hum tem dous tendoens, chama-se composto. Do
               primeiro genero saõ os flexores dos Artus, e dos membros.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,327
-masseter,masseter,masseter,,1,"Do segundo genero saõ os chamados [[b]]masseter[[/b]], e Deltoydes, dos quaes o
-              primeiro serve para mover o queixo inferior, o outro para levantar o hombro.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,327
+masseter,masseter,masseter,,1,"Do segundo genero saõ os chamados [[b]]masseter[[/b]], e Deltoydes, dos quaes o primeiro serve para mover o queixo inferior, o outro
+              para levantar o hombro.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,327
+Deltoydes,deltoide,deltoide,,1,"Do segundo genero saõ os chamados masseter, e [[b]]Deltoydes[[/b]], dos quaes o primeiro serve para mover o queixo inferior, o outro
+              para levantar o hombro.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,327
 musculos,músculo,músculos,plural,1,"Estas saõ aquellas cousas, que nos [[b]]musculos[[/b]] se vem com os olhos; agora havemos de tratar das que mais se
               conhecem com o entendimento, do que com os mesmos olhos, ainda por meyo do
               microscopio, e este conhecimento he necessario para se entender o movimento dos mesmos
@@ -861,6 +864,19 @@ tendinoso,tendinoso,tendinoso,,1,"Nascem os Longos com principio [[b]]tendinoso[
               segunda vertebra do Thorax, e estaõ por baixo do Isophago, e acabaõ na parte anterior da Atlante.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,349
 Isophago,esôfago,Esôfago,,1,"Nascem os Longos com principio tendinoso, e delgado do corpo da
               segunda vertebra do Thorax, e estaõ por baixo do [[b]]Isophago[[/b]], e acabaõ na parte anterior da Atlante.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,349
+Deltoides,deltoide,deltoide,,1,"1 Faz o braço cinco movimentos por meyo de nove musculos, com dous, que saõ [[b]]Deltoides[[/b]], e o supra-Espinhado se levanta; com outros dous se
+            move para baixo, que saõ o latissimo do dorso, e o redondo mayor; move-se para diante
+            com o Peitoral mayor; e o Coracoideo: move-se para traz com o Infraspinhado, e redondo
+            menor: chega-se finalmente o braço às costellas, mediante o musculo Subscapular.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,353
+Deltoides,deltoide,deltoide,,1,"[[b]]Deltoides[[/b]], ou triangular do hombro.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,353
+Deltoides,deltoide,deltoide,,1,"2 O [[b]]Deltoides[[/b]] he assim chamado, por ser semelhante à
+            letra Delta dos Gregos, chama-se tambem triangular do hombro; nasce da metade da
+            Clavicula, do processo Acromion, e de toda a Espinha da espadoa, e estreitando-se pouco a pouco, acaba com hum tendaõ muy forte, quasi no meyo do osso
+            do braço, pela parte interna, e anterior, mas superiormente.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,353
+Deltoides,deltoide,deltoide,,1,"4 O Supra-Espinhado, he assim chamado, porque occupa toda a cavidade superior, que está
+            acima da Espinha da espadoa; nasce da parte externa da base da espadoa, a saber: do seu
+            angulo entre a cavidade acima dita, e acaba perto do pescoço, ou còllo do osso do braço,
+            ao qual cerca com o seu tendaõ largo, e dilatado, e este musculo com o [[b]]Deltoides[[/b]] serve de levantar o braço.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,354
 Carpo,carpo,carpo,,1,"O segundo he o Quadrado, que tem este nome pela sua figura quadrada; nasce da
               parte inferior externa do Cubito, perto ao [[b]]Carpo[[/b]], por baixo
               dos outros: o seu tendaõ, ou fim, he da mesma largura, que o principio, e acaba na

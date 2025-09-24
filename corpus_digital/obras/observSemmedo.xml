@@ -493,7 +493,8 @@
       <div type="sinopse">
         <list>
           <head>SYNOPSIS, Ou disposiçaõ do seguinte Romance Encomiastico.</head>
-          <item>Exordio descriptivo da morte como <list><item>Ley dos mortaes.</item>
+          <item>Exordio descriptivo da morte como <list>
+              <item>Ley dos mortaes.</item>
               <item>Castigo da primeira culpa.</item>
               <item>Termo dos seculos.</item>
               <item>Pensaõ da vida.</item>
@@ -504,11 +505,67 @@
               <item>Ramnusia cega.</item>
               <item>Angerona surda.</item>
               <item>Nivel dos Estados.</item>
-              <item>Cifra do nada vivente.</item></list>
+              <item>Cifra do nada vivente.</item>
+            </list>
           </item>
-          <item>Amplificaçaõ pelos seus effeitos.</item>
-          <item>Confirmaçaõ.</item>
-          <item>Allocuçaõ ao elogiado.</item>
+          <item>Amplificaçaõ pelos seus effeitos. <list>
+              <item>Antecedentes.<list>
+                  <item>Armase de enfermidades.</item>
+                  <item>Triunfa da humana fraqueza.</item>
+                  <item>Sepulta aos que desanima.</item>
+                </list></item>
+              <item>Subsequentes.<list>
+                  <item>Grava epitafios nos sepulcros.</item>
+                  <item>Corta lutos as familias orfãas.</item>
+                  <item>Deixa herança de lagrimas.</item>
+                </list></item>
+            </list>
+          </item>
+          <item>Confirmaçaõ. <list>
+              <item>Da sua necessidade; por̃q he ley penal imposta por Deos <list>
+                  <item>A Adaõ como transgressor do preceito divino.</item>
+                  <item>Aos demais homens, como posteridade sua.</item>
+                </list></item>
+              <item>Da conservaçaõ da vida, que he <list>
+                  <item>Ou hũa epiqueya da piedade.</item>
+                  <item>Ou huma ley racional ajustada à natureza.</item>
+                </list> o que se prova <list>
+                  <item>Pelas virtudes sabidas, &amp; ocultas <list>
+                      <item>Das plantas.</item>
+                      <item>Dos mineraes.</item>
+                      <item>Das fontes.</item>
+                      <item>&amp; outras substãcias muitas.</item>
+                    </list></item>
+                  <item>Pelas experiencias.</item>
+                  <item>Pelas Observações.</item>
+                  <item>Pelas tradições.</item>
+                  <item>Pelos remedios prodigiosos.</item>
+                  <item>Pelas curas admiraveis.</item>
+                  <item>que se fizeraõ. <list>
+                      <item>Arte.</item>
+                      <item>Escola.</item>
+                      <item>Aforismos.</item>
+                    </list></item>
+                  <item>que deraõ.<list>
+                      <item>Vida.</item>
+                      <item>Saude.</item>
+                    </list></item>
+                </list></item>
+              <item>De ser a vida humana huma viva guerra contra todos os males.</item>
+              <item>De ser tambem a Medicina huma ardilosa Milicia contra amorte, tendo por<list>
+                  <item>Capitaõ General a Apollo, que gera virtuosos productos.</item>
+                  <item>Alumnos<list>
+                      <item>A Esculapio, que mereceo deidade por suas curas.</item>
+                      <item>A Hippocrates, que foy seu Oraculo nos Aforismos.</item>
+                      <item>A Galeno, que existio seu Principe na sciencia.</item>
+                      <item>A outros Varões muitos de decantada fama.</item>
+                    </list></item>
+                </list></item>
+            </list></item>
+          <item>Allocuçaõ ao elogiado.<list>
+              <item>Que sua fama fez calar a dos antigos, &amp; modernos.</item>
+              <item>Que elle só basta por todo, paa defender as vidas.</item>
+            </list></item>
           <pb n="não numerada 14"
             facs="https://ia802806.us.archive.org/BookReader/BookReaderImages.php?zip=/4/items/bub_gb_qCVH54Hs2i0C/bub_gb_qCVH54Hs2i0C_jp2.zip&amp;file=bub_gb_qCVH54Hs2i0C_jp2/bub_gb_qCVH54Hs2i0C_0021.jp2&amp;id=bub_gb_qCVH54Hs2i0C"/>
           <item>Digressaõ.</item>
@@ -994,16 +1051,16 @@
           ordenadas com acerto, &amp; effeituadas com felicidade, puz todo o cuidado em conhecer a
           enfermidade, &amp; os lugares em que estava, para lhe applicar os remedios convenientes;
           mas como no mesmo lugar (qual he o ventre) hajaõ muitas partes, naõ he fácil distinguir o
-          sitio da dor pela acçaõ <pb n="4"/>lesa, nem pela retençaõ das fezes; porque tinha este senhor
-          continuos desejos de vomitar, grandes dores no ventre, excessiva adstriçaõ das fezes,
-          repetidas vontades de ourinar, o que fazia gotta a gotta, &amp; com grandissimos ardores.
-          Porèm como estes symptomas sejaõ quasi identicos na dor de colica, &amp; na nephritica,
-          &amp; se equivoquem entre si de maneira, que a dor que começou colica, acaba muitas vezes
-          nephritica, (1.) me vi muito embaraçado para distinguir huma dor da outra; porque sem ter
-          perfeito conhecimento da doença, me exporia a algum sinistro acontecimento: porque se a
-          dor fosse verdadeiramente colica, &amp; eu lhe applicasse remedios diureticos, faria hum
-          erro da primeira grandeza; porque levaria os humores para as veas dos rins, que saõ mais
-          apertadas, &amp; pequenas.</p>
+          sitio da dor pela acçaõ <pb n="4"/>lesa, nem pela retençaõ das fezes; porque tinha este
+          senhor continuos desejos de vomitar, grandes dores no ventre, excessiva adstriçaõ das
+          fezes, repetidas vontades de ourinar, o que fazia gotta a gotta, &amp; com grandissimos
+          ardores. Porèm como estes symptomas sejaõ quasi identicos na dor de colica, &amp; na
+          nephritica, &amp; se equivoquem entre si de maneira, que a dor que começou colica, acaba
+          muitas vezes nephritica, (1.) me vi muito embaraçado para distinguir huma dor da outra;
+          porque sem ter perfeito conhecimento da doença, me exporia a algum sinistro acontecimento:
+          porque se a dor fosse verdadeiramente colica, &amp; eu lhe applicasse remedios diureticos,
+          faria hum erro da primeira grandeza; porque levaria os humores para as veas dos rins, que
+          saõ mais apertadas, &amp; pequenas.</p>
         <p>Conheci pois que a dor era verdadeiramente nephritica, assim porque permanecia fixa na
           mesma parte; como porque sentia estupor na perna da mesma ilharga; como porque as ourinas
           eraõ delgadas, &amp; poucas; (2.) como porque naõ podia estar deitado sobre a parte
@@ -1018,18 +1075,18 @@
           lympha, &amp; abertas as vias, pudesse a natureza deitar fóra de si a causa de tanto mal;
           &amp; para conseguir estas intenções, lhe fiz lançar huma ajuda emolliente preparada pelo
           modo seguinte. Tomem de raizes de malvaisco machucadas huma onça; de folhas de malvas,
-          violas, alfavaca de cobra, &amp; de ortigas mortas, de cada cousa destas huma maõ <pb n="5"/>chea; de
-          semente de linho, &amp; de alforvas, de cada cousa destas meya onça; de raiz de
-          aristoloquia duas oitavas; tudo se coza com hum frangaõ em huma canada de agua, atè ficar
-          hum só quartilho; &amp; coandose este cozimento, mandei ajuntar a quatro onças delle huma
-          onça de diaprunis com tres onças de lambedor violado; ordenando que esta ajuda se
-          applicasse morna, para se sustentar mais tempo dentro no corpo, &amp; fazer melhor obra.
-          Porèm como a natureza pela vehemencia da dor estivesse atormentadissima, &amp; mui alhea
-          de si, aproveitou pouco a dita ajuda, porque a naõ reteve, &amp; por isso lhe fiz deitar
-          outra muito especifica na fórma seguinte. Em quatro onças do sobredito cozimento mandei
-          ajuntar huma onça de terebinthina de beta, lavada tantas vezes em agua de malvas, atè se
-          fazer branca, duas gemas de ovos cruas, &amp; dez oitavas de diaprunis, &amp; que se
-          applicasse morna. Mas como as dores se exasperassem mais, &amp; o ventre se endurecesse
+          violas, alfavaca de cobra, &amp; de ortigas mortas, de cada cousa destas huma maõ <pb
+            n="5"/>chea; de semente de linho, &amp; de alforvas, de cada cousa destas meya onça; de
+          raiz de aristoloquia duas oitavas; tudo se coza com hum frangaõ em huma canada de agua,
+          atè ficar hum só quartilho; &amp; coandose este cozimento, mandei ajuntar a quatro onças
+          delle huma onça de diaprunis com tres onças de lambedor violado; ordenando que esta ajuda
+          se applicasse morna, para se sustentar mais tempo dentro no corpo, &amp; fazer melhor
+          obra. Porèm como a natureza pela vehemencia da dor estivesse atormentadissima, &amp; mui
+          alhea de si, aproveitou pouco a dita ajuda, porque a naõ reteve, &amp; por isso lhe fiz
+          deitar outra muito especifica na fórma seguinte. Em quatro onças do sobredito cozimento
+          mandei ajuntar huma onça de terebinthina de beta, lavada tantas vezes em agua de malvas,
+          atè se fazer branca, duas gemas de ovos cruas, &amp; dez oitavas de diaprunis, &amp; que
+          se applicasse morna. Mas como as dores se exasperassem mais, &amp; o ventre se endurecesse
           muito, lhe fiz beber tres onças de agua benedicta vigorada, obrigado de tres motivos. O
           primeiro, porque a natureza desde a primeira hora da dor tinha muitas vezes vomitado
           alguma colera, com o que sentia alivio. (4.) O segundo, porque com a experiencia de muitos
@@ -1043,10 +1100,11 @@
           como dizem graves Authores, (7.) não venceo de todo as dores, nem as afflições; porque naõ
           tem a Medicina remedio algum tam magnifico, que aproveite igualmente a todos; &amp; por
           isso às pessoas, a quem o vomitar he mui custoso, se naõ devem applicar vomitorios com
-          tanta confiança, como àquellas, a quem he facil.<pb n="6"/>Por esta causa appelei para tres onças de
-          mannà desatado em quatro de oleo de amendoas doces tirado sem fogo; porque deste remedio
-          tenho visto grandes maravilhas em casos semelhantes. Porèm como dores tivessem jà tomado
-          grande posse, desprezáraõ a efficacia de tam especifico medicamento.</p>
+          tanta confiança, como àquellas, a quem he facil.<pb n="6"/>Por esta causa appelei para
+          tres onças de mannà desatado em quatro de oleo de amendoas doces tirado sem fogo; porque
+          deste remedio tenho visto grandes maravilhas em casos semelhantes. Porèm como dores
+          tivessem jà tomado grande posse, desprezáraõ a efficacia de tam especifico
+          medicamento.</p>
         <p>Nesta obstinaçaõ do mal, como o corpo estivesse evacuado bastantemente, &amp; naõ ouvesse
           febre, &amp; fossem passadas seis horas depois de ter comido, mandei preparar o seguinte
           banho, de que tenho visto effeitos maravilhosos. (8.) Tomem hum arratel de amendoas doces
