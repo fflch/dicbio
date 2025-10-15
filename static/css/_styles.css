@@ -35,7 +35,7 @@ footer .bi { /* Supondo que você use Bootstrap Icons */
 .header-logo {
     max-height: 50px; /* Altura do logo no cabeçalho */
     width: auto;
-    margin-right: 15px; /* Espaçamento à direita do logo */
+   
 }
 
 /* Estilos para o texto markdown renderizado */
@@ -123,7 +123,7 @@ main {
     display: flex;
     align-items: center;
     position: relative;
-     border-radius: 5px;-radius: 5px;
+    border-radius: 5px;-radius: 5px;
     overflow: hidden;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     transition: box-shadow 0.3s ease;

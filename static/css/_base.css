@@ -1,0 +1,27 @@
+nav.navbar {
+    background-color: #15511d !important;
+    /* tom escuro */
+}
+
+.nav-link:hover {
+    color: #256d20 !important;
+    background-color: #15511d;
+}
+
+.search-box {
+    margin-left: 200px;
+    border-radius: 15px !important;
+}
+
+.search-input {
+    border: none;
+    padding: 10px 60px 10px 45px !important;
+    font-size: 1rem !important;
+    border-radius: 5px 0 0 5px !important;
+}
+
+.search-btn {
+    padding: 10px 25px !important;
+    border-radius: 0 5px 5px 0 !important;
+    font-weight: 500 !important;
+}

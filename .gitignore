@@ -27,4 +27,3 @@ data/temporalidade_palavras_pt_apenas.csv
 nltk_data_storage/
 ngrams_original_text.csv
 ngrams_stopwords_removed.csv
-.idea/
