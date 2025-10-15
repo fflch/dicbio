@@ -6,9 +6,7 @@
 {% if info_do_arquivo_ativo %}{{ info_do_arquivo_ativo.titulo }} - {% endif %}Documentação - {{ block.super }}
 {% endblock %}
 
-{% block extra_head_css %}
-<link rel="stylesheet" href="{% static 'documentacao/css/documentacao.css' %}">
-{% endblock %}
+
 
 {% block content %}
 <div class="container-fluid mt-4">
