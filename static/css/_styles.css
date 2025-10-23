@@ -1,10 +1,8 @@
 /* Estilos do Cabeçalho e Rodapé */
-header {
-    background-color: #12751f;
-}
+
 
 footer {
-    background-color: #12751f;
+    background-color: #15511d;
     font-size: 0.9rem;
     color: white; /* Define a cor padrão do texto para branco para o footer e seus filhos (como <strong>) */
 }
@@ -37,7 +35,7 @@ footer .bi { /* Supondo que você use Bootstrap Icons */
 .header-logo {
     max-height: 50px; /* Altura do logo no cabeçalho */
     width: auto;
-    margin-right: 15px; /* Espaçamento à direita do logo */
+   
 }
 
 /* Estilos para o texto markdown renderizado */
@@ -87,11 +85,12 @@ footer .bi { /* Supondo que você use Bootstrap Icons */
 
 /* Estilo para o corpo da página */
 body {
-    background-color:#dbe9ee;
+    background-color: #fffcf2;
     /* --- NOVAS REGRAS PARA O STICKY FOOTER --- */
     min-height: 100vh; /* Garante que o corpo tenha no mínimo a altura da viewport */
     display: flex;
     flex-direction: column; /* Coloca os filhos (header, main, footer) em uma coluna */
+    
 }
 
 /* Estilos para as imagens de apoio no rodapé */
@@ -118,6 +117,61 @@ body {
 /* Estilo para o conteúdo principal */
 main {
     flex-grow: 1; /* Faz com que o elemento <main> se expanda para preencher o espaço disponível */
+    /* font-family: 'Cormorant Garamond', serif; */
+}
+.search-box {
+    display: flex;
+    align-items: center;
+    position: relative;
+    border-radius: 5px;-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+}
+
+.search-box:hover {
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.15);
+}
+
+.search-icon {
+    position: absolute;
+    left: 18px;
+    font-size: 1.3rem;
+    color: #6c757d;
+}
+
+.search-input {
+    border: none;
+    padding: 14px 60px 14px 45px;
+    font-size: 1rem;
+    border-radius: 5px 0 0 5px;
+    flex: 1;
+    background-color: #f9f9f9;
+    transition: background-color 0.3s ease;
+}
+
+.search-input:focus {
+    outline: none;
+    background-color: #ffffff;
+}
+
+.search-btn {
+    background-color: #3c6e47;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 0 5px 5px 0;
+    font-weight: 600;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+.nav-link:hover{
+    color:#256d20 !important;
+    
+}
+
+.search-btn:hover {
+    background-color: #2d5635;
+    transform: translateY(-1px);
 }
 
 .card-img-teaser {
