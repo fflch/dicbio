@@ -64,6 +64,7 @@ footer .bi { /* Supondo que você use Bootstrap Icons */
 #texto-obra-container {
     font-size: 1.1em;
     line-height: 1.7;
+    overflow-y: auto;
 }
 
 /* Estilo para a imagem da página do corpus digital */

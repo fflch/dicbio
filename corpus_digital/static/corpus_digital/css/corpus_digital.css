@@ -11,11 +11,6 @@
     margin-bottom: 1.5rem; /* Adiciona um espaço abaixo da lista no mobile */
 }
 
-#texto-obra-container {
-    overflow-y: auto; /* 'auto' está ok, mas pode não ser necessário no mobile */
-    font-size: 1.1em;
-    line-height: 1.7;
-}
 
 #imagem-pagina-container {
     /* Não defina 'position: sticky' aqui. */
