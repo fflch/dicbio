@@ -59,8 +59,10 @@ carotidas,carótida,carótidas,adjetivo plural,1,Ramos das arterias [[b]]carotid
 carotidas,carótida,carótidas,substantivo plural,1,Onde se unem as [[b]]carotidas[[/b]] internas entre si.,SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
 Carotidas,carótida,Carótidas,substantivo plural,1,"[[b]]Carotidas[[/b]]
           internas.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
+mamarias,mamário,mamárias,feminino plural,1,Arterias [[b]]mamarias[[/b]],SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
 Deltoides,deltoide,deltoide,plural,1,"Duas arterias, que vaõ aos musculos [[b]]Deltoides[[/b]].",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
 coronarias,coronário,coronárias,feminino plural,1,Arterias [[b]]coronarias[[/b]] do coraçaõ.,SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 65
+mamarias,mamário,mamárias,feminino plural,1,Veas [[b]]mamarias[[/b]].,SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,não numerada 69
 musculos,músculo,músculos,plural,1,"Tambem os [[b]]musculos[[/b]], e as carnes se compoem das mesmas fibras nervosas, as quaes mais
               unidas entre si, e constipadas, constituem os tendoens dos musculos.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,3
 glandulas,glândula,glândulas,plural,1,"Segundo a diversa tecedura, e entresamento das fibras, e a diversa natureza dos
@@ -102,6 +104,9 @@ carpo,carpo,carpo,,1,"Entre este, e a maõ està o collo da mão, ou munheca, a 
 metacarpo,metacarpo,metacarpo,,1,"Entre este, e a maõ està o collo da mão, ou munheca, a que tambem chamaõ
                 carpo, a que se segue a parte da mão atè os dedos, que os Gregos chamaõ [[b]]metacarpo[[/b]], a sua parte interior se chama
               palma da maõ, a exterior, costa da maõ.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,10
+malleolos,maléolo,maléolos,plural,1,"18 A parte superior da perna, e anterior, se chama joelho, a posterior poplite, ou
+            curva da perna; a perna pela parte inferior, junto ao peito do pè tem dous ossos, que se
+            chamaõ Tornozellos, ou [[b]]malleolos[[/b]], hum interior, outro exterior.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,10
 Adiposa,adiposo,adiposo,feminino singular,1,"Tres saõ as partes, que servem de cubrir todo o corpo, a cuticula, a , ou pelle, e a membrana, que chamaõ [[b]]Adiposa[[/b]] .",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,12
 musculos,músculo,músculos,plural,1,"A cute, ou pelle, naõ he outra cousa, senaõ huma membrana muy forte, feita, e come
               tecida de fibras brancas, as quaes (conforme o que diz Stenon) procedem dos tendoens
@@ -169,10 +174,15 @@ escroto,escroto,escroto,,1,"O Peritôneo tem dous processos, que vaõ atè às v
 isophago,esôfago,esôfago,,1,"O Peritôneo na parte superior tem tres buracos, pelos quaes passaõ o [[b]]isophago[[/b]], a arteria magna, e a vea cava.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,21
 musculos,músculo,músculos,plural,1,"He tambem furado o Peritôneo na parte anterior, para dar
               passagem aos vasos umbilicaes, e tem huns nervosinhos derivados daquelles dos  [[b]]musculos[[/b]] do abdomen.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,21
-phrenicas,frênico,frênicas,feminino plural,1,"Tambem tem arterias derivadas das [[b]]phrenicas[[/b]], e das mammarias, e das epigastricas, as suas
-              veas tornaõ as phrenicas, e epigastricas.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,21
-phrenicas,frênico,frênicas,feminino plural,1,"Tambem tem arterias derivadas das [[b]]phrenicas[[/b]], e das mammarias, e das epigastricas, as suas
-              veas tornaõ as phrenicas, e epigastricas.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,21
+phrenicas,frênico,frênicas,feminino plural,1,"Tambem tem arterias derivadas das [[b]]phrenicas[[/b]], e das mammarias, e das epigastricas, as suas veas tornaõ as
+                phrenicas, e
+              epigastricas.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,21
+mammarias,mamário,mamárias,feminino plural,1,"Tambem tem arterias derivadas das phrenicas, e das [[b]]mammarias[[/b]], e das epigastricas, as suas veas tornaõ as
+                phrenicas, e
+              epigastricas.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,21
+phrenicas,frênico,frênicas,feminino plural,1,"Tambem tem arterias derivadas das [[b]]phrenicas[[/b]], e das mammarias, e das epigastricas, as suas veas tornaõ as
+                phrenicas, e
+              epigastricas.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,21
 glandulas,glândula,glândulas,plural,1,"Tambem se achaõ no redenho vasos lymphaticos, os quaes pòde ser que tenhaō
               communicação com as [[b]]glandulas[[/b]] pequenas, que estao em varias partes do mesmo redenho, e cubertas
               de gordura.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,22
@@ -1061,6 +1071,9 @@ glandulas,glândula,glândulas,plural,1,"Servem os musculos do Abdomen de fortif
               (apertando a cavidade do Abdomen) de comprimir as suas entranhas, e assim promover, e
               a sua separaçaõ pelas 
                 [[b]]glandulas[[/b]]; e finalmente serve para lançar, e expellir fora as fezes, e nas mulheres o feto.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,384
+malleolo,maléolo,maléolo,,1,"9 O quinto he o Tibial posterior; nasce da parte posterior do osso da Tibia, passa pela
+            fixura, que esta no lado [[b]]malleolo[[/b]] interno, e acaba na parte
+            interna do osso navicular.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,400
 clytoris,clitóris,clitóris,,1,"Da [[b]]clytoris[[/b]], e dos corpos ditos pernas, da glande da clytoris, das nymphas, e glandulas sebaceas, 4. 5.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,420
 clytoris,clitóris,clitóris,,1,"Da [[b]]clytoris[[/b]], e dos corpos ditos pernas, da glande da clytoris, das nymphas, e glandulas sebaceas, 4. 5.",SANTUCCI,1739,Anatomia do Corpo Humano,anatomiasantucci,420
 Botanica,Botânica,Botânica,,1,"A [[b]]Botanica[[/b]] como todas as mais partes de
@@ -6166,6 +6179,73 @@ cotylédone,cotilédone,cotilédone,,1,"A
 									Botanicos chamaõ-lhe taõbem embryaõ, ponto vegetativo, e gomo da
 									semente (embryo, punctum vegetans, gemma seminis); o de plantula
 									seminal no meu parecer he de todos o melhor..",BROTERO,1788,Compendio de Botanica. Tomo primeiro,compendio1brotero,191
+mammarios,mamário,mamários,masculino plural,1,"As cotyledones, em quanto naõ começa a germinaçaõ, servem juntamente com
+							os tegumentos de fomentar a plantula seminal contra os frios, e de
+							preservala de outras injurias externas; saõ de natureza mais ou menos
+							oleosa, e contem em si huma subtancia mucilaginosa propria para nutrir a
+							plantula no estado de germinaçaõ, em quanto ella naõ põde tirar da terra
+							os succos sufficientes para á sua firme subsistencia; esta substancia he
+							assaz analoga ao leite com que os animaes viviparos nutrem seus tenros
+							filhos, e porisso alguns physiologistas compararaõ as cotylédones com as
+							tetas dos dictos animaes, e lhes chamaraõ corpos [[b]]mammarios[[/b]]. Grew,
+							Malpighi, Bonet, e outros physiologistas convem unanimemente que ha nas
+							cotylédones hum grande tecido vasculoso, cujos vasos huns saõ destinados
+							à preparaçaõ dos dictos succos lacteos, outros a transmittilos à nova
+							plantula, a que estaõ apegadas. No tempo da madureza das sementes,
+								observa-se em cada huma dellas ou  huma so cotylédone inteiriça Linneo seguindo o parecer dos
+									antingos, diz que ha sementes que tem mais de duas cotyledones;
+									Royer, Meese, e Ludwig reduzem todas as sementes a
+									monocotyledones, e dicotyledones; o Dr. Murray he do mesmo
+									sentimento, e ainda que usou do nome de polycotyledones, diz
+									contudo que presume que estas saõ todas dicotyledones. Esta
+									materia merece de ser fundada em novas observaçoẽs, que devem
+									ser feitas principalmente no estado da germinaçaõ combinado com
+									o da madureza das sementes., como nas palmeiras, gramas,
+								e liliaceas, ou duas como v. g. nas leguminosas, e cruciferas; em
+								humas e outras a plantula seminal esta situada em huma das duas
+								extremidades A situaçaõ da plantula seminal na semente pode
+									servir de huma excellente nota caracteristica, pela razaõ de naõ
+									ser variavel; mas para isso, he precizo sempre suppor duas
+									partes oppostas na plantula seminal, a saber, germe e rostrilho;
+									a primeira he o ponto germinativo, a que alguns chamaõ gomo da
+									semente, e que passa a ser plumula; a segunda he a parte opposta
+									que passa a ser radicula; taõbem he precizo suppor base, topo, e
+									lados; a base he o lugar do hilo, o topo o lugar opposto ao
+									hilo, e os lados as partes ou faces que ficaõ entre a base e
+									topo da semente..
+							Quando a semente tem huma so cotyledone, esta costuma sempre
+								consomir-se debaxo da terra dentro dos tegumentos Este foy o
+									motivo porque Meese dividio as cotylédones em visiveis e
+									invisiveis, sendo estas as que se corrompem debaxo da terra, e
+									aquellas as que sahem fora della. no tempo da germinaçaõ;
+								pelo contrario quando ha duas Ainda que nas avellaans a nova
+									planta tem ás vezes hum pé de alto, e as cotylédones estaõ ainda
+									inteiras dentro da noz, naõ so consomem contudo dentro
+									della., sahem sempre com a plumula fora dos tegumentos e
+								sobre a superficie da terra, persistem apegadas à base do novo
+								tronco mais ou menos tempo, e muitas vezes tomaõ a apparencia de
+									folhas, como se vẽ nos
+									 meloẽs, abobaras, &c.
+							Daqui procedeo darem-lhes os botanicos o nome de folhas seminaes; màs este nome so se lhes
+								pode conservar, ajuntando-lhes o epitheto de bastardas.
+							As  folhas seminaes
+								rigorosamente saõ aquellas que rebentaõ primeiro na germinaçaõ, e
+								constituem a plumula; ora tanto nas sementes monocotylédones, como
+								dicotylédones a plumula naõ foy jamais constituida pela substancia
+								da cotylédone, mas sim pelo ponto germinativo, a que alguns chamaõ
+								gomo da semente; demais disso, quando as cotylédones chegaõ a ser
+									folhas, ja haviaõ outras
+								primeiro na plumula mais ou menos apparentes: donde resulta que
+								todas as cotylédones, que tomaõ a apparencia de folhas, so merecem ser chamadas folhas seminaes bastardas
+								(pseudophylla seminalia, s. folia seminalia spuria), pela razaõ de
+								serem posteriores às seminaes, e por terem como cotylédones
+								subministrado succos lacteos à plantula seminal 
+									Penso que foy pela razaõ destes dois uzos que Meese lhes
+										chamou cotylédones bastardas ou folhiformes
+										(pseudo-cotyledones), o que vale mais do que dizer com
+										Linneo ""que cotylédones e folhas seminaes saõ synonymos."" Vej. Phil.
+									Botan. pag. 89. , ficando algum tempo depois gozando de
+								funçoẽs analogas ás das verdadeiras folhas seminaes.",BROTERO,1788,Compendio de Botanica. Tomo primeiro,compendio1brotero,192
 folhas,folha,folha,plural,1,"Quando a semente tem huma so cotyledone, esta costuma sempre
 								consomir-se debaxo da terra dentro dos tegumentos Este foy o
 									motivo porque Meese dividio as cotylédones em visiveis e
