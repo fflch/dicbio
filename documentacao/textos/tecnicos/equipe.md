@@ -7,9 +7,10 @@ autores: Bruno Maroneze
 
 ## Atual
 - **Bruno Oliveira Maroneze** (Professor Associado, Universidade Federal da Grande Dourados) - coordenação do projeto - desde 2017
+- **Ernany de Almeida Neto** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2025
 - **Vitória Fernandes Pereira** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
 - **Sammara Valim Luz dos Santos** (estudante de graduação, Universidade Federal da Grande Dourados) - preparação do córpus, pesquisa etimológica - desde 2024
-- **Vinícius Matheus Nunes** (bolsista do PIBIC-Ensino Médio) - transcrição e preparação do córpus - desde 2025
+- **Vinícius Matheus Nunes** (bolsista do PIBIC-Ensino Médio) - transcrição e preparação do córpus, desenho do *website* - desde 2025
 
 ## Colaboradores eventuais
 - **Geovanna Salvino de Lima** (estudante de pós-graduação, Universidade Federal da Grande Dourados) - elaboração de verbetes
