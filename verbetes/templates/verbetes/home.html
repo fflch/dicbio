@@ -19,24 +19,12 @@
 {% endblock %}
 
 {% block extra_head_css %}
-<link rel="stylesheet" href="{% static 'verbetes/css/verbetes.css' %}">
+<link rel="stylesheet" href="{% static 'css/_base.css' %}">
+<link rel="stylesheet" href="{% static 'css/_styles.css' %}">
 {% endblock %}
 
 {% block content %}
 <div class="container mt-4">
-
-    <!-- Caixa de busca (sem alterações) -->
-    <form method="get" action="{% url 'verbetes:consulta' %}" class="mb-4">
-        <div class="col-md-6 mx-auto">
-            <div class="input-group input-group-sm">
-                <input type="text" name="q" placeholder="Buscar verbete..." class="form-control"
-                    value="{{ request.GET.q }}" aria-label="Campo de busca de verbetes">
-                <button class="btn btn-primary" type="submit" id="button-addon2">
-                    <i class="bi bi-search"></i>
-                </button>
-            </div>
-        </div>
-    </form>
 
     <div class="row">
         <!-- Coluna lateral com lista de verbetes -->

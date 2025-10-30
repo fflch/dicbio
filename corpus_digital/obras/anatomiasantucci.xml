@@ -1048,7 +1048,7 @@
         <p>Arterias Celiacas.</p>
         <p>Arterias splenicas, e epaticas.</p>
         <p>Arterias diaphragmaticas.</p>
-        <p>Arterias mamarias</p>
+        <p>Arterias <term lemma="mamário" norm="mamárias" msd="feminino plural">mamarias</term></p>
         <p>Arterias intercostaes superiores.</p>
         <p>Arterias intercostaes inferìores.</p>
         <p>Duas arterias, que vaõ aos musculos <term lemma="deltoide" msd="plural"
@@ -1099,10 +1099,44 @@
         facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0079.jp2&amp;id=anatomiadocorpoh01sant"/>
       <pb n="não numerada 68" type="apenas_imagem"
         facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0080.jp2&amp;id=anatomiadocorpoh01sant"/>
-      <pb n="não numerada 69 - Estampa X"
+      <pb n="não numerada 69"
         facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0081.jp2&amp;id=anatomiadocorpoh01sant"/>
-      <pb n="não numerada 70 - Veas jugulares"
-        facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0082.jp2&amp;id=anatomiadocorpoh01sant"/>
+      <div type="legenda" n="10">
+        <head>ESTAMPA X.</head>
+        <p>Figura primeira he da distribuiçaõ dos ramos da vea Cava.</p>
+        <p>Orelha direita do coraçaõ.</p>
+        <p>Vea Cava descendente.</p>
+        <p>Vea Cava ascendente.</p>
+        <p>Veas subclavias.</p>
+        <p>Veas intercostaes superiores.</p>
+        <p>Vea Azigos.</p>
+        <p>Ramos das Jugulares externas, que tornaõ das partes posteriores da cabeça.</p>
+        <p>Vea Coronaria.</p>
+        <p>Veas musculas scapulares.</p>
+        <p>Veas intercostaes inferiores perto as Coronarias.</p>
+        <p>Veas Thoracicas superiores, e inferiores.</p>
+        <p>Vea Mediastina, ou Diaphragmatica.</p>
+        <p>Vea Basilica de ambos os braços.</p>
+        <p>As tres veas, que tornaõ do figado.</p>
+        <p>Vea Cefalica dos braços.</p>
+        <p>Vea subcutanea dos braços.</p>
+        <p>Veas lombares superiores.</p>
+        <p>Veas emulgentes.</p>
+        <p>Veas Espermaticas.</p>
+        <p>Veas Cruraes.</p>
+        <p>Veas <term lemma="mamário" norm="mamárias" msd="feminino plural">mamarias</term>.</p>
+        <p>Veas saphenas.</p>
+        <p>Veas musculas inferiores.</p>
+        <p>Veas musculas internas da coxa.</p>
+        <p>Veas lombares inferiores.</p>
+        <p>Vea mediana dos braços.</p>
+        <p>Veas Jugulares externas.</p>
+        <p>Veas Epigastricas.</p>
+
+        <pb n="não numerada 70 - Veas jugulares"
+          facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0082.jp2&amp;id=anatomiadocorpoh01sant"
+        />
+      </div>
       <pb n="não numerada 71" type="em_branco"
         facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0083.jp2&amp;id=anatomiadocorpoh01sant"/>
       <pb n="não numerada 72" type="apenas_imagem"
@@ -1336,7 +1370,8 @@
             perna, que se chama em Latim Sura.</p>
           <p>18 A parte superior da perna, e anterior, se chama joelho, a posterior poplite, ou
             curva da perna; a perna pela parte inferior, junto ao peito do pè tem dous ossos, que se
-            chamaõ Tornozellos, ou malleolos, hum interior, outro exterior.</p>
+            chamaõ Tornozellos, ou <term lemma="maléolo" norm="maléolos" msd="plural"
+              >malleolos</term>, hum interior, outro exterior.</p>
           <p>19 A terceira parte do membro inferior que he o pè, se divide em tarso, metatarso, e
             dedos.</p>
           <p>20 O tarso he a primeira parte, que està unida às canellas, a sua parte superior
@@ -1508,9 +1543,10 @@
               passagem aos vasos umbilicaes, e tem huns nervosinhos derivados daquelles dos <term
                 lemma="músculo" norm="músculos" msd="plural"> musculos</term> do abdomen.</s>
             <s>Tambem tem arterias derivadas das <term lemma="frênico" norm="frênicas"
-                msd="feminino plural">phrenicas</term>, e das mammarias, e das epigastricas, as suas
-              veas tornaõ as <term lemma="frênico" norm="frênicas" msd="feminino plural"
-                >phrenicas</term>, e epigastricas.</s></p>
+                msd="feminino plural">phrenicas</term>, e das <term lemma="mamário" norm="mamárias"
+                msd="feminino plural">mammarias</term>, e das epigastricas, as suas veas tornaõ as
+                <term lemma="frênico" norm="frênicas" msd="feminino plural">phrenicas</term>, e
+              epigastricas.</s></p>
           <note>Uso do Perytôneo.</note>
           <p>7 Serve o Peritôneo para conter as entranhas do abdomen, como se vê na figura primeira
             da estampa 2. e daqui nasce, que rompendo-se, cahem as mesmas entranhas. Serve tambem
@@ -3486,16 +3522,16 @@
               inferiores do pescoço; sobem algum tanto obliquamente, e terminaõ na parte posterior,
               e lateral do osso do <term lemma="ócciput" norm="Ócciput">Occiput</term>, ou
               toutiço.</s></p>
-          <note> Splenios. Est:I7. fig.3.</note>
+          <note>Splenios. Est:I7. fig.3.</note>
           <p>5 Nascem os Complexos dos processos transversas das cinco vertebras do pescoço, e de
             algumas superiores das costas: estaõ debaixo dos Splenios, cobrem os Obliquos, e acaabaõ
             na parte posterior, e intermedia do toutiço. Estes dous musculos entre si se decussaõ,
             ou atravessaõ em fórma de Cruz, e por isso os Francezes lhe chamaõ a Cruz de Santo
             André.</p>
-          <note> Complexos.</note>
+          <note>Complexos.</note>
           <p>6 Os rectos mayores nascem da Apophili Espinhosa da segunda vertebra do pescoço, e
             acabaõ na parte inferior do toutiço.</p>
-          <note> Rectos mayores. Rectos menores.</note>
+          <note>Rectos mayores. Rectos menores.</note>
           <p>7 <s>Os rectos menores principiaõ do <term lemma="tubérculo" norm="Tubérculo"
                 >Tuberculo</term> da primeira vertebra, no mesmo lugar onde as outras tem o processo
               Espinhoso, e acabaõ no meyo do toutiço juntamente <pb n="348"
@@ -4384,8 +4420,8 @@
           <pb n="400"
             facs="https://ia601409.us.archive.org/BookReader/BookReaderImages.php?zip=/17/items/anatomiadocorpoh01sant/anatomiadocorpoh01sant_jp2.zip&amp;file=anatomiadocorpoh01sant_jp2/anatomiadocorpoh01sant_0520.jp2&amp;id=anatomiadocorpoh01sant"/>
           <p>9 O quinto he o Tibial posterior; nasce da parte posterior do osso da Tibia, passa pela
-            fixura, que esta no lado malleolo interno, e acaba na parte interna do osso
-            navicular.</p>
+            fixura, que esta no lado <term lemma="maléolo">malleolo</term> interno, e acaba na parte
+            interna do osso navicular.</p>
           <note>O Tibial posterior.</note>
           <p>10 O sexto, e setimo saõ os dous peroneos posteriores, estes saõ tambem chamados hum
             Longo, e outro Breve. O primeiro nasce da parte superior, e posterior, e quasi anterior

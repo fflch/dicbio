@@ -3,7 +3,15 @@
 
 {% block title %}Página Inicial - Dicionário Histórico de Termos da Biologia{% endblock %}
 
-{% block header_logo %}{% endblock header_logo %} {# Esconde o logo do cabeçalho do base.html #}
+{% block header %}
+<style>
+    .nav-link:hover {
+        color: #cddccc !important;
+        background-color: #416437;
+    }
+</style>
+{% endblock header %}
+{# Esconde o logo do cabeçalho do base.html e coloca o menu de pesquisar logo acima#}
 
 {% block content %}
 <div class="container text-center my-4">
@@ -14,12 +22,13 @@
 
 <div class="container mb-5">
     <!-- Barra de Busca -->
-    <div class="row justify-content-center mb-4">
+    <div class="row justify-content-center mb-4c">
         <div class="col-md-8 col-lg-6">
-            <form method="get" action="{% url 'verbetes:consulta' %}" class="input-group input-group-lg">
-                <input type="text" name="q" placeholder="Buscar verbete..." class="form-control"
+            <form method="get" action="{% url 'verbetes:consulta' %}" class="search-box position-relative">
+                <i class="bi bi-search search-icon"></i>
+                <input type="text" name="q" placeholder="Buscar verbete..." class="form-control search-input"
                     aria-label="Buscar verbete">
-                <button class="btn btn-primary" type="submit">
+                <button class="btn search-btn" type="submit">
                     <i class="bi bi-search"></i> Buscar
                 </button>
             </form>
