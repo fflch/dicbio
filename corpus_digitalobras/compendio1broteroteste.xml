@@ -1,6 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="tei_dhtb.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="null" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="null"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -20,6 +21,100 @@
 				</bibl>
 			</sourceDesc>
 		</fileDesc>
+		<xenoData>
+			<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+				xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+				xmlns:as="http://www.w3.org/ns/activitystreams#"
+				xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+				xmlns:dc="http://purl.org/dc/elements/1.1/"
+				xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+				xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+				xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+				xmlns:fabio="https://purl.org/spar/fabio#"
+				xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+				xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+				xmlns:org="http://www.w3.org/ns/org#">
+				<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+					<![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/brunomaroneze/dicbio/main/corpus_digital/obras/compendio1brotero.xml?thing_annotation_20260226165548602",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-02-26T20:55:48.602Z",
+	"dcterms:modified": "2026-02-26T20:55:48.602Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/brunomaroneze",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Bruno Oliveira Maroneze"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/brunomaroneze/dicbio/main/corpus_digital/obras/compendio1brotero.xml?thing_annotation_20260226165548602#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/brunomaroneze/dicbio/main/corpus_digital/obras/compendio1brotero.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.0.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/brunomaroneze/dicbio/main/corpus_digital/obras/compendio1brotero.xml?thing_annotation_20260226165548602#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[5]/div[7]/p[11]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q21872325",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.0.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+				</rdf:Description>
+			</rdf:RDF>
+		</xenoData>
 		<encodingDesc>
 			<editorialDecl>
 				<p>A ortografia original da obra foi mantida sempre que possível. Procurou-se manter
@@ -6866,9 +6961,11 @@
 						corymbo. O corymbo (corymbus), he huma disposiçaõ de flores aniveladas, os
 						seus pedunculos tem differentes pontos de apego, elevaõ-se gradualmente
 						quasi todos a mesma altura, formando angulos agudos entre si (a milfolha,
-						achillea aggeratum, e chrysanthemum corymbosum). O corymbo he simplez
-						(simplex), se os pedunculos naõ se dividem; composto (compositus), se elles
-						se dividem em muitos outros menores.</p>
+						achillea aggeratum, e <rs key="Chrysanthemum corymbosum"
+							ref="http://www.wikidata.org/entity/Q21872325" cert="high">chrysanthemum
+							corymbosum</rs>). O corymbo he simplez (simplex), se os pedunculos naõ
+						se dividem; composto (compositus), se elles se dividem em muitos outros
+						menores.</p>
 					<p xml:id="p_brotero1_0601">Flores paniculadas (flores paniculati), saõ
 						dispostas em panicula. A panicula (panicula), he huma ramificaçaõ vaga e
 						dispersa, na qual os pedunculos <pb n="108"
@@ -12626,7 +12723,7 @@
 								chamado natural por conservar as affinidades das plantas do modo que
 								a natureza nolas prezenta aos olhos; mas nenhum dos que athe agora
 								se tem publicado he livre de defeitos, nem merece no rigor do termo
-								o home de methodo da natureza. Os methodos e systemas, diz
+								o home de methodo da natureza. Os me thodos e systemas, diz
 								acertadamente M. de la Mark, saõ como os nomes, nem huns nem outros
 								se achaõ naturalmente nas plantas.</note> chamado taõbem methodo
 							synthetico ou de composiçaõ, o Botanico principia a examinar
@@ -12764,8 +12861,8 @@
 						que os entes vegetaes saõ viculados, naõ saõ outra coiza mais do que as suas
 						affinidades; ora estas affinidades, seraõ sempre irremediaveis obstaculos á
 						perfeiçaõ de qualquer methodo ou systema.</p>
-					<p xml:id="p_brotero1_1127">A progressaõ das affinidades, em qualquer methodo
-						que se pode idear, ou he synthetica ou analytica, em linha de ascenso ou de
+					<p xml:id="p_brotero1_1127">A progressaõ das affinidades, em qualquer me thodo
+						que se pode idear, ou he synthetica ou anaIytica, em linha de ascenso ou de
 						descenso: a progressaõ analytica naõ pode ter lugar em hum methodo natural,
 						e a synthetica sera sempre insufficiente á sua perfeiçaõ. Na supposiçaõ
 						dada, a natureza poz laços naõ equivocos entre todos os entes vegetaes: por
